@@ -126,7 +126,7 @@ function generateHeader(locale: string): string {
   const galleryUrl = buildPromptsUrl(locale);
   return `
 <a href="${galleryUrl}">
-  <img src="https://marketing-assets.youmind.com/campaigns/gpt-image-2/og.png" alt="GPT Image 2 Prompts" width="100%" />
+  <img src="https://marketing-assets.youmind.com/campaigns/gpt-image-2/og-hq.png" alt="GPT Image 2 Prompts" width="100%" />
 </a>
 
 > 💡 ${t('seedancePromo', locale)}
