@@ -139,9 +139,9 @@ by {argument name="author" default="Steve Jobs"}
 
 | เมตริก | จำนวน |
 |--------|-------|
-| 📝 คำสั่งทั้งหมด | **725** |
+| 📝 คำสั่งทั้งหมด | **1123** |
 | ⭐ แนะนำ | **6** |
-| 🔄 อัปเดตล่าสุด | **วันพุธที่ 22 เมษายน พ.ศ. 2569 เวลา 12 นาฬิกา 59 นาที 26 วินาที UTC** |
+| 🔄 อัปเดตล่าสุด | **วันพฤหัสบดีที่ 23 เมษายน พ.ศ. 2569 เวลา 1 นาฬิกา 28 นาที 48 วินาที UTC** |
 
 </div>
 
@@ -525,273 +525,19 @@ by {argument name="author" default="Steve Jobs"}
 
 > 📝 เรียงตามวันที่เผยแพร่ (ใหม่ล่าสุดก่อน)
 
-### No. 1: โปรไฟล์ / รูปประจำตัว - Cosplay Selfie Prompt
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 คำอธิบาย
-
-A prompt for generating realistic cosplay photography of a specific character at a convention setting.
-
-#### 📝 คำสั่ง
-
-```
-Genshin Impact {argument name="character" default="Raiden Shogun"} cosplay selfies at the {argument name="event" default="Shanghai Comic Con"}
-```
-
-#### 🖼️ รูปภาพที่สร้าง
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1776756762098_oz5z4c_HGXGwsMagAEYuqa.jpg" width="600" alt="โปรไฟล์ / รูปประจำตัว - Cosplay Selfie Prompt - Image 1">
-</div>
-
-#### 📌 รายละเอียด
-
-- **ผู้เขียน:** [we we](https://x.com/wewe50770964683)
-- **แหล่งที่มา:** [Twitter Post](https://x.com/wewe50770964683/status/2046260217952997619)
-- **เผยแพร่เมื่อ:** 20 เมษายน 2569
-- **ภาษา:** en
-
-**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-2-prompts?id=14119)**
-
----
-
-### No. 2: โปรไฟล์ / รูปประจำตัว - Personalized Minecraft Skin Prompt
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 คำอธิบาย
-
-A direct instruction for GPT Image 2 to create a custom character skin for Minecraft based on a reference look.
-
-#### 📝 คำสั่ง
-
-```
-create a minecraft skin inspired by {argument name="reference" default="my look"}
-```
-
-#### 🖼️ รูปภาพที่สร้าง
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1776756764381_wcv6hk_HGXCWRFXoAAoZzF.jpg" width="600" alt="โปรไฟล์ / รูปประจำตัว - Personalized Minecraft Skin Prompt - Image 1">
-</div>
-
-#### 📌 รายละเอียด
-
-- **ผู้เขียน:** [nic](https://x.com/nicdunz)
-- **แหล่งที่มา:** [Twitter Post](https://x.com/nicdunz/status/2046255350228058613)
-- **เผยแพร่เมื่อ:** 20 เมษายน 2569
-- **ภาษา:** en
-
-**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-2-prompts?id=14122)**
-
----
-
-### No. 3: โปรไฟล์ / รูปประจำตัว - Vintage 35mm Flash Portrait
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 คำอธิบาย
-
-Generates a highly realistic, candid portrait with a vintage film aesthetic and direct flash lighting.
-
-#### 📝 คำสั่ง
-
-```
-A vintage 35mm film photograph of a {argument name="subject description" default="young Asian woman"} with {argument name="hair style" default="long dark wavy hair and wispy bangs"}. She is wearing a {argument name="clothing" default="white ribbed tank top and a loose beige knit cardigan slipping off one shoulder"}, along with a delicate silver necklace. She has soft makeup with pink blush and glossy lips, looking directly at the camera with slightly parted lips. The lighting is harsh direct camera flash, creating a candid, amateur snapshot aesthetic. The background is a {argument name="setting" default="dimly lit, slightly messy room with clothes on a table and a wooden shelf"}. The image features heavy film grain, slightly muted colors, and a nostalgic, highly realistic photographic texture.
-```
-
-#### 🖼️ รูปภาพที่สร้าง
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1776756781085_e23ett_HGXBV05XwAA2yU4.jpg" width="600" alt="โปรไฟล์ / รูปประจำตัว - Vintage 35mm Flash Portrait - Image 1">
-</div>
-
-#### 📌 รายละเอียด
-
-- **ผู้เขียน:** [Ecoo](https://x.com/ecooai)
-- **แหล่งที่มา:** [Twitter Post](https://x.com/ecooai/status/2046254319163302131#reversed-0)
-- **เผยแพร่เมื่อ:** 20 เมษายน 2569
-- **ภาษา:** en
-
-**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-2-prompts?id=14145)**
-
----
-
-### No. 4: โปรไฟล์ / รูปประจำตัว - Idol Maid Polaroid Collection
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 คำอธิบาย
-
-Generates a set of 10 instant photos of an anime maid character in various poses, complete with handwritten signatures and messages.
-
-#### 📝 คำสั่ง
-
-```
-{
-  "type": "collection of instant photos",
-  "setting": "laid out flat on a white fabric surface",
-  "character": {
-    "hair": "{argument name=\"hair color\" default=\"long pink hair with blue inner color\"}",
-    "outfit": "{argument name=\"outfit\" default=\"black and white maid uniform with frilly headband and black ribbons\"}",
-    "eyes": "reddish-pink"
-  },
-  "layout": {
-    "arrangement": "two rows of five polaroid photos",
-    "count": 10,
-    "photos": [
-      { "position": "top row 1", "description": "holding a pink heart cushion" },
-      { "position": "top row 2", "description": "winking, making a peace sign" },
-      { "position": "top row 3", "description": "making a hand heart, pink heart doodle on the bottom border" },
-      { "position": "top row 4", "description": "resting chin on hands, gentle smile" },
-      { "position": "top row 5", "description": "holding a red rose, winking" },
-      { "position": "bottom row 1", "description": "finger to lips, shy expression" },
-      { "position": "bottom row 2", "description": "holding a small pink cake" },
-      { "position": "bottom row 3", "description": "winking, hand near face, signature '{argument name=\"signature text\" default=\"Hanashi\"}' and heart doodle on border" },
-      { "position": "bottom row 4", "description": "holding a pink bunny plushie, sparkle doodles, signature '{argument name=\"signature text\" default=\"Hanashi\"}' and bunny doodle on border" },
-      { "position": "bottom row 5", "description": "winking, sparkle doodles, message '{argument name=\"message text\" default=\"いつも応援ありがとう！これからもよろしくね♪\"}' and signature '{argument name=\"signature text\" default=\"Hanashi\"}' on border" }
-    ]
-  }
-}
-```
-
-#### 🖼️ รูปภาพที่สร้าง
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1776756821113_lkbayu_HGW9QupasAAz_4M.jpg" width="600" alt="โปรไฟล์ / รูปประจำตัว - Idol Maid Polaroid Collection - Image 1">
-</div>
-
-#### 📌 รายละเอียด
-
-- **ผู้เขียน:** [あねもん! (ex:anemone@AIArt)](https://x.com/anemone_sd)
-- **แหล่งที่มา:** [Twitter Post](https://x.com/anemone_sd/status/2046251166636622216#reversed-3)
-- **เผยแพร่เมื่อ:** 20 เมษายน 2569
-- **ภาษา:** en
-
-**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-2-prompts?id=14211)**
-
----
-
-### No. 5: โปรไฟล์ / รูปประจำตัว - 4-Panel Professional Avatar Grid
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 คำอธิบาย
-
-Generates a 2x2 grid of photorealistic portraits showing the same person in four different professional and casual outfits.
-
-#### 📝 คำสั่ง
-
-```
-{
-  "type": "2x2 portrait grid",
-  "subject": "{argument name=\"subject description\" default=\"young adult East Asian male with short black hair and a slight smile\"}",
-  "style": "photorealistic, high-resolution, professional lighting, consistent facial identity across all panels",
-  "layout": {
-    "format": "2x2 grid",
-    "panel_count": 4,
-    "panels": [
-      {
-        "position": "top-left",
-        "description": "{argument name=\"profession 1\" default=\"Corporate professional wearing a dark navy suit, white shirt, and blue tie against a gray textured background\"}"
-      },
-      {
-        "position": "top-right",
-        "description": "{argument name=\"profession 2\" default=\"Casual attire wearing a dark blue crew neck t-shirt against a blurred outdoor park background\"}"
-      },
-      {
-        "position": "bottom-left",
-        "description": "{argument name=\"profession 3\" default=\"Construction worker wearing a yellow hard hat, navy blue work shirt, and bright orange high-visibility vest against a blurred warehouse background\"}"
-      },
-      {
-        "position": "bottom-right",
-        "description": "{argument name=\"profession 4\" default=\"Medical professional wearing a white lab coat over a light blue collared shirt against a blurred laboratory background\"}"
-      }
-    ]
-  }
-}
-```
-
-#### 🖼️ รูปภาพที่สร้าง
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1776756792236_ydewt5_HGV16euawAApEf_.jpg" width="600" alt="โปรไฟล์ / รูปประจำตัว - 4-Panel Professional Avatar Grid - Image 1">
-</div>
-
-#### 📌 รายละเอียด
-
-- **ผู้เขียน:** [observer2026](https://x.com/frankfu1688)
-- **แหล่งที่มา:** [Twitter Post](https://x.com/frankfu1688/status/2046171263648080364#reversed-0)
-- **เผยแพร่เมื่อ:** 20 เมษายน 2569
-- **ภาษา:** en
-
-**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-2-prompts?id=14162)**
-
----
-
-### No. 6: โปรไฟล์ / รูปประจำตัว - Goth Style Transformation
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 คำอธิบาย
-
-Transforms a reference portrait into a heavy goth aesthetic by altering hair, makeup, and jewelry while preserving the original pose and outfit.
-
-#### 📝 คำสั่ง
-
-```
-Using REFERENCE_0, transform the subject's appearance to a {argument name="style" default="trad goth"} aesthetic while preserving the exact pose, clothing structure, and background. Change her hair to {argument name="hair color" default="black"} with {argument name="hair style" default="choppy bangs"}. Apply heavy dark makeup, specifically {argument name="lip color" default="black"} lipstick and intense dark eyeshadow, and make her skin tone slightly paler. Add 2 facial piercings: a septum ring and a nostril stud. Finally, modify her layered necklaces to feature {argument name="necklace pendants" default="an inverted cross and a pentagram"}.
-```
-
-#### 🖼️ รูปภาพที่สร้าง
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1776756787942_5sozw0_HGV1VlgWgAAdqCP.jpg" width="600" alt="โปรไฟล์ / รูปประจำตัว - Goth Style Transformation - Image 1">
-</div>
-
-#### 📌 รายละเอียด
-
-- **ผู้เขียน:** [daniel.dmai](https://x.com/danieldmai)
-- **แหล่งที่มา:** [Twitter Post](https://x.com/danieldmai/status/2046170898118435090#reversed-1)
-- **เผยแพร่เมื่อ:** 20 เมษายน 2569
-- **ภาษา:** en
-
-**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-2-prompts?id=14155)**
-
----
-
-### No. 7: โปรไฟล์ / รูปประจำตัว - Graffiti Sketch AI Builder Style
+### No. 1: โปรไฟล์ / รูปประจำตัว - เซลฟี่หน้ากระจกมุมสูงพร้อมท่าโพสสุดเหวี่ยง
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 คำอธิบาย
 
-A highly detailed prompt for generating expressive, graffiti-style sketches of AI builders with specific textures and signatures.
+พรอมต์สำหรับทดสอบความสม่ำเสมอของตัวละครและการแสดงออกทางสีหน้าที่ดูมีชีวิตชีวาในการเซลฟี่หน้ากระจกจากมุมมองด้านบน
 
 #### 📝 คำสั่ง
 
 ```
-Express [{argument name="subject" default="a powerful AI builder"}] in a graffiti sketch style, presenting an overall visual effect of rapid sketching, free transformation, improvised hand-drawing, and draft-like qualities. Lines are casual, exaggerated, varied in thickness, slightly messy but rhythmic and expressive, emphasizing generalization, exaggeration, fun, and spontaneity rather than rigorous realism or fine detail. Colors use rough, dry-brush block expressions, retaining uneven smears, brush marks, flying whites, and overlapping feelings. Colors automatically adapt to the [theme/subject], but the overall expression remains graffiti-like, sketch-like, and generalized. No transparent watercolor smudging, no delicate watercolor transitions, no paper textures, no soft atomization, and no dreamlike quality. The background is mainly white space, remaining simple, relaxed, unfinished, and design-oriented. A small amount of auxiliary symbols, arrows, marks, circles, repeated lines, handwritten text, or other graffiti elements can be added to enhance the sketchbook or essay-like visual language, but should not be too crowded or destroy the subject and atmosphere of the white space. The image content does not need to be written in advance; the [{argument name="subject" default="a powerful AI builder"}] will automatically deduce and generate the most suitable main image, actions, related elements, symbols, or simplified scenes. The whole maintains a unified graffiti sketch style and exaggerated generalized expression, avoiding complex realistic backgrounds and over-elaboration. Naturally add a unique signature "{argument name="signature" default="BlanPlan"}" as part of the image, placed discreetly but clearly in the lower-left, lower-right, or near the title. The style should be unified with the overall layout, like an artist's signature or design inscription; the signature font should be refined, restrained, and high-end, not too large, not destructive to the main composition, and not appearing abrupt or cheap.
+{argument name="number of people" default="คนสามคน"} อยู่หน้ากระจกจากมุมมองด้านบน กำลังถ่ายรูปกลุ่มใน {argument name="pose type" default="ท่าโพสสุดเหวี่ยง"}
 ```
 
 #### 🖼️ รูปภาพที่สร้าง
@@ -799,33 +545,33 @@ Express [{argument name="subject" default="a powerful AI builder"}] in a graffit
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1776756773798_xfwyt0_HGVtZCHaEAAGxYP.jpg" width="600" alt="โปรไฟล์ / รูปประจำตัว - Graffiti Sketch AI Builder Style - Image 1">
+<img src="https://cms-assets.youmind.com/media/1776883059359_gs8st0_HGggJqAakAACacS.jpg" width="600" alt="โปรไฟล์ / รูปประจำตัว - เซลฟี่หน้ากระจกมุมสูงพร้อมท่าโพสสุดเหวี่ยง - Image 1">
 </div>
 
 #### 📌 รายละเอียด
 
-- **ผู้เขียน:** [Mutedmen](https://x.com/opc_8838)
-- **แหล่งที่มา:** [Twitter Post](https://x.com/opc_8838/status/2046162334440448339)
-- **เผยแพร่เมื่อ:** 20 เมษายน 2569
+- **ผู้เขียน:** [-Zho-](https://x.com/ZHO_ZHO_ZHO)
+- **แหล่งที่มา:** [Twitter Post](https://x.com/ZHO_ZHO_ZHO/status/2046921531322974390)
+- **เผยแพร่เมื่อ:** 22 เมษายน 2569
 - **ภาษา:** zh
 
-**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-2-prompts?id=14135)**
+**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-2-prompts?id=14341)**
 
 ---
 
-### No. 8: โปรไฟล์ / รูปประจำตัว - Photorealistic Anime Schoolgirl Crouching Portrait
+### No. 2: โปรไฟล์ / รูปประจำตัว - ภาพถ่ายพอร์ตเทรตในสตูดิโอโทนสีน้ำตาลแบบนั่ง
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 คำอธิบาย
 
-Generates a highly detailed, 2.5D style portrait of a girl in a school uniform crouching outdoors against a sky background.
+พรอมต์นี้ใช้สำหรับสร้างภาพถ่ายพอร์ตเทรตแฟชั่นในร่มที่สมจริงของหญิงสาวในชุดสีน้ำตาลเข้าชุดกัน เหมาะสำหรับภาพประกอบไลฟ์สไตล์เชิงบรรณาธิการหรือภาพถ่ายสินค้าแฟชั่น
 
 #### 📝 คำสั่ง
 
 ```
-A highly detailed, photorealistic anime-style portrait of a young woman crouching down and looking slightly down at the camera from a low angle. She has long, flowing {argument name="hair color" default="ash-blonde"} hair blowing gently in the wind, pale skin, and large, expressive eyes. She is wearing a {argument name="outfit" default="Japanese school uniform with a light grey cardigan, white shirt, dark plaid bow tie, dark plaid pleated skirt, dark knee-high socks, and black leather loafers"}. Her arms are resting casually on her knees. The background is a bright {argument name="sky condition" default="clear blue sky with scattered white clouds"}, with a blurred {argument name="background setting" default="chain-link fence and green trees"} visible at the very bottom, suggesting a schoolyard. The lighting is bright, natural daylight with soft, cinematic shadows, emphasizing the realistic textures of her clothing and skin.
+ภาพถ่ายพอร์ตเทรตในสตูดิโอที่สมจริงของหญิงสาวชาวเอเชียตะวันออก นั่งอยู่บนเก้าอี้พับสีดำเรียบๆ จัดองค์ประกอบภาพแนวตั้งตั้งแต่ช่วงต้นขาถึงศีรษะ เธอมีผมสี {argument name="hair color" default="น้ำตาลเข้ม"} แสกข้างเล็กน้อยและรวบเป็นหางม้าต่ำ มีปอยผมอ่อนๆ บริเวณข้างหู สวมต่างหูขนาดเล็กที่ดูประณีต มีผิวพรรณที่เนียนละเอียด และมีท่าทางที่สงบนิ่งโดยวางมือประสานกันไว้ระหว่างหัวเข่า เธอสวมเสื้อครอปแขนสามส่วนแบบมีซิปหน้าทำจากผ้าถักร่องสี {argument name="top color" default="น้ำตาลช็อกโกแลตเข้ม"} มีปกแหลม และรูดซิปลงเล็กน้อยให้ดูเป็นคอวีลึก จับคู่กับกางเกงขายาวทรงตรงเอวสูงในโทนสี {argument name="pants color" default="น้ำตาลอบอุ่น"} ที่เข้าชุดกัน การแต่งกายเป็นแบบโมโนโครมสีน้ำตาลคุมโทน เน้นพื้นผิวของเนื้อผ้าและสัดส่วนร่างกายที่เป็นธรรมชาติ ฉากหลังเป็นผ้าสีขาวนวลที่ทิ้งตัวเป็นรอยพับเบาๆ ให้แสงสว่างแบบนุ่มนวลคล้ายแสงธรรมชาติจากหน้าต่าง เพื่อให้ได้ลุคในร่มที่ดูสะอาดตา นุ่มนวล และมีความเป็นแฟชั่นเชิงบรรณาธิการ ภาพถ่ายสมจริง ระยะชัดลึกตื้น เงาซอฟต์ พอร์ตเทรตแฟชั่นที่ดูเรียบหรู ฉากหลังมินิมอล ตัวแบบอยู่กึ่งกลาง ท่าทางการนั่งที่ผ่อนคลาย รายละเอียดผิวและพื้นผิวผ้าคมชัด
 ```
 
 #### 🖼️ รูปภาพที่สร้าง
@@ -833,54 +579,33 @@ A highly detailed, photorealistic anime-style portrait of a young woman crouchin
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1776756832773_wldssy_HGUMb73bQAAQnN3.jpg" width="600" alt="โปรไฟล์ / รูปประจำตัว - Photorealistic Anime Schoolgirl Crouching Portrait - Image 1">
+<img src="https://cms-assets.youmind.com/media/1776883175128_315f91_HGgQ_wVagAAlVCQ.jpg" width="600" alt="โปรไฟล์ / รูปประจำตัว - ภาพถ่ายพอร์ตเทรตในสตูดิโอโทนสีน้ำตาลแบบนั่ง - Image 1">
 </div>
 
 #### 📌 รายละเอียด
 
-- **ผู้เขียน:** [kongo jun / 混合 順](https://x.com/jun_kongo)
-- **แหล่งที่มา:** [Twitter Post](https://x.com/jun_kongo/status/2046055289074630941#reversed-0)
-- **เผยแพร่เมื่อ:** 20 เมษายน 2569
+- **ผู้เขียน:** [浅野 美咲（Asano Misaki）](https://x.com/Asan0_Misaki)
+- **แหล่งที่มา:** [Twitter Post](https://x.com/Asan0_Misaki/status/2046904727674462560#reversed-0)
+- **เผยแพร่เมื่อ:** 22 เมษายน 2569
 - **ภาษา:** en
 
-**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-2-prompts?id=14233)**
+**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-2-prompts?id=14628)**
 
 ---
 
-### No. 9: โปรไฟล์ / รูปประจำตัว - 3D Animated Character Expression Grid
+### No. 3: โปรไฟล์ / รูปประจำตัว - ภาพถ่ายพอร์ตเทรตสมจริงในชุดนักเรียนหน้าศาลเจ้า
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 คำอธิบาย
 
-Generates a 9-panel grid of a 3D animated character showing various expressions and outfits while peeking through torn paper.
+พรอมต์นี้จะช่วยสร้างภาพพอร์ตเทรตสมจริงระดับมืออาชีพของหญิงสาวในชุดนักเรียนท่ามกลางบรรยากาศกลางแจ้ง เหมาะสำหรับงานแฟชั่นเชิงบรรณาธิการ ภาพตัวละคร หรือภาพพอร์ตเทรต AI สไตล์ไลฟ์สไตล์
 
 #### 📝 คำสั่ง
 
 ```
-{
-  "type": "3x3 character expression grid",
-  "style": "{argument name=\"art style\" default=\"3D animation, Pixar style\"}",
-  "character_base": "{argument name=\"character description\" default=\"young woman with voluminous dark wavy hair and round wire-rimmed glasses\"}",
-  "common_theme": "{argument name=\"framing concept\" default=\"peeking through a torn hole in white paper\"}",
-  "layout": {
-    "rows": 3,
-    "columns": 3,
-    "total_panels": 9,
-    "panels": [
-      {"position": "top-left", "expression": "winking", "action": "adjusting glasses", "outfit": "green sweater"},
-      {"position": "top-center", "expression": "smirking", "action": "lowering dark sunglasses", "outfit": "red leather jacket"},
-      {"position": "top-right", "expression": "thinking", "action": "finger on chin", "outfit": "yellow hoodie"},
-      {"position": "middle-left", "expression": "big smile", "action": "arms resting on edge", "outfit": "black and white striped shirt"},
-      {"position": "middle-center", "expression": "smiling", "action": "thumbs up", "outfit": "orange button-up shirt"},
-      {"position": "middle-right", "expression": "neutral", "action": "drinking boba tea", "outfit": "blue sweater"},
-      {"position": "bottom-left", "expression": "happy", "action": "waving", "outfit": "purple sweater vest over white shirt"},
-      {"position": "bottom-center", "expression": "laughing with eyes closed", "action": "arms crossed", "outfit": "pink cardigan"},
-      {"position": "bottom-right", "expression": "silly", "action": "poking cheeks", "outfit": "teal sweater"}
-    ]
-  }
-}
+ภาพพอร์ตเทรตสมจริงระดับภาพถ่ายแบบครึ่งตัวของ {argument name="subject" default="หญิงสาว"} ยืนอยู่กลางแจ้งท่ามกลางแสงแดดธรรมชาติที่สดใส จัดองค์ประกอบภาพในแนวตั้ง เธอมีผมยาวตรงสี {argument name="hair color" default="น้ำตาลเข้ม"} ที่ดูเงางาม แสกข้างเล็กน้อยและทิ้งตัวลงบนไหล่ทั้งสองข้าง เธอสวมเสื้อนักเรียนแขนสั้นสีขาวสะอาดตาพร้อมปกเสื้อที่เป็นทรง เนกไทลายทางสีน้ำเงินเข้ม และมีตราสัญลักษณ์ปักรายละเอียดประณีตบนกระเป๋าเสื้อด้านซ้ายซึ่งเป็นรูปมงกุฎและตราประจำตระกูล จัดท่าทางให้เธอหันตัวทำมุมสามส่วนเล็กน้อยในท่าทางที่ผ่อนคลาย หันหน้าไปด้านข้างเล็กน้อยเพื่อให้ได้อารมณ์ภาพถ่ายแฟชั่นที่ดูเป็นธรรมชาติและประณีต ฉากหลังเป็น {argument name="background setting" default="สถาปัตยกรรมศาลเจ้าสีแดง"} ที่โดดเด่นด้วยเสาสีแดงสดและรายละเอียดหลังคาสีน้ำเงินที่โค้งมนซึ่งเบลออยู่ด้านหลัง โดยใช้ระยะชัดลึกที่ตื้นและเอฟเฟกต์โบเก้ที่นุ่มนวลเพื่อให้ตัวแบบมีความคมชัดโดดเด่น แสงที่ใช้ควรมีความสะอาด คอนทราสต์สูง และดูดี มีไฮไลต์ที่สว่างบนเส้นผมและเสื้อ รอยยับของผ้าที่สมจริง โทนสีผิวที่เป็นธรรมชาติ และให้ความรู้สึกพรีเมียมแบบภาพถ่ายเชิงพาณิชย์ของญี่ปุ่น
 ```
 
 #### 🖼️ รูปภาพที่สร้าง
@@ -888,33 +613,33 @@ Generates a 9-panel grid of a 3D animated character showing various expressions 
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1776756789445_z4tzjp_HGTxSpFaMAAuxns.jpg" width="600" alt="โปรไฟล์ / รูปประจำตัว - 3D Animated Character Expression Grid - Image 1">
+<img src="https://cms-assets.youmind.com/media/1776883130126_mqzubl_HGfUniwagAA00Cs.jpg" width="600" alt="โปรไฟล์ / รูปประจำตัว - ภาพถ่ายพอร์ตเทรตสมจริงในชุดนักเรียนหน้าศาลเจ้า - Image 1">
 </div>
 
 #### 📌 รายละเอียด
 
-- **ผู้เขียน:** [Austin](https://x.com/austinit)
-- **แหล่งที่มา:** [Twitter Post](https://x.com/austinit/status/2046025895941750868#reversed-0)
-- **เผยแพร่เมื่อ:** 20 เมษายน 2569
+- **ผู้เขียน:** [AIおじさん](https://x.com/AIojisan1952)
+- **แหล่งที่มา:** [Twitter Post](https://x.com/AIojisan1952/status/2046838384887504974#reversed-0)
+- **เผยแพร่เมื่อ:** 22 เมษายน 2569
 - **ภาษา:** en
 
-**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-2-prompts?id=14158)**
+**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-2-prompts?id=14515)**
 
 ---
 
-### No. 10: โปรไฟล์ / รูปประจำตัว - Kawaii 3D Character Icon
+### No. 4: โปรไฟล์ / รูปประจำตัว - ภาพถ่ายเซลฟี่ในร่มแบบมีเซนเซอร์ในบรรยากาศมู้ดดี้
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 คำอธิบาย
 
-Generates a cute, 3D-rendered kawaii character with a soft matte texture on a white background, perfect for app icons or avatars.
+พรอมต์นี้จะสร้างภาพถ่ายเซลฟี่สไตล์สมจริงของชายหนุ่มในชุดเสื้อเชิ้ตคอเปิดสีเข้มริมหน้าต่าง เหมาะสำหรับการสร้างภาพพอร์ตเทรตที่ดูน่าเชื่อถือสำหรับโซเชียลมีเดีย
 
 #### 📝 คำสั่ง
 
 ```
-A 3D render of a cute kawaii {argument name="subject" default="cloud"} character on a pure white background. The character has a soft, matte, squishy texture resembling clay or a stress toy. It features large glossy black eyes with white highlights, a simple curved smile, and round pink blush on its cheeks. The edges and bottom of the figure have a subtle pastel gradient of {argument name="accent colors" default="pink, blue, and purple"}. Soft studio lighting, minimalist icon style, casting a gentle shadow.
+ภาพพอร์ตเทรตสไตล์เซลฟี่ในร่มที่สมจริงของชายหนุ่มชาวเอเชียตะวันออกตั้งแต่ช่วงอกขึ้นไป นั่งอยู่ใกล้หน้าต่างบานใหญ่ที่ทันสมัยในอพาร์ตเมนต์หรือห้องพักโรงแรมบนตึกสูงในช่วงเวลากลางวันที่แสงนุ่มนวล เขามีผมสี {argument name="hair color" default="black"} ผมหนาและยุ่งเล็กน้อยโดยแสกกลางและมีวอลลุ่มนุ่มนวลบริเวณหน้าผากและด้านข้าง รูปร่างดูผอมเพรียว คอยาว และมีผิวพรรณที่เนียนละเอียด เขาสวมเสื้อเชิ้ตกระดุมสี {argument name="shirt color" default="black"} ทำจากผ้าฝ้ายเนื้อแมตต์หรือผ้าป๊อปลิน ทรงโอเวอร์ไซส์เล็กน้อย โดยปลดกระดุมบนออกหลายเม็ดเพื่อให้ได้คอเสื้อที่เปิดกว้างและดูผ่อนคลายแบบลำลอง กล้องถูกถือไว้ใกล้ในมุมเซลฟี่ที่เป็นธรรมชาติ แนวตั้ง จัดเฟรมให้เห็นไหล่ หน้าอก คอ และศีรษะ ใบหน้าของเขาถูกบดบังด้วยแถบเซนเซอร์แบบโมเสกหรือเบลอรูปสี่เหลี่ยมผืนผ้าขนาดใหญ่อยู่ตรงกลาง ในขณะที่หู ขอบกราม ลำคอ และเส้นผมยังคงมองเห็นได้ บรรยากาศมีความเรียบง่าย ดูมีมู้ดและสง่างาม ด้วยโทนสีกลางที่ดูหม่น แสงจากหน้าต่างทางด้านขวาที่นุ่มนวล เงาที่นุ่มนวล และให้ความรู้สึกเหมือนภาพเซลฟี่บนโซเชียลมีเดีย รายละเอียดพื้นหลังประกอบด้วยผนังสีเบจ 1 ส่วนทางด้านซ้าย แผงควบคุมบนผนังสีเข้มขนาดเล็ก 1 จุด ขอบโลหะแนวตั้งหรือขอบโคมไฟ 1 จุด และหน้าต่างกรอบสีเข้มบานสูง 2 บานทางด้านขวาพร้อมภาพวิวเส้นขอบฟ้าของเมืองที่เบลอเล็กน้อยด้านนอก ภาพถ่ายจากสมาร์ทโฟนที่สมจริง การตกแต่งภายในที่ทันสมัยและสะอาดตา ระยะชัดลึกตื้น ผิวสัมผัสที่เป็นธรรมชาติ คอนทราสต์ที่นุ่มนวล ไม่เห็นรอยยิ้มเนื่องจากแถบเซนเซอร์ การตัดต่อที่น้อยที่สุด ดูมีสไตล์และเป็นภาพเซลฟี่ส่วนตัวที่ดูสมจริง
 ```
 
 #### 🖼️ รูปภาพที่สร้าง
@@ -922,74 +647,100 @@ A 3D render of a cute kawaii {argument name="subject" default="cloud"} character
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1776756825014_34dsn9_HGTowdCaQAIrm8n.jpg" width="600" alt="โปรไฟล์ / รูปประจำตัว - Kawaii 3D Character Icon - Image 1">
+<img src="https://cms-assets.youmind.com/media/1776883199795_5d57h2_HGe0FIpaIAAU-CO.jpg" width="600" alt="โปรไฟล์ / รูปประจำตัว - ภาพถ่ายเซลฟี่ในร่มแบบมีเซนเซอร์ในบรรยากาศมู้ดดี้ - Image 1">
 </div>
 
 #### 📌 รายละเอียด
 
-- **ผู้เขียน:** [Yuru](https://x.com/yurunekofree)
-- **แหล่งที่มา:** [Twitter Post](https://x.com/yurunekofree/status/2046016054305145102#reversed-0)
-- **เผยแพร่เมื่อ:** 20 เมษายน 2569
+- **ผู้เขียน:** [MathMedix](https://x.com/MathMedix)
+- **แหล่งที่มา:** [Twitter Post](https://x.com/MathMedix/status/2046802557872562478#reversed-0)
+- **เผยแพร่เมื่อ:** 22 เมษายน 2569
 - **ภาษา:** en
 
-**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-2-prompts?id=14218)**
+**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-2-prompts?id=14686)**
 
 ---
 
-### No. 11: โปรไฟล์ / รูปประจำตัว - ตารางรูปโปรไฟล์ตัวละครในตำนาน
+### No. 5: โปรไฟล์ / รูปประจำตัว - ภาพถ่ายเซลฟี่สมจริงใน McDonald's
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 คำอธิบาย
+
+พรอมต์นี้ใช้สำหรับสร้างภาพเซลฟี่แบบเป็นกันเองที่ดูสมจริงของชายคนหนึ่งภายในร้าน McDonald's เหมาะสำหรับการสร้างภาพถ่ายสไตล์โซเชียลมีเดียที่ดูน่าเชื่อถือ
+
+#### 📝 คำสั่ง
+
+```
+ภาพเซลฟี่จากสมาร์ทโฟนที่ดูเป็นธรรมชาติและสมจริงมาก ถ่ายภายในร้าน McDonald's แห่งหนึ่งในเอเชีย จัดเฟรมเป็นภาพพอร์ตเทรตครึ่งตัวของชายหนุ่มที่นั่งอยู่บนโต๊ะ กล้องถูกถือไว้เหนือระดับโต๊ะเล็กน้อยในระยะแขน ทำให้ได้มุมมองเซลฟี่จากด้านหน้าที่ดูเป็นธรรมชาติ โดยมีแขนข้างหนึ่งยื่นไปทางเลนส์ ตัวแบบสวมเสื้อยืดสีดำที่มีโลโก้ Tesla สีขาวเล็กๆ ที่หน้าอกซ้าย มีผมสั้นตรงสีดำ ขอบแว่นตาสีเข้มบางส่วนมองเห็นได้ชัดเจน และวางมือข้างหนึ่งไว้ที่คางในท่าทางผ่อนคลาย ใบหน้าของเขาถูกบดบังด้วยแถบเบลอรูปสี่เหลี่ยมผืนผ้าขนาดใหญ่ตรงกลางเพื่อรักษาความเป็นส่วนตัว แต่ยังคงเห็นเส้นผม ใบหู ขอบกราม และขาแว่น ที่ด้านหน้าซ้ายล่างมีแก้วกระดาษ McDonald's สีขาว 1 ใบพร้อมฝาปิดและหลอดสีขาว ซึ่งถูกตัดขอบโดยเฟรมภาพ พื้นหลังแสดงให้เห็นบริเวณเคาน์เตอร์ร้านที่มีแสงไฟโทนอุ่น แผงผนังสีแดงขนาดใหญ่ 1 แผงทางด้านซ้ายที่มีสัญลักษณ์ซุ้มโค้งสีเหลืองของ McDonald's และสโลแกนสีขาว “i’m lovin’ it” พร้อมข้อความภาษาจีนด้านล่าง ป้ายเมนูดิจิทัลเรืองแสง 4 ป้ายที่ด้านบนแสดงภาพเบอร์เกอร์ เฟรนช์ฟรายส์ ชุดคอมโบ ราคา และข้อความภาษาจีน รวมถึงมีคน 2 คนในพื้นหลังใกล้เคาน์เตอร์ คนหนึ่งหันหลังให้พร้อมสะพายเป้ และอีกคนหนึ่งมองเห็นได้บางส่วนหลังเคาน์เตอร์ชำระเงิน ใช้สมดุลสีที่เป็นธรรมชาติ มีเกรนของภาพแบบในร่มเล็กน้อย การสะท้อนที่สมจริง ระยะชัดลึกแบบตื้นถึงปานกลาง และให้ความรู้สึกเหมือนภาพถ่ายสแนปชอตบนโซเชียลมีเดียที่ไม่ได้จัดฉาก
+```
+
+#### 🖼️ รูปภาพที่สร้าง
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1776883097033_ly0rvn_HGeaa6Sa8AAuokd.jpg" width="600" alt="โปรไฟล์ / รูปประจำตัว - ภาพถ่ายเซลฟี่สมจริงใน McDonald's - Image 1">
+</div>
+
+#### 📌 รายละเอียด
+
+- **ผู้เขียน:** [AB Kuai.Dong](https://x.com/_FORAB)
+- **แหล่งที่มา:** [Twitter Post](https://x.com/_FORAB/status/2046774687380992253#reversed-1)
+- **เผยแพร่เมื่อ:** 22 เมษายน 2569
+- **ภาษา:** en
+
+**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-2-prompts?id=14433)**
+
+---
+
+### No. 6: โปรไฟล์ / รูปประจำตัว - ภาพถ่าย Instagram คอสเพลย์ Albedo
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 คำอธิบาย
+
+คำสั่ง (Prompt) สั้นๆ สำหรับสร้างภาพคอสเพลย์สไตล์ดื้อรั้นและแสดงอารมณ์ในรูปแบบ Instagram Story
+
+#### 📝 คำสั่ง
+
+```
+สไตล์: ภาพถ่ายสไตล์ Instagram Story ของการคอสเพลย์ {argument name="character" default="Albedo"}; เนื้อหา: {argument name="action" default="นั่งยองๆ บนพื้นหันหน้าเข้าหากล้อง ทำท่าทางดื้อรั้นเกินจริงด้วยมือทั้งสองข้าง กรอกตา และแสดงสีหน้าหยิ่งยโสดูถูกเหยียดหยาม"}
+```
+
+#### 🖼️ รูปภาพที่สร้าง
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1776883062651_jcngq2_HGd6Wl3aIAA8p2K.jpg" width="600" alt="โปรไฟล์ / รูปประจำตัว - ภาพถ่าย Instagram คอสเพลย์ Albedo - Image 1">
+</div>
+
+#### 📌 รายละเอียด
+
+- **ผู้เขียน:** [𝟡𝟜 𝚅̷𝙰̷𝙽̷ ᴾᴸᴬʸᶠᴼᴿᴳᴱ](https://x.com/94vanAI)
+- **แหล่งที่มา:** [Twitter Post](https://x.com/94vanAI/status/2046739103316947296)
+- **เผยแพร่เมื่อ:** 21 เมษายน 2569
+- **ภาษา:** zh
+
+**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-2-prompts?id=14347)**
+
+---
+
+### No. 7: โปรไฟล์ / รูปประจำตัว - อนิเมะสาวน้อยหูแมวบนดาดฟ้าโรงเรียนยามพระอาทิตย์ตก
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 คำอธิบาย
 
-สร้างตารางรูปโปรไฟล์ตัวละครแบบการ์ตูนวงกลมพร้อมป้ายกำกับข้อความ เหมาะสำหรับใช้ทำ UI mockups หรือรายการตัวละคร
+ภาพพอร์ตเทรตสไตล์อนิเมะสุดอลังการของนักเรียนหญิงหูแมวบนดาดฟ้าในช่วงพระอาทิตย์ตก เหมาะสำหรับใช้เป็นภาพคีย์วิชวลที่ให้ความรู้สึกโหยหาอดีต ภาพอาร์ตตัวละคร หรือภาพสำหรับโพสต์ลงโซเชียลมีเดีย
 
 #### 📝 คำสั่ง
 
 ```
-{
-  "type": "ตารางรูปโปรไฟล์ตัวละคร",
-  "theme": "{argument name=\"theme\" default=\"ตำนานไซอิ๋ว\"}",
-  "style": "{argument name=\"art style\" default=\"ภาพประกอบเวกเตอร์การ์ตูน 2D คลีนๆ เส้นขอบหนา สีแบนราบ\"}",
-  "layout": {
-    "background": "{argument name=\"background color\" default=\"สีเทาอ่อน\"} พื้นผิวแบบละเอียด",
-    "format": "ตารางรูปภาพวงกลมพร้อมป้ายกำกับข้อความที่จัดกึ่งกลางใต้แต่ละวงกลม",
-    "rows": [
-      {
-        "count": 4,
-        "items": [
-          {"label": "ซุนหงอคง", "description": "เด็กหนุ่มลิงสวมห่วงทองและผ้าพันคอสีแดง"},
-          {"label": "พระถังซัมจั๋ง", "description": "พระสงฆ์สวมหมวกทองประดับอัญมณี"},
-          {"label": "ตือโป๊ยก่าย", "description": "มนุษย์หมูถือคราด"},
-          {"label": "ซัวเจ๋ง", "description": "ชายมีเคราถือไม้เท้าจันทร์เสี้ยว"}
-        ]
-      },
-      {
-        "count": 4,
-        "items": [
-          {"label": "ม้ามังกรขาว", "description": "ม้าสีขาวสวมบังเหียนทอง"},
-          {"label": "เง็กเซียนฮ่องเต้", "description": "ชายชรามีเคราสีขาวสวมมงกุฎทอง"},
-          {"label": "เจ้าแม่กวนอิม", "description": "เทพธิดาถือพู่กันกิ่งหลิว"},
-          {"label": "ราชาปีศาจกระทิง", "description": "ปีศาจกระทิงดุร้ายในชุดเกราะ"}
-        ]
-      },
-      {
-        "count": 4,
-        "items": [
-          {"label": "องค์หญิงพัดเหล็ก", "description": "หญิงสาวถือพัดใบตองสีเขียว"},
-          {"label": "หงไห่เอ๋อร์", "description": "เด็กชายผมแดงมีเขาและเปลวไฟเล็กๆ"},
-          {"label": "ปีศาจลมดำ", "description": "ปีศาจเงาสีดำที่มีดวงตาสีแดงเรืองแสง"},
-          {"label": "นาจา", "description": "เด็กชายมัดจุกสองข้างถือหอกไฟ"}
-        ]
-      },
-      {
-        "count": 3,
-        "description": "แถวบางส่วนที่ทำซ้ำองค์หญิงพัดเหล็ก ปีศาจลมดำ และนาจา โดยมีการตัดขอบด้านล่างเล็กน้อย"
-      }
-    ]
-  }
-}
+ภาพประกอบอนิเมะคุณภาพสูงของ {argument name="character type" default="นักเรียนหญิงหูแมว"} ที่กำลังโน้มตัวพิงรั้วเหล็กบนดาดฟ้าโรงเรียนในช่วงพระอาทิตย์ตก โดยถ่ายจากมุมต่ำแบบสามส่วน (three-quarter angle) ที่เห็นใบหน้าชัดเจน เธอมีผมยาวสลวยสี {argument name="hair color" default="น้ำตาลเข้ม"} ที่มีไฮไลท์นุ่มนวล ดวงตาสีน้ำตาลอมเทาขนาดใหญ่ที่เป็นประกาย สวมแว่นตากรอบบางทรงกลม และมีหูแมวฟูฟ่อง 2 ข้างโผล่ออกมาจากเส้นผม สีหน้าของเธอเงียบสงบ ดูโหยหา และมีความเขินอายเล็กน้อย ริมฝีปากเผยอออกและทอดสายตามองลงมายังผู้ชม เธอสวมชุดนักเรียนกะลาสีญี่ปุ่นที่มีเสื้อแขนยาวสี {argument name="uniform color" default="ชมพู"} ดูนุ่มนวล ปกกะลาสีสีเทาตัดขอบขาว ผูกโบว์สีแดงสด และเห็นกระโปรงลายสก็อตบางส่วน พร้อมสายกระเป๋าเป้สีเข้ม 2 เส้นพาดบนไหล่ ฉากหลังอาบไปด้วยแสงสีทองยามเย็นที่ดูมีมิติ มีแสงขอบ (rim light) ที่อบอุ่นส่องกระทบเส้นผม หู ไหล่ และแขนเสื้ออย่างชัดเจน มีแสงแฟลร์จากดวงอาทิตย์ส่องมาจากมุมซ้ายล่าง และท้องฟ้าที่แต่งแต้มด้วยเมฆสีส้มและสีพีชอย่างงดงาม ในพื้นหลังแสดงภาพอาคารเรียนญี่ปุ่น 2 ชั้นที่มีหลังคากระเบื้องสีแดงและหน้าต่างที่ส่องสว่างด้วยแสงอาทิตย์อัสดง เน้นคุณภาพงานภาพแบบคีย์วิชวลอนิเมะระดับไฮเอนด์ยุคต้นปี 2000 ที่ให้ความรู้สึกโหยหาอดีต เส้นสายที่ละเอียดอ่อน ดวงตาที่เปล่งประกาย รายละเอียดเส้นผมที่คมชัด องค์ประกอบภาพแบบภาพยนตร์ ระยะชัดลึกที่นุ่มนวล การไล่โทนสีที่อบอุ่นสดใส การลงเงาที่ประณีต และบรรยากาศที่เงียบสงบและเปี่ยมด้วยอารมณ์
 ```
 
 #### 🖼️ รูปภาพที่สร้าง
@@ -997,33 +748,33 @@ A 3D render of a cute kawaii {argument name="subject" default="cloud"} character
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1776662627550_b8twjr_HGNFz2LbkAA1mcT.jpg" width="600" alt="โปรไฟล์ / รูปประจำตัว - ตารางรูปโปรไฟล์ตัวละครในตำนาน - Image 1">
+<img src="https://cms-assets.youmind.com/media/1776883142749_ioqmur_HGd6QaOa4AAwOOi.jpg" width="600" alt="โปรไฟล์ / รูปประจำตัว - อนิเมะสาวน้อยหูแมวบนดาดฟ้าโรงเรียนยามพระอาทิตย์ตก - Image 1">
 </div>
 
 #### 📌 รายละเอียด
 
-- **ผู้เขียน:** [wm](https://x.com/Ryan_Suo)
-- **แหล่งที่มา:** [Twitter Post](https://x.com/Ryan_Suo/status/2045555581487137125#reversed-0)
-- **เผยแพร่เมื่อ:** 18 เมษายน 2569
+- **ผู้เขียน:** [Nobu-Kobayashi : Generative AI Technology](https://x.com/nyaa_toraneko)
+- **แหล่งที่มา:** [Twitter Post](https://x.com/nyaa_toraneko/status/2046739011960799389#reversed-0)
+- **เผยแพร่เมื่อ:** 21 เมษายน 2569
 - **ภาษา:** en
 
-**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-2-prompts?id=13511)**
+**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-2-prompts?id=14547)**
 
 ---
 
-### No. 12: โปรไฟล์ / รูปประจำตัว - ภาพถ่ายพอร์ตเทรตชุดกิโมโนในฤดูใบไม้ร่วงที่สมจริง
+### No. 8: โปรไฟล์ / รูปประจำตัว - หญิงสาวในจินตนาการกำลังกอดแกะเขาขาว
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 คำอธิบาย
 
-สร้างภาพพอร์ตเทรตที่สมจริงของหญิงสาวในชุดกิโมโน โดยมีฉากหลังเป็นฤดูใบไม้ร่วงที่มีสีสันสดใสและเอฟเฟกต์โบเก้ที่สวยงาม
+พรอมต์นี้สร้างภาพพอร์ตเทรตแนวแฟนตาซียุคกลางที่สมจริงของหญิงสาวผมแดงที่กำลังโอบกอดแกะเขาขาว เหมาะสำหรับงานศิลปะตัวละครที่มีบรรยากาศหรือภาพแนวแฟนตาซีสไตล์บรรณาธิการ
 
 #### 📝 คำสั่ง
 
 ```
-{argument name="photography style" default="ภาพพอร์ตเทรตที่สมจริงพร้อมระยะชัดตื้นและเอฟเฟกต์โบเก้นุ่มนวล"} ของ {argument name="subject" default="หญิงสาวชาวญี่ปุ่น"} ที่กำลังหันกลับมามองกล้องผ่านไหล่ด้วย {argument name="expression" default="รอยยิ้มที่อ่อนโยน"} เธอสวมใส่ {argument name="attire" default="ชุดกิโมโนสีเบจอ่อนลายใบเมเปิ้ลสีส้ม"} และโอบิสีทอง ผมสีเข้มของเธอถูกเกล้าขึ้นอย่างสง่างามโดยมีปอยผมล้อมกรอบใบหน้า และสวมต่างหูมุกขนาดเล็ก ฉากหลังเป็น {argument name="setting" default="สวนในฤดูใบไม้ร่วงที่มีใบเมเปิ้ลสีแดงสด"} โดยมีใบไม้สีแดงสดล้อมรอบมุมซ้ายบน และฉากหลังที่เบลออย่างหนักช่วยสร้างบรรยากาศที่เงียบสงบและดูเป็นภาพยนตร์
+ภาพพอร์ตเทรตแนวตั้งที่สมจริงเหมือนภาพถ่ายในสไตล์ภาพยนตร์ของหญิงสาวในยุคกลางหรือแนวแฟนตาซีที่มี {argument name="hair color" default="ผมยาวสีทองแดง"} โดยถ่ายให้เห็นตั้งแต่ช่วงอกขึ้นไป กำลังโอบกอดแกะตัวใหญ่สีขาวอย่างอ่อนโยน หญิงสาวสวมชุดเดรสหรือเสื้อคลุมผ้าขนสัตว์สีเขียวมอสเข้มที่มีการปักลวดลายประณีตที่ปลายแขน และสวมผ้าคลุมไหล่หรือผ้าคลุมที่มีขนสัตว์หนาประดับอยู่บนไหล่ ซึ่งให้ความรู้สึกแบบไวกิ้งหรือสไตล์ที่ราบสูง ผมของเธอหนา เป็นลอน และปลิวไสวเล็กน้อยตามลม โดยมีเปียเล็กๆ ถักแทรกอยู่บนศีรษะ แกะมีขนหยิกสีขาวครีมหนาแน่น สีหน้าสงบนิ่งโดยหลับตา และมีเขาเกลียวที่โดดเด่นม้วนออกไปด้านหน้า มือของหญิงสาววางอยู่อย่างนุ่มนวลที่คอของแกะ สื่อถึงความอบอุ่น การปกป้อง และมิตรภาพ ฉากหลังเป็นพื้นที่กลางแจ้งในภูมิประเทศที่ขรุขระและมีเมฆมาก โดยมีเนินเขาหรือทุ่งหญ้าที่เบลออย่างนุ่มนวล ท้องฟ้าสีเทาเย็นๆ ระยะชัดตื้น แสงธรรมชาติที่นุ่มนวล รายละเอียดพื้นผิวที่สมบูรณ์ทั้งในส่วนของเส้นผม ขนสัตว์ และเนื้อผ้า โทนสีเอิร์ธโทนที่ดูนุ่มนวล การจัดเฟรมที่ใกล้ชิด ผิวหนังและลักษณะของสัตว์ที่สมจริง เพิ่มข้อความสีดำที่มุมซ้ายบนว่า {argument name="corner text" default="GPT Image 2"}
 ```
 
 #### 🖼️ รูปภาพที่สร้าง
@@ -1031,33 +782,33 @@ A 3D render of a cute kawaii {argument name="subject" default="cloud"} character
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1776699434351_060clm_HGLifFebMAAQIxj.jpg" width="600" alt="โปรไฟล์ / รูปประจำตัว - ภาพถ่ายพอร์ตเทรตชุดกิโมโนในฤดูใบไม้ร่วงที่สมจริง - Image 1">
+<img src="https://cms-assets.youmind.com/media/1776883171366_yuw1xa_HGdrgu-W4AA-KGq.jpg" width="600" alt="โปรไฟล์ / รูปประจำตัว - หญิงสาวในจินตนาการกำลังกอดแกะเขาขาว - Image 1">
 </div>
 
 #### 📌 รายละเอียด
 
-- **ผู้เขียน:** [Kazuma Endo](https://x.com/kazmaendo)
-- **แหล่งที่มา:** [Twitter Post](https://x.com/kazmaendo/status/2045446209532506159#reversed-0)
-- **เผยแพร่เมื่อ:** 18 เมษายน 2569
+- **ผู้เขียน:** [Adan Avelar Islas](https://x.com/adanvecindad)
+- **แหล่งที่มา:** [Twitter Post](https://x.com/adanvecindad/status/2046722781631439244#reversed-0)
+- **เผยแพร่เมื่อ:** 21 เมษายน 2569
 - **ภาษา:** en
 
-**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-2-prompts?id=14017)**
+**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-2-prompts?id=14619)**
 
 ---
 
-### No. 13: โปรไฟล์ / รูปประจำตัว - เซลฟี่บาสเกตบอลพร้อมโลโก้แบบกำหนดเอง
+### No. 9: โปรไฟล์ / รูปประจำตัว - ภาพพอร์ตเทรตไอดอลสาวสไตล์คาวาอี้สีชมพู
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 คำอธิบาย
 
-สร้างภาพเซลฟี่ที่สมจริงของชายหนุ่มที่กำลังถือลูกบาสเกตบอลสีพิเศษพร้อมโลโก้เฉพาะบนสนามในร่ม
+พรอมต์นี้ใช้สำหรับสร้างภาพพอร์ตเทรตไอดอลสไตล์อนิเมะสุดวิ้งค์ เหมาะสำหรับทำโปสเตอร์ งานศิลปะบนโซเชียลมีเดีย หรือภาพคีย์วิชวลตัวละครสุดน่ารัก
 
 #### 📝 คำสั่ง
 
 ```
-ภาพเซลฟี่ที่สมจริงของชายหนุ่มผมสั้นหยักศกสีเข้มและมีหนวดเคราจางๆ บนสนามบาสเกตบอลในร่ม เขาสวมเสื้อยืดกีฬาแขนสั้นสีดำที่มีโลโก้รูปเครื่องหมายถูกสีขาว เขากำลังถือลูกบาสเกตบอลสี {argument name="ball color" default="green"} ที่มี {argument name="logo design" default="OpenAI logo"} สีขาวขนาดใหญ่อยู่บนลูก พื้นหลังเผยให้เห็นพื้นไม้ แผ่นกันกระแทกสีดำที่ผนัง และห่วงบาสเกตบอลที่ติดอยู่กับผนังคอนกรีต แสงไฟในยิมที่สว่างสดใสให้ความรู้สึกแบบภาพถ่ายโซเชียลมีเดียที่เป็นธรรมชาติ
+ภาพพอร์ตเทรตไอดอลสไตล์อนิเมะที่มีความละเอียดสูงและดูเงางามในองค์ประกอบแนวตั้ง เผยให้เห็นเด็กสาววัยรุ่นสุดน่ารักตั้งแต่ช่วงเอวขึ้นไปในโทนสีชมพูสไตล์คาวาอี้ชวนฝัน เธอมีผม {argument name="hair color" default="สีชมพูพาสเทล"} จัดทรงเป็นหางม้าสูงฟูฟ่องยาวสลวย พร้อมหน้าม้าซอฟต์ๆ และปอยผมดัดลอนพลิ้วไหว ประดับด้วยกิ๊บรูปหัวใจขนาดเล็กหลายชิ้นและกิ๊บติดผมแบบไขว้ ดวงตาของเธอมีขนาดใหญ่ เป็นประกายแวววาว {argument name="eye color" default="สีเขียวมรกต"} พร้อมไฮไลต์รูปดาว ขนตายาว และมีความฉ่ำวาวเล็กน้อย เธอมีแก้มระเรื่อ ริมฝีปากอวบอิ่มเงางาม และแสดงสีหน้าอ่อนโยนขณะกำลังทาลิปสติก {argument name="lipstick color" default="สีชมพูสด"} โดยใช้สองมือถือแท่งลิปสติกไว้อย่างทะนุถนอมใกล้ริมฝีปาก เธอสวมชุดไอดอลสไตล์โกธิคโลลิต้าสีดำ-ชมพูที่มีระบาย ลูกไม้ ริบบิ้น โบว์ เครื่องประดับรูปหัวใจ และพื้นผิวที่ดูเป็นประกาย พร้อมที่คาดผมโบว์ลูกไม้สีดำ 1 ชิ้นประดับด้วยหัวใจอัญมณีสีชมพู กิ๊บติดผมบนหน้าม้า 3 ชิ้น ต่างหูรูปหัวใจแบบห้อย 1 คู่ และโช้กเกอร์สีดำพร้อมจี้หัวใจขนาดเล็ก 1 ชิ้น ล้อมรอบตัวละครด้วยพื้นหลังสีชมพูแคนดี้ที่เปล่งประกาย เต็มไปด้วยกลิตเตอร์ โบเก้ เอฟเฟกต์แสงนีออนนุ่มนวล และบรรยากาศแบบแฟนคลับไอดอล เพิ่มข้อความในช่องคำพูดรูปหัวใจวาดมือ 5 ช่องรอบตัวเธอเป็นภาษาญี่ปุ่น ได้แก่: "かわいすぎてごめん…♡", "推してくれてありがとうっ♡", "ずーっとだいすきっ♡", "世界でいちばんの推しになってね…♡" และ "ずっと一緒だよ？約束ね…♡" รวมทั้งมีการ์ดรูปถ่ายหรือโปสเตอร์ขนาดเล็กที่ตกแต่งอย่างสวยงามของเด็กสาวคนเดียวกันไว้ที่พื้นหลังด้านขวาบน ภาพประกอบที่ขัดเกลาอย่างประณีต แวววาวหนาแน่น แสงแบบโรแมนติก ไฮไลต์เงางาม รายละเอียดลูกไม้ที่ซับซ้อน พื้นหลังแบบซอฟต์โฟกัส พาเลตต์สีชมพูสดใส ให้ความรู้สึกเหมือนโปสเตอร์ไอดอลสุดน่ารัก
 ```
 
 #### 🖼️ รูปภาพที่สร้าง
@@ -1065,33 +816,32 @@ A 3D render of a cute kawaii {argument name="subject" default="cloud"} character
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1776699441101_yp4ivs_HGLZfIEbIAALiq4.jpg" width="600" alt="โปรไฟล์ / รูปประจำตัว - เซลฟี่บาสเกตบอลพร้อมโลโก้แบบกำหนดเอง - Image 1">
+<img src="https://cms-assets.youmind.com/media/1776883166743_xorm6h_HGdqYtPbgAEXEjW.jpg" width="600" alt="โปรไฟล์ / รูปประจำตัว - ภาพพอร์ตเทรตไอดอลสาวสไตล์คาวาอี้สีชมพู - Image 1">
 </div>
 
 #### 📌 รายละเอียด
 
-- **ผู้เขียน:** [Mirochill](https://x.com/mirochill)
-- **แหล่งที่มา:** [Twitter Post](https://x.com/mirochill/status/2045437911395406111#reversed-0)
-- **เผยแพร่เมื่อ:** 18 เมษายน 2569
+- **ผู้เขียน:** [ねね*AIcreator](https://x.com/NeneneAI)
+- **แหล่งที่มา:** [Twitter Post](https://x.com/NeneneAI/status/2046721817893872064#reversed-0)
+- **เผยแพร่เมื่อ:** 21 เมษายน 2569
 - **ภาษา:** en
 
-**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-2-prompts?id=14028)**
+**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-2-prompts?id=14606)**
 
 ---
 
-### No. 14: โปรไฟล์ / รูปประจำตัว - ชุดสติกเกอร์สัตว์สุดกวน
+### No. 10: โปรไฟล์ / รูปประจำตัว - ภาพนกกระทุงขี่จักรยานสไตล์มินิมอล
 
-![Language-JA](https://img.shields.io/badge/Language-JA-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 คำอธิบาย
 
-ชุดคำสั่ง (Prompt) สำหรับสร้างสติกเกอร์ดิจิทัลธีมสัตว์จำนวนมากในสไตล์วาดมือสุดฮิตที่ออกแบบมาเพื่อกลุ่มเป้าหมายวัยรุ่น
+พรอมต์นี้จะสร้างภาพประกอบเวกเตอร์เรขาคณิตแบบเรียบง่ายของนกกระทุงบนจักรยาน เหมาะสำหรับการทดสอบการจัดวางรูปทรงพื้นฐานหรือสร้างภาพสไตล์ไอคอนเชิงนามธรรมที่ดูสนุกสนาน
 
 #### 📝 คำสั่ง
 
 ```
-สร้างสติกเกอร์ LINE จำนวน {argument name="quantity" default="24"} ชิ้น ในธีม {argument name="animals" default="สัตว์ต่างๆ"} ด้วยสไตล์วาดมือสุดกวน เจาะกลุ่มเป้าหมาย {argument name="target audience" default="Gen Z ชาวญี่ปุ่น"} ด้วยสไตล์ที่กำลังเป็นกระแสเพื่อให้ติดอันดับยอดดาวน์โหลดสูงสุด
+ภาพประกอบสไตล์เวกเตอร์แบบมินิมอลบนพื้นหลังสีเทาอ่อนเรียบๆ แสดงภาพนกกระทุงกำลังขี่จักรยาน วาดขึ้นจากรูปทรงเรขาคณิตง่ายๆ พร้อมเส้นขอบสีเทาเข้มหนา องค์ประกอบภาพมีความกว้างและจัดวางไว้ตรงกลาง โดยจักรยานกินพื้นที่สองในสามส่วนล่างของภาพ และหัวของนกจะลอยอยู่เหนือแฮนด์จักรยานไปทางด้านหน้าเล็กน้อยในลักษณะที่เป็นนามธรรมและดูคล้ายแผนภาพ จักรยานเป็นภาพเงาสีดำของจักรยานเสือหมอบในมุมมองด้านข้าง มีล้อขนาดใหญ่ 2 ล้อ แต่ละล้อมีขอบหนาและมีเส้นซี่ล้อ 4 เส้นที่มองเห็นได้ชัดเจนเป็นรูปกากบาท มีเส้นพื้นแนวนอนตรงใต้ล้อทั้งสอง เฟรมจักรยานเป็นรูปสามเหลี่ยม อานจักรยานสีดำขนาดสั้น และรายละเอียดของจานปั่นและบันไดแบบเรียบง่ายใกล้กับส่วนท้ายของเฟรม นกกระทุงถูกสร้างขึ้นจากชิ้นส่วนนามธรรมที่สะอาดตา ได้แก่ หัวทรงกลมสีขาวพร้อมดวงตาสีดำวงกลมเล็กๆ จะงอยปากยาวที่เปิดออกชี้ไปทางซ้ายประกอบด้วย 2 ส่วน คือส่วนบนเป็นรูปสามเหลี่ยมสีส้มและส่วนล่างเป็นถุงสีชมพูอ่อน เส้นโค้งสีเข้มสั้นๆ บนหัว ส่วนเชื่อมต่อคอ/ลำตัวรูปวงรีสีขาวแยกต่างหาก ลำตัวทรงกลมสีขาวขนาดใหญ่ที่วางอยู่บนจักรยาน และรูปทรงคล้ายปีกสีขาวหนึ่งข้างที่ทำมุมขึ้นเหนือหลัง เพิ่มรูปทรงขาแบบส้ม 2 ข้างที่เป็นสี่เหลี่ยมผืนผ้าแคบยาวเอียงลงจากลำตัวไปยังเฟรมจักรยาน เพื่อสื่อว่านกกำลังปั่นจักรยานอยู่ คงความเรียบง่ายและดูเหนือจริงแบบตั้งใจ คล้ายกับการทดสอบโลโก้หรือภาพวาดเล่นในโปรแกรมแก้ไขโค้ด โดยไม่มีการลงเงา ไม่มีการไล่ระดับสี ไม่มีพื้นผิว ไม่มีข้อความ และมีพื้นที่ว่างจำนวนมาก
 ```
 
 #### 🖼️ รูปภาพที่สร้าง
@@ -1099,51 +849,225 @@ A 3D render of a cute kawaii {argument name="subject" default="cloud"} character
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1776699415130_o4dn63_HGKa-tYaIAAjGod.jpg" width="600" alt="โปรไฟล์ / รูปประจำตัว - ชุดสติกเกอร์สัตว์สุดกวน - Image 1">
+<img src="https://cms-assets.youmind.com/media/1776883188180_o6j3h9_HGdj-7yWsAAi5Zj.png" width="600" alt="โปรไฟล์ / รูปประจำตัว - ภาพนกกระทุงขี่จักรยานสไตล์มินิมอล - Image 1">
+</div>
+
+#### 📌 รายละเอียด
+
+- **ผู้เขียน:** [Justin Schroeder](https://x.com/jpschroeder)
+- **แหล่งที่มา:** [Twitter Post](https://x.com/jpschroeder/status/2046714718790816171#reversed-1)
+- **เผยแพร่เมื่อ:** 21 เมษายน 2569
+- **ภาษา:** en
+
+**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-2-prompts?id=14657)**
+
+---
+
+### No. 11: โปรไฟล์ / รูปประจำตัว - เปลี่ยนภาพแมวให้เป็นภาพพอร์ตเทรตคน
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 คำอธิบาย
+
+พรอมต์นี้จะเปลี่ยนภาพอ้างอิงของแมวให้เป็นภาพคนเสมือนจริง โดยยังคงท่าทาง องค์ประกอบ และฉากหลังเดิมไว้ เพื่อสร้างสรรค์ภาพพอร์ตเทรตที่เปลี่ยนสัตว์เลี้ยงให้เป็นคนอย่างสนุกสนาน
+
+#### 📝 คำสั่ง
+
+```
+ใช้ภาพอ้างอิงที่กำหนดให้ เปลี่ยนแมวตัวนั้นให้เป็นภาพพอร์ตเทรตคนแบบสมจริง โดยยังคงท่าทางการนั่ง มุมกล้อง การจัดวางภาพ และฉากหลังเป็นเก้าอี้กำมะหยี่สีเทอร์ควอยซ์เดิมไว้ รักษาลวดลายสีส้มขาวของแมวไว้เป็นแรงบันดาลใจสำหรับรูปลักษณ์ของคน: ให้เป็นหญิงสาวผิวขาวที่มีผมสีส้มขิงดูอบอุ่นและมีสีหน้าที่นุ่มนวลสงบ สวมชุดลำลองสีขาวออฟไวท์ที่ดูสบายตา: เสื้อไหมพรมคอวีทรงหลวม 1 ตัว และกางเกงขายาวสีครีมแบบมีเชือกผูกเอว 1 ตัว นั่งอยู่บนเก้าอี้อย่างเป็นธรรมชาติด้วยท่าทางที่ผ่อนคลาย สร้างภาพให้มีความสมจริงเหมือนภาพถ่าย ใช้แสงธรรมชาติภายในอาคารที่นุ่มนวล และมีคุณภาพระดับภาพถ่ายไลฟ์สไตล์เชิงบรรณาธิการ
+```
+
+#### 🖼️ รูปภาพที่สร้าง
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1776883192227_47aujy_HGddzviXQAAIE28.jpg" width="600" alt="โปรไฟล์ / รูปประจำตัว - เปลี่ยนภาพแมวให้เป็นภาพพอร์ตเทรตคน - Image 1">
+</div>
+
+#### 📌 รายละเอียด
+
+- **ผู้เขียน:** [Bojan Tunguz](https://x.com/tunguz)
+- **แหล่งที่มา:** [Twitter Post](https://x.com/tunguz/status/2046707703481852106#reversed-1)
+- **เผยแพร่เมื่อ:** 21 เมษายน 2569
+- **ภาษา:** en
+
+**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-2-prompts?id=14670)**
+
+---
+
+### No. 12: โปรไฟล์ / รูปประจำตัว - ภาพถ่ายพอร์ตเทรตในสตูดิโอกับไอศกรีมสตรอว์เบอร์รี
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 คำอธิบาย
+
+พรอมต์นี้จะสร้างภาพถ่ายพอร์ตเทรตในสตูดิโอสไตล์เซเลบริตี้สุดโฉบเฉี่ยว ของหญิงสาวผมเข้มที่ถือโคนไอศกรีมสตรอว์เบอร์รีบังหน้า เหมาะสำหรับภาพแนวบิวตี้เชิงบรรณาธิการหรือภาพแนวป๊อปคัลเจอร์
+
+#### 📝 คำสั่ง
+
+```
+ภาพถ่ายพอร์ตเทรตในสตูดิโอที่ดูเนี้ยบของหญิงสาวลุคป๊อปสตาร์สุดเย้ายวนในมุมภาพตั้งแต่หน้าอกขึ้นไป จัดวางไว้ตรงกลางบนพื้นหลังสีเทาเรียบๆ เธอมี {argument name="hair color" default="สีดำขลับ"} ผมยาวเป็นลอนคลายๆ แสกกลาง ดูเงางามและมีวอลลุ่มทิ้งตัวลงมาที่ไหล่ทั้งสองข้าง ใบหน้าของเธอถูกบังเกือบมิดด้วยโคนไอศกรีมที่ถือไว้ตรงหน้าปากและช่วงล่างของใบหน้า สร้างองค์ประกอบภาพสไตล์แฟชั่นเชิงบรรณาธิการที่ดูขี้เล่น เธอสวมเสื้อกล้ามผ้าทอริบสีขาวสายใหญ่และเห็นต่างหูสตั๊ดเป็นประกายหนึ่งข้าง ในมือถือโคนวาฟเฟิล 1 อันที่ด้านบนเป็นไอศกรีมสตรอว์เบอร์รีสีชมพู 1 สกู๊ปใหญ่ มีซอสเบอร์รีสีแดงเข้มราดและมีเนื้อสัมผัสที่ละลายเล็กน้อย แสงไฟแบบบิวตี้ที่ให้ความรู้สึกอบอุ่นและดูดี เงาซอฟต์ละมุน สีผิวสมจริง ภาพถ่ายพอร์ตเทรตเซเลบริตี้ระดับไฮเอนด์ โฟกัสคมชัดที่มือ โคนไอศกรีม เส้นผม และหัวไหล่ พื้นหลังเรียบง่าย อารมณ์ภาพดูเซ็กซี่เล็กน้อยและมีความชิค ครอปภาพแนวตั้ง
+```
+
+#### 🖼️ รูปภาพที่สร้าง
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1776883161484_6r3xlw_HGdTO_1bkAAtzWs.jpg" width="600" alt="โปรไฟล์ / รูปประจำตัว - ภาพถ่ายพอร์ตเทรตในสตูดิโอกับไอศกรีมสตรอว์เบอร์รี - Image 1">
+</div>
+
+#### 📌 รายละเอียด
+
+- **ผู้เขียน:** [Arturo Garrido](https://x.com/arturogarrido)
+- **แหล่งที่มา:** [Twitter Post](https://x.com/arturogarrido/status/2046696077018186053#reversed-0)
+- **เผยแพร่เมื่อ:** 21 เมษายน 2569
+- **ภาษา:** en
+
+**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-2-prompts?id=14594)**
+
+---
+
+### No. 13: โปรไฟล์ / รูปประจำตัว - ภาพพอร์ตเทรตพอยต์คลาวด์แบบเซ็นเซอร์
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 คำอธิบาย
+
+พรอมต์นี้ใช้สำหรับสร้างภาพพอร์ตเทรตสไตล์ไลดาร์ (Lidar) ขาวดำที่ดูโดดเด่น โดยเป็นภาพชายสวมสูทที่ประกอบขึ้นจากจุดสีขาวหนาแน่น เหมาะสำหรับงานภาพประกอบด้านเทคโนโลยี หัวข้อเกี่ยวกับความเป็นส่วนตัว หรือภาพลักษณ์แห่งอนาคต
+
+#### 📝 คำสั่ง
+
+```
+ภาพพอร์ตเทรตขาวดำสไตล์มินิมอลที่สร้างขึ้นจากจุดพอยต์คลาวด์สีขาวขนาดเล็กนับล้านจุดบนพื้นหลังสีดำสนิท แสดงภาพชายผู้ใหญ่ 1 คนตั้งแต่ช่วงอกขึ้นไป สวมเบลเซอร์สีเข้มที่เป็นทางการและเสื้อเชิ้ตคอปกสีอ่อน ตัวแบบถูกจัดวางให้อยู่กึ่งกลางค่อนไปทางขวาเล็กน้อย หันหน้าตรงพร้อมเอียงตัวเล็กน้อยในมุมสามส่วนสี่ มีผมสั้นหวีเรียบร้อย และหูข้างหนึ่งที่เห็นได้ชัดเจนซึ่งถูกกำหนดรายละเอียดอย่างคมชัดด้วยจุดหนาแน่นคล้ายไลดาร์ เรนเดอร์รูปทรงให้เป็นข้อมูลสแกน 3D ดิบผสมผสานกับตรรกะเส้นชั้นความสูง (topological contour): การจุดแบบหนาแน่นพิเศษ การวางตำแหน่งจุดทางเรขาคณิตที่แม่นยำ โครงสร้างเส้นไอโซไลน์ที่จางๆ และการขึ้นรูปความลึกที่สะอาดตาบริเวณเส้นผม ปกเสื้อแจ็คเก็ต คอปก ลำคอ และหัวไหล่ ให้ใบหน้าถูกบดบังโดยเจตนาด้วยบล็อกสี่เหลี่ยมแนวตั้งขนาดใหญ่ 1 บล็อกที่เป็นสีเทาเข้มถึงสีดำ วางตำแหน่งไว้กึ่งกลางบริเวณใบหน้าตั้งแต่หน้าผากลงไปจนถึงใต้จมูกอย่างสมบูรณ์แบบ เพื่อสร้างเอฟเฟกต์การปิดบังความเป็นส่วนตัวที่ชัดเจน ใช้พื้นผิวแบบด้าน ขอบที่คมชัด โฟกัสที่คมชัด คอนทราสต์สูง ไม่มีแสงเรือง ไม่มีแสงฟุ้ง ไม่มีนีออน ไม่มีหมอก ไม่มีการเบลอจากการเคลื่อนไหว ไม่มีความคลาดสี และไม่มีลายเส้นแบบภาพวาด เพิ่มไอคอนประกายสี่แฉกขนาดเล็ก 1 อันสีเทาอ่อนที่มุมขวาล่าง ภาพรวมควรให้ความรู้สึกเชิงคณิตศาสตร์ เหมือนการสืบสวน และดูล้ำสมัย เหมือนภาพพอร์ตเทรตจากการสแกนไลดาร์ความละเอียดสูงในระดับ 8k
+```
+
+#### 🖼️ รูปภาพที่สร้าง
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1776883087494_gme15e_HGdKX1_bMAApLt-.jpg" width="600" alt="โปรไฟล์ / รูปประจำตัว - ภาพพอร์ตเทรตพอยต์คลาวด์แบบเซ็นเซอร์ - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1776699415160_ou1rfq_HGKa-tbaIAA4GwS.jpg" width="600" alt="โปรไฟล์ / รูปประจำตัว - ชุดสติกเกอร์สัตว์สุดกวน - Image 2">
+<img src="https://cms-assets.youmind.com/media/1776883087529_r1ivcd_HGdKYY9aMAAELgh.jpg" width="600" alt="โปรไฟล์ / รูปประจำตัว - ภาพพอร์ตเทรตพอยต์คลาวด์แบบเซ็นเซอร์ - Image 2">
+</div>
+
+#### 📌 รายละเอียด
+
+- **ผู้เขียน:** [Harshith](https://x.com/HarshithLucky3)
+- **แหล่งที่มา:** [Twitter Post](https://x.com/HarshithLucky3/status/2046686345230512264#reversed-0)
+- **เผยแพร่เมื่อ:** 21 เมษายน 2569
+- **ภาษา:** en
+
+**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-2-prompts?id=14408)**
+
+---
+
+### No. 14: โปรไฟล์ / รูปประจำตัว - เทพเจ้ากรีกขี่สิงโต
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 คำอธิบาย
+
+คำสั่งแบบ Cinematic สำหรับสร้างภาพอันน่าทึ่งของบุคคลในภาพลักษณ์เทพเจ้ากรีกที่กำลังขี่สิงโตอยู่ท่ามกลางทุ่งหญ้าสะวันนาในแอฟริกา
+
+#### 📝 คำสั่ง
+
+```
+ทำให้ฉันดูเหมือน {argument name="persona" default="เทพเจ้ากรีก"} ที่กำลังขี่ {argument name="mount" default="สิงโต"} อยู่ใน {argument name="setting" default="ทุ่งหญ้าในแอฟริกา"}
+```
+
+#### 🖼️ รูปภาพที่สร้าง
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1776883050662_t5u3gv_HGdDTMPXEAEYRdB.jpg" width="600" alt="โปรไฟล์ / รูปประจำตัว - เทพเจ้ากรีกขี่สิงโต - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1776883050703_wc1jy4_HGdDWCcXUAAoQAT.jpg" width="600" alt="โปรไฟล์ / รูปประจำตัว - เทพเจ้ากรีกขี่สิงโต - Image 2">
+</div>
+
+#### 📌 รายละเอียด
+
+- **ผู้เขียน:** [Max Blade](https://x.com/_MaxBlade)
+- **แหล่งที่มา:** [Twitter Post](https://x.com/_MaxBlade/status/2046679494883238031)
+- **เผยแพร่เมื่อ:** 21 เมษายน 2569
+- **ภาษา:** en
+
+**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-2-prompts?id=14326)**
+
+---
+
+### No. 15: โปรไฟล์ / รูปประจำตัว - ภาพพอร์ตเทรตสาวน้อยอนิเมะผมบลอนด์ทำหน้าสงสัย
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 คำอธิบาย
+
+พรอมต์นี้จะสร้างภาพพอร์ตเทรตช่วงบนสไตล์อนิเมะโทนพาสเทลเรียบง่ายของเด็กสาวที่กำลังทำหน้าฉงนในชุดสเวตเตอร์สีฟ้า เหมาะสำหรับใช้เป็นรูปโปรไฟล์ งานศิลปะประจำตัว หรือภาพประกอบตัวละครทั่วไป
+
+#### 📝 คำสั่ง
+
+```
+ภาพพอร์ตเทรตสไตล์อนิเมะแบบมินิมอลที่ดูนุ่มนวล เป็นภาพช่วงบนของหญิงสาวน่ารักบนพื้นหลังสีเทาอ่อนเรียบๆ วาดด้วยลายเส้นสไตล์พาสเทลที่สะอาดตา มีเส้นร่างที่บางมากและใช้สีโทนอ่อนแบบแบนราบ เธอมีผมยาวสลวยสีบลอนด์อ่อนเป็นชั้นๆ และมีหน้าม้าที่ปรกหน้าผากเล็กน้อย ดวงตากลมโตสีฟ้าอ่อน ผิวขาว และปากเล็กๆ ที่เผยอออกเล็กน้อยแสดงถึงความสับสนงุนงง เธอสวมเสื้อแขนยาวทรงหลวมขนาดโอเวอร์ไซส์สี {argument name="clothing color" default="light pastel blue"} ที่มีคอเสื้อกว้างดูสบายๆ ท่าทางของเธอเอียงเข้าหาผู้ชมเล็กน้อย โดยยกมือข้างหนึ่งขึ้นและใช้นิ้วชี้แตะที่ข้างศีรษะราวกับกำลังครุ่นคิด วางเครื่องหมายคำถามสีฟ้าลอยอยู่ 1 อันไว้ใกล้ๆ บริเวณด้านซ้ายบนของศีรษะ สีหน้าควรให้ความรู้สึกไร้เดียงสา เหม่อลอย และน่าเอ็นดู จัดองค์ประกอบภาพให้อยู่ตรงกลาง ดูโปร่งสบายและไม่รก โดยไม่มีวัตถุอื่นเพิ่มเติม ไม่มีพื้นหลังที่มีรายละเอียด และไม่มีเงาที่เข้มเกินไป
+```
+
+#### 🖼️ รูปภาพที่สร้าง
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1776883113953_9ftbye_HGdCi68awAAvIX4.jpg" width="600" alt="โปรไฟล์ / รูปประจำตัว - ภาพพอร์ตเทรตสาวน้อยอนิเมะผมบลอนด์ทำหน้าสงสัย - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1776883113895_coi544_HGdC-GqbQAArPMf.jpg" width="600" alt="โปรไฟล์ / รูปประจำตัว - ภาพพอร์ตเทรตสาวน้อยอนิเมะผมบลอนด์ทำหน้าสงสัย - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1776699415134_n1w6w9_HGKa-tUbQAAVeOA.jpg" width="600" alt="โปรไฟล์ / รูปประจำตัว - ชุดสติกเกอร์สัตว์สุดกวน - Image 3">
-</div>
-
-##### Image 4
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1776699415886_xuszbw_HGKa-tcaEAAdNsM.jpg" width="600" alt="โปรไฟล์ / รูปประจำตัว - ชุดสติกเกอร์สัตว์สุดกวน - Image 4">
+<img src="https://cms-assets.youmind.com/media/1776883113829_fl4pcc_HGdDWg_bEAAL-41.jpg" width="600" alt="โปรไฟล์ / รูปประจำตัว - ภาพพอร์ตเทรตสาวน้อยอนิเมะผมบลอนด์ทำหน้าสงสัย - Image 3">
 </div>
 
 #### 📌 รายละเอียด
 
-- **ผู้เขียน:** [みどり🐲Midori Tatsuta](https://x.com/midori_tatsuta)
-- **แหล่งที่มา:** [Twitter Post](https://x.com/midori_tatsuta/status/2045367592353943984)
-- **เผยแพร่เมื่อ:** 18 เมษายน 2569
-- **ภาษา:** ja
+- **ผู้เขียน:** [Torishima / INTP](https://x.com/izutorishima)
+- **แหล่งที่มา:** [Twitter Post](https://x.com/izutorishima/status/2046679150279446678#reversed-0)
+- **เผยแพร่เมื่อ:** 21 เมษายน 2569
+- **ภาษา:** en
 
-**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-2-prompts?id=13987)**
+**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-2-prompts?id=14474)**
 
 ---
 
-### No. 15: โปรไฟล์ / รูปประจำตัว - เครื่องมือสร้างโปรไฟล์ VTuber
+### No. 16: โปรไฟล์ / รูปประจำตัว - ภาพพอร์ตเทรตสาวอนิเมะโทนสีฟ้าละมุน
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 คำอธิบาย
 
-สร้างแผ่นโปรไฟล์ VTuber ที่มีรายละเอียดครบถ้วนและแบ่งเป็นหลายส่วน ประกอบด้วยภาพตัวละครเต็มตัว ภาพวาดสไตล์จิบิ และช่องข้อมูลที่ปรับแต่งได้สำหรับการสตรีม
+พรอมต์นี้ใช้สำหรับสร้างภาพพอร์ตเทรตสาวอนิเมะแบบมินิมอลในโทนสีพาสเทล โดยเป็นภาพครึ่งตัวของสาวผมสีฟ้าในชุดสเวตเตอร์ตัวโคร่งสีฟ้าอ่อน เหมาะสำหรับใช้เป็นรูปอวตาร รูปโปรไฟล์ หรือภาพวาดตัวละครสไตล์ซอฟต์
 
 #### 📝 คำสั่ง
 
 ```
-{ "type": "แผ่นโปรไฟล์ VTuber", "theme": "{argument name=\"color theme\" default=\"ม่วงและขาว\"}, หรูหรา, ลวดลายลูกไม้และริบบิ้น", "character": { "name": "{argument name=\"character name\" default=\"紫咲リリー\"}", "archetype": "{argument name=\"character archetype\" default=\"คุณหนูผู้สง่างาม\"}", "appearance": "สาวอนิเมะ, ผมยาวสีดำไฮไลท์สีม่วง, ตาสีม่วง, สวมเสื้อเบลเซอร์สีขาว, กระโปรงพลีทสีม่วง, ถุงเท้าเหนือเข่า, ประดับด้วยริบบิ้น", "pose": "ท่ายืน, ใช้นิ้วแตะริมฝีปาก, มองไปด้านข้างเล็กน้อย" }, "chibi_character": { "appearance": "ตัวละครเดิมในรูปแบบจิบิ", "pose": "ท่านั่ง, ยิ้มแย้ม" }, "layout": { "header": { "top_left": "ป้ายริบบิ้นเขียนว่า 'VTuber Profile'", "top_center": "โลโก้พร้อมข้อความ '{argument name=\"vtuber type\" default=\"清楚系お嬢様Vtuber\"}' และ '{argument name=\"character name\" default=\"紫咲リリー\"}' และ 'Shisaki Lily'", "top_right": "คำคม '{argument name=\"catchphrase\" default=\"皆さまの心に、優雅なひとときをお届けしますわ\"}' ตามด้วยย่อหน้าแนะนำตัว 3 บรรทัด" }, "columns": [ { "position": "left", "content": "ภาพวาดตัวละครเต็มตัว" }, { "position": "center", "sections": [ { "title": "ข้อมูลส่วนตัว", "count": 9, "labels": ["ชื่อ", "วันเกิด", "อายุ", "ส่วนสูง", "ลักษณะเด่น", "สรรพนามแทนตัวเอง", "บ้านเกิด", "อาชีพ", "วันที่เริ่มกิจกรรม"] }, { "title": "บุคลิกภาพ", "content": "บล็อกข้อความ 2 บรรทัด" }, { "title": "งานอดิเรกและความสามารถพิเศษ", "count": 2, "labels": ["งานอดิเรก", "ความสามารถพิเศษ"] }, { "title": "สิ่งที่ชอบและไม่ชอบ", "count": 2, "labels": ["สิ่งที่ชอบ", "สิ่งที่ไม่ชอบ"] } ] }, { "position": "right", "sections": [ { "title": "เนื้อหาการสตรีม", "content": "บล็อกข้อความ 1 บรรทัด" }, { "title": "ตารางเวลา", "count": 2, "labels": ["เวลาสตรีม", "ความถี่ในการสตรีม"] }, { "title": "เป้าหมาย", "content": "บล็อกข้อความ 3 บรรทัด" }, { "title": "แฟนคลับและแท็ก", "count": 3, "labels": ["ชื่อแฟนคลับ", "แท็กแฟนอาร์ต", "แท็กหลัก"], "extra": "แถวแฮชแท็ก 4 แถวพร้อมไอคอนขนาดเล็ก" }, { "title": "ผู้สร้างสรรค์", "count": 3, "labels": ["นักวาดภาพประกอบ (แม่)", "นักทำโมเดล (พ่อ)", "โมเดลที่ใช้"] }, { "title": "ลิงก์", "count": 4, "labels": ["YouTube", "X (Twitter)", "BOOTH", "FANBOX"] }, { "content": "ภาพวาดตัวละครจิบิที่มุมขวาล่าง" } ] } ], "footer": { "sections": [ { "title": "กฎระเบียบ", "count": 3, "description": "รายการ 3 ข้อพร้อมไอคอนรูปหัวใจ" }, { "content": "ข้อความปิดท้าย 2 บรรทัดที่ด้านล่างตรงกลาง" } ] } }
+ภาพพอร์ตเทรตครึ่งตัวสไตล์อนิเมะละมุนตาของหญิงสาวน่ารักที่อยู่กึ่งกลางบนพื้นหลังสีขาวนวลเรียบๆ วาดด้วยลายเส้นที่สะอาดตาและละเอียดอ่อนพร้อมการลงสีพาสเทลแบบแบน เธอมีผมยาวตรง {argument name="hair color" default="สีฟ้าสกายบลูอ่อน"} ที่ดูพลิ้วไหว มีหน้าม้าหนาที่แยกออกจากกันเล็กน้อยตรงกลาง และดวงตาสีฟ้าเข้าชุดกันที่มีประกายแวววาว สีหน้าของเธอแสดงความเขินอายและสับสน คิ้วขมวดเข้าหากันเล็กน้อย แก้มมีสีชมพูระเรื่อ และปากเผยอเล็กน้อย เธอกำลังมองมาที่ผู้ชมโดยตรงพร้อมกับใช้นิ้วชี้แตะริมฝีปากล่างเบาๆ ในท่าทางที่ดูครุ่นคิดและลังเล เธอสวมเสื้อสเวตเตอร์ตัวโคร่ง {argument name="top color" default="สีฟ้าอ่อน"} แขนยาวที่ปิดมือของเธอไว้บางส่วน จัดเฟรมภาพตั้งแต่ช่วงอกขึ้นไป โดยเอียงศีรษะเล็กน้อยเพื่อให้ความรู้สึกที่อ่อนโยน ไร้เดียงสา และชวนฝัน ใช้การจัดองค์ประกอบแบบมินิมอล ไม่มีเครื่องประดับ ไม่มีวัตถุเพิ่มเติม ไม่มีฉากหลัง และไม่มีข้อความ เน้นโทนสีฟ้าแบบโมโนโครม ความเรียบง่ายที่โปร่งสบาย เส้นร่างที่ดูบางเบา และสุนทรียภาพแบบภาพประกอบญี่ปุ่นที่สะอาดตา เหมาะสำหรับใช้เป็นรูปอวตารส่วนตัวที่ดูนุ่มนวล
 ```
 
 #### 🖼️ รูปภาพที่สร้าง
@@ -1151,33 +1075,32 @@ A 3D render of a cute kawaii {argument name="subject" default="cloud"} character
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1776697127551_k9debb_HGJCxAfaAAEgSCc.jpg" width="600" alt="โปรไฟล์ / รูปประจำตัว - เครื่องมือสร้างโปรไฟล์ VTuber - Image 1">
+<img src="https://cms-assets.youmind.com/media/1776883113864_w40gbf_HGdDboubUAAdZhY.jpg" width="600" alt="โปรไฟล์ / รูปประจำตัว - ภาพพอร์ตเทรตสาวอนิเมะโทนสีฟ้าละมุน - Image 1">
 </div>
 
 #### 📌 รายละเอียด
 
-- **ผู้เขียน:** [WTR](https://x.com/wtry1102)
-- **แหล่งที่มา:** [Twitter Post](https://x.com/wtry1102/status/2045270824542953673#reversed-0)
-- **เผยแพร่เมื่อ:** 17 เมษายน 2569
+- **ผู้เขียน:** [Torishima / INTP](https://x.com/izutorishima)
+- **แหล่งที่มา:** [Twitter Post](https://x.com/izutorishima/status/2046679150279446678#reversed-3)
+- **เผยแพร่เมื่อ:** 21 เมษายน 2569
 - **ภาษา:** en
 
-**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-2-prompts?id=13940)**
+**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-2-prompts?id=14473)**
 
 ---
 
-### No. 16: โปรไฟล์ / รูปประจำตัว - เครื่องมือสร้างภาพ AI สไตล์ภาพสเก็ตช์กราฟฟิตี้
+### No. 17: โปรไฟล์ / รูปประจำตัว - ภาพถ่ายเซลฟี่หน้ากระจกในห้องหรูหรา
 
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 คำอธิบาย
 
-คำสั่ง (Prompt) โดยละเอียดสำหรับการสร้างภาพสเก็ตช์สไตล์กราฟฟิตี้ที่มีเอกลักษณ์ เน้นเส้นสายที่สื่ออารมณ์และบล็อกสีแบบหยาบ พร้อมลายเซ็นเฉพาะตัว
+พรอมต์นี้จะสร้างภาพเซลฟี่หน้ากระจกสไตล์แฟชั่นที่สมจริงของผู้หญิงในชุดเดรสสีงาช้างเข้ารูป เหมาะสำหรับใช้เป็นภาพไลฟ์สไตล์ ภาพชุดแต่งกาย หรือภาพถ่ายเพื่อความสวยงามบนโซเชียลมีเดีย
 
 #### 📝 คำสั่ง
 
 ```
-ถ่ายทอด {argument name="subject" default="a powerful AI builder"} ในสไตล์ภาพสเก็ตช์กราฟฟิตี้ โดยนำเสนอเอฟเฟกต์ภาพรวมที่เป็นเส้นร่างที่รวดเร็ว การบิดเบือนอย่างอิสระ การวาดด้วยมือแบบด้นสด และภาพสเก็ตช์แบบร่าง เส้นสายมีความเป็นกันเอง ดูเกินจริง มีความหนาบางไม่เท่ากัน และดูยุ่งเหยิงเล็กน้อยแต่มีจังหวะและสื่ออารมณ์ได้ดี เน้นการสรุปภาพรวม การขยายความ สนุกสนาน และความเป็นธรรมชาติ มากกว่าความสมจริงหรือรายละเอียดที่ประณีต สีสันถูกถ่ายทอดออกมาเป็นบล็อกหยาบๆ ที่ให้ความรู้สึกเหมือนการใช้แปรงแห้ง (dry-brush) โดยยังคงร่องรอยของการป้ายสี รอยแปรง พื้นที่สีขาว และการซ้อนทับของสีเอาไว้ สีจะปรับเปลี่ยนให้เข้ากับ {argument name="theme" default="powerful AI builder"} โดยอัตโนมัติ แต่การแสดงออกโดยรวมยังคงความเป็นกราฟฟิตี้ ภาพสเก็ตช์ และการสรุปภาพรวมเอาไว้ ไม่ใช้เอฟเฟกต์สีน้ำโปร่งแสง ไม่มีการไล่เฉดสีน้ำที่ละเอียดอ่อน ไม่มีพื้นผิวของกระดาษ ไม่มีการฟุ้งกระจายที่นุ่มนวล และไม่มีพื้นผิวที่ดูชวนฝัน พื้นหลังส่วนใหญ่เป็นพื้นที่ว่าง เพื่อรักษาความรู้สึกเรียบง่าย สบายๆ ความไม่สมบูรณ์ และความเป็นงานออกแบบ สามารถเพิ่มสัญลักษณ์เสริม ลูกศร เครื่องหมาย วงกลม เส้นซ้ำๆ ข้อความที่เขียนด้วยลายมือ หรือองค์ประกอบกราฟฟิตี้อื่นๆ ได้เล็กน้อยเพื่อเสริมภาษาภาพให้ดูเหมือนสมุดสเก็ตช์หรือเรียงความ แต่ไม่ควรให้ดูแน่นจนเกินไปหรือทำลายตัวแบบและบรรยากาศของพื้นที่ว่าง เนื้อหาของภาพไม่จำเป็นต้องกำหนดไว้ล่วงหน้า {argument name="character image" default="a powerful AI builder"} จะอนุมานและสร้างภาพหลัก ท่าทาง องค์ประกอบที่เกี่ยวข้อง สัญลักษณ์ หรือฉากที่เรียบง่ายที่เหมาะสมที่สุดให้โดยอัตโนมัติ สไตล์โดยรวมยังคงความเป็นภาพสเก็ตช์กราฟฟิตี้ที่เป็นเอกภาพ และการแสดงออกที่ดูเกินจริงและสรุปภาพรวม หลีกเลี่ยงพื้นหลังที่สมจริงซับซ้อนและรายละเอียดที่มากเกินไป ควรเพิ่มลายเซ็นพิเศษ 'BlanPlan' อย่างเป็นธรรมชาติให้เป็นส่วนหนึ่งของภาพ ในตำแหน่งที่ดูไม่เด่นแต่ชัดเจน เช่น มุมซ้ายล่าง มุมขวาล่าง หรือใกล้กับชื่อเรื่อง สไตล์ควรมีความกลมกลืนกับองค์ประกอบโดยรวม เหมือนลายเซ็นของศิลปินหรือเครื่องหมายการออกแบบ ฟอนต์ของลายเซ็นควรมีความประณีต สุขุม และดูหรูหรา ไม่ใหญ่จนเกินไป และไม่ควรทำลายองค์ประกอบหลักของภาพ หรือดูแปลกแยกหรือราคาถูก
+ภาพเซลฟี่หน้ากระจกในร่มที่สมจริงของหญิงสาวรูปร่างเพรียวบางและดูมีเสน่ห์ ยืนอยู่ในห้องนั่งเล่นหรือห้องสวีทโรงแรมระดับไฮเอนด์ที่มีแสงนุ่มนวล ถ่ายภาพแนวตั้งตั้งแต่ศีรษะลงมาถึงใต้เข่า เธอสวมชุดเดรสรัดรูปทรงมิดิสีครีมหรือสีงาช้างที่มีการจับเดรปและรูดจีบอย่างสง่างาม โดดเด่นด้วยคอเสื้อแบบอสมมาตรที่มีสายเดี่ยวพาดเฉียงผ่านหน้าอกและเปิดไหล่อีกข้างหนึ่ง ผมของเธอยาวสีน้ำตาลเข้ม ดัดลอนอ่อนๆ และแสกกลาง ปล่อยลงมาทั้งสองข้าง เธอถือสมาร์ทโฟนด้วยมือขวาไว้หน้าใบหน้า บังใบหน้าบางส่วน โดยหันโทรศัพท์เข้าหากระจกติดผนัง ตัวโทรศัพท์มีเคสสีเข้มลายเมฆสีแดง แขนซ้ายปล่อยตามธรรมชาติข้างลำตัว เพิ่มเครื่องประดับที่ดูประณีต ได้แก่ สร้อยคอเส้นบางพร้อมจี้ขนาดเล็ก 1 เส้น กำไลข้อมือสีเงิน 1 วงที่ข้อมือขวา และแหวนที่นิ้วมือข้างที่ถือโทรศัพท์ เน้นรูปร่างของผู้หญิงที่สมจริง ผิวเรียบเนียน แสงไฟโทนอุ่นที่นุ่มนวล และการถ่ายภาพสไตล์โซเชียลมีเดียแบบเอดิทอเรียลที่ดูดีมีระดับ ฉากหลังควรประกอบด้วยโซฟาสีเบจ 1 ตัวด้านหลังเธอ กระเป๋าถือหนังสีน้ำตาลวางอยู่บนโซฟาฝั่งขวา ผนังตกแต่งด้วยหินหรือคอนกรีตที่มีพื้นผิวบริเวณหลังกระจก และโถงทางเดินโทนอุ่นทางด้านซ้ายซึ่งมองเห็นงานศิลปะติดผนัง 2 ชิ้น ใช้เงาในร่มที่เป็นธรรมชาติ พื้นผิวผิวที่ละเอียดอ่อน รอยยับของผ้าที่สมจริงและการบีบอัดบริเวณเอวและสะโพก สุนทรียภาพแบบอพาร์ตเมนต์หรูหรา องค์ประกอบภาพที่สะอาดตา และรายละเอียดที่คมชัด
 ```
 
 #### 🖼️ รูปภาพที่สร้าง
@@ -1185,54 +1108,66 @@ A 3D render of a cute kawaii {argument name="subject" default="cloud"} character
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1776697070400_yf2trn_HGH5vgyaUAA30Z7.jpg" width="600" alt="โปรไฟล์ / รูปประจำตัว - เครื่องมือสร้างภาพ AI สไตล์ภาพสเก็ตช์กราฟฟิตี้ - Image 1">
+<img src="https://cms-assets.youmind.com/media/1776883092153_cm1rks_HGdDJC8WcAAOm_A.jpg" width="600" alt="โปรไฟล์ / รูปประจำตัว - ภาพถ่ายเซลฟี่หน้ากระจกในห้องหรูหรา - Image 1">
 </div>
 
 #### 📌 รายละเอียด
 
-- **ผู้เขียน:** [BLANPLAN | 空界計劃](https://x.com/blanplan)
-- **แหล่งที่มา:** [Twitter Post](https://x.com/blanplan/status/2045190582453350748)
-- **เผยแพร่เมื่อ:** 17 เมษายน 2569
-- **ภาษา:** zh
+- **ผู้เขียน:** [Danna R.](https://x.com/daaaaanc)
+- **แหล่งที่มา:** [Twitter Post](https://x.com/daaaaanc/status/2046678589739839969#reversed-1)
+- **เผยแพร่เมื่อ:** 21 เมษายน 2569
+- **ภาษา:** en
 
-**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-2-prompts?id=13860)**
+**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-2-prompts?id=14421)**
 
 ---
 
-### No. 17: โปรไฟล์ / รูปประจำตัว - ตารางภาพพอร์ตเทรตตัวละครแบบ 3x3
+### No. 18: โปรไฟล์ / รูปประจำตัว - ภาพเซลฟี่หน้ากระจกในชุดเดรสสีขาวที่ดูสมจริง
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 คำอธิบาย
+
+พรอมต์นี้ใช้สำหรับสร้างภาพเซลฟี่หน้ากระจกแนวแฟชั่นที่ดูสมจริงในห้องพักบรรยากาศอบอุ่น เหมาะสำหรับการถ่ายภาพชุด คอนเทนต์ไลฟ์สไตล์ และการเปรียบเทียบความสมจริง
+
+#### 📝 คำสั่ง
+
+```
+ภาพเซลฟี่หน้ากระจกภายในอาคารที่ดูสมจริงของหญิงสาวรูปร่างผอมบาง ยืนอยู่ในห้องนั่งเล่นของอพาร์ตเมนต์ทันสมัยที่มีแสงไฟโทนอบอุ่น เธอสวมชุดเดรสรัดรูปสีขาวงาช้างแบบเปิดไหล่ข้างเดียวที่มีการจับจีบย่นตลอดช่วงลำตัวและสะโพก เธอมีผมตรงสีน้ำตาลเข้มยาวประบ่าแสกกลาง สวมเครื่องประดับน้อยชิ้น ได้แก่ แหวน 2 วง กำไลข้อมือเงิน และต่างหูขนาดเล็กที่ดูเรียบง่าย ใบหน้าของเธอถูกบังด้วยโทรศัพท์ขณะที่เธอกำลังถ่ายรูปด้วยมือข้างหนึ่ง โดยถือสมาร์ทโฟนในเคสสีดำที่ตกแต่งด้วยลวดลายเมฆสีแดง เธอยืนเอียงตัวเล็กน้อยด้วยท่าทางที่ผ่อนคลาย ปล่อยแขนข้างหนึ่งลงข้างลำตัว เผยให้เห็นทรวดทรงที่เป็นธรรมชาติ ฉากถูกจัดวางในแนวตั้งเหมือนภาพเซลฟี่หน้ากระจกสำหรับลงโซเชียลมีเดียทั่วไป ด้านหลังของเธอเป็นโซฟาผ้าสีเบจที่มีหมอนอิงลายเรขาคณิตสีเทา 1 ใบ และกระเป๋าถือหนังสีน้ำตาลอมเทาวางอยู่บนเบาะ พื้นหลังประกอบด้วยผนังเน้นสีน้ำตาลบรอนซ์ที่มีพื้นผิว พื้นกระเบื้องสีครีมเงา โถงทางเดินสลัวทางด้านซ้ายที่มีงานศิลปะติดผนัง 3 กรอบ และไฟเพดานแบบฝังโทนอบอุ่น แสงบรรยากาศยามเย็นที่นุ่มนวล โทนสีผิวที่เป็นธรรมชาติ ความตึงและรอยยับของผ้าที่สมจริง การสะท้อนที่ละเอียดอ่อนในกระจก ความสวยงามของอพาร์ตเมนต์ระดับหรู ความสมจริงสูง พื้นผิวผิวหนังแบบภาพถ่ายจริง มุมมองจากกล้องสมาร์ทโฟน
+```
+
+#### 🖼️ รูปภาพที่สร้าง
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1776883091680_gc1kqf_HGdDIHqXEAEbhzg.jpg" width="600" alt="โปรไฟล์ / รูปประจำตัว - ภาพเซลฟี่หน้ากระจกในชุดเดรสสีขาวที่ดูสมจริง - Image 1">
+</div>
+
+#### 📌 รายละเอียด
+
+- **ผู้เขียน:** [Danna R.](https://x.com/daaaaanc)
+- **แหล่งที่มา:** [Twitter Post](https://x.com/daaaaanc/status/2046678589739839969#reversed-0)
+- **เผยแพร่เมื่อ:** 21 เมษายน 2569
+- **ภาษา:** en
+
+**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-2-prompts?id=14419)**
+
+---
+
+### No. 19: โปรไฟล์ / รูปประจำตัว - ภาพถ่ายพอร์ตเทรตชุดหรูในซานโตรินี
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 คำอธิบาย
 
-สร้างตารางภาพพอร์ตเทรตตัวละครแบบภาพประกอบขนาด 3x3 พร้อมป้ายชื่อ เหมาะสำหรับใช้ทำรายชื่อนักแสดงหรือชุดอวตาร
+พรอมต์นี้ใช้สำหรับสร้างภาพถ่ายพอร์ตเทรตแนวแฟชั่นท่องเที่ยวที่สมจริงของหญิงสาวในชุดสีขาวขณะโพสท่าในซานโตรินี เหมาะอย่างยิ่งสำหรับภาพแนวไลฟ์สไตล์ การพักผ่อนสุดหรู หรือภาพถ่ายเชิงบรรณาธิการ
 
 #### 📝 คำสั่ง
 
 ```
-{
-  "type": "ตารางภาพพอร์ตเทรตตัวละคร",
-  "theme": "{argument name=\"theme\" default=\"ตัวละครจาก Game of Thrones\"}",
-  "style": "{argument name=\"art style\" default=\"ภาพประกอบ 2D แบบแบน, ลายเส้นสะอาดตา, สไตล์คอมิก, มุมมองด้านข้างหันไปทางขวา, ผิวขาวอมชมพู\"}",
-  "layout": {
-    "grid": "3x3",
-    "background": "พื้นหลังสีเทาอ่อนมีเท็กซ์เจอร์",
-    "frame_style": "กรอบสี่เหลี่ยมมุมมนสีขาวพร้อมป้ายชื่อข้อความด้านล่างแต่ละภาพ"
-  },
-  "count": 9,
-  "portraits": [
-    { "label": "Jon Snow", "description": "ผมสีดำรวบครึ่งหัว, ไว้เครา, สวมผ้าคลุมขนสัตว์สีเข้ม" },
-    { "label": "Daenerys Targaryen", "description": "ผมสีเงินถักเปีย, สวมชุดสีฟ้า" },
-    { "label": "Tyrion Lannister", "description": "ผมหยิกสีน้ำตาล, ไว้เครา, สวมเสื้อตัวยาวสีเข้มพร้อมเข็มกลัดทอง" },
-    { "label": "Cersei Lannister", "description": "ผมสีบลอนด์ถักเปีย, สวมชุดสีแดงทองประดับประดา" },
-    { "label": "Ned Stark", "description": "ผมสีน้ำตาลรวบครึ่งหัว, ไว้เครา, สวมผ้าคลุมขนสัตว์สีเข้ม" },
-    { "label": "Arya Stark", "description": "ผมสั้นสีเข้มรวบครึ่งหัว, สวมเสื้อตัวยาวสีน้ำตาล, มีด้ามดาบ" },
-    { "label": "Jaime Lannister", "description": "ผมสั้นสีบลอนด์, สวมชุดเกราะทองลายสิงโต" },
-    { "label": "Sansa Stark", "description": "ผมสีแดงถักเปีย, สวมชุดสีฟ้าพร้อมปกขนสัตว์" },
-    { "label": "Theon Greyjoy", "description": "ผมสั้นหยิกสีเข้ม, สวมเสื้อตัวยาวสีเข้มพร้อมเข็มกลัดรูปคราเคน" }
-  ]
-}
+ภาพพอร์ตเทรตแนวแฟชั่นท่องเที่ยวสุดหรูของ {argument name="woman" default="หญิงสาวผมบลอนด์"} ที่กำลังนั่งอยู่บนขอบหินท่ามกลางแสงแดด มองเห็นวิวแอ่งภูเขาไฟในซานโตรินี ประเทศกรีซ โดยมีอาคารสีขาวริมหน้าผาที่ลดหลั่นลงไปสู่ทะเลสีน้ำเงินเข้มและเกาะภูเขาไฟที่ขรุขระอยู่ไกลๆ เธอสวมชุดเดรสคล้องคอสีงาช้างพลิ้วไหวที่มีคอวีลึกมาก มีช่องตัดด้านข้าง เอวสม็อคพร้อมรายละเอียดห่วงวงกลม และผ้าจีบเนื้อนุ่มที่พาดอยู่บนตัก ผมของเธอยาวเป็นลอนและมี {argument name="hair color" default="สีบลอนด์ทอง"} จัดทรงปล่อยสยายลงมาบนไหล่ เพิ่มสร้อยคอแบบเลเยอร์ที่ดูละเอียดอ่อน รวมถึงจี้ขนาดเล็กและสร้อยคอกางเขนสีเงิน พร้อมด้วยสร้อยข้อมือหรือนาฬิกาที่ข้อมือข้างหนึ่ง จัดวางโบสถ์กรีกสีขาวคลาสสิกที่มีโดม {argument name="dome color" default="สีน้ำเงิน"} สดใสไว้ที่พื้นหลังด้านขวาบน และจัดองค์ประกอบภาพด้านขวาด้วยดอกเฟื่องฟ้า {argument name="flower color" default="สีชมพูบานเย็น"} ที่บานสะพรั่ง แสงเป็นแสงแดดจัดยามเที่ยงแบบเมดิเตอร์เรเนียนพร้อมไฮไลท์ที่คมชัด ผิวดูเปล่งปลั่งอย่างนุ่มนวล และมีระยะชัดลึกที่นุ่มนวลซึ่งทำให้ตัวแบบดูคมชัดในขณะที่สถาปัตยกรรมและทะเลในพื้นหลังดูซอฟต์ลงเล็กน้อย องค์ประกอบภาพเป็นแนวตั้ง ดูหรูหราและน่าหลงใหล โดยให้ตัวแบบอยู่ค่อนไปทางขวาเล็กน้อย เห็นช่วงตัวลงไปจนถึงกระโปรงที่พลิ้วไหว และแนวชายฝั่งที่ทอดยาวไปทางครึ่งซ้ายของเฟรม เพิ่มข้อความสีดำขนาดเล็กที่มุมซ้ายบนว่า {argument name="corner text" default="GPT V2"} สุนทรียภาพของการพักผ่อนสุดหรูที่สมจริง รายละเอียดสูง สีสันที่เป็นธรรมชาติ ให้บรรยากาศการท่องเที่ยวแบบ Instagram เชิงบรรณาธิการ
 ```
 
 #### 🖼️ รูปภาพที่สร้าง
@@ -1240,67 +1175,53 @@ A 3D render of a cute kawaii {argument name="subject" default="cloud"} character
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1776697136105_9lqpeo_HGGmCc1bYAAlEKf.jpg" width="600" alt="โปรไฟล์ / รูปประจำตัว - ตารางภาพพอร์ตเทรตตัวละครแบบ 3x3 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1776883094779_1iys4p_HGc_qAbXkAAJFk0.jpg" width="600" alt="โปรไฟล์ / รูปประจำตัว - ภาพถ่ายพอร์ตเทรตชุดหรูในซานโตรินี - Image 1">
 </div>
 
 #### 📌 รายละเอียด
 
-- **ผู้เขียน:** [Nicolechan](https://x.com/stark_nico99)
-- **แหล่งที่มา:** [Twitter Post](https://x.com/stark_nico99/status/2045098289390051792#reversed-0)
-- **เผยแพร่เมื่อ:** 17 เมษายน 2569
+- **ผู้เขียน:** [Ed](https://x.com/Eduardopto)
+- **แหล่งที่มา:** [Twitter Post](https://x.com/Eduardopto/status/2046675324067258535#reversed-3)
+- **เผยแพร่เมื่อ:** 21 เมษายน 2569
 - **ภาษา:** en
 
-**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-2-prompts?id=13954)**
+**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-2-prompts?id=14428)**
 
 ---
 
-### No. 18: โปรไฟล์ / รูปประจำตัว - การสร้างภาพเหมือนจักรพรรดิในประวัติศาสตร์
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 คำอธิบาย
-
-พรอมต์สำหรับสร้างอวตารของจักรพรรดิในประวัติศาสตร์ด้วยสไตล์ที่กำหนด พร้อมระบุชื่อและตำแหน่งไว้ใต้ภาพ
-
-#### 📝 คำสั่ง
-
-```
-สร้างอวตารของจักรพรรดิองค์ต่างๆ จาก {argument name="dynasty" default="ราชวงศ์หมิง"} โดยอิงตามสไตล์ของภาพที่อัปโหลด พร้อมระบุพระนามหลังสวรรคตและพระนามเดิมไว้ใต้ภาพอวตาร
-```
-
-#### 🖼️ รูปภาพที่สร้าง
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1776697068903_4jwcnx_HGGN5bDboAAJVVN.jpg" width="600" alt="โปรไฟล์ / รูปประจำตัว - การสร้างภาพเหมือนจักรพรรดิในประวัติศาสตร์ - Image 1">
-</div>
-
-#### 📌 รายละเอียด
-
-- **ผู้เขียน:** [李岳](https://x.com/liyue_ai)
-- **แหล่งที่มา:** [Twitter Post](https://x.com/liyue_ai/status/2045071977279635962)
-- **เผยแพร่เมื่อ:** 17 เมษายน 2569
-- **ภาษา:** zh
-
-**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-2-prompts?id=13858)**
-
----
-
-### No. 19: โปรไฟล์ / รูปประจำตัว - การถ่ายภาพพอร์ตเทรตแบบเปียกที่ดูมีมิติ
+### No. 20: โปรไฟล์ / รูปประจำตัว - ภาพถ่ายพอร์ตเทรตสไตล์ฟิล์ม Fuji ญี่ปุ่น
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 คำอธิบาย
 
-สร้างภาพพอร์ตเทรตขาวดำที่มีความสมจริงสูงและคอนทราสต์จัด โดยเน้นไปที่พื้นผิวของผิวหนังที่เปียกชื้นและแสงเงาที่ดูมีมิติ
+คำสั่ง (Prompt) รายละเอียดสูงสำหรับการสร้างภาพพอร์ตเทรตสไตล์ Fujifilm คุณภาพเยี่ยม ที่ให้ความรู้สึกนุ่มนวล เป็นธรรมชาติ และอบอุ่นในช่วงเช้า
 
 #### 📝 คำสั่ง
 
 ```
-ภาพพอร์ตเทรตระยะใกล้แบบขาวดำที่โดดเด่นของ {argument name="subject description" default="ชายหนุ่มชาวเอเชียหน้าตาดี"} ที่มี {argument name="hair style" default="ผมเปียกยุ่งเหยิงปรกหน้าผาก"} ใบหน้าและลำคอของเขาดูเป็นประกาย ปกคลุมไปด้วย {argument name="skin texture detail" default="หยดน้ำและเหงื่อ"} ที่มีรายละเอียดสูง เขามีสายตาที่ดูจริงจังและเศร้าสร้อยทอดมองออกไปนอกกล้องทางด้านซ้าย แสงที่ใช้มีความจัดจ้านและคอนทราสต์สูง ช่วยเน้นให้เห็นแนวขากรรไกรที่คมชัด ริมฝีปากอิ่ม และแสงสะท้อนบนผิวที่เปียกชื้นตัดกับ {argument name="background" default="พื้นหลังสีดำสนิท"} ถ่ายทำในสไตล์ภาพถ่ายแฟชั่นแนวบรรณาธิการที่สมจริง พร้อมเทคนิคการใช้แสงเงาแบบภาพยนตร์ (chiaroscuro)
+แนวตั้ง 9:16 — {argument name="film style" default="Japanese Fuji film style"} ภาพพอร์ตเทรต, ตัวแบบเดี่ยว
+
+สุนทรียภาพแบบฟิล์ม Fujifilm (ให้ความรู้สึกแบบ Pro 400H / Superia), โทนสีพาสเทลนุ่มนวล, ติดเขียว-ม่วงแดงเล็กน้อย, คอนทราสต์ต่ำ, ไฮไลต์ไล่ระดับอย่างนุ่มนวล, เกรนฟิล์มละเอียด, มีการฟุ้งกระจายของแสง (halation) เล็กน้อย
+
+บรรยากาศในร่มช่วงเช้าตรู่ใกล้หน้าต่าง, ผ้าม่านโปร่ง, แสงธรรมชาติยามเช้า
+
+{argument name="subject" default="young Japanese female idol"}, แต่งหน้าบางเบาดูเป็นธรรมชาติ, ผิวสัมผัสเนียนนุ่มดูสดใส
+
+เครื่องแต่งกาย: เสื้อเชิ้ตตัวใหญ่กับกางเกงขาสั้นหลวมๆ, สไตล์ชุดอยู่บ้านแบบสบายๆ, ไม่โป๊
+
+ทรงผม: ยุ่งเล็กน้อย, ดูมีวอลลุ่มเป็นธรรมชาติ, ให้ความรู้สึกเหมือนเพิ่งตื่นนอน
+
+ท่าทาง: นั่งที่ขอบเตียงหรือริมหน้าต่าง, โน้มตัวไปข้างหน้าเล็กน้อย, ไหล่ผ่อนคลาย; มือข้างหนึ่งถือดอกไม้เล็กๆ หรือจับชายผ้าอย่างหลวมๆ, มืออีกข้างวางในท่าที่เป็นธรรมชาติ
+
+สีหน้า: สายตาอ่อนโยนและดูง่วงนอนเล็กน้อย, สงบนิ่งและเป็นธรรมชาติ
+
+แสง: {argument name="lighting" default="soft morning light"}, แสงฟุ้งกระจาย, เงาจางๆ
+
+อารมณ์ภาพ: เงียบสงบ, สดชื่น, ช่วงเวลาส่วนตัวในชีวิตประจำวัน
+
+คุณภาพ: สมจริงระดับสูง, มีเกรนฟิล์ม, ความนุ่มนวลเล็กน้อย, มีความไม่สมบูรณ์แบบที่เป็นธรรมชาติ
 ```
 
 #### 🖼️ รูปภาพที่สร้าง
@@ -1308,51 +1229,17 @@ A 3D render of a cute kawaii {argument name="subject" default="cloud"} character
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1776697139323_18zxco_HGF4SsDbgAA0l4a.jpg" width="600" alt="โปรไฟล์ / รูปประจำตัว - การถ่ายภาพพอร์ตเทรตแบบเปียกที่ดูมีมิติ - Image 1">
+<img src="https://cms-assets.youmind.com/media/1776883040570_763zc0_HGc0HfYaMAAEgPM.jpg" width="600" alt="โปรไฟล์ / รูปประจำตัว - ภาพถ่ายพอร์ตเทรตสไตล์ฟิล์ม Fuji ญี่ปุ่น - Image 1">
 </div>
 
 #### 📌 รายละเอียด
 
-- **ผู้เขียน:** [Ao Ye](https://x.com/AoYe999)
-- **แหล่งที่มา:** [Twitter Post](https://x.com/AoYe999/status/2045047980605190213#reversed-0)
-- **เผยแพร่เมื่อ:** 17 เมษายน 2569
+- **ผู้เขียน:** [BubbleBrain](https://x.com/BubbleBrain)
+- **แหล่งที่มา:** [Twitter Post](https://x.com/BubbleBrain/status/2046661936381911182)
+- **เผยแพร่เมื่อ:** 21 เมษายน 2569
 - **ภาษา:** en
 
-**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-2-prompts?id=13960)**
-
----
-
-### No. 20: โปรไฟล์ / รูปประจำตัว - ภาพถ่ายคอสเพลเยอร์หลังเวที
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 คำอธิบาย
-
-ภาพถ่ายสมจริงของคอสเพลเยอร์ที่กำลังจัดชุดเกราะแฟนตาซีอันวิจิตรบรรจงในห้องแต่งตัวที่เต็มไปด้วยอุปกรณ์
-
-#### 📝 คำสั่ง
-
-```
-ภาพถ่ายสมจริงที่มีรายละเอียดสูงของหญิงสาวชาวเอเชียตะวันออกที่กำลังนั่งอยู่ในห้องแต่งตัวหลังเวทีที่เต็มไปด้วยอุปกรณ์ เพื่อเตรียมตัวสำหรับงานคอสเพลย์ เธอมีผมสี {argument name="hair color" default="แดงสดสั้น"} ทรงบ๊อบหน้าม้า และสวมชุดนักรบแฟนตาซีสุดอลังการที่ประกอบด้วยกระโปรงสั้นแบบชั้นสี {argument name="costume color" default="แดงเงา"} ตัดกับสีทอง เสื้อคอร์เซ็ตสีขาวแต่งลูกไม้สีดำและเชือกผูกสีแดง พร้อมปลอกแขนเงาวับและรองเท้าบูทสูงถึงต้นขา เธอกำลังก้มหน้าด้วยสีหน้าจดจ่อ โดยใช้มือขวาปรับปลอกแขนที่แขนซ้ายของเธอ บนโต๊ะเครื่องแป้งตรงหน้าเต็มไปด้วยความวุ่นวาย ทั้งแปรงแต่งหน้า ขวดเครื่องสำอาง หวี และวิกผมเสริม มี {argument name="prop" default="ดาบแฟนตาซีใบมีดสีฟ้าด้ามจับสีทอง"} ขนาดใหญ่ที่ดูวิจิตรบรรจงพิงอยู่ขอบโต๊ะ ฉากหลังเผยให้เห็นกระจกแต่งหน้าที่มีหลอดไฟทรงกลมส่องสว่าง สะท้อนให้เห็นราวแขวนเสื้อผ้า ให้บรรยากาศแบบภาพถ่ายแคนดิดที่มีความคมชัดสูงและเต็มไปด้วยรายละเอียดของพื้นผิว
-```
-
-#### 🖼️ รูปภาพที่สร้าง
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1776697112218_e7gg2b_HGFquTYagAA6VSc.jpg" width="600" alt="โปรไฟล์ / รูปประจำตัว - ภาพถ่ายคอสเพลเยอร์หลังเวที - Image 1">
-</div>
-
-#### 📌 รายละเอียด
-
-- **ผู้เขียน:** [らけしで / Mizmic Studio](https://x.com/lakeside529)
-- **แหล่งที่มา:** [Twitter Post](https://x.com/lakeside529/status/2045033508062867821#reversed-0)
-- **เผยแพร่เมื่อ:** 17 เมษายน 2569
-- **ภาษา:** en
-
-**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-2-prompts?id=13914)**
+**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-2-prompts?id=14301)**
 
 ---
 
@@ -1485,19 +1372,18 @@ A 3D render of a cute kawaii {argument name="subject" default="cloud"} character
 
 ---
 
-### No. 22: โพสต์บนโซเชียลมีเดีย - Douyin Livestream Screenshot Prompt
+### No. 22: โพสต์บนโซเชียลมีเดีย - แผ่นสติกเกอร์ลูกแมวดำสุดน่ารักสไตล์ญี่ปุ่น
 
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 คำอธิบาย
 
-A prompt for generating a realistic screenshot of a Douyin livestream featuring a celebrity holding a personalized sign.
+แผ่นสติกเกอร์ 15 ช่อง ลายลูกแมวดำแสดงอารมณ์ต่างๆ พร้อมข้อความภาษาญี่ปุ่น เหมาะสำหรับใช้เป็นสติกเกอร์แชท ไอเดียทำ LINE Stamp หรือภาพประกอบบนโซเชียลมีเดีย
 
 #### 📝 คำสั่ง
 
 ```
-A 9:16 aspect ratio image, generating a screenshot of a Douyin livestream where {argument name="celebrity" default="Liu Yifei"} is broadcasting, holding a sign that says "{argument name="sign text" default="Streaming tonight, welcome to join Yifei's chat!"}"
+{"type":"cute sticker sheet illustration","subject":{"species":"ลูกแมวดำ","style":"สไตล์จิบิสุดน่ารัก ลายเส้นแบบอนิเมะกึ่งภาพวาดที่นุ่มนวล ดวงตากลมโตสีน้ำตาลอำพัน จมูกเล็กๆ หูที่แสดงอารมณ์ได้ชัดเจน ขนสีดำถ่านฟูฟ่องพร้อมไฮไลท์สีน้ำตาลอบอุ่น เส้นขอบหนาคมชัด"},"layout":{"background":"พื้นหลังสีขาวเรียบ","grid":{"rows":3,"columns":5,"count":15},"sections":[{"title":"01. ありがとう！","position":"row 1 col 1","count":1,"labels":["ท่าทางดีใจขอบคุณโดยประสานอุ้งเท้าทั้งสองข้างไว้ที่หน้าอก ปากยิ้มกว้าง มีกลีบดอกซากุระสีชมพูรอบตัวแมว"]},{"title":"02. おつかれさま！","position":"row 1 col 2","count":1,"labels":["แมวท่าทางผ่อนคลายถือแก้วน้ำสีเขียวที่มีสัญลักษณ์รอยเท้าสัตว์ หลับตา มีควันจางๆ ลอยขึ้นมา พร้อมเส้นขีดเน้นสีเหลืองแสดงความยินดี"]},{"title":"03. 了解です！","position":"row 1 col 3","count":1,"labels":["ลูกแมวยืนตัวตรงยกอุ้งเท้าข้างหนึ่งขึ้นเพื่อตอบรับ สีหน้าสดใสตั้งใจฟัง มีเส้นขีดเน้นสีเหลืองด้านบน"]},{"title":"04. ＯＫ！","position":"row 1 col 4","count":1,"labels":["ลูกแมวขยิบตาทำท่ามือ OK ด้วยอุ้งเท้าข้างหนึ่ง ยิ้มเล็กน้อย มีเส้นขีดเน้นสีเหลือง"]},{"title":"05. はーい！","position":"row 1 col 5","count":1,"labels":["ลูกแมวตื่นเต้นโบกอุ้งเท้าข้างหนึ่งขึ้นสูง ปากยิ้มกว้าง มีเส้นขีดเน้นสีเหลือง"]},{"title":"06. いいね！","position":"row 2 col 1","count":1,"labels":["ลูกแมวขยิบตาทำท่ากดไลก์ มีหัวใจสีชมพูเล็กๆ อยู่ข้างๆ พร้อมเส้นขีดเน้นสีเหลือง"]},{"title":"07. がんばる！","position":"row 2 col 2","count":1,"labels":["ลูกแมวมุ่งมั่นกำอุ้งเท้าแน่นและแววตาดุดัน ล้อมรอบด้วยเปลวไฟสีส้มสไตล์การ์ตูน"]},{"title":"08. なんとかなる！","position":"row 2 col 3","count":1,"labels":["ลูกแมวท่าทางมั่นใจและสงบนิ่ง หลับตาและยืดอกเล็กน้อย มีดอกไม้สีชมพูลอยอยู่รอบๆ"]},{"title":"09. ごめんね…","position":"row 2 col 4","count":1,"labels":["ลูกแมวเศร้าสำนึกผิดประสานอุ้งเท้าไว้ที่หน้าอก ดวงตาหม่นหมอง มีหยดเหงื่อสีฟ้าหนึ่งหยด"]},{"title":"10. 待ってるね！","position":"row 2 col 5","count":1,"labels":["ลูกแมวชะโงกหน้าข้ามขอบไม้โดยเห็นอุ้งเท้าทั้งสองข้าง สีหน้าตั้งตารอ มีเส้นแสดงการเคลื่อนไหวเล็กน้อยทั้งสองข้าง"]},{"title":"11. おやすみなさい","position":"row 3 col 1","count":1,"labels":["ลูกแมวนอนขดตัวบนเบาะสีชมพู มีตัวอักษร ZZZ สีฟ้า พระจันทร์เสี้ยวและดวงดาวเล็กๆ ด้านบน"]},{"title":"12. いってきます！","position":"row 3 col 2","count":1,"labels":["ภาพด้านหลังของลูกแมวที่กำลังเดินจากไปอย่างร่าเริงพร้อมยกอุ้งเท้าข้างหนึ่งขึ้น สะพายกระเป๋าเป้สีเขียวที่มีตราสัญลักษณ์รอยเท้าและเครื่องประดับห้อยเล็กๆ มีเส้นขีดเน้นสีเหลือง"]},{"title":"13. ただいま！","position":"row 3 col 3","count":1,"labels":["ลูกแมวหันหน้าตรงยกอุ้งเท้าทั้งสองข้างขึ้นสูง ยิ้มกว้างอย่างมีความสุข มีประกายสีทองรอบตัว"]},{"title":"14. よろしくね！","position":"row 3 col 4","count":1,"labels":["ลูกแมวนั่งตัวตรงหันหน้าไปข้างหน้า ยิ้มอย่างสุภาพ มีเส้นขีดเน้นสีเหลืองข้างศีรษะ"]},{"title":"15. 大好き！","position":"row 3 col 5","count":1,"labels":["ลูกแมวท่าทางพอใจกอดหัวใจสีชมพูขนาดใหญ่ หลับตา มีหัวใจสีชมพูเล็กๆ หลายดวงลอยอยู่รอบๆ"]}],"spacing":"เว้นระยะห่างเท่าๆ กันพร้อมขอบสีขาวกว้างขวาง"},"rendering":{"quality":"รายละเอียดสูง","lighting":"แสงสตูดิโอที่นุ่มนวลและสม่ำเสมอ","color_palette":"ขนสีดำ, ดวงตาสีน้ำตาลอบอุ่น, หัวใจและดอกไม้สีชมพู, เครื่องหมายเน้นสีเหลือง, อุปกรณ์เสริมสีเขียว, ตกแต่งสไตล์พาสเทลแบบมินิมอล","mood":"เป็นมิตร, อบอุ่น, พร้อมใช้งานเป็นสติกเกอร์, ชุดสติกเกอร์สำหรับแอปแชท","composition":"สติกเกอร์แต่ละตัวถูกแยกออกจากกันและวางไว้ตรงกลางในช่องของตัวเอง พร้อมข้อความภาษาญี่ปุ่นตัวหนาด้านบน"}}
 ```
 
 #### 🖼️ รูปภาพที่สร้าง
@@ -1505,114 +1391,592 @@ A 9:16 aspect ratio image, generating a screenshot of a Douyin livestream where 
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1776756766083_5gpzrm_HGaNNPeb0AEXZ5K.jpg" width="600" alt="โพสต์บนโซเชียลมีเดีย - Douyin Livestream Screenshot Prompt - Image 1">
+<img src="https://cms-assets.youmind.com/media/1776883119955_nw7ax5_HGgqTCBbcAAw6TD.jpg" width="600" alt="โพสต์บนโซเชียลมีเดีย - แผ่นสติกเกอร์ลูกแมวดำสุดน่ารักสไตล์ญี่ปุ่น - Image 1">
+</div>
+
+#### 📌 รายละเอียด
+
+- **ผู้เขียน:** [むく | AIアート× Threads](https://x.com/muku_sns)
+- **แหล่งที่มา:** [Twitter Post](https://x.com/muku_sns/status/2046932542998364645#reversed-0)
+- **เผยแพร่เมื่อ:** 22 เมษายน 2569
+- **ภาษา:** en
+
+**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-2-prompts?id=14490)**
+
+---
+
+### No. 23: โพสต์บนโซเชียลมีเดีย - ภาพถ่ายพอร์ตเทรตสไตล์แคนดิดในร้านบูติกโทนสีน้ำตาล
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 คำอธิบาย
+
+พรอมต์นี้จะสร้างภาพถ่ายไลฟ์สไตล์แนวตั้งที่สมจริงของหญิงสาวในร้านค้าโทนสีอบอุ่น เหมาะสำหรับใช้ในงานแฟชั่น ค้าปลีก หรือภาพประกอบสำหรับสื่อโซเชียลมีเดีย
+
+#### 📝 คำสั่ง
+
+```
+ภาพถ่ายสมาร์ทโฟนแนวตั้งสไตล์แคนดิดที่ดูสมจริงของหญิงสาวชาวเอเชียตะวันออก ยืนอยู่ในร้านบูติกหรือร้านเครื่องหอมที่มีโทนสีอบอุ่น ถ่ายจากมุมสูงเล็กน้อยโดยเน้นที่ช่วงบนและลำตัวของนางแบบ เธอมีผม {argument name="hair color" default="สีน้ำตาลเข้มถึงสีดำ"} รวบเป็นหางม้าต่ำและมีปอยผมหลุดลุ่ยเล็กน้อยบริเวณใบหน้า ในมือข้างหนึ่งถือถ้วยหรือโหลเทียนสีครีมขาวไว้ใกล้ปาก เธอสวมเสื้อแขนยาวแบบมีซิปหน้าเข้ารูปในโทน {argument name="outfit color" default="สีน้ำตาลช็อกโกแลต"} โดยรูดซิปลงเล็กน้อย จับคู่กับกางเกงเอวสูงสีเดียวกันเพื่อให้ได้ลุคแบบโมโนโครม ท่าทางของเธอเป็นธรรมชาติและเอนตัวเล็กน้อย โดยแขนอีกข้างปล่อยสบายๆ ไว้ด้านหลัง ทำให้ภาพดูเหมือนภาพถ่ายไลฟ์สไตล์แบบเผลอๆ ชั้นวางของรอบตัวเป็นไม้และเต็มไปด้วยโหลเทียนแก้วและบรรจุภัณฑ์สินค้าขนาดเล็ก ซึ่งถูกทำให้เบลออย่างนุ่มนวลในพื้นหลังและด้านซ้ายของเฟรม ใช้แสงไฟภายในอาคารที่ให้ความรู้สึกอบอุ่น ระยะชัดลึกตื้น ผิวสัมผัสที่สมจริง ไฮไลท์บนเส้นผมที่ดูเป็นธรรมชาติ ท่าทางมือที่เป็นธรรมชาติ และบรรยากาศร้านค้าแบบงานฝีมือที่อบอุ่น จัดองค์ประกอบภาพแบบครึ่งตัวถึงเต็มตัวในแนวตั้ง โดยให้ตัวแบบอยู่ตรงกลางและพื้นหลังทำมุมเฉียงเพื่อเพิ่มมิติของภาพถ่ายสไตล์แคนดิด สไตล์การถ่ายภาพ: สมจริง รายละเอียดสูง โบเก้ละมุน ภาพถ่ายสไตล์ร้านบูติก ให้ความรู้สึกเหมือนถ่ายด้วยเลนส์ 35 มม. และการปรับสีที่เป็นธรรมชาติ
+```
+
+#### 🖼️ รูปภาพที่สร้าง
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1776883175967_zxdlwy_HGgQ_2-bQAA2dRG.jpg" width="600" alt="โพสต์บนโซเชียลมีเดีย - ภาพถ่ายพอร์ตเทรตสไตล์แคนดิดในร้านบูติกโทนสีน้ำตาล - Image 1">
+</div>
+
+#### 📌 รายละเอียด
+
+- **ผู้เขียน:** [浅野 美咲（Asano Misaki）](https://x.com/Asan0_Misaki)
+- **แหล่งที่มา:** [Twitter Post](https://x.com/Asan0_Misaki/status/2046904727674462560#reversed-2)
+- **เผยแพร่เมื่อ:** 22 เมษายน 2569
+- **ภาษา:** en
+
+**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-2-prompts?id=14630)**
+
+---
+
+### No. 24: โพสต์บนโซเชียลมีเดีย - ภาพถ่ายพอร์ตเทรตถือกล่องไข่ในทางเดินซูเปอร์มาร์เก็ต
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 คำอธิบาย
+
+พรอมต์นี้จะสร้างภาพถ่ายไลฟ์สไตล์แนวตั้งที่สมจริงของหญิงสาวที่มีสไตล์ในร้านขายของชำ ขณะถือกล่องไข่ 6 ฟองที่เปิดอยู่ เหมาะสำหรับใช้ในโซเชียลมีเดียหรือภาพประกอบสไตล์บรรณาธิการ
+
+#### 📝 คำสั่ง
+
+```
+ภาพถ่ายแนวตั้งจากสมาร์ทโฟนแบบแคนดิดของหญิงสาว {argument name="woman age" default="วัยผู้ใหญ่ตอนต้น"} ที่กำลังเลือกซื้อของในทางเดินซูเปอร์มาร์เก็ตสมัยใหม่ช่วงกลางคืน จัดเฟรมภาพตั้งแต่ช่วงต้นขาถึงศีรษะในมุมมองระยะใกล้แบบมุมกว้างเล็กน้อย เธอยืนอยู่ข้างชั้นวางผักและของชำที่มีสีสันสดใสในตู้แช่เย็น พร้อมชั้นวางสีดำเงา แสงไฟในร้านที่สว่างไสว พื้นผิวสะท้อนแสง และฉากหลังที่มีเอฟเฟกต์โบเก้นุ่มนวล ในมือซ้ายเธอถือกล่องไข่กระดาษรีไซเคิลที่เปิดอยู่หันมาทางกล้อง เผยให้เห็นไข่สีน้ำตาล 6 ฟองด้านใน มือขวาของเธออยู่ใกล้กับรถเข็นตะกร้าช้อปปิ้งสีดำที่เต็มไปด้วยสินค้า เธอมีผมยาวสีน้ำตาลเข้มปล่อยสยาย และใบหน้าของเธอถูกเบลอด้วยบล็อกสี่เหลี่ยมขอบนุ่มขนาดใหญ่ที่วางไว้ตรงกลางใบหน้าโดยเจตนา เธอสวมเสื้อครอปแขนยาวผ้าถักร่องสีน้ำตาลแบบมีซิปหน้า โดยรูดซิปเปิดเล็กน้อยที่หน้าอก และสวมกางเกงเอวสูงสีน้ำตาลเข้าชุดกัน ท่าทางดูเป็นธรรมชาติและมั่นใจ โดยมีกล่องไข่เป็นจุดเด่นของภาพ การถ่ายภาพที่สมจริง แสงภายในอาคารแบบไม่ใช้แฟลช ระยะชัดลึกตื้น รายละเอียดผิวและเนื้อผ้าที่ชัดเจน การสะท้อนแสงที่เป็นธรรมชาติ คอนทราสต์สูง สุนทรียภาพแบบไลฟ์สไตล์แฟชั่น ให้ความรู้สึกแบบภาพถ่ายบรรณาธิการ จัดองค์ประกอบภาพแนวตั้ง 9:16
+```
+
+#### 🖼️ รูปภาพที่สร้าง
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1776883175832_ccqn07_HGgQ_ycasAAyNgF.jpg" width="600" alt="โพสต์บนโซเชียลมีเดีย - ภาพถ่ายพอร์ตเทรตถือกล่องไข่ในทางเดินซูเปอร์มาร์เก็ต - Image 1">
+</div>
+
+#### 📌 รายละเอียด
+
+- **ผู้เขียน:** [浅野 美咲（Asano Misaki）](https://x.com/Asan0_Misaki)
+- **แหล่งที่มา:** [Twitter Post](https://x.com/Asan0_Misaki/status/2046904727674462560#reversed-1)
+- **เผยแพร่เมื่อ:** 22 เมษายน 2569
+- **ภาษา:** en
+
+**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-2-prompts?id=14629)**
+
+---
+
+### No. 25: โพสต์บนโซเชียลมีเดีย - จักรพรรดินีแห่งฤดูใบไม้ร่วงอันหรูหราท่ามกลางแสงอาทิตย์อัสดง
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 คำอธิบาย
+
+พรอมต์นี้จะสร้างภาพพอร์ตเทรตแฟนตาซีในธีมฤดูใบไม้ร่วงที่ประดับประดาด้วยอัญมณีอันเจิดจรัส เหมาะสำหรับงานศิลปะที่ต้องการความโดดเด่นและภาพประกอบบนโซเชียลมีเดียที่ดึงดูดสายตา
+
+#### 📝 คำสั่ง
+
+```
+ภาพพอร์ตเทรตแฟนตาซีสุดหรูหราของหญิงสาวผู้สง่างามในมุมข้าง จัดวางตำแหน่งค่อนไปทางซ้ายเล็กน้อย สวมเครื่องประดับศีรษะและชุดคลุมสุดอลังการที่ทำจากใบเมเปิลสีแดง ดอกไม้ที่คล้ายดอกเบญจมาศ ลวดลายทองคำ อัญมณี จี้คริสตัล และเครื่องประดับกระจกสีโปร่งแสง ผมยาวสีเข้มของเธอทิ้งตัวลงมาบนไหล่ โดยใบหน้าส่วนใหญ่ถูกบดบังด้วยเงาและมุมกล้อง สร้างลุคที่ดูลึกลับและสมบูรณ์แบบ ล้อมรอบตัวเธอด้วยกรอบวงกลมขนาดใหญ่และริบบิ้นโค้งที่ทำจากแก้วโปร่งใสสีอำพัน สีทับทิม และสีส้ม ฝังด้วยอัญมณีเจียระไนและหยดคริสตัลสะท้อนแสง เติมเต็มฉากด้วยใบเมเปิลที่ลอยละล่องอย่างชัดเจนจำนวน 9 ใบในอากาศ กำหนดฉากหลังเป็นหุบเขาภูเขาที่ส่องประกายยามพระอาทิตย์ตกดิน โดยมีดวงอาทิตย์อยู่ต่ำที่ขอบฟ้า แสงสีทองอบอุ่น ยอดเขาที่อยู่ไกลออกไป ป่าฤดูใบไม้ร่วง และแม่น้ำที่สะท้อนแสงอยู่เบื้องล่าง ภาพทั้งหมดควรอาบไปด้วยโทนสีส้มเพลิง สีทองแดง สีทอง และสีแดงชาด พร้อมความอลังการทางสายตาขั้นสุด ไฮไลท์ที่เจิดจ้า รายละเอียดที่ซ้อนทับกันอย่างหนาแน่น โบเก้ที่เป็นประกาย แสงไฟแบบภาพยนตร์ และความงามที่วิจิตรบรรจงในระดับที่เข้มข้นจนน่าทึ่ง รายละเอียดสูงพิเศษ สไตล์แม็กซิมัลลิสต์ (Maximalist) ความงดงามที่ดูเหนือจริง พื้นผิวที่มันวาว แสงสีดุจอัญมณี และองค์ประกอบภาพแบบภาพยนตร์มุมกว้าง
+```
+
+#### 🖼️ รูปภาพที่สร้าง
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1776883127085_qxq354_HGf7lybbYAARHra.jpg" width="600" alt="โพสต์บนโซเชียลมีเดีย - จักรพรรดินีแห่งฤดูใบไม้ร่วงอันหรูหราท่ามกลางแสงอาทิตย์อัสดง - Image 1">
+</div>
+
+#### 📌 รายละเอียด
+
+- **ผู้เขียน:** [AIおじさん](https://x.com/AIojisan1952)
+- **แหล่งที่มา:** [Twitter Post](https://x.com/AIojisan1952/status/2046881419344134446#reversed-0)
+- **เผยแพร่เมื่อ:** 22 เมษายน 2569
+- **ภาษา:** en
+
+**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-2-prompts?id=14508)**
+
+---
+
+### No. 26: โพสต์บนโซเชียลมีเดีย - โฆษณาภาพคอลลาจหุ่นยนต์จิตรกร
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 คำอธิบาย
+
+ภาพคอลลาจแบบ 2x2 ที่ดูเป็นมืออาชีพ แสดงภาพหุ่นยนต์น่ารักกำลังวาดภาพผลงานศิลปะ 4 แบบ เหมาะสำหรับประกาศเปิดตัวเครื่องมือสร้างภาพ AI และแบนเนอร์โซเชียลมีเดีย
+
+#### 📝 คำสั่ง
+
+```
+{"type":"ภาพประกอบคอลลาจเพื่อการส่งเสริมการขาย","subject":{"main":"หุ่นยนต์ฮิวแมนนอยด์สีขาวน่ารักที่มีดวงตาสีฟ้าเรืองแสงขนาดใหญ่","design":"ตัวเครื่องสีขาวมนเรียบเนียน ข้อต่อกลไกสีดำ รอยยิ้มเล็กๆ สัดส่วนที่เป็นมิตรเหมือนเด็ก ผิวสัมผัสเงางาม","activity":"กำลังวาดภาพบนผืนผ้าใบด้วยพู่กันขนาดเล็กในมือถือจานสี"},"layout":{"composition":"คอลลาจแบบตาราง 2x2 พร้อมข้อความพาดหัวขนาดใหญ่ตรงกลางที่พาดผ่านรอยต่อของภาพ","sections":[{"position":"บนซ้าย","count":1,"label":"3","scene":"หุ่นยนต์กำลังวาดภาพทิวทัศน์พระอาทิตย์ตกดินเหนือทะเลที่มีสีสันสดใส ดวงอาทิตย์สว่างจ้าที่ขอบฟ้า ท้องฟ้าสีชมพูและส้ม น้ำทะเลสีฟ้า ฝีแปรงที่ดูมีชีวิตชีวา"},{"position":"บนขวา","count":1,"label":"6","scene":"หุ่นยนต์กำลังวาดภาพช่อดอกไม้สีชมพูในแจกันสีฟ้า ภาพนิ่งดอกไม้โทนพาสเทลนุ่มนวล"},{"position":"ล่างซ้าย","count":1,"label":"4","scene":"หุ่นยนต์กำลังวาดภาพทิวทัศน์น้ำตกสีเขียวชอุ่มพร้อมพุ่มไม้ในป่าและลำธาร"},{"position":"ล่างขวา","count":1,"label":"7","scene":"หุ่นยนต์กำลังวาดภาพเส้นขอบฟ้าของเมืองสมัยใหม่ที่เรืองแสงในยามพระอาทิตย์ตกดิน พร้อมตึกระฟ้าและแสงสะท้อนที่อบอุ่น"}],"title_overlay":{"text":"{argument name=\"headline text\" default=\"ChatGPT Images 2.0\"}","style":"ข้อความตัวอักษรไม่มีหัวสีขาวขนาดใหญ่พิเศษแบบหนา พร้อมเงาตกกระทบสีเข้ม จัดวางกึ่งกลางในแนวนอนพาดผ่านคอลลาจ"}},"environment":{"setting":"ภายในสตูดิโอศิลปะที่อบอุ่น","background":"ชั้นวางของที่เบลอเล็กน้อย กรอบรูป แสงไฟบรรยากาศอบอุ่น ผ้าม่านสีกลาง และต้นไม้ประดับเป็นระยะ","easel":"ขาตั้งภาพบนโต๊ะไม้ในแต่ละช่อง","palette":"จานสีทรงกลมที่มีแต้มสีสดใสมากมายในแต่ละช่อง"},"style":{"rendering":"งานเรนเดอร์ 3D สไตล์การ์ตูนที่ดูประณีตสูง","mood":"สนุกสนาน สร้างสรรค์ เชิญชวน ผสมผสานเทคโนโลยีเข้ากับศิลปะ","camera":"การจัดเฟรมแบบระยะกลาง หุ่นยนต์อยู่ทางด้านขวาของแต่ละช่องโดยหันหน้าไปทางซ้ายเข้าหาผืนผ้าใบ","lighting":"แสงไฟภายในอาคารที่อบอุ่นพร้อมไฮไลท์ที่นุ่มนวลและระยะชัดลึกที่ตื้น"}}
+```
+
+#### 🖼️ รูปภาพที่สร้าง
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1776883146885_253rf3_HGfla3yWUAAEm8-.jpg" width="600" alt="โพสต์บนโซเชียลมีเดีย - โฆษณาภาพคอลลาจหุ่นยนต์จิตรกร - Image 1">
+</div>
+
+#### 📌 รายละเอียด
+
+- **ผู้เขียน:** [01net](https://x.com/01net)
+- **แหล่งที่มา:** [Twitter Post](https://x.com/01net/status/2046856808921248120#reversed-0)
+- **เผยแพร่เมื่อ:** 22 เมษายน 2569
+- **ภาษา:** en
+
+**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-2-prompts?id=14556)**
+
+---
+
+### No. 27: โพสต์บนโซเชียลมีเดีย - โปสเตอร์ประท้วงสไตล์อนิเมะป๊อปอาร์ต
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 คำอธิบาย
+
+พรอมต์นี้จะสร้างโปสเตอร์อนิเมะแนวตั้งที่โดดเด่น โดยมีตัวละครที่ถูกเซ็นเซอร์ใบหน้า ทำท่าชูสองนิ้ว และมีช่องคำพูดขนาดใหญ่สำหรับงานศิลปะมีม โพสต์โซเชียล หรือการทดลองทำโปสเตอร์กราฟิก
+
+#### 📝 คำสั่ง
+
+```
+โปสเตอร์อนิเมะสไตล์ป๊อปอาร์ตที่โดดเด่นของจอมเวทชายผมสีขาวร่างสูงในเสื้อโค้ทคอตั้งสีน้ำเงินเข้ม ถ่ายครึ่งตัวหันหน้าตรงในท่าทางมั่นใจ โดยมือซ้ายยกขึ้นใกล้กล้องทำท่าชูสองนิ้ว ใบหน้าของเขาถูกบดบังบางส่วนด้วยแถบเบลอ/เซ็นเซอร์รูปสี่เหลี่ยมผืนผ้าที่กึ่งกลางบริเวณดวงตาและจมูก ในขณะที่ผมสีขาวเงินชี้ฟูของเขาแผ่ออกอย่างมีพลังเหนือผ้าปิดตาหรือที่บังแดดสีเข้ม วางช่องคำพูดการ์ตูนขนาดใหญ่ไว้ที่ด้านบนพร้อมข้อความ {argument name="headline text" default="LUDDITES ALWAYS LOSE!"} ด้วยตัวอักษรซานเซอริฟตัวหนาสีดำทั้งหมด ใช้พื้นหลังสีน้ำเงินสดใสที่เต็มไปด้วยเส้นสปีดไลน์แบบรัศมีสีแดงและสีส้มที่พุ่งออกมาจากด้านหลังตัวละคร ทำให้เกิดความรู้สึกเหมือนหน้าปกมังงะที่มีพลัง เน้นเส้นหมึกหนา การเรนเดอร์แบบเซลเฉดสไตล์อนิเมะ คอนทราสต์แบบโปสเตอร์ และลุคสิ่งพิมพ์การ์ตูนวินเทจที่บิดเบี้ยวเล็กน้อย องค์ประกอบภาพควรเป็นแนวตั้ง ครอปภาพแบบกระชับ พลังงานสูง ดูขบถ เป็นกราฟิก และเหมือนมีม โดยมี {argument name="character hair color" default="silver white"} เป็นสีผม {argument name="coat color" default="dark navy"} เป็นสีเสื้อโค้ท และ {argument name="background color" default="bright blue with red-orange radial lines"} เป็นสีพื้นหลังที่โดดเด่นในพาเลตต์สี
+```
+
+#### 🖼️ รูปภาพที่สร้าง
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1776883179000_s7s3bp_HGfDh7qakAA3Ovk.jpg" width="600" alt="โพสต์บนโซเชียลมีเดีย - โปสเตอร์ประท้วงสไตล์อนิเมะป๊อปอาร์ต - Image 1">
+</div>
+
+#### 📌 รายละเอียด
+
+- **ผู้เขียน:** [ρ:ɡeσn](https://x.com/pigeon__s)
+- **แหล่งที่มา:** [Twitter Post](https://x.com/pigeon__s/status/2046819602869768507#reversed-0)
+- **เผยแพร่เมื่อ:** 22 เมษายน 2569
+- **ภาษา:** en
+
+**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-2-prompts?id=14638)**
+
+---
+
+### No. 28: โพสต์บนโซเชียลมีเดีย - ภาพถ่ายบรรยากาศการช้อปปิ้งที่สมจริงใน Sam's Club
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 คำอธิบาย
+
+พรอมต์นี้จะสร้างภาพถ่ายแนวแคนดิดที่สมจริงราวกับภาพถ่ายจากกล้องสมาร์ทโฟนภายในร้านค้าคลังสินค้า เหมาะสำหรับการจำลองฉากการช้อปปิ้งที่ดูเป็นธรรมชาติ พร้อมป้ายสัญลักษณ์ร้านค้าและลูกค้าที่กำลังถือสินค้า
+
+#### 📝 คำสั่ง
+
+```
+ภาพถ่ายจากสมาร์ทโฟนแนวแคนดิดที่สมจริงมากภายในร้าน Sam’s Club ในประเทศจีน จัดองค์ประกอบภาพโดยให้ชายหนุ่มชาวเอเชียตะวันออกอยู่ตรงกลางภาพ ตั้งแต่ช่วงกลางลำตัวขึ้นไป ยืนตัวตรงหันหน้าเข้าหากล้อง โดยมีแถบเบลอสี่เหลี่ยมปิดบังใบหน้าเพื่อความเป็นส่วนตัว เขาสวมเสื้อยืดคอกลมสีดำเรียบๆ ที่มีโลโก้ Tesla สีขาวขนาดเล็กที่หน้าอกซ้าย ในมือซ้ายถือถุงพลาสติกใสขนาดใหญ่บรรจุแอปเปิลสีแดง ผูกปากถุงด้วยแถบสีน้ำเงิน บนถุงแอปเปิลมีฉลากสีขาวเขียนว่า “envy” พร้อมข้อความภาษาจีนขนาดเล็กด้านล่าง เบื้องหลังเป็นบรรยากาศภายในร้านค้าที่สว่างไสว มีเพดานสูงแบบอุตสาหกรรม ชั้นวางสินค้าแบบคลังสินค้า ลูกค้า รถเข็นช้อปปิ้ง และการจัดวางสินค้าที่เรียงรายอยู่ เห็นป้ายผนังรูปสี่เหลี่ยมข้าวหลามตัดสีน้ำเงินของ Sam’s Club อย่างชัดเจนที่ด้านซ้ายบน พร้อมข้อความ “Sam’s CLUB” และ “山姆会员商店” และมีป้ายแบนเนอร์สีน้ำเงินขนาดใหญ่ด้านหลังเขาที่เขียนว่า “更好的生活尽在山姆” และ “Life is Better in the Club” ที่ด้านขวาบนมีป้ายแบนเนอร์แนวตั้งสีขาวสูงที่เขียนว่า “优质优价” และ “Great Products Great Prices” พร้อมลวดลายเรขาคณิตสีน้ำเงินและสีเขียว มีลูกค้าคนอื่นๆ ในพื้นหลังที่ถูกทำให้เบลอเล็กน้อย เพื่อสร้างบรรยากาศการช้อปปิ้งที่ดูคึกคักสมจริง แสงสว่างควรเป็นแสงจากหลอดไฟเหนือศีรษะในร้านค้าที่สว่างและสม่ำเสมอ สีสันดูเป็นธรรมชาติ มุมมองระดับสายตา สไตล์ภาพถ่ายแบบสารคดี โฟกัสที่ตัวแบบด้านหน้าให้คมชัดและฉากหลังเบลอเล็กน้อย ภาพแนวตั้ง
+```
+
+#### 🖼️ รูปภาพที่สร้าง
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1776883097529_4o6z0e_HGeaeHkbkAASDhW.jpg" width="600" alt="โพสต์บนโซเชียลมีเดีย - ภาพถ่ายบรรยากาศการช้อปปิ้งที่สมจริงใน Sam's Club - Image 1">
+</div>
+
+#### 📌 รายละเอียด
+
+- **ผู้เขียน:** [AB Kuai.Dong](https://x.com/_FORAB)
+- **แหล่งที่มา:** [Twitter Post](https://x.com/_FORAB/status/2046774687380992253#reversed-2)
+- **เผยแพร่เมื่อ:** 22 เมษายน 2569
+- **ภาษา:** en
+
+**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-2-prompts?id=14434)**
+
+---
+
+### No. 29: โพสต์บนโซเชียลมีเดีย - นกเรขาคณิตปั่นจักรยาน
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 คำอธิบาย
+
+พรอมต์นี้จะสร้างภาพประกอบเวกเตอร์สไตล์มินิมอลที่สะอาดตาของนกนักปั่น เหมาะสำหรับงานกราฟิกเชิงบรรณาธิการที่ดูสนุกสนาน โลโก้ หรือศิลปะโปสเตอร์สมัยใหม่
+
+#### 📝 คำสั่ง
+
+```
+ภาพประกอบเวกเตอร์แบบแบนสไตล์มินิมอลบนพื้นหลังสีเทาอ่อน แสดงภาพนกสุดแปลกตาที่กำลังปั่นจักรยาน สร้างขึ้นจากรูปทรงเรขาคณิตเรียบง่ายพร้อมเส้นขอบสีดำหนา จักรยานเป็นแบบเสือหมอบลายเส้นสีดำมองจากด้านข้างหันไปทางซ้าย มีล้อขนาดใหญ่ 2 ล้อ แต่ละล้อแบ่งด้วยซี่ล้อแนวตั้งและแนวนอน มีเฟรมรูปสามเหลี่ยมเรียบง่าย อานนั่งสีดำขนาดเล็ก บันไดปั่น และเส้นพื้นสีดำบางๆ ลากยาวในแนวนอนใต้จักรยาน ตัวละครนกเป็นนกสีขาวสไตล์กราฟิกที่มีลำตัวกลมโต หัวกลมเล็กกว่า มีจะงอยปากสีส้มแหลมที่อ้ากว้างและด้านในปากสีชมพู นกมีดวงตาสีดำ 1 ข้างที่มองเห็นได้ เส้นโค้งสีดำเรียบง่ายบนหัว ปีกรูปหยดน้ำ 1 ข้างด้านหลังคอ และขนหางสีขาวรูปทรงทำมุมชี้ไปด้านหลัง 1 อัน นกโน้มตัวไปข้างหน้าบนจักรยานราวกับกำลังปั่นอย่างกระตือรือร้น มีขาสีส้มเรียวยาว 2 ข้างพร้อมเส้นขอบสีดำยื่นลงมาเหนือเฟรมไปยังบันไดปั่น จัดองค์ประกอบภาพให้อยู่ตรงกลาง ดูสนุกสนาน สะอาดตา และเป็นนามธรรม โดยไม่มีการไล่เฉดสี ไม่มีพื้นผิว และมีสไตล์กราฟิกแบบไอคอนสมัยใหม่
+```
+
+#### 🖼️ รูปภาพที่สร้าง
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1776883128094_pkk4fv_HGdj-7yWsAAi5Zj.png" width="600" alt="โพสต์บนโซเชียลมีเดีย - นกเรขาคณิตปั่นจักรยาน - Image 1">
+</div>
+
+#### 📌 รายละเอียด
+
+- **ผู้เขียน:** [Mojofull](https://x.com/furoku)
+- **แหล่งที่มา:** [Twitter Post](https://x.com/furoku/status/2046740061719584955#reversed-1)
+- **เผยแพร่เมื่อ:** 21 เมษายน 2569
+- **ภาษา:** en
+
+**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-2-prompts?id=14512)**
+
+---
+
+### No. 30: โพสต์บนโซเชียลมีเดีย - อินโฟกราฟิกเกี่ยวกับอคติทางความคิดสำหรับ Instagram
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 คำอธิบาย
+
+พรอมต์ระดับมืออาชีพสำหรับการสร้างกราฟิกบนโซเชียลมีเดียที่ให้ข้อมูลพร้อมเนื้อหาข้อความที่ซับซ้อน
+
+#### 📝 คำสั่ง
+
+```
+สร้าง {argument name="format" default="อินโฟกราฟิก"} สำหรับ {argument name="platform" default="โพสต์ Instagram"} ในหัวข้อ {argument name="topic" default="วิธีที่นักโฆษณาสามารถนำอคติทางความคิดไปใช้ประโยชน์"}
+```
+
+#### 🖼️ รูปภาพที่สร้าง
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1776883042677_zzj0li_HGd6ee-W4AArJ1p.jpg" width="600" alt="โพสต์บนโซเชียลมีเดีย - อินโฟกราฟิกเกี่ยวกับอคติทางความคิดสำหรับ Instagram - Image 1">
+</div>
+
+#### 📌 รายละเอียด
+
+- **ผู้เขียน:** [Maxwell Finn](https://x.com/maxwellfinn)
+- **แหล่งที่มา:** [Twitter Post](https://x.com/maxwellfinn/status/2046739223001309256)
+- **เผยแพร่เมื่อ:** 21 เมษายน 2569
+- **ภาษา:** en
+
+**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-2-prompts?id=14306)**
+
+---
+
+### No. 31: โพสต์บนโซเชียลมีเดีย - ห้องคอมพิวเตอร์ยุคต้นปี 2000 กับ ChatGPT
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 คำอธิบาย
+
+พรอมต์นี้จะสร้างภาพถ่ายบรรยากาศห้องเรียนที่ดูสมจริงและชวนให้นึกถึงวันวาน ของนักเรียนที่กำลังใช้งาน ChatGPT บนคอมพิวเตอร์จอ CRT เหมาะสำหรับใช้เป็นภาพประกอบบทความหรือสื่อโซเชียลมีเดียเกี่ยวกับ AI ในการศึกษาในชีวิตประจำวัน
+
+#### 📝 คำสั่ง
+
+```
+ภาพถ่ายสไตล์สารคดีแบบเป็นธรรมชาติของ {argument name="setting" default="ห้องเรียนคอมพิวเตอร์ในโรงเรียนมัธยม"} ที่เต็มไปด้วยนักเรียนจำนวน 10 คนพอดิบพอดี นั่งอยู่หน้าคอมพิวเตอร์ตั้งโต๊ะจอ CRT สีขาวอมเหลืองขนาดใหญ่ โดยถ่ายจากมุมซ้ายด้านหลังของห้องด้วยมุมกว้างเล็กน้อย บรรยากาศของภาพควรให้ความรู้สึกเหมือนภาพถ่ายจากกล้องดิจิทัลคอมแพคในช่วงต้นปี 2000 ที่ใช้แฟลชโดยตรง มีสัญญาณรบกวน (grain) เล็กน้อย แสงไฟฟลูออเรสเซนต์ในอาคารที่ดูอบอุ่น และมีตัวเลขประทับเวลาที่มุมขวาล่างว่า {argument name="timestamp" default="02 18 04"} ทางด้านซ้ายของภาพ นักเรียนในชุดแจ็คเก็ตวอร์มสีกรมท่าที่มีแถบสีขาวที่แขนกำลังชี้ไปที่จอ CRT ส่วนตรงกลางด้านหน้า นักเรียนอีกคนที่มีผมสั้นตั้งสวมเสื้อสเวตเตอร์สีเทาตัวโคร่งนั่งหันหลังให้กล้อง ทางด้านขวาด้านหน้า นักเรียนผมบลอนด์มัดหางม้าสวมเสื้อแขนยาวสีฟ้าอ่อนที่มีแถบแนวนอนสีเข้มที่แขนกำลังพิมพ์คีย์บอร์ด ส่วนทางขวาสุด นักเรียนอีกคนที่มีผมหยิกสีเข้มกำลังนั่งอยู่ที่โต๊ะคอมพิวเตอร์ นักเรียนคนอื่นๆ นั่งอยู่ในแถวกลางและแถวหลัง โดยทุกคนหันหน้าเข้าหาหน้าจอคอมพิวเตอร์ หน้าจอแสดงอินเทอร์เฟซของ ChatGPT อย่างชัดเจน โดยมีหัวข้อที่มองเห็นได้ว่า {argument name="screen title" default="ChatGPT"} และข้อความพรอมต์ง่ายๆ อยู่ด้านล่าง ห้องมีผนังสีเบจ ฝ้าเพดานแบบแขวน และมีโปสเตอร์สร้างแรงบันดาลใจในห้องเรียนหลายแผ่น โดยมีโปสเตอร์ที่อ่านข้อความได้ชัดเจน 4 แผ่นบนผนังด้านหลัง ได้แก่ {argument name="poster one" default="YOU CAN DO HARD THINGS"}, "BE KIND ONLINE", "THINK BEFORE YOU CLICK" และโปสเตอร์ขนาดใหญ่ที่มีหัวข้อว่า "KEYBOARD SHORTCUTS" พร้อมรายการคำสั่งด้านล่าง รวมถึงมีบอร์ดประกาศ ประตูห้องเรียนที่ด้านหลัง เก้าอี้สำนักงานแบบล้อเลื่อน คีย์บอร์ดและเมาส์สีขาว และกระเป๋าเป้วางอยู่บนพื้นใกล้กับโต๊ะด้านขวา ใบหน้าของนักเรียนควรถูกบดบังบางส่วนหรือทำให้เบลอเล็กน้อยเพื่อความเป็นส่วนตัว โดยยังคงรักษาลุคของภาพถ่ายในห้องเรียนจริงไว้ในขณะที่เน้นไปที่นักเรียนที่กำลังใช้งาน ChatGPT ในห้องคอมพิวเตอร์เก่า
+```
+
+#### 🖼️ รูปภาพที่สร้าง
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1776883195599_qbhgl7_HGd3B2VXcAAqWkr.jpg" width="600" alt="โพสต์บนโซเชียลมีเดีย - ห้องคอมพิวเตอร์ยุคต้นปี 2000 กับ ChatGPT - Image 1">
+</div>
+
+#### 📌 รายละเอียด
+
+- **ผู้เขียน:** [@levelsio](https://x.com/levelsio)
+- **แหล่งที่มา:** [Twitter Post](https://x.com/levelsio/status/2046735438128333096#reversed-2)
+- **เผยแพร่เมื่อ:** 21 เมษายน 2569
+- **ภาษา:** en
+
+**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-2-prompts?id=14675)**
+
+---
+
+### No. 32: โพสต์บนโซเชียลมีเดีย - ภาพพอร์ตเทรตแนวเซอร์เรียลบนลานบ้านพร้อมอีกาและสุนัข
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 คำอธิบาย
+
+พรอมต์นี้จะสร้างภาพพอร์ตเทรตที่ดูสมจริงแต่แฝงความแปลกประหลาดเล็กน้อย ของบุคคลที่นั่งอุ้มสุนัขตัวเล็กโดยมีนกสีดำเกาะอยู่บนศีรษะ เหมาะอย่างยิ่งสำหรับงานภาพถ่ายแนวเซอร์เรียลสไตล์บรรณาธิการ
+
+#### 📝 คำสั่ง
+
+```
+ภาพพอร์ตเทรตแนวเซอร์เรียลที่ดูสมจริงของบุคคลที่กำลังนั่งอยู่ในลานบ้านหรือระเบียงที่เงียบสงบ จัดวางไว้กึ่งกลางเฟรม สวมเสื้อคอเต่าแขนยาวสีขาวพอดีตัวที่มีลายดอกไม้สีชมพูอ่อนและภาพวาดลายเส้นเด็กผู้หญิงที่หน้าอก จับคู่กับกางเกงขายาวทรงหลวมลายดอกไม้สีครีม บุคคลดังกล่าวนั่งอยู่บนเก้าอี้เหล็กสีขาวเรียบๆ และอุ้มสุนัขพันธุ์เล็กขนฟูคล้ายพุดเดิ้ลไว้บนตัก สุนัขมีขนหยิกสีขาวนวลและมีหูที่ย้อมเป็นสีส้มอย่างชัดเจน บนมวยผมสีเข้มของบุคคลนั้นมีอีกาหรือนกเรเวนสีดำเกาะอยู่ หันหน้าไปทางซ้าย ดูสงบนิ่งและสมดุลราวกับว่ามันเป็นส่วนหนึ่งของภาพอย่างเป็นธรรมชาติ ท่าทางของตัวแบบดูนิ่ง ตรงไปตรงมา และเป็นทางการ สร้างความรู้สึกเหมือนภาพถ่ายครอบครัวที่ดูแปลกตา ฉากหลังเป็นผนังปูนฉาบสีขาวนวลที่มีองค์ประกอบตกแต่งที่โดดเด่น 4 อย่าง ได้แก่ 1. ของตกแต่งผนังรูปพระอาทิตย์สีน้ำตาลที่มุมซ้ายบน 2. ชั้นวางกระถางต้นไม้ติดผนังขนาดเล็กที่มีตุ๊กตานกตัวเล็กและดอกไม้ห้อยลงมาทางด้านซ้าย 3. หน้าต่างทรงโค้งสูงหรือภาพวาดฝาผนังทางด้านขวาที่เผยให้เห็นท้องฟ้าสีครามสดใสพร้อมเมฆสีขาวนวล และ 4. กระถางต้นไม้แบบมีฐานสีขาวที่มุมขวาล่างซึ่งเต็มไปด้วยใบไม้สีเขียวเรียวยาวและตุ๊กตานกฟลามิงโกสีชมพู 2 ตัว เพิ่มรายละเอียดขอบหินและพืชพรรณสีเข้มที่มุมซ้ายล่างและพื้นกระเบื้องสีน้ำตาล แสงเป็นแสงธรรมชาติที่นุ่มนวล ท้องฟ้ามีเมฆมากเล็กน้อย โทนสีหม่น ระยะชัดตื้น และให้ลุคภาพถ่ายแนวบรรณาธิการแบบวินเทจ องค์ประกอบภาพควรเป็นแนวตั้ง เห็นตัวแบบเต็มตัวในท่านั่ง ถ่ายจากด้านหน้า สมดุล และมีความแปลกประหลาดที่เงียบงัน ปรับแต่งตัวละครหลักได้ที่ {argument name="person" default="a middle-aged woman"}, ชนิดของนกที่ {argument name="bird type" default="black crow"}, สายพันธุ์สุนัขที่ {argument name="dog type" default="small poodle mix"}, สีหูของสุนัขที่ {argument name="dog ear color" default="orange"}, และโทนสีของชุดที่ {argument name="outfit colors" default="white and faded pink florals"}
+```
+
+#### 🖼️ รูปภาพที่สร้าง
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1776883195410_nqnhm7_HGd3B2UXkAAwWtN.jpg" width="600" alt="โพสต์บนโซเชียลมีเดีย - ภาพพอร์ตเทรตแนวเซอร์เรียลบนลานบ้านพร้อมอีกาและสุนัข - Image 1">
+</div>
+
+#### 📌 รายละเอียด
+
+- **ผู้เขียน:** [@levelsio](https://x.com/levelsio)
+- **แหล่งที่มา:** [Twitter Post](https://x.com/levelsio/status/2046735438128333096#reversed-1)
+- **เผยแพร่เมื่อ:** 21 เมษายน 2569
+- **ภาษา:** en
+
+**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-2-prompts?id=14674)**
+
+---
+
+### No. 33: โพสต์บนโซเชียลมีเดีย - ภาพถ่ายพอร์ตเทรตริมชายฝั่งในบรรยากาศเหงา ๆ
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 คำอธิบาย
+
+พรอมต์นี้จะสร้างภาพถ่ายพอร์ตเทรตแนวสตรีทริมทะเลแบบภาพยนตร์ พร้อมรถซีดานวินเทจที่จอดอยู่ เหมาะอย่างยิ่งสำหรับการถ่ายภาพท่องเที่ยวที่ให้ความรู้สึกโหยหาอดีตและภาพแนวไลฟ์สไตล์
+
+#### 📝 คำสั่ง
+
+```
+ภาพถ่ายแนวสตรีทสไตล์ภาพยนตร์ของ {argument name="person" default="หญิงสาว"} ที่กำลังยืนอยู่บริเวณจุดพักรถริมชายฝั่งที่เปียกชื้นในวันที่ฟ้าครึ้ม โดยถ่ายจากด้านหลังและเยื้องไปทางด้านข้างขณะที่เธอกำลังหันหน้ากลับมามองกล้อง เธอมีผมสีเข้มยุ่ง ๆ รวบเป็นมวยหลวม ๆ และมีปอยผมที่ปลิวไปตามลม ใบหน้าของเธอถูกบดบังอย่างนุ่มนวลและไม่ชัดเจน เธอสวมเสื้อผ้า 2 ชิ้นที่มองเห็นได้ชัดเจน ได้แก่ แจ็กเก็ตผ้าแคนวาสสีน้ำตาลแทนที่ดูผ่านการใช้งานมาแล้ว และกางเกงยีนส์สีน้ำเงินปานกลาง ท่าทางของเธอผ่อนคลายโดยมีมือข้างหนึ่งอยู่ใกล้หรือในกระเป๋า ฉากหลังเป็นทางหลวงเลียบหน้าผาริมทะเลในบรรยากาศหม่น ๆ มีภูเขาหินสีเข้มทอดตัวยาวอยู่ทางด้านซ้าย ทะเลสีเทาจาง ๆ ทอดยาวไปจนสุดสายตาทางด้านขวา และท้องฟ้าที่มีเมฆมากและดูซีดจาง ให้มีรถซีดานสีอ่อนรุ่นปลายยุค 1980 หรือต้นยุค 1990 จอดอยู่ 1 คันที่ขอบเฟรมด้านขวา โดยหันด้านท้ายรถมาทางผู้ชม และมีแผงกั้นหินขนาดใหญ่ 1 ก้อนใกล้กับจุดพักรถ พื้นถนนยางมะตอยมีสีเข้มและชื้นแฉะพร้อมเส้นจอดรถที่เลือนราง ซึ่งสื่อถึงฝนที่เพิ่งตกไป ใช้แสงธรรมชาติ โทนสีเย็นที่ดูหม่นลง เพิ่มเกรนฟิล์มเล็กน้อย โฟกัสแบบซอฟต์ มีหมอกจาง ๆ และให้ความรู้สึกเหมือนภาพถ่ายการเดินทางด้วยฟิล์ม 35 มม. ที่ชวนให้คิดถึงอดีต
+```
+
+#### 🖼️ รูปภาพที่สร้าง
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1776883195166_1z6cyp_HGd3B2XXMAECGKt.jpg" width="600" alt="โพสต์บนโซเชียลมีเดีย - ภาพถ่ายพอร์ตเทรตริมชายฝั่งในบรรยากาศเหงา ๆ - Image 1">
+</div>
+
+#### 📌 รายละเอียด
+
+- **ผู้เขียน:** [@levelsio](https://x.com/levelsio)
+- **แหล่งที่มา:** [Twitter Post](https://x.com/levelsio/status/2046735438128333096#reversed-0)
+- **เผยแพร่เมื่อ:** 21 เมษายน 2569
+- **ภาษา:** en
+
+**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-2-prompts?id=14673)**
+
+---
+
+### No. 34: โพสต์บนโซเชียลมีเดีย - หญิงสาวเต้นรำในชุดเดรสสีดำ
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 คำอธิบาย
+
+พรอมต์นี้จะสร้างภาพถ่ายพอร์ตเทรตแนวไลฟ์สไตล์ยามค่ำคืนที่สมจริงระดับภาพยนตร์ ของหญิงสาวในชุดเดรสสีดำพลิ้วไหวที่กำลังเต้นรำอย่างสง่างามในเลานจ์บรรยากาศสลัว เหมาะสำหรับงานด้านแฟชั่น การแสดง หรือภาพประกอบบนโซเชียลมีเดีย
+
+#### 📝 คำสั่ง
+
+```
+ภาพถ่ายเต็มตัวสุดดราม่าของหญิงสาวที่กำลังเต้นรำอย่างทรงพลังในเลานจ์หรือบาร์สุดหรูบรรยากาศมืด สวมชุดเดรสออกงานสีดำดีไซน์โฉบเฉี่ยวที่มีผ่าสูงและเนื้อผ้าคล้ายกำมะหยี่ที่พลิ้วไหวสะบัดออกตามการเคลื่อนไหวของเธอ เธอมีผมยาวตรงสี {argument name="hair color" default="black"} ที่ปลิวไปด้านข้าง รูปร่างเพรียวบางแบบนักกีฬา และสวมต่างหูห่วงขนาดเล็ก จับภาพเธอในท่าเต้นที่ดูมั่นใจและมีสไตล์ โดยยกแขนข้างหนึ่งขึ้นเหนือศีรษะอย่างสง่างามและอีกข้างโค้งลงด้านล่าง ลำตัวหันข้างเพื่อเน้นความสง่างามและการเคลื่อนไหว ฉากหลังเป็นบรรยากาศสลัวแบบภาพยนตร์ด้วยแสงไฟสีเหลืองอำพันที่ดูสมจริง มีเอฟเฟกต์โบเก้นุ่มนวล และภาพเบลอของผู้คนที่อยู่ด้านหลัง รวมถึงผู้ชมที่นั่งอยู่บางส่วนและหน้าจอโทรทัศน์ที่ส่องสว่างทางด้านซ้าย อารมณ์ของภาพดูเท่ เย้ายวน และหรูหรา มีคอนทราสต์ที่ชัดเจน ระยะชัดลึกตื้น ผิวพรรณสมจริง มีการเคลื่อนไหวเล็กน้อยที่ชายกระโปรง และใช้แสงแบบแฟชั่นเอดิโทเรียล ภาพถ่ายสมจริงแบบไดนามิกในยามค่ำคืน องค์ประกอบภาพแนวตั้ง
+```
+
+#### 🖼️ รูปภาพที่สร้าง
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1776883126086_66k47f_HGd00loaMAA_GwI.jpg" width="600" alt="โพสต์บนโซเชียลมีเดีย - หญิงสาวเต้นรำในชุดเดรสสีดำ - Image 1">
+</div>
+
+#### 📌 รายละเอียด
+
+- **ผู้เขียน:** [蒼井　詠@AIで効率化する女](https://x.com/aoi___ei)
+- **แหล่งที่มา:** [Twitter Post](https://x.com/aoi___ei/status/2046733167286219007#reversed-0)
+- **เผยแพร่เมื่อ:** 21 เมษายน 2569
+- **ภาษา:** en
+
+**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-2-prompts?id=14506)**
+
+---
+
+### No. 35: อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - พรอมต์สำหรับสร้างโปสเตอร์จัดอันดับอาหารใน Paris
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 คำอธิบาย
+
+พรอมต์แบบง่ายสำหรับสร้างโปสเตอร์จัดอันดับอาหารในเมือง ออกแบบมาเพื่อใช้งานร่วมกับ GPT Image 2
+
+#### 📝 คำสั่ง
+
+```
+สร้างโปสเตอร์สำหรับจัดอันดับ {argument name="topic" default="อาหาร"} ใน {argument name="city" default="Paris"}
+```
+
+#### 🖼️ รูปภาพที่สร้าง
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1776883072287_so5j6z_HGgoRGdWsAA_w4Q.jpg" width="600" alt="อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - พรอมต์สำหรับสร้างโปสเตอร์จัดอันดับอาหารใน Paris - Image 1">
+</div>
+
+#### 📌 รายละเอียด
+
+- **ผู้เขียน:** [ToroJushiAi](https://x.com/ToroJushiAi)
+- **แหล่งที่มา:** [Twitter Post](https://x.com/ToroJushiAi/status/2046930310613332075)
+- **เผยแพร่เมื่อ:** 22 เมษายน 2569
+- **ภาษา:** zh
+
+**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-2-prompts?id=14370)**
+
+---
+
+### No. 36: อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - ตารางเปรียบเทียบรูปแบบอักษรวิจิตรจีน
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 คำอธิบาย
+
+โปสเตอร์อ้างอิงแนวตั้งที่แสดงวลีภาษาจีนเดียวกันในรูปแบบอักษรวิจิตรที่มีชื่อเสียง 5 สไตล์ เหมาะสำหรับการทดสอบการพิมพ์ การศึกษาด้านการออกแบบเชิงวัฒนธรรม และการเปรียบเทียบอักษรพู่กัน
+
+#### 📝 คำสั่ง
+
+```
+{"type":"ตารางเปรียบเทียบอักษรวิจิตรจีน","subject":"วลี 5 ตัวอักษรเดียวกันที่เขียนด้วยรูปแบบอักษรวิจิตรทางประวัติศาสตร์ที่แตกต่างกัน 5 สไตล์","phrase":"{argument name=\"calligraphy text\" default=\"视觉新时代\"}","canvas":{"orientation":"โปสเตอร์แนวตั้ง","background":"พื้นผิวกระดาษเซวียนสีขาวนวลอบอุ่น มีเส้นใยละเอียด ดูเก่าเล็กน้อย และโทนสีที่ไม่สม่ำเสมออย่างนุ่มนวล"},"layout":{"structure":"5 แถวแนวนอนคั่นด้วยเส้นแบ่งบางๆ","row count":5,"left labels count":5,"seal count":5,"left labels":["หวังซีจือ","ซ่งฮุ่ยจง","จ้าวเมิ่งฝู่","เหยียนเจินชิง","ซูซื่อ"],"rows":[{"position":"แถวบนสุด","style":"อักษรหวัดกึ่งบรรจงที่ได้รับแรงบันดาลใจจาก หวังซีจือ","main text":"视觉新时代","label":"หวังซีจือ","seal":"ตราประทับสีแดงสี่เหลี่ยมเล็กๆ ที่ด้านขวาสุด"},{"position":"แถวที่สอง","style":"อักษรวิจิตรเรียวบางสง่างามที่ได้รับแรงบันดาลใจจากอักษรผอมทองของ ซ่งฮุ่ยจง พร้อมเส้นสายที่เฉียบคมและระยะห่างที่โปร่งตา","main text":"视觉新时代","label":"ซ่งฮุ่ยจง","seal":"ตราประทับสีแดงสี่เหลี่ยมเล็กๆ ที่ด้านขวาสุด"},{"position":"แถวที่สาม","style":"อักษรบรรจงกึ่งหวัดที่ประณีตซึ่งได้รับแรงบันดาลใจจาก จ้าวเมิ่งฝู่","main text":"视觉新时代","label":"จ้าวเมิ่งฝู่","seal":"ตราประทับสีแดงสี่เหลี่ยมเล็กๆ ที่ด้านขวาสุด"},{"position":"แถวที่สี่","style":"อักษรบรรจงที่หนาหนักและมั่นคงซึ่งได้รับแรงบันดาลใจจาก เหยียนเจินชิง","main text":"视觉新时代","label":"เหยียนเจินชิง","seal":"ตราประทับสีแดงสี่เหลี่ยมเล็กๆ ที่ด้านขวาสุด"},{"position":"แถวล่างสุด","style":"อักษรหวัดที่แสดงออกถึงพลังและความแข็งแกร่งซึ่งได้รับแรงบันดาลใจจาก ซูซื่อ","main text":"视觉新时代","label":"ซูซื่อ","seal":"ตราประทับสีแดงสี่เหลี่ยมเล็กๆ ที่ด้านขวาสุด"}],"left label design":"แต่ละแถวมีป้ายชื่อแนวตั้งสีเบจแคบๆ จัดวางไว้ทางซ้ายสุดพร้อมตัวอักษรจีนสีดำ","centerpiece":"วลีที่เขียนด้วยพู่กันสีดำขนาดใหญ่ไว้ตรงกลางในแต่ละแถว"},"style":{"ink":"หมึกซูมิสีดำสนิทพร้อมพื้นผิวแบบพู่กันแห้งที่มองเห็นได้ มีการกระจายของหมึก การแปรผันของน้ำหนักกด และปลายพู่กันที่เป็นธรรมชาติ","mood":"เชิงวิชาการ, เชิงทดลอง, การนำเสนอแบบเอกสารพิพิธภัณฑ์","composition":"ขอบกระดาษที่สะอาดและกว้าง ระยะห่างระหว่างแถวที่สมดุล การสแกนหรือภาพถ่ายเอกสารแบบแบนราบ"},"quality":{"detail":"ความละเอียดสูง พื้นผิวพู่กันที่คมชัด ลายกระดาษที่สมจริง","lighting":"แสงสตูดิโอที่นุ่มนวลและสม่ำเสมอโดยไม่มีเงาที่รุนแรง"}}
+```
+
+#### 🖼️ รูปภาพที่สร้าง
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1776883103242_b88t4p_HGfhStsaYAAI6F8.jpg" width="600" alt="อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - ตารางเปรียบเทียบรูปแบบอักษรวิจิตรจีน - Image 1">
+</div>
+
+#### 📌 รายละเอียด
+
+- **ผู้เขียน:** [-Zho-](https://x.com/ZHO_ZHO_ZHO)
+- **แหล่งที่มา:** [Twitter Post](https://x.com/ZHO_ZHO_ZHO/status/2046852355535274063#reversed-0)
+- **เผยแพร่เมื่อ:** 22 เมษายน 2569
+- **ภาษา:** en
+
+**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-2-prompts?id=14448)**
+
+---
+
+### No. 37: อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - Countryball กับสถานการณ์ตึงเครียดที่ช่องแคบฮอร์มุซ
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 คำอธิบาย
+
+พรอมต์นี้ใช้สำหรับสร้างมีมแนวเสียดสีสไตล์ Countryball ที่แสดงภาพสหรัฐฯ และอิหร่านกำลังเผชิญหน้ากันที่ช่องแคบฮอร์มุซ เหมาะสำหรับใช้ทำคอนเทนต์แนวตลกเชิงวิพากษ์วิจารณ์หรือโพสต์โซเชียลมีเดียเกี่ยวกับภูมิรัฐศาสตร์
+
+#### 📝 คำสั่ง
+
+```
+ภาพประกอบมีมการเมืองแนวตลกขบขันในสไตล์การ์ตูน Countryball แบบเรียบง่าย แสดงสถานการณ์ปัจจุบันที่ {argument name="location label" default="ช่องแคบฮอร์มุซ"} ในฐานะจุดยุทธศาสตร์ที่คับแคบ ใช้การจัดวางองค์ประกอบภาพแบบแนวนอนกว้าง ใช้สีพื้นแบบสดใส ตัดเส้นขอบสีดำหนา และมีลักษณะเหมือนภาพอินโฟกราฟิกที่วาดด้วยมือดูสะอาดตา ในส่วนหน้าของภาพ ให้วาง Countryball 2 ลูกยืนไหล่ชนกันบนสะพานทรายที่แคบมาก โดยมีโขดหินขนาบทั้งสองข้าง เพื่อให้เห็นชัดเจนว่าสามารถผ่านไปได้ทีละลูกเท่านั้น ทางด้านซ้ายคือ Countryball ของ {argument name="left country" default="สหรัฐอเมริกา"} ที่วาดด้วยลายธงชาติอเมริกัน สวมแว่นกันแดดสีดำและหมวกคาวบอยสีน้ำตาล หันหน้าเข้าหาอีกฝ่ายด้วยท่าทางดื้อรั้น ทางด้านขวาคือ Countryball ของ {argument name="right country" default="อิหร่าน"} ที่วาดด้วยลายธงชาติอิหร่าน สวมหมวกทรงคล้ายผ้าโพกหัวสีเข้ม มีดวงตาเฉียงด้วยความโกรธและปฏิเสธที่จะขยับเช่นกัน เพิ่มช่องคำพูดสีขาวขนาดใหญ่ 2 ช่อง โดยวางไว้ข้าง Countryball แต่ละลูก และใส่คำภาษาเกาหลีตัวหนาคำเดียวกันในทั้งสองช่อง: {argument name="speech bubble text" default="길"} ในส่วนกลางและพื้นหลัง ให้แสดงภาพทะเลสีน้ำเงินที่วุ่นวายซึ่งเต็มไปด้วยเรือทั้งหมด 9 ลำ ได้แก่ เรือรบสหรัฐฯ สีเทา 2 ลำทางซ้ายสุด, เรือดำน้ำจีน 1 ลำที่มีธงชาติจีนสีแดง, เรือบรรทุกน้ำมัน 4 ลำเรียงรายอยู่บริเวณกลางค่อนไปทางซ้ายโดยมีธงชาติที่แตกต่างกัน และเรือทหารสีเทา 2 ลำใกล้กับช่องแคบที่มีธงชาติอเมริกันขนาดเล็ก ที่มุมขวาบนให้ใส่ภาพธงชาติอิหร่านขนาดใหญ่ซ้อนทับอยู่ตามแนวชายฝั่ง วาดผืนดินสีเบจล้อมรอบทางน้ำเพื่อให้ดูเหมือนแผนที่แบบย่อของช่องแคบฮอร์มุซ ที่ด้านล่างตรงกลาง ให้เพิ่มคำบรรยายตัวหนาเป็นภาษาเกาหลีและภาษาอังกฤษบนพื้นทราย: {argument name="bottom caption" default="ช่องแคบฮอร์มุซ (Hormuz Strait)"} อารมณ์ของภาพควรมีความเสียดสี ตึงเครียด และดูเป็นมีม แต่ยังคงความน่ารักและอ่านง่ายในเชิงภาพ
+```
+
+#### 🖼️ รูปภาพที่สร้าง
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1776883199462_26yyhl_HGfTnkjbgAE1g_j.jpg" width="600" alt="อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - Countryball กับสถานการณ์ตึงเครียดที่ช่องแคบฮอร์มุซ - Image 1">
+</div>
+
+#### 📌 รายละเอียด
+
+- **ผู้เขียน:** [Geonhee Jeong](https://x.com/Gh_Peter_J)
+- **แหล่งที่มา:** [Twitter Post](https://x.com/Gh_Peter_J/status/2046837715979866115#reversed-1)
+- **เผยแพร่เมื่อ:** 22 เมษายน 2569
+- **ภาษา:** en
+
+**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-2-prompts?id=14685)**
+
+---
+
+### No. 38: อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - รูปแบบคำถามข้อสอบวิชาฟิสิกส์
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 คำอธิบาย
+
+พรอมต์ที่ออกแบบมาเพื่อสร้างภาพกระดาษข้อสอบระดับมัธยมปลายที่มีคำถามและคำตอบหลายข้อ
+
+#### 📝 คำสั่ง
+
+```
+generate a image of physical {argument name="subject" default="high school exam"} question {argument name="type" default="multiple question"} 9:16. generate 4 images and each image is an answer of provided question
+```
+
+#### 🖼️ รูปภาพที่สร้าง
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1776883058250_sa4get_HGeoFF5bUAAwyS2.jpg" width="600" alt="อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - รูปแบบคำถามข้อสอบวิชาฟิสิกส์ - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1776756766292_xko1mp_HGaNhpmakAATYnm.jpg" width="600" alt="โพสต์บนโซเชียลมีเดีย - Douyin Livestream Screenshot Prompt - Image 2">
+<img src="https://cms-assets.youmind.com/media/1776883058247_4mvtru_HGeoVXdaUAA-UVr.jpg" width="600" alt="อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - รูปแบบคำถามข้อสอบวิชาฟิสิกส์ - Image 2">
 </div>
 
-#### 📌 รายละเอียด
-
-- **ผู้เขียน:** [Kyle 不写代码](https://x.com/kylegeeks)
-- **แหล่งที่มา:** [Twitter Post](https://x.com/kylegeeks/status/2046479783765397629)
-- **เผยแพร่เมื่อ:** 21 เมษายน 2569
-- **ภาษา:** zh
-
-**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-2-prompts?id=14125)**
-
----
-
-### No. 23: โพสต์บนโซเชียลมีเดีย - Surreal Gothic Hall with Floating Masks
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 คำอธิบาย
-
-Generates a dark fantasy scene of a kneeling figure in a grand hall filled with suspended objects, ideal for cinematic concept art.
-
-#### 📝 คำสั่ง
-
-```
-A highly detailed, cinematic wide shot of a grand, dark gothic hall with a {argument name="atmosphere" default="dark fantasy"} aesthetic. In the center, a single figure wearing a {argument name="clothing" default="long white robe"} kneels on a highly reflective stone floor, facing an ornate golden altar illuminated by a row of lit candles. To the right of the kneeling figure, a single {argument name="floor object" default="wooden violin"} rests on the ground. The cavernous room is framed by massive dark stone pillars detailed with {argument name="accent color" default="glowing blue"} ethereal cracks and veins. Suspended from the high ceiling are dozens of {argument name="floating objects" default="white porcelain theatrical masks"} hanging on thin strings, filling the upper half of the space and creating a haunting, surreal atmosphere. The lighting is dramatic and moody, featuring a rich color palette of deep blacks, tarnished golds, and cool blue accents. Format 16:9.
-```
-
-#### 🖼️ รูปภาพที่สร้าง
-
-##### Image 1
+##### Image 3
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1776756798221_54wxb5_HGaJP6Ba4AAxWvo.jpg" width="600" alt="โพสต์บนโซเชียลมีเดีย - Surreal Gothic Hall with Floating Masks - Image 1">
+<img src="https://cms-assets.youmind.com/media/1776883058259_hhqrlk_HGeoXmlaEAAV214.jpg" width="600" alt="อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - รูปแบบคำถามข้อสอบวิชาฟิสิกส์ - Image 3">
+</div>
+
+##### Image 4
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1776883058909_lcg9cp_HGeoZfPbMAAs7pg.jpg" width="600" alt="อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - รูปแบบคำถามข้อสอบวิชาฟิสิกส์ - Image 4">
 </div>
 
 #### 📌 รายละเอียด
 
-- **ผู้เขียน:** [のうめん🏗️👺生成AIパスポート認定取れた](https://x.com/nomen_machine)
-- **แหล่งที่มา:** [Twitter Post](https://x.com/nomen_machine/status/2046473998389977218#reversed-1)
-- **เผยแพร่เมื่อ:** 21 เมษายน 2569
+- **ผู้เขียน:** [zdhpeter](https://x.com/peter6759)
+- **แหล่งที่มา:** [Twitter Post](https://x.com/peter6759/status/2046789718428594409)
+- **เผยแพร่เมื่อ:** 22 เมษายน 2569
 - **ภาษา:** en
 
-**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-2-prompts?id=14171)**
+**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-2-prompts?id=14340)**
 
 ---
 
-### No. 24: โพสต์บนโซเชียลมีเดีย - 7-Day Fashion Lookbook Infographic
+### No. 39: อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - โปสเตอร์สูตรอาหารคิมบับเกาหลีสไตล์วินเทจ
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 คำอธิบาย
 
-Generates a detailed 7-column outfit guide featuring daily portraits, accessory thumbnails, color palettes, and styling text.
+พรอมต์นี้ใช้สำหรับสร้างภาพโปสเตอร์อินโฟกราฟิกสูตรอาหารเกาหลีสไตล์โบราณสำหรับเมนูคิมบับ เหมาะสำหรับการทำการตลาดด้านอาหาร การตกแต่งร้านอาหาร หรือภาพประกอบเกี่ยวกับวัฒนธรรมการทำอาหาร
 
 #### 📝 คำสั่ง
 
 ```
-{
-  "type": "7-day fashion lookbook infographic",
-  "header": {
-    "title": "{argument name=\"main title\" default=\"一周穿搭指南\"}",
-    "subtitle": "{argument name=\"style keywords\" default=\"温柔 | 靓丽 | 优雅\"}",
-    "slogan_cn": "优雅不设限，自信每一天",
-    "slogan_en": "{argument name=\"english slogan\" default=\"ELEGANCE HAS NO LIMIT, BE CONFIDENT EVERY DAY\"}"
-  },
-  "subject": "{argument name=\"subject description\" default=\"young elegant Asian woman\"}",
-  "layout": {
-    "columns": 7,
-    "column_elements": [
-      "day_header",
-      "main_portrait",
-      "4_detail_thumbnails",
-      "outfit_specs",
-      "keywords_colors",
-      "3_color_swatches",
-      "star_ratings",
-      "fabric_price",
-      "4_season_icons"
-    ],
-    "days": [
-      { "day": "周一 (MONDAY)", "outfit": "beige blazer suit", "scene": "场景：重要会议 / 正式商务" },
-      { "day": "周二 (TUESDAY)", "outfit": "pink blazer suit", "scene": "场景：日常通勤" },
-      { "day": "周三 (WEDNESDAY)", "outfit": "cream knit cardigan set", "scene": "场景：生活休闲" },
-      { "day": "周四 (THURSDAY)", "outfit": "champagne slip dress", "scene": "场景：外出私会" },
-      { "day": "周五 (FRIDAY)", "outfit": "blue knit top, white skirt", "scene": "场景：休闲社交" },
-      { "day": "周六 (SATURDAY)", "outfit": "white sports bra, purple leggings", "scene": "场景：运动休闲" },
-      { "day": "周日 (SUNDAY)", "outfit": "beige lounge knitwear", "scene": "场景：居家 / 约会" }
-    ]
-  },
-  "footer": {
-    "tips": "{argument name=\"footer tips\" default=\"Tips: 根据天气与场合灵活调整，配饰是提升整体造型的关键；保持自信与舒适，才是穿搭的最终目的。\"}",
-    "legend": [
-      "春: 春季适用",
-      "夏: 夏季适用",
-      "秋: 秋季适用",
-      "冬: 冬季适用"
-    ]
-  }
-}
+สร้างโปสเตอร์อาหารเกาหลีสไตล์วินเทจบนกระดาษพาร์ชเมนต์สีเบจเก่าที่มีพื้นผิวดูมีรอยเปื้อนเล็กน้อย ขอบโปสเตอร์ตกแต่งด้วยลวดลายสีเข้ม และใช้สไตล์ภาพประกอบแบบวาดด้วยมือด้วยหมึกและสีน้ำแบบดั้งเดิม โปสเตอร์เป็นอินโฟกราฟิกแนวตั้งชิ้นเดียวเกี่ยวกับ {argument name="dish name" default="정통 한국 김밥"} โดยมีตัวอักษรพู่กันเกาหลีขนาดใหญ่ที่สง่างามอยู่ด้านบน และมีแถบริบบิ้นโค้งอยู่ด้านล่างเขียนว่า {argument name="subtitle text" default="Traditional Korean Gimbap"} บริเวณกึ่งกลางด้านบน ให้แสดงจานกระเบื้องขนาดใหญ่ที่มีคิมบับหั่นชิ้นวางซ้อนกันอยู่ 12 ชิ้นพอดี แต่ละชิ้นแสดงไส้ที่ชัดเจนประกอบด้วยข้าวสีขาว ไข่สีเหลือง แครอทสีส้ม ผักโขมสีเขียว และสาหร่ายสีเข้ม ทางด้านขวาของจาน ให้เพิ่มถ้วยกระเบื้องใบเล็กที่มีกิมจิและโน้ตลายมือภาษาเกาหลีสั้นๆ ว่า “간단한 보여도 정성이 들어간 한국의 맛! ♥” พร้อมประทับตราสีแดงเล็กๆ ที่มีตัวอักษรเกาหลีใกล้กับมุมขวาบน ในส่วนกลาง ให้เพิ่มส่วนประกอบของวัตถุดิบที่มีหัวข้อริบบิ้นเขียนว่า “재료” โดยแสดงแผงวัตถุดิบ 6 รายการในแถวเดียว: 1. 김 (건김) เป็นแผ่นสาหร่ายซ้อนกัน, 2. 밥 (양념 밥) เป็นชามข้าว, 3. 계란 (지단용) เป็นไข่เจียวหั่นเส้น, 4. 당근 (채썰어볶기) เป็นแครอทหั่นฝอย, 5. 시금치 (데쳐서 무치기) เป็นผักโขมปรุงรส, 6. 단무지 (김밥용) เป็นหัวไชเท้าดองสีเหลืองหั่นเส้น ด้านล่างนั้น ให้เพิ่มหัวข้อริบบิ้นอีกอันที่เขียนว่า “만드는 순서” และแสดงแผงขั้นตอนที่มีกรอบ 6 ขั้นตอนในสองแถว แถวละสามขั้นตอน เชื่อมต่อกันจากซ้ายไปขวาด้วยลูกศร ขั้นตอนที่ 1 ระบุว่า “1 밥 간하기” แสดงชามข้าวที่มีน้ำมันงาและเกลือวางอยู่ข้างๆ พร้อมคำบรรยาย “밥에 참기름 소금으로 간하기” ขั้นตอนที่ 2 ระบุว่า “2 속재료 준비하기” แสดงเขียงที่มีไข่ แครอท ผักโขม และมีด พร้อมคำบรรยาย “재료 볶아 속재료 준비하기” ขั้นตอนที่ 3 ระบุว่า “3 김과 밥 펴기” แสดงสาหร่ายบนเสื่อไม้ไผ่ที่มีข้าวเกลี่ยอยู่ด้านบน พร้อมคำบรรยาย “김에 밥 얇게 펴기” ขั้นตอนที่ 4 ระบุว่า “4 속재료 얹기” แสดงไส้ต่างๆ ที่จัดเรียงเป็นแถวแนวนอนบนข้าว พร้อมคำบรรยาย “속재료를 차례로 얹기” ขั้นตอนที่ 5 ระบุว่า “5 단단하게 말기” แสดงมือสองข้างกำลังม้วนเสื่อไม้ไผ่ให้แน่น พร้อมคำบรรยาย “김밥을 단단하게 말기” ขั้นตอนที่ 6 ระบุว่า “6 썰어 완성하기” แสดงมีดเชฟกำลังหั่นคิมบับเป็นชิ้นๆ พร้อมคำบรรยาย “먹기 좋게 썰어 완성!” ที่ด้านล่าง ให้เพิ่มแถบแบนเนอร์กว้างพร้อมตัวอักษรพู่กันเกาหลีตัวหนาเขียนว่า {argument name="bottom slogan" default="정성 가득한 한 줄의 행복!"} และรูปหัวใจดวงเล็กๆ ตกแต่งมุมล่างด้วยลวดลายดอกไม้ และเพิ่มตราประทับสี่เหลี่ยมสีแดงที่มีตัวอักษรจีน “福” ที่มุมขวาล่าง ใช้โทนสีซีเปีย สีน้ำตาล สีครีม สีเขียวมะกอก และสีแดงจางๆ พร้อมเส้นร่างที่ละเอียด การลงสีน้ำที่นุ่มนวล และองค์ประกอบของโปสเตอร์พิมพ์แบบดั้งเดิม เพิ่มโลโก้ซ้อนทับสมัยใหม่ขนาดเล็กที่มุมซ้ายบนเขียนว่า {argument name="brand text" default="Pollo AI GPT Image 2"}
 ```
 
 #### 🖼️ รูปภาพที่สร้าง
@@ -1620,33 +1984,33 @@ Generates a detailed 7-column outfit guide featuring daily portraits, accessory 
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1776756799069_v5dm3d_HGaEzbEasAAe7sy.jpg" width="600" alt="โพสต์บนโซเชียลมีเดีย - 7-Day Fashion Lookbook Infographic - Image 1">
+<img src="https://cms-assets.youmind.com/media/1776883145882_hn8j2o_HGecwombcAAd00i.jpg" width="600" alt="อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - โปสเตอร์สูตรอาหารคิมบับเกาหลีสไตล์วินเทจ - Image 1">
 </div>
 
 #### 📌 รายละเอียด
 
-- **ผู้เขียน:** [沐阳](https://x.com/yyyole)
-- **แหล่งที่มา:** [Twitter Post](https://x.com/yyyole/status/2046469645155303730#reversed-0)
-- **เผยแพร่เมื่อ:** 21 เมษายน 2569
+- **ผู้เขียน:** [폴로 AI](https://x.com/polloai_kr)
+- **แหล่งที่มา:** [Twitter Post](https://x.com/polloai_kr/status/2046778808221733337#reversed-1)
+- **เผยแพร่เมื่อ:** 22 เมษายน 2569
 - **ภาษา:** en
 
-**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-2-prompts?id=14172)**
+**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-2-prompts?id=14554)**
 
 ---
 
-### No. 25: โพสต์บนโซเชียลมีเดีย - Whiteboard Marker Anime Sketch
+### No. 40: อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - โปสเตอร์สูตรทำเครปฝรั่งเศสสไตล์วินเทจ
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 คำอธิบาย
 
-Generates a realistic photograph of a highly detailed anime-style sketch drawn on a glossy whiteboard with dry-erase marker.
+โปสเตอร์สูตรอาหารฝรั่งเศสสไตล์โบราณที่วาดภาพประกอบไว้อย่างสวยงาม แสดงภาพเครปเนย วัตถุดิบ และขั้นตอนการทำ 6 ขั้นตอน เหมาะสำหรับงานศิลปะแนวอาหารหรือภาพพิมพ์ตกแต่งห้องครัว
 
 #### 📝 คำสั่ง
 
 ```
-A realistic photograph of a whiteboard with a highly detailed {argument name="marker color" default="green"} dry-erase marker drawing of {argument name="subject" default="a samurai with a messy topknot and facial hair, hands clasped in prayer"}. The character is drawn in a {argument name="art style" default="detailed manga sketch"} style, shown in profile with eyes closed, wearing a traditional kimono with a katana tucked into his belt. To the left of the character, handwritten text in all-caps reads "{argument name="text line 1" default="VAGABOND"}" with "{argument name="text line 2" default="MUSASHI"}" written directly below it. The whiteboard has a glossy surface with realistic light reflections and glare on the left side, and a thin metallic frame is visible at the bottom edge, giving the impression of an authentic classroom or office environment.
+{"type":"โปสเตอร์สูตรอาหารฝรั่งเศสสไตล์วินเทจ","subject":"อินโฟกราฟิกภาพประกอบอาหารที่วิจิตรบรรจงสำหรับเมนูเครปเนยคลาสสิก","style":{"overall":"โปสเตอร์ตำราอาหารโบราณ, งานพิมพ์ยุค Belle Époque ของคาเฟ่ฝรั่งเศส, ภาพประกอบสีน้ำและหมึกวาดมือ, พื้นผิวกระดาษพาร์ชเมนต์เก่า, โทนสีครีมอบอุ่น, สีน้ำตาลแทน, สีน้ำตาล, สีฟ้าหม่น และสีแดงจางๆ","rendering":"ตัวอักษรตกแต่งที่อ่านง่าย, ขอบประดับแบบแกะสลัก, รอยเปื้อนบนกระดาษ, ขอบกระดาษที่ดูเก่า, ลวดลายดอกไม้ที่ละเอียดอ่อน, สุนทรียภาพของงานพิมพ์แบบดั้งเดิม"},"text":{"main_title":"Les Véritables Crêpes au Beurre","ingredients_header":"วัตถุดิบ","method_header":"วิธีการทำ","footer_banner":"คลาสสิกแห่งความอร่อย เสิร์ฟร้อนๆ พร้อมทาน!","logo":"{argument name=\"corner logo\" default=\"AI GPT Image 2\"}"},"layout":{"orientation":"แนวตั้ง","border":"ขอบภาพประกอบแบบวิจิตรเต็มรูปแบบพร้อมลวดลายม้วนกระดาษทั้ง 4 มุม","sections":[{"title":"ส่วนหัว","position":"ด้านบน","count":3,"labels":["ชื่อเมนูหลักแบบตัวเขียนบนริบบิ้น","กองเครปบนจาน","แก้วที่ระบุว่า Cidre de Bretagne"]},{"title":"วัตถุดิบ","position":"ตรงกลาง","count":6,"labels":["1. แป้ง 1 ถ้วย","2. ไข่ไก่ 2 ฟอง","3. นม 2 ถ้วย","4. เนย 50 กรัม","5. น้ำตาล 1 ช้อนโต๊ะ","6. เกลือหนึ่งหยิบมือ"]},{"title":"วิธีการทำ","position":"ด้านล่าง-กลาง","count":6,"labels":["1 ตีส่วนผสมแห้งให้เข้ากัน","2 ใส่ไข่ลงไปตี","3 ค่อยๆ เติมนม","4 ละลายเนยแล้วเติมลงไป","5 ตั้งกระทะเครปให้ร้อน","6 พลิกกลับด้านและปรุงให้สุก!"]}],"grid":{"ingredients_columns":6,"method_columns":3,"method_rows":2}},"hero":{"plate":"จานเซรามิกพิมพ์ลายดอกไม้สีฟ้าขาว","food":"เครปแผ่นบางสีทองวางซ้อนกันประมาณ {argument name=\"crepe count\" default=\"14\"} แผ่น โรยด้วยน้ำตาลไอซิ่ง และวางเนยละลายไว้ด้านบน","surface":"โต๊ะไม้สไตล์รัสติก","cloth":"ผ้าเช็ดปากลายตารางสีฟ้าขาวทางด้านขวา","background":"ทิวทัศน์เมืองในชนบทที่เลือนรางพร้อมยอดโบสถ์และอาคารยุโรปเก่าแก่"},"ingredients":[{"index":1,"item":"แป้ง","container":"ชามเซรามิกตกแต่ง","caption":"แป้ง 1 ถ้วย"},{"index":2,"item":"ไข่ไก่","count":2,"caption":"ไข่ไก่ 2 ฟอง"},{"index":3,"item":"นม","container":"เหยือกเซรามิกพิมพ์ลายดอกไม้สีฟ้า","caption":"นม 2 ถ้วย"},{"index":4,"item":"เนย","container":"จานใบเล็กใส่ก้อนเนย","caption":"เนย 50 กรัม"},{"index":5,"item":"น้ำตาล","container":"ชามเซรามิกพร้อมช้อน","caption":"น้ำตาล 1 ช้อนโต๊ะ"},{"index":6,"item":"เกลือ","container":"โถมีฝาปิดระบุว่า SEL","caption":"เกลือหนึ่งหยิบมือ"}],"method_panels":[{"index":1,"title":"ตีส่วนผสมแห้ง","image":"ชามผสมที่มีแป้งและตะกร้อมือ","caption":"ผสมแป้งและน้ำตาลเข้าด้วยกัน"},{"index":2,"title":"ใส่ไข่ลงไปตี","image":"ไข่ที่กำลังเทลงในชาม ตะกร้อมือ และเปลือกไข่ที่แตกอยู่ใกล้ๆ","caption":"ใส่ไข่ที่ตีแล้วลงไปผสม"},{"index":3,"title":"ค่อยๆ เติมนม","image":"นมที่เทจากเหยือกเซรามิกใส่ลงในแป้ง","caption":"ค่อยๆ เติมนมลงไปทีละน้อย"},{"index":4,"title":"ละลายเนยแล้วเติมลงไป","image":"เนยละลายที่เทจากกระทะใบเล็กใส่ลงในชาม","caption":"เติมเนยละลายลงไป"},{"index":5,"title":"ตั้งกระทะเครปให้ร้อน","image":"กระทะเครปสีดำว่างเปล่าที่กำลังร้อนอยู่บนเปลวไฟแก๊สสีฟ้า","caption":"ตั้งกระทะสำหรับทำเครปให้ร้อน"},{"index":6,"title":"พลิกกลับด้านและปรุงให้สุก!","image":"เครปในกระทะที่กำลังถูกตะหลิวโลหะยกขอบขึ้น","caption":"พลิกกลับด้านและปรุงให้สุกทั้งสองด้าน"}],"decorative_elements":{"count":8,"labels":["ริบบิ้นด้านหลังชื่อเรื่องด้านบน","ริบบิ้นด้านหลังหัวข้อวัตถุดิบ","ริบบิ้นด้านหลังหัวข้อวิธีการทำ","ริบบิ้นขนาดใหญ่ด้านล่าง","ลายเถาวัลย์ดอกไม้ทางซ้ายของชื่อเรื่อง","ลายประดับมุมดอกไม้","สไตล์ม้วนกระดาษพาร์ชเมนต์","เส้นแบ่งระหว่างส่วนวัตถุดิบและวิธีการทำ"]},"quality":"องค์ประกอบที่สมดุลและสมมาตร ข้อความภาษาฝรั่งเศสและอังกฤษที่อ่านง่าย อินโฟกราฟิกที่มีรายละเอียดครบถ้วนแต่สะอาดตา โปสเตอร์อาหารสไตล์ย้อนยุคที่มีเสน่ห์"}
 ```
 
 #### 🖼️ รูปภาพที่สร้าง
@@ -1654,33 +2018,32 @@ A realistic photograph of a whiteboard with a highly detailed {argument name="ma
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1776756786025_ua0qv3_HGYFCuzaoAAjFsR.jpg" width="600" alt="โพสต์บนโซเชียลมีเดีย - Whiteboard Marker Anime Sketch - Image 1">
+<img src="https://cms-assets.youmind.com/media/1776883149983_ity2s5_HGeYyAfWMAEx8Lx.jpg" width="600" alt="อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - โปสเตอร์สูตรทำเครปฝรั่งเศสสไตล์วินเทจ - Image 1">
 </div>
 
 #### 📌 รายละเอียด
 
-- **ผู้เขียน:** [nic](https://x.com/nicdunz)
-- **แหล่งที่มา:** [Twitter Post](https://x.com/nicdunz/status/2046328629873791075#reversed-0)
-- **เผยแพร่เมื่อ:** 20 เมษายน 2569
+- **ผู้เขียน:** [Pollo AI France](https://x.com/PolloAIFR)
+- **แหล่งที่มา:** [Twitter Post](https://x.com/PolloAIFR/status/2046774203920113932#reversed-1)
+- **เผยแพร่เมื่อ:** 22 เมษายน 2569
 - **ภาษา:** en
 
-**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-2-prompts?id=14152)**
+**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-2-prompts?id=14564)**
 
 ---
 
-### No. 26: โพสต์บนโซเชียลมีเดีย - Vintage Arcade Repair Flash Photography
+### No. 41: อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - อินโฟกราฟิกฟิสิกส์หลุมดำฉบับวัยรุ่นเข้าใจง่าย
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 คำอธิบาย
 
-Generates a nostalgic, flash-lit photograph of someone repairing an open arcade cabinet in a dimly lit gaming center.
+พรอมต์นี้จะช่วยสร้างอินโฟกราฟิกเชิงวิทยาศาสตร์แบบหน้าเดียวที่อัดแน่นด้วยเนื้อหา โดยอธิบายงานวิจัยที่ซับซ้อนเกี่ยวกับหลุมดำและสสารมืดในสไตล์ที่สนุกสนานและเข้าถึงง่าย สำหรับโพสต์บนโซเชียลมีเดียหรือบทความเพื่อการศึกษา
 
 #### 📝 คำสั่ง
 
 ```
-A vintage, late 90s amateur flash photograph of a young man repairing an arcade machine. He is kneeling on a dark, patterned arcade carpet, looking back over his shoulder directly at the camera with a neutral expression. He wears a dark short-sleeved t-shirt, baggy blue jeans, chunky white sneakers, and a dark baseball cap. The lower front panel of the arcade cabinet is wide open, exposing its complex internal electronics, including a tangle of wires, green circuit boards, a large speaker, and metal cooling fans at the base. The side of the cabinet features vibrant pink, black, and white graphics with the text "{argument name="arcade game title" default="Dancing Stage"}" and the brand "{argument name="arcade brand" default="KONAMI"}". The setting is a dimly lit arcade interior with other glowing game cabinets visible in the blurred background. A screwdriver lies on the carpet near the man's knee. The image features harsh direct flash lighting, a slightly grainy film texture, deep shadows, and a nostalgic Y2K aesthetic.
+{"type":"editorial science infographic poster","style":"อินโฟกราฟิกเพื่อการศึกษาในสไตล์นิตยสารที่เป็นมิตรสำหรับวัยรุ่น ผสมผสานแผนภาพฟิสิกส์แบบวาดมือ ตัวการ์ตูน และการจัดวางตัวอักษรที่สะอาดตา","topic":"หลุมดำยุคเริ่มแรก (primordial black holes), การระเหยของฮอว์คิง (Hawking evaporation) และสสารมืดแบบภาระความจำ (memory-burden dark matter)","canvas":{"orientation":"portrait","background":"พื้นหลังกระดาษสีครีมอุ่นพร้อมพื้นผิวเกรนละเอียด","border":"กรอบสี่เหลี่ยมสีเทาหม่นเส้นบางรอบหน้ากระดาษ"},"headline":{"title":"หลุมดำที่ไม่ยอมดับสูญ","subtitle":"หลุมดำขนาดจิ๋วที่ถือกำเนิดขึ้นในเสี้ยววินาทีแรกของจักรวาล กับฟิสิกส์บทใหม่ที่อาจทำให้มันซ่อนตัวอยู่ในฐานะสสารมืด","credit":"Thoss, Lopez-Honorez, Kühnel & Hufnagel"},"layout":{"sections":[{"title":"ถือกำเนิดในพริบตา","position":"top left","count":4,"labels":["แผนภาพการก่อตัวของจักรวาลยุคเริ่มแรก","หลุมดำยุคเริ่มแรกที่มีขนาดเล็กกว่าเม็ดทรายแต่หนักกว่าภูเขา","ไอคอนนาฬิกา 10^-30 วินาทีหลังบิกแบง","ไอคอนเทอร์โมมิเตอร์"]},{"title":"หลุมดำทั่วไปย่อมระเหยไป","position":"top right","count":4,"labels":["ขั้นตอนการระเหยของหลุมดำ 3 ระยะจากซ้ายไปขวา","เส้นหยักแสดงอนุภาคที่แผ่ออกมาในแต่ละระยะ","ย่อหน้าอธิบายของ Stephen Hawking","สติกเกอร์คำคม: \"หลุมดำไม่ได้ดำมืดขนาดนั้น\" — S. Hawking, 1974"]},{"title":"จุดหักมุม: ภาระความจำ (memory burden)","position":"middle center","count":4,"labels":["ตัวการ์ตูนหลุมดำที่ดูเศร้าและแบกเป้ที่เขียนว่า MEMORY","บอลลูนคำพูดเกี่ยวกับความอัดแน่นของข้อมูลจนระเหยไม่หมด","สมการ: ความเร็วปกติ ÷ (ข้อมูลจำนวนมาก)^k = ความเร็วที่ค่อยเป็นค่อยไป","โน้ตอ้างอิงถึงข้อเสนอของ Gia Dvali, 2018"]},{"title":"อนุภาคผีสองชนิด","position":"lower middle","count":5,"labels":["อนุภาคที่เคลื่อนที่เร็วทางด้านซ้าย","ตัวละครอนุภาคที่เคลื่อนที่ช้าและอุ่นทางด้านขวา","เส้นเวลาจาก บิกแบง ถึง ปัจจุบัน","ป้ายกลุ่มเมฆ FAST AND COLD","ป้ายกลุ่มเมฆ SLOW AND WARM"]},{"title":"เราจะจับพวกมันได้อย่างไร: ป่า Lyman-α","position":"bottom left","count":4,"labels":["ย่อหน้าเกี่ยวกับกาแล็กซีโบราณที่เคลื่อนผ่านกลุ่มก๊าซไฮโดรเจน","กราฟิกภูมิทัศน์ป่าการดูดกลืนแสง (absorption-forest)","โน้ตเขียนมือ: ป่าบอกเราว่า: เราจะสังเกตเห็นมัน","แนวคิดแกนจากโลกไปยังเควซาร์ที่อยู่ไกลออกไป"]},{"title":"งานวิจัยนี้บอกอะไรเรา?","position":"bottom right","count":1,"labels":["กล่องสรุปทรงสี่เหลี่ยมมุมมน"]}],"count":6},"visuals":{"color_palette":["warm beige","dark navy","rust orange","dusty teal","soft brown","muted gray"],"illustration_notes":"รูปทรงเวกเตอร์แบนๆ พร้อมเส้นขอบที่ดูเหมือนภาพสเก็ตช์เล็กน้อย เงาที่นุ่มนวล รูปทรงโค้งมน สนุกสนานแต่ยังคงความถูกต้องทางวิทยาศาสตร์","typography":"ตัวอักษรมีเชิง (serif) ขนาดใหญ่แบบตัวพิมพ์ใหญ่ทั้งหมดสำหรับหัวข้อหลัก, หัวข้อส่วนต่างๆ เป็นแบบไม่มีเชิง (sans-serif) ตัวหนา, เนื้อหาอ่านง่ายกะทัดรัด, และมีข้อความเน้นแบบเขียนมือเป็นระยะ"},"objects":{"count":15,"items":["1 กรอบเต็มหน้ากระดาษ","1 บล็อกหัวข้อหลัก","1 แผนภาพการหมุนวนของจักรวาลยุคเริ่มแรก","1 จุดหลุมดำยุคเริ่มแรกขนาดจิ๋วพร้อมคำอธิบาย","1 ไอคอนนาฬิกา","1 ไอคอนเทอร์โมมิเตอร์","3 แผนภาพหลุมดำระเหย","1 สติกเกอร์คำคม Hawking","1 ตัวการ์ตูนหลุมดำสะพายเป้","1 บอลลูนคำพูด","1 บล็อกสมการ","2 ป้ายกลุ่มเมฆ","1 ภาพประกอบป่าสเปกตรัมด้านล่างซ้าย"]},"text_blocks":{"count":9,"items":["หัวข้อหลัก","หัวข้อรอง","ชื่อผู้เขียน","เนื้อหาถือกำเนิดในพริบตา","เนื้อหาหลุมดำทั่วไปย่อมระเหยไป","ย่อหน้าอธิบายภาระความจำ","คำบรรยายอนุภาคผี","คำอธิบายป่า Lyman-alpha","บทสรุปส่งท้าย"]},"composition":"อินโฟกราฟิกหน้าเดียวที่อัดแน่นแต่อ่านง่าย พร้อมคำอธิบายประกอบภาพหลายจุด มีทิศทางการอ่านที่ชัดเจนจากซ้ายไปขวาและบนลงล่าง ออกแบบมาให้เป็นโปสเตอร์วิทยาศาสตร์ที่แชร์ต่อได้บนโซเชียลมีเดีย ซึ่งทำให้งานวิจัยฟิสิกส์ขั้นสูงกลายเป็นเรื่องที่วัยรุ่นผู้ใฝ่รู้เข้าถึงได้ง่าย"}
 ```
 
 #### 🖼️ รูปภาพที่สร้าง
@@ -1688,937 +2051,39 @@ A vintage, late 90s amateur flash photograph of a young man repairing an arcade 
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1776756851261_ndrjbe_HGXxMwzaAAAucuz.jpg" width="600" alt="โพสต์บนโซเชียลมีเดีย - Vintage Arcade Repair Flash Photography - Image 1">
+<img src="https://cms-assets.youmind.com/media/1776883093418_6c754c_HGd6YVfWgAExHOe.jpg" width="600" alt="อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - อินโฟกราฟิกฟิสิกส์หลุมดำฉบับวัยรุ่นเข้าใจง่าย - Image 1">
 </div>
 
-#### 📌 รายละเอียด
-
-- **ผู้เขียน:** [nic](https://x.com/nicdunz)
-- **แหล่งที่มา:** [Twitter Post](https://x.com/nicdunz/status/2046306963605352841#reversed-3)
-- **เผยแพร่เมื่อ:** 20 เมษายน 2569
-- **ภาษา:** en
-
-**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-2-prompts?id=14264)**
-
----
-
-### No. 27: โพสต์บนโซเชียลมีเดีย - Satirical 4-Panel Product Ads
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 คำอธิบาย
-
-Generates a 4-panel grid of humorous, fictional product advertisements with detailed Japanese typography, badges, and feature lists.
-
-#### 📝 คำสั่ง
-
-```
-{
-  "type": "4-panel satirical product advertisement grid",
-  "layout": {
-    "grid": "2x2",
-    "panels": [
-      {
-        "position": "top-left",
-        "product_name": "{argument name=\"top left product name\" default=\"座る石\"}",
-        "visual": "man in white shirt and dark pants sitting on a large round stone in a park",
-        "catchphrase": "いつでも、どこでも、落ち着ける。",
-        "sales_badge": "累計販売数 12,000個 突破!",
-        "vertical_text": "公園のベンチが埋まっていた日に。",
-        "features_count": 3,
-        "features_labels": [
-          "重さ約8kgで安定感抜群",
-          "底面フェルト加工で傷つけにくい",
-          "付属の専用ベルトで持ち運び簡単"
-        ],
-        "extra_visual": "small inset image of the stone with a leather carrying strap",
-        "specs": [
-          "耐荷重 150kg",
-          "安心の日本製"
-        ]
-      },
-      {
-        "position": "top-right",
-        "product_name": "{argument name=\"top right product name\" default=\"磨きたくない人の歯ブラシ\"}",
-        "visual": "sleek light blue toothbrush angled diagonally on a dark blue background",
-        "toothbrush_text": "I don't want to brush my yeeth.",
-        "catchphrase": "持っているだけで安心感",
-        "vertical_text": "歯を磨く代わりに、これを持つ。",
-        "sales_badge": "シリーズ累計販売数 85,000本 突破!",
-        "features_count": 3,
-        "features_labels": [
-          "気持ちを落ち着けるお守り代わりに",
-          "会議や商談前のエチケットに",
-          "磨かない選択を、もっと自由に。"
-        ],
-        "bottom_banner": "歯磨きストレスから、あなたを解放する。"
-      },
-      {
-        "position": "bottom-left",
-        "product_name": "{argument name=\"bottom left product name\" default=\"雲の貯金箱\"}",
-        "visual": "hand inserting a coin into a fluffy white cloud-shaped piggy bank",
-        "catchphrase": "空気より軽い、安心感。",
-        "sales_badge": "累計販売数 23,567個 突破!",
-        "features_count": 3,
-        "features_labels": [
-          "ふわふわの触り心地",
-          "割れないから安心",
-          "インテリアに馴染むデザイン"
-        ],
-        "color_variants_count": 3,
-        "color_variants_labels": [
-          "blue",
-          "pink",
-          "white"
-        ],
-        "price": "¥2,980 (税込)",
-        "bottom_text": "今日から、空に向かってコツコツ貯めよう。"
-      },
-      {
-        "position": "bottom-right",
-        "product_name": "{argument name=\"bottom right product name\" default=\"叱ってくれる石\"}",
-        "visual": "round stone on a wooden desk with a pen, text written on the stone",
-        "stone_text": "{argument name=\"scolding phrase\" default=\"いいかげんやれ\"}",
-        "catchphrase": "やる気が出ないあなたへ。",
-        "sales_badge": "累計販売数 18,000個 突破!",
-        "features_count": 3,
-        "features_labels": [
-          "見るたびに心を奮い立たせる",
-          "厳選された言葉をランダム表示",
-          "電池不要、半永久的に叱ってくれる"
-        ],
-        "phrase_variants_count": 10,
-        "phrase_variants_labels": [
-          "甘えるな",
-          "考えるな",
-          "動け",
-          "現実を見ろ",
-          "逃げるな",
-          "寝るな",
-          "やればできる",
-          "お前ならできる",
-          "寝るな",
-          "もう言い訳するな"
-        ],
-        "price": "¥3,500 (税込)"
-      }
-    ]
-  }
-}
-```
-
-#### 🖼️ รูปภาพที่สร้าง
-
-##### Image 1
+##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1776756826668_9xbiyj_HGXiYvib0AAsQiz.jpg" width="600" alt="โพสต์บนโซเชียลมีเดีย - Satirical 4-Panel Product Ads - Image 1">
+<img src="https://cms-assets.youmind.com/media/1776883093378_6dvru8_HGd6ayBWAAAU9ub.jpg" width="600" alt="อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - อินโฟกราฟิกฟิสิกส์หลุมดำฉบับวัยรุ่นเข้าใจง่าย - Image 2">
 </div>
 
 #### 📌 รายละเอียด
 
-- **ผู้เขียน:** [ふくみー｜人がすり減らない仕組みを設計する人](https://x.com/fukumy_ai)
-- **แหล่งที่มา:** [Twitter Post](https://x.com/fukumy_ai/status/2046292108668211324#reversed-0)
-- **เผยแพร่เมื่อ:** 20 เมษายน 2569
-- **ภาษา:** en
-
-**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-2-prompts?id=14221)**
-
----
-
-### No. 28: โพสต์บนโซเชียลมีเดีย - Food Recipe Flowchart Prompt
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 คำอธิบาย
-
-A concise prompt for generating a realistic recipe cooking process diagram suitable for social media sharing.
-
-#### 📝 คำสั่ง
-
-```
-Help me create a detailed production flowchart for the dish {argument name="dish name" default="Fried Pork with Chili"}, in a realistic style, suitable for Xiaohongshu image-text proportions.
-```
-
-#### 🖼️ รูปภาพที่สร้าง
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1776756770314_jjlnvx_HGXNeVCaAAQ7dMa.jpg" width="600" alt="โพสต์บนโซเชียลมีเดีย - Food Recipe Flowchart Prompt - Image 1">
-</div>
-
-#### 📌 รายละเอียด
-
-- **ผู้เขียน:** [Peng](https://x.com/Kurt_Rousey466)
-- **แหล่งที่มา:** [Twitter Post](https://x.com/Kurt_Rousey466/status/2046267707881029934)
-- **เผยแพร่เมื่อ:** 20 เมษายน 2569
-- **ภาษา:** zh
-
-**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-2-prompts?id=14130)**
-
----
-
-### No. 29: โพสต์บนโซเชียลมีเดีย - Goth Girl on Unicorn Ride
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 คำอธิบาย
-
-Generates a realistic, candid photo of a goth girl sitting on a children's coin-operated ride outside a store.
-
-#### 📝 คำสั่ง
-
-```
-A candid, realistic photograph of a young {argument name="subject aesthetic" default="goth"} woman with pale skin, long straight black hair with bangs, heavy black eyeliner, and black lipstick. She has a {argument name="expression" default="deadpan"} expression, looking directly at the camera while sitting on a children's coin-operated {argument name="ride type" default="unicorn"} ride. She is wearing a black lace-trimmed tank top, black arm warmers, layered necklaces including a choker, black lace tights, and chunky black platform boots with buckles. A large black shoulder bag hangs from her arm. The ride is a white unicorn with a pink mane, gold horn, and purple hooves, mounted on a purple base with a small sticker reading "{argument name="ride cost" default="50¢ PER RIDE"}". The setting is outside a store with a tan cinderblock wall. To the left is a glass door reflecting a person, a brown trash can, and a white sign with red text reading "{argument name="sign text" default="NO PARKING FIRE LANE"}". To the right is a blue vending machine. Overcast, natural daylight.
-```
-
-#### 🖼️ รูปภาพที่สร้าง
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1776756782732_rwl7km_HGXJbgbaAAQQd4O.jpg" width="600" alt="โพสต์บนโซเชียลมีเดีย - Goth Girl on Unicorn Ride - Image 1">
-</div>
-
-#### 📌 รายละเอียด
-
-- **ผู้เขียน:** [daniel.dmai](https://x.com/danieldmai)
-- **แหล่งที่มา:** [Twitter Post](https://x.com/danieldmai/status/2046263091873075429#reversed-0)
-- **เผยแพร่เมื่อ:** 20 เมษายน 2569
-- **ภาษา:** en
-
-**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-2-prompts?id=14146)**
-
----
-
-### No. 30: โพสต์บนโซเชียลมีเดีย - Historical Figure Social Media Mockup
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 คำอธิบาย
-
-Generates a dark-mode social media post mockup featuring a historical figure with custom text, profile details, and a multi-image attachment grid.
-
-#### 📝 คำสั่ง
-
-```
-{
-  "type": "mobile social media app UI mockup",
-  "platform": "Twitter/X dark mode",
-  "header": {
-    "status_bar": "time 19:28, bird icon, signal, wifi, battery",
-    "navigation": "back arrow, 'Tweet' title"
-  },
-  "post": {
-    "author": {
-      "avatar": "portrait of a Chinese emperor in red robes and black hat",
-      "display_name": "{argument name=\"display name\" default=\"Emperor Zhu Yuanzhang\"} 👑 [verified badge]",
-      "handle": "{argument name=\"handle\" default=\"@Emperor_Ming\"}"
-    },
-    "content": {
-      "text": "{argument name=\"tweet text\" default=\"I have ascended to the Dragon Throne! Today, I am proclaimed as the Emperor of the Ming Dynasty. The era of Hongwu has begun. Let us rebuild our great nation together!\"}",
-      "hashtags": "#MingDynasty #HongwuEra #NewBeginning",
-      "media_grid": {
-        "count": 3,
-        "images": [
-          "emperor seated on an ornate golden throne in red and gold robes",
-          "wide shot of a grand Chinese palace courtyard with a large crowd",
-          "emperor on horseback leading an army with a red dragon banner"
-        ]
-      }
-    },
-    "metadata": {
-      "timestamp": "{argument name=\"timestamp\" default=\"1:36 PM · Jan 23, 1368\"}",
-      "engagement": "5,432 Retweets, 8,765 Quotes, 20.1K Likes, 102.3K Views"
-    },
-    "actions": "reply, retweet, like (red heart with '1'), share, upload"
-  },
-  "footer": {
-    "reply_bar": {
-      "avatar": "woman in red",
-      "placeholder": "Reply to Emperor Zhu Yuanzhang..."
-    },
-    "navigation_bar": "home, search, notifications (red '1' badge), messages"
-  }
-}
-```
-
-#### 🖼️ รูปภาพที่สร้าง
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1776756795696_lxxw6p_HGW5HL3bwAABFZd.jpg" width="600" alt="โพสต์บนโซเชียลมีเดีย - Historical Figure Social Media Mockup - Image 1">
-</div>
-
-#### 📌 รายละเอียด
-
-- **ผู้เขียน:** [李岳](https://x.com/liyue_ai)
-- **แหล่งที่มา:** [Twitter Post](https://x.com/liyue_ai/status/2046245319973949816#reversed-0)
-- **เผยแพร่เมื่อ:** 20 เมษายน 2569
-- **ภาษา:** en
-
-**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-2-prompts?id=14166)**
-
----
-
-### No. 31: โพสต์บนโซเชียลมีเดีย - Oriental Fantasy City Poster
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 คำอธิบาย
-
-A high-end city poster prompt for GPT-Image-2 featuring oriental fantasy elements, golden energy flows, and architectural landmarks like the Canton Tower.
-
-#### 📝 คำสั่ง
-
-```
-Flat illustration, high-end oriental fantasy style city poster design, vertical 9:16 composition. The layout uses a diagonal + S-shaped flow extending from the bottom left to top right. The background is deep black grading down to intense dark red, creating strong warm-cool contrast and spatial depth with faint stardust and grain texture. In the center, a flowing golden energy line winds through like a flame, extending upward from the base, featuring fluid texture, particle effects, and gradient highlights, with subtle energy debris and volumetric light.
-
-Within the golden flow, the architectural landmarks of {argument name="city" default="Guangzhou"} emerge layer by layer: the Canton Tower is the visual core with prominent proportions, surrounded by the Zhujiang New Town skyline, Liede Bridge, and modern Lingnan architectural elements. Buildings are rendered using "fine line drawing + golden luminous blocks," with clear outlines and rich details, appearing to float in a void against the golden halo, creating a surreal spatial hierarchy with slightly fogged backgrounds for added depth.
-
-At the bottom of the frame is an oriental white-haired female figure with flowing hair like mist, naturally connecting and merging with the golden light. Her hair is translucent with gradient light effects; she has a graceful posture, eyes closed, and a serene expression, holding a bouquet of colorful flowers dotted with shimmering particles, symbolizing the spiritual connection between people and city energy. Character details are moderately simplified to emphasize the overall design.
-
-Lighting is concentrated on the golden flow, buildings, and character outlines, creating intense chiaroscuro and visual focus. The overall atmosphere is grand, mysterious, imbued with oriental mythology, and slightly healing. Colors use black and dark red as a base with brilliant gold as the main visual emphasis. The gold has rich light-dark layers, complemented by small areas of high-saturation floral colors, maintaining a sophisticated and restrained aesthetic.
-
-Integrated text and layout: Centered Songti font at the top reads "{argument name="city" default="Guangzhou"} · China," followed by smaller text "{argument name="date" default="2026/04/20"}" and "{argument name="author" default="LIYUE"}" below. Text uses pale gold or soft warm white, unified with the overall lighting. High-quality details, cinematic lighting, rich volumetric and particle details, clean image without noise, ultra-high 8K resolution, commercial-grade poster quality.
-```
-
-#### 🖼️ รูปภาพที่สร้าง
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1776756764565_tc8h7v_HGW3PphaIAEANfl.jpg" width="600" alt="โพสต์บนโซเชียลมีเดีย - Oriental Fantasy City Poster - Image 1">
-</div>
-
-#### 📌 รายละเอียด
-
-- **ผู้เขียน:** [李岳](https://x.com/liyue_ai)
-- **แหล่งที่มา:** [Twitter Post](https://x.com/liyue_ai/status/2046243132774494607)
-- **เผยแพร่เมื่อ:** 20 เมษายน 2569
-- **ภาษา:** zh
-
-**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-2-prompts?id=14124)**
-
----
-
-### No. 32: โพสต์บนโซเชียลมีเดีย - 3D Cinematic Multi-Panel Promo Poster
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 คำอธิบาย
-
-A multi-panel promotional poster featuring 3D caricature characters with dramatic backgrounds and customizable Japanese typography.
-
-#### 📝 คำสั่ง
-
-```
-{
-  "type": "cinematic promotional poster",
-  "style": "3D CGI animation style, highly detailed, dramatic lighting, caricature characters",
-  "characters": [
-    { "id": "char1", "description": "large shirtless man with long black hair, beard, and glasses" },
-    { "id": "char2", "description": "elderly woman in a kimono with white hair tied up" },
-    { "id": "char3", "description": "small man with a topknot, glasses, mustache, wearing a bright green sweater" }
-  ],
-  "layout": {
-    "panels": [
-      {
-        "position": "top",
-        "scene": "wide shot of a town street with buildings and a city skyline in the background",
-        "characters_present": ["char1", "char2", "char3"],
-        "text_overlays": [
-          "{argument name=\"intro text\" default=\"ある日ーー\"}",
-          "いつもの日常がーー",
-          "こんばんは"
-        ]
-      },
-      {
-        "position": "middle left",
-        "scene": "close-up of char1 looking shocked against a dark fiery background",
-        "text_overlays": [
-          "{argument name=\"shocked text\" default=\"私が出禁？\"}"
-        ]
-      },
-      {
-        "position": "middle right",
-        "scene": "close-up of char2 looking angry and pointing against a stormy sea background",
-        "text_overlays": [
-          "{argument name=\"angry text\" default=\"海を荒らすな！\"}"
-        ]
-      },
-      {
-        "position": "bottom",
-        "scene": "char3 pointing, char1 screaming, a second instance of char3 falling backwards, and char2 sitting angrily against a fiery chaotic background",
-        "text_overlays": [
-          "全然出ない！"
-        ],
-        "bottom_titles": [
-          "{argument name=\"main title\" default=\"パチンコ軍団親のイメチェン\"}",
-          "{argument name=\"subtitle\" default=\"LINEスタンプ販売中\"}"
-        ]
-      }
-    ]
-  }
-}
-```
-
-#### 🖼️ รูปภาพที่สร้าง
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1776756800943_7x4c7z_HGWyw7Ia8AAoSvy.jpg" width="600" alt="โพสต์บนโซเชียลมีเดีย - 3D Cinematic Multi-Panel Promo Poster - Image 1">
-</div>
-
-#### 📌 รายละเอียด
-
-- **ผู้เขียน:** [運良杉金助（うんよすぎきんすけ）](https://x.com/X64zzotSKCGtYmt)
-- **แหล่งที่มา:** [Twitter Post](https://x.com/X64zzotSKCGtYmt/status/2046238165158240449#reversed-0)
-- **เผยแพร่เมื่อ:** 20 เมษายน 2569
-- **ภาษา:** en
-
-**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-2-prompts?id=14174)**
-
----
-
-### No. 33: โพสต์บนโซเชียลมีเดีย - 5-Panel Mixed Style Collage
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 คำอธิบาย
-
-Generates a 5-panel grid featuring distinct subjects and art styles, useful for testing model versatility and composition.
-
-#### 📝 คำสั่ง
-
-```
-{
-  "type": "5-panel collage",
-  "layout": "grid with 3 top panels and 2 bottom panels",
-  "panels": [
-    {
-      "position": "top-left",
-      "subject": "analog clock",
-      "details": "teal background, time showing {argument name=\"clock time\" default=\"7:42\"}",
-      "style": "flat vector illustration"
-    },
-    {
-      "position": "top-middle",
-      "subject": "woman holding playing cards",
-      "details": "holding 5 cards: {argument name=\"card hand\" default=\"Ace of Spades, King of Hearts, Queen of Clubs, Jack of Diamonds, 10 of Spades\"}",
-      "style": "classic oil painting portrait"
-    },
-    {
-      "position": "top-right",
-      "subject": "glass of red liquid",
-      "details": "{argument name=\"glass type\" default=\"wine glass\"} filled to the brim with dark red liquid, marble surface",
-      "style": "photorealistic studio photography"
-    },
-    {
-      "position": "bottom-left",
-      "subject": "chessboard",
-      "details": "wooden board with 32 pieces in standard starting position",
-      "style": "photorealistic high-angle shot"
-    },
-    {
-      "position": "bottom-right",
-      "subject": "two dice",
-      "details": "left die shows {argument name=\"left die top\" default=\"5\"} on top, right die shows {argument name=\"right die top\" default=\"2\"} on top",
-      "style": "pop art comic book halftone with red and blue burst"
-    }
-  ]
-}
-```
-
-#### 🖼️ รูปภาพที่สร้าง
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1776756788293_c4745u_HGWUTX7XcAAfYQZ.jpg" width="600" alt="โพสต์บนโซเชียลมีเดีย - 5-Panel Mixed Style Collage - Image 1">
-</div>
-
-#### 📌 รายละเอียด
-
-- **ผู้เขียน:** [pozitiv4ik](https://x.com/Gc_qube)
-- **แหล่งที่มา:** [Twitter Post](https://x.com/Gc_qube/status/2046205568474403194#reversed-2)
-- **เผยแพร่เมื่อ:** 20 เมษายน 2569
-- **ภาษา:** en
-
-**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-2-prompts?id=14157)**
-
----
-
-### No. 34: โพสต์บนโซเชียลมีเดีย - 2x2 SNS School Banner Ad Grid
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 คำอธิบาย
-
-Generates a 2x2 grid of diverse banner advertisements for a social media school, featuring different target demographics, color schemes, and marketing copy.
-
-#### 📝 คำสั่ง
-
-```
-{
-  "type": "2x2 grid of banner advertisements",
-  "theme": "{argument name=\"school name\" default=\"SNSスクール\"}",
-  "target_audience": "{argument name=\"target audience\" default=\"学生\"}",
-  "layout": {
-    "grid": "2x2",
-    "panels": [
-      {
-        "position": "top-left",
-        "style": "dark neon, blue and purple",
-        "subject": "young woman looking up hopefully, holding a smartphone, wearing a purple sweatshirt",
-        "main_text": "{argument name=\"banner 1 headline\" default=\"SNSを仕事にしたい人へ\"}",
-        "sub_text": "“好き”をカタチに。未来を変える一歩を、今。",
-        "elements": [
-          "white and yellow typography",
-          "yellow call-to-action button: チェックする >",
-          "hand-drawn neon accents (crown, stars, heart)"
-        ]
-      },
-      {
-        "position": "top-right",
-        "style": "bright, pop, cyan and white",
-        "subject": "young woman smiling directly at camera, holding a smartphone, wearing a teal hoodie, hair in a bun",
-        "main_text": "{argument name=\"banner 2 headline\" default=\"好きな発信を武器にする\"}",
-        "sub_text": "企画・編集・投稿を学ぶ",
-        "elements": [
-          "torn paper texture backgrounds for text",
-          "yellow starburst sticker: 無料体験",
-          "3 feature icons with text: lightbulb (企画力), pencil (編集力), paper plane (投稿力)"
-        ]
-      },
-      {
-        "position": "bottom-left",
-        "style": "dark, analytical, neon purple and green",
-        "subject": "young man looking thoughtfully at his smartphone, wearing a black hoodie",
-        "main_text": "{argument name=\"banner 3 headline\" default=\"バズるだけじゃない 分析まで学べる\"}",
-        "sub_text": "#伸びる理由がわかると、もっと伸ばせる。",
-        "elements": [
-          "3 floating holographic data panels with line graphs and stats (125.6万, 23.8%, 12.6%)",
-          "3 feature icons at bottom: bar chart (データ分析), magnifying glass (改善提案), target (成果につなげる)",
-          "yellow call-to-action button: 詳しく見る >"
-        ]
-      },
-      {
-        "position": "bottom-right",
-        "style": "bright, friendly, purple and white",
-        "subject": "group of 4 young people (3 women, 1 man) huddled together smiling at a smartphone",
-        "main_text": "SNSで未来の可能性を広げよう",
-        "sub_text": "仲間と学べるコミュニティ",
-        "elements": [
-          "torn paper texture backgrounds for text",
-          "3 bullet points with icons (people, speech bubbles, rising chart)",
-          "2 polaroid-style inset photos showing students studying at a desk",
-          "yellow call-to-action button: 今すぐ参加 >"
-        ]
-      }
-    ]
-  }
-}
-```
-
-#### 🖼️ รูปภาพที่สร้าง
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1776756812878_mbd6jr_HGV2AHzbcAA8L47.jpg" width="600" alt="โพสต์บนโซเชียลมีเดีย - 2x2 SNS School Banner Ad Grid - Image 1">
-</div>
-
-#### 📌 รายละเอียด
-
-- **ผู้เขียน:** [パク🎈動画広告分析Pro × AI](https://x.com/masapark95)
-- **แหล่งที่มา:** [Twitter Post](https://x.com/masapark95/status/2046171479763828888#reversed-3)
-- **เผยแพร่เมื่อ:** 20 เมษายน 2569
-- **ภาษา:** en
-
-**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-2-prompts?id=14196)**
-
----
-
-### No. 35: โพสต์บนโซเชียลมีเดีย - 2x2 Grid of Online School Banner Ads
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 คำอธิบาย
-
-Generates a 2x2 grid of banner advertisements for an online school, featuring a mix of photography and illustration with distinct layouts, icons, and call-to-action buttons.
-
-#### 📝 คำสั่ง
-
-```
-{
-  "type": "2x2 grid of banner advertisements",
-  "theme": "{argument name=\"main theme\" default=\"SNSスクール\"} for {argument name=\"target audience\" default=\"ママ\"}",
-  "design_style": "soft, approachable, bright lighting, featuring {argument name=\"color palette\" default=\"soft green, white, and natural beige tones\"}",
-  "layout": {
-    "sections": [
-      {
-        "position": "top-left",
-        "visual_style": "photography",
-        "image_description": "Smiling woman working on a laptop at a table, a toddler playing with toys in the blurred background.",
-        "headlines": ["ママの“やってみたい”を応援！", "子育てしながら学べる", "SNSスクール"],
-        "features": {
-          "count": 1,
-          "type": "icon with text",
-          "labels": ["自宅で無理なくスキルアップ (with house icon)"]
-        },
-        "call_to_action_button": "無料相談"
-      },
-      {
-        "position": "top-right",
-        "visual_style": "photography",
-        "image_description": "Smiling woman holding a white mug, looking at a laptop.",
-        "headlines": ["ちょっとの時間が、大きな一歩に。", "スキマ時間を未来につなげる", "動画講座で学びやすい"],
-        "features": {
-          "count": 3,
-          "type": "circular icons with text below",
-          "labels": ["スマホでも学べる (smartphone icon)", "1日15分からOK (clock icon)", "繰り返し視聴できる (play button icon)"]
-        },
-        "call_to_action_button": "詳しく見る"
-      },
-      {
-        "position": "bottom-left",
-        "visual_style": "watercolor illustration",
-        "image_description": "Illustration of a woman with hair in a bun, smiling at a laptop with a green mug nearby.",
-        "headlines": ["はじめてでも大丈夫！ (with beginner mark)", "在宅でできるSNSの仕事", "未経験OK"],
-        "features": {
-          "count": 3,
-          "type": "circular icons with text below",
-          "labels": ["サポート充実 (heart icon)", "パソコンが苦手でも安心 (laptop icon)", "収入の柱をつくれる (yen coin icon)"]
-        },
-        "call_to_action_button": "体験してみる"
-      },
-      {
-        "position": "bottom-right",
-        "visual_style": "photography",
-        "image_description": "Smiling mother and young daughter sitting on a sofa reading a picture book together.",
-        "headlines": ["家族との時間も大切に", "自分らしい働き方へ", "ママの笑顔がいちばんの未来になる。"],
-        "features": {
-          "count": 3,
-          "type": "checkmark bullet points",
-          "labels": ["場所や時間に縛られない", "やりがいも収入も叶う", "子どもの成長をそばで見守れる"]
-        },
-        "extra_graphics": "Small illustration of a house and trees at the bottom left.",
-        "call_to_action_button": "説明会へ"
-      }
-    ],
-    "common_elements": "All panels feature a {argument name=\"button style\" default=\"rounded green pill button with white text and a right-pointing arrow icon\"} at the bottom."
-  }
-}
-```
-
-#### 🖼️ รูปภาพที่สร้าง
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1776756810872_njhgp7_HGV1-xUbEAEeXo9.jpg" width="600" alt="โพสต์บนโซเชียลมีเดีย - 2x2 Grid of Online School Banner Ads - Image 1">
-</div>
-
-#### 📌 รายละเอียด
-
-- **ผู้เขียน:** [パク🎈動画広告分析Pro × AI](https://x.com/masapark95)
-- **แหล่งที่มา:** [Twitter Post](https://x.com/masapark95/status/2046171479763828888#reversed-2)
-- **เผยแพร่เมื่อ:** 20 เมษายน 2569
-- **ภาษา:** en
-
-**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-2-prompts?id=14192)**
-
----
-
-### No. 36: โพสต์บนโซเชียลมีเดีย - 2x2 Social Media Course Banner Ads
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 คำอธิบาย
-
-Generates a 2x2 grid of promotional banner ads for a social media or content creation school, featuring diverse models, vibrant layouts, and customizable Japanese typography.
-
-#### 📝 คำสั่ง
-
-```
-{"type": "2x2 grid of promotional banner ads", "theme": "{argument name=\"course theme\" default=\"Social Media Content Creation School\"}", "panels": [{"position": "top-left", "color_palette": "light blue and pink pastel gradient", "subject": "young woman smiling, resting chin on hand, smartphone and ring light in foreground", "typography": {"headline": "{argument name=\"top left headline\" default=\"発信を仕事に変える SNSスクール\"}", "subheadings": ["好きが、私の未来になる！", "クリエイター志望歓迎！"]}, "layout_elements": {"bullet_points_count": 3, "call_to_action_button": "pink button labeled '無料体験 >'"}}, {"position": "top-right", "color_palette": "deep blue and cyan geometric", "subject": "young man looking intently at a professional camera on a tripod with a ring light", "typography": {"headline": "{argument name=\"top right headline\" default=\"魅せる投稿が学べる\"}", "subheadings": ["企画・撮影・運用サポート"]}, "layout_elements": {"circular_icons_count": 3, "icon_types": ["lightbulb", "camera", "bar chart"], "call_to_action_button": "yellow button labeled '詳細はこちら >'"}}, {"position": "bottom-left", "color_palette": "soft beige and white aesthetic", "subject": "young woman looking thoughtfully to the side, mood board background", "typography": {"headline": "{argument name=\"bottom left headline\" default=\"自分の世界観を育てる\"}", "subheadings": ["あなたらしさが、一番の強みになる。", "SNSブランディング講座"]}, "layout_elements": {"horizontal_icons_count": 3, "icon_types": ["palette", "person", "heart"], "call_to_action_button": "pink button labeled '今すぐ見る >'"}}, {"position": "bottom-right", "color_palette": "vibrant pink and magenta pop design", "subject": "young woman smiling brightly, pointing at text, messy bun, smartphone on tripod", "typography": {"headline": "{argument name=\"bottom right headline\" default=\"好きな発信でファンをつくる\"}", "subheadings": ["実践型レッスン"]}, "layout_elements": {"bullet_points_count": 4, "call_to_action_button": "yellow button labeled '申し込む >'"}}]}
-```
-
-#### 🖼️ รูปภาพที่สร้าง
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1776756807501_5x4evq_HGV18tZbwAACN4Q.jpg" width="600" alt="โพสต์บนโซเชียลมีเดีย - 2x2 Social Media Course Banner Ads - Image 1">
-</div>
-
-#### 📌 รายละเอียด
-
-- **ผู้เขียน:** [パク🎈動画広告分析Pro × AI](https://x.com/masapark95)
-- **แหล่งที่มา:** [Twitter Post](https://x.com/masapark95/status/2046171479763828888#reversed-1)
-- **เผยแพร่เมื่อ:** 20 เมษายน 2569
-- **ภาษา:** en
-
-**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-2-prompts?id=14186)**
-
----
-
-### No. 37: โพสต์บนโซเชียลมีเดีย - 9-Panel Self-Care Infographic Grid
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 คำอธิบาย
-
-Generates a 9-panel educational infographic poster with a header and 8 illustrated steps, ideal for social media carousels.
-
-#### 📝 คำสั่ง
-
-```
-{"type":"infographic poster","style":"cute flat vector illustration, cozy, warm, soft shading, {argument name=\"color palette\" default=\"pastel Morandi colors, soft pinks, purples, and warm tones\"}","character":"{argument name=\"character description\" default=\"young woman with shoulder-length brown hair wearing a pinkish-purple shirt\"}","layout":{"structure":"4 rows, 3 columns. Top row is a merged header. Rows 2-4 contain 9 individual panels.","header":{"title":"{argument name=\"main title\" default=\"情绪不好了？\"}","subtitle":"{argument name=\"subtitle\" default=\"8个让你瞬间变好的方法\"}","sub_subtitle":"写给焦虑的你，快来看看","visual":"character hugging herself, surrounded by yellow sparkles and hearts"},"grid_panels":[{"id":1,"title":"1. 深呼吸","text":"调节神经，缓解紧张情绪。","visual":"character with eyes closed, smiling, surrounded by clouds"},{"id":2,"title":"2. 去户外散步","text":"接触自然，让心静下来。","visual":"character walking outdoors among green trees and bushes"},{"id":3,"title":"3. 写情绪日记","text":"把烦恼写下，大脑会更轻松。","visual":"character sitting at a desk writing in a notebook with a pen, floating hearts"},{"id":4,"title":"4. 抱抱自己","text":"给予自己温暖和安慰。","visual":"character hugging herself with eyes closed, floating hearts"},{"id":5,"title":"5. 听听音乐","text":"让舒缓的旋律治愈心灵。","visual":"character wearing large white headphones, eyes closed, floating colorful music notes"},{"id":6,"title":"6. 找人倾诉","text":"分享你的烦恼，让压力释放。","visual":"character holding a smartphone, talking to another similar-looking girl, floating hearts"},{"id":7,"title":"7. 看看天空","text":"感受天空的辽阔，让心情变好。","visual":"character looking up at a blue sky with white clouds and sparkles"},{"id":8,"title":"8. 冥想","text":"专注于呼吸，找回内心的宁静。","visual":"an open notebook, a pen, and a pink flower on a desk"},{"id":9,"title":"none","text":"{argument name=\"footer text\" default=\"转发收藏，每天都要关爱自己！\"}","visual":"character sitting cross-legged in a meditation pose, eyes closed, with a glowing halo behind her head"}]}}
-```
-
-#### 🖼️ รูปภาพที่สร้าง
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1776756795828_dfbxou_HGVyykIaUAABaE6.jpg" width="600" alt="โพสต์บนโซเชียลมีเดีย - 9-Panel Self-Care Infographic Grid - Image 1">
-</div>
-
-#### 📌 รายละเอียด
-
-- **ผู้เขียน:** [无限 LOOP](https://x.com/j_zou93)
-- **แหล่งที่มา:** [Twitter Post](https://x.com/j_zou93/status/2046169184493793370#reversed-2)
-- **เผยแพร่เมื่อ:** 20 เมษายน 2569
-- **ภาษา:** en
-
-**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-2-prompts?id=14167)**
-
----
-
-### No. 38: อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - Eastern Mythology Infographic Manuscript
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 คำอธิบาย
-
-A sophisticated prompt for creating an intricate infographic about the differences between Confucianism, Buddhism, and Taoism, styled as an ancient oriental mythological manuscript.
-
-#### 📝 คำสั่ง
-
-```
-A breathtaking and extremely complex world-building infographic masterpiece conceptualizing the "{argument name="theme" default="Fundamental Differences between Confucianism, Buddhism, and Taoism"}", designed as a profound {argument name="style" default="ancient Oriental mythological manuscript"}.
-Background: Pure white vintage textured canvas with a light beige aged parchment base color, subtle frayed edges, and water stain textures.
-Core Layout: Central vision uses a grand "vertical egg-shaped layered structure", with Buddhism, Taoism, and Confucianism layers from top to bottom.
-Margins: Four corners are decorated with fine micro-illustrations featuring ancient observation notes, ritual implements, and runes.
-Colors: Low-saturation sage green, light gold, and off-white as main tones; overall light and soft without harsh high-saturation colors.
-Details: Architectural lines, landscape brushwork, lotus patterns, and cloud layers are clearly visible and exquisitely detailed.
-Seamless Fusion: The three layers transition naturally through clouds and flowing water; the Buddhist halo, Taoist Taiji mist, and Confucian scholarly aura connect seamlessly.
-Style: Classical ink line art + low-saturation digital watercolor, with a light Chinese-style ancient book manuscript texture.
-Text Annotations: Authentic Traditional Chinese characters in a mottled vintage Song typeface. Each annotation includes a short title + a line of poetic description, connected to corresponding details by dark gold hair-thin lines with no overlapping pointers.
-Aspect Ratio: {argument name="aspect ratio" default="3:4"} vertical format, independent and complete.
-
-Title Area (Top): `儒釋道·根本區別` (Confucianism, Buddhism, Taoism: Fundamental Differences)
-Central Layer Labels:
-Top "Buddhism": `釋`, `Relationship between man and self`, `Selflessness, governing the heart, letting go` 
-Middle "Taoism": `道`, `Relationship between man and all things`, `Non-action, governing the body, being open-minded` 
-Bottom "Confucianism": `儒`, `Relationship between man and man`, `No ego, governing the world, taking responsibility` 
-Side Annotations:
-Left: `Purity`: pure heart and clear mind, cutting off troubles; `Stillness`: following nature, returning to the original heart; `Respect`: respecting responsibility, active involvement in society.
-Right: `60+ Spiritual Cultivation`: looking lightly at gain/loss; `35-55 Conduct`: living with flexibility, following laws; `7-35 Actions`: forging ahead, building careers.
-Bottom Summary: `The balance between being in the world and being out of the world is high-level life wisdom.`
-```
-
-#### 🖼️ รูปภาพที่สร้าง
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1776756777025_yj7bdn_HGaMbaUaAAAls--.jpg" width="600" alt="อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - Eastern Mythology Infographic Manuscript - Image 1">
-</div>
-
-#### 📌 รายละเอียด
-
-- **ผู้เขียน:** [知识猫图解](https://x.com/GeekCatX)
-- **แหล่งที่มา:** [Twitter Post](https://x.com/GeekCatX/status/2046477494979793046)
-- **เผยแพร่เมื่อ:** 21 เมษายน 2569
-- **ภาษา:** zh
-
-**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-2-prompts?id=14137)**
-
----
-
-### No. 39: อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - Fashion Design Process Infographic
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 คำอธิบาย
-
-A highly detailed, bilingual infographic detailing the 10-module process of creating a women's garment, featuring an exploded-view centerpiece.
-
-#### 📝 คำสั่ง
-
-```
-{
-  "type": "fashion design process infographic",
-  "title": "{argument name=\"main title\" default=\"一件女装诞生的因果链 THE CAUSAL CHAIN OF A WOMEN'S GARMENT\"}",
-  "subtitle": "从纤维，到版型，到上身 FROM FIBER TO FIT",
-  "style": {
-    "aesthetic": "elegant editorial, technical fashion illustration, highly detailed",
-    "color_palette": "{argument name=\"color palette\" default=\"beige, cream, and neutral tones\"}"
-  },
-  "layout": {
-    "centerpiece": {
-      "description": "Exploded-view illustration of a {argument name=\"garment type\" default=\"women's trench coat dress\"} showing cascading layers of fabric, pattern pieces, and stitching lines. Top shows a model wearing the finished garment.",
-      "central_list": {
-        "count": 13,
-        "type": "numbered steps with pointer lines",
-        "labels": ["01 Material", "02 Inspiration", "03 Sketch", "04 Fabric", "05 Draping", "06 Pattern", "07 Sewing", "08 Fitting", "09 Revision", "10 Team", "11 Construction", "12 Garment", "13 Collaboration"]
-      }
-    },
-    "left_column": [
-      {
-        "module": "MODULE 1: RAW MATERIAL AND FABRIC",
-        "count": 6,
-        "items": ["Fiber", "Yarn Structure", "Fabric Construction", "Weight", "Drape", "Surface Texture"]
-      },
-      {
-        "module": "MODULE 2: INSPIRATION AND DIRECTION",
-        "count": 5,
-        "items": ["Inspiration Source", "Color Direction", "Woman Image", "Occasion Positioning", "Silhouette Intention"]
-      },
-      {
-        "module": "MODULE 3: DESIGN SKETCH AND SILHOUETTE",
-        "count": 7,
-        "items": ["Design Sketch", "Construction Line", "Front Back Relationship", "Neckline", "Shoulder Line", "Waist Line", "Hem Proportion"]
-      }
-    ],
-    "right_column": [
-      {
-        "module": "MODULE 4: PATTERNMAKING AND DRAPING",
-        "count": 6,
-        "items": ["Draping", "Patternmaking", "Dart", "Panel Line", "Ease", "Grain Direction"]
-      },
-      {
-        "module": "MODULE 5: CUTTING AND SAMPLING",
-        "count": 5,
-        "items": ["Cutting", "Layout", "Sample Sewing", "Construction Sequence", "Technique Test"]
-      },
-      {
-        "module": "MODULE 6: FITTING AND REVISION",
-        "count": 4,
-        "items": ["Fitting", "Fit Issues", "Before", "After"]
-      }
-    ],
-    "bottom_row": [
-      {
-        "module": "MODULE 7: TEAM COLLABORATION",
-        "count": 8,
-        "items": ["Designer", "Patternmaker", "Fabric Buyer", "Sample Maker", "Merchandiser", "QC", "Feedback Loop", "Model"]
-      },
-      {
-        "module": "MODULE 8: FINAL GARMENT PRESENTATION",
-        "count": 3,
-        "items": ["Details", "Finished Front & Back", "Labels & Care"]
-      },
-      {
-        "module": "MODULE 9: FINAL WEAR",
-        "count": 3,
-        "items": ["Drape", "Proportion", "Movement in Motion"]
-      },
-      {
-        "module": "MODULE 10: THE CHAIN SUMMARY",
-        "count": 8,
-        "items": ["Material Foundation", "Aesthetic Judgment", "Structural Engineering", "Craft Realization", "Body Negotiation", "Team Collaboration", "Iterative Revision", "Final Garment"]
-      }
-    ],
-    "footer": "{argument name=\"footer text\" default=\"一件成衣，因无数判断而存在 A garment exists because of countless decisions.\"}"
-  }
-}
-```
-
-#### 🖼️ รูปภาพที่สร้าง
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1776756797416_gy8c52_HGZ3LbqaEAA4YJ3.jpg" width="600" alt="อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - Fashion Design Process Infographic - Image 1">
-</div>
-
-#### 📌 รายละเอียด
-
-- **ผู้เขียน:** [虎小象](https://x.com/hx831126)
-- **แหล่งที่มา:** [Twitter Post](https://x.com/hx831126/status/2046454226080219281#reversed-3)
+- **ผู้เขียน:** [Alphin Tom](https://x.com/alphinctom)
+- **แหล่งที่มา:** [Twitter Post](https://x.com/alphinctom/status/2046739393348546597#reversed-0)
 - **เผยแพร่เมื่อ:** 21 เมษายน 2569
 - **ภาษา:** en
 
-**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-2-prompts?id=14169)**
+**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-2-prompts?id=14424)**
 
 ---
 
-### No. 40: อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - Medical Infographic on Diabetes Progression
+### No. 42: อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - การจำลองแผนภูมิเศรษฐศาสตร์เชิงวิชาการ
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 คำอธิบาย
 
-A highly detailed, 14-section medical infographic illustrating the causal chain, mechanisms, and complications of diabetes using anatomical diagrams and charts.
+ชุดคำสั่ง (Prompt) ที่ออกแบบมาเพื่อสร้างแผนภูมิเชิงวิชาการที่ดูสมจริงแต่เป็นข้อมูลสมมติ โดยแสดงความสัมพันธ์ระหว่างราคาน้ำมันและการถูกฉลามทำร้ายในรูปแบบของงานวิจัยทางเศรษฐศาสตร์
 
 #### 📝 คำสั่ง
 
 ```
-{
-  "type": "medical infographic poster",
-  "style": "highly detailed anatomical illustrations, clean structured layout, scientific diagrammatic style",
-  "color_palette": "{argument name=\"color palette\" default=\"medical red, blue, beige, and anatomical flesh tones\"}",
-  "language": "{argument name=\"language\" default=\"bilingual Chinese and English\"}",
-  "header": {
-    "main_title": "{argument name=\"main title\" default=\"糖尿病诞生的因果链\"}",
-    "english_title": "{argument name=\"english title\" default=\"THE CAUSAL CHAIN OF DIABETES\"}",
-    "subtitle": "从胰岛素失灵，到高血糖，到全身损伤"
-  },
-  "layout": {
-    "centerpiece": "{argument name=\"central subject\" default=\"transparent human body showing circulatory system and internal organs\"}",
-    "sections_count": 14,
-    "sections": [
-      { "id": "01", "title": "葡萄糖进入生命", "visuals": ["stomach and intestines"] },
-      { "id": "02", "title": "胰腺与胰岛素", "visuals": ["pancreas", "beta cell"] },
-      { "id": "03", "title": "正常胰岛素作用", "visuals": ["receptor signaling diagram", "muscle, liver, adipose icons"] },
-      { "id": "04", "title": "胰岛素抵抗: 2型通路开始", "visuals": ["receptor blockage diagram", "7 lifestyle icons"] },
-      { "id": "05", "title": "肝脏持续释放葡萄糖", "visuals": ["liver"] },
-      { "id": "06", "title": "β细胞衰竭: 代偿到失败", "visuals": ["beta-cell decline line chart"] },
-      { "id": "07", "title": "1型糖尿病分支", "visuals": ["autoimmune destruction diagram"] },
-      { "id": "08", "title": "高血糖与血液化学", "visuals": ["blood vessel with glucose", "glucose indicators table", "glucose variability chart"] },
-      { "id": "09", "title": "高血糖导致组织损伤", "visuals": ["4 pathways of damage diagrams"] },
-      { "id": "10", "title": "急性代谢后果", "visuals": ["7 symptom icons"] },
-      { "id": "11", "title": "微血管并发症", "visuals": ["eye", "kidney", "nerve cross-section"] },
-      { "id": "12", "title": "大血管并发症与组织损伤", "visuals": ["heart", "brain", "diabetic foot"] },
-      { "id": "13", "title": "器官系统长期代价", "visuals": ["text list"] },
-      { "id": "14", "title": "糖尿病是调控系统失灵", "visuals": ["metabolic control flowchart"] }
-    ],
-    "footer": {
-      "core_message": "核心信息 CORE MESSAGE"
-    }
-  }
-}
+กราฟเส้นจาก {argument name="field" default="งานวิจัยทางเศรษฐศาสตร์"} ที่มีความสำคัญและน่าเชื่อถือ แสดงให้เห็นถึงความสัมพันธ์ที่ใกล้เคียงแต่ไม่สมบูรณ์ระหว่าง {argument name="variable one" default="ราคาน้ำมัน"} และ {argument name="variable two" default="จำนวนการถูกฉลามทำร้าย"} ในช่วงระหว่าง {argument name="time period" default="ปี ค.ศ. 1914 ถึง 2001"}
 ```
 
 #### 🖼️ รูปภาพที่สร้าง
@@ -2626,369 +2091,170 @@ A highly detailed, 14-section medical infographic illustrating the causal chain,
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1776756794100_4xsdtz_HGZ3LbnbYAAFS3y.jpg" width="600" alt="อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - Medical Infographic on Diabetes Progression - Image 1">
+<img src="https://cms-assets.youmind.com/media/1776883083002_cxfvwl_HGd1xPPbwAE2wjs.jpg" width="600" alt="อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - การจำลองแผนภูมิเศรษฐศาสตร์เชิงวิชาการ - Image 1">
 </div>
 
 #### 📌 รายละเอียด
 
-- **ผู้เขียน:** [虎小象](https://x.com/hx831126)
-- **แหล่งที่มา:** [Twitter Post](https://x.com/hx831126/status/2046454226080219281#reversed-2)
+- **ผู้เขียน:** [QC](https://x.com/QiaochuYuan)
+- **แหล่งที่มา:** [Twitter Post](https://x.com/QiaochuYuan/status/2046734593374781951)
 - **เผยแพร่เมื่อ:** 21 เมษายน 2569
 - **ภาษา:** en
 
-**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-2-prompts?id=14164)**
+**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-2-prompts?id=14396)**
 
 ---
 
-### No. 41: อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - Medical Infographic of Gout Pathology
+### No. 43: อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - กราฟวิทยาศาสตร์ศิลปะนามธรรม
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 คำอธิบาย
 
-A detailed, 12-step medical infographic illustrating the metabolic and inflammatory pathways of gout using 3D anatomical diagrams.
+พรอมต์สำหรับสร้างสรรค์ภาพตีความกราฟขอบเขตงาน AI ในสไตล์ที่เป็นเอกลักษณ์ของ Jean-Michel Basquiat ผสมผสานกับความสวยงามของต้นฉบับ Voynich manuscript
+
+#### 📝 คำสั่ง
+
+```
+{argument name="subject" default="กราฟขอบเขตงาน AI"} ที่แต่งแต้มด้วยกลิ่นอายของ {argument name="style" default="Basquiat"} หลอกหลอนด้วยวิญญาณจาก {argument name="source" default="ต้นฉบับ Voynich manuscript"} ในรูปแบบของท่าเรือที่กำลังผุพัง
+```
+
+#### 🖼️ รูปภาพที่สร้าง
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1776883082410_g5g7ez_HGdsoWjWoAA830w.jpg" width="600" alt="อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - กราฟวิทยาศาสตร์ศิลปะนามธรรม - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1776883082394_m5dlcs_HGdtafLWUAAavk3.jpg" width="600" alt="อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - กราฟวิทยาศาสตร์ศิลปะนามธรรม - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1776883082398_krt722_HGduFT2XsAAfwVt.jpg" width="600" alt="อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - กราฟวิทยาศาสตร์ศิลปะนามธรรม - Image 3">
+</div>
+
+##### Image 4
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1776883083130_4igkmu_HGdvzS0WgAAwQJP.jpg" width="600" alt="อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - กราฟวิทยาศาสตร์ศิลปะนามธรรม - Image 4">
+</div>
+
+#### 📌 รายละเอียด
+
+- **ผู้เขียน:** [Ethan Mollick](https://x.com/emollick)
+- **แหล่งที่มา:** [Twitter Post](https://x.com/emollick/status/2046728271849550331)
+- **เผยแพร่เมื่อ:** 21 เมษายน 2569
+- **ภาษา:** en
+
+**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-2-prompts?id=14397)**
+
+---
+
+### No. 44: อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - ใบสั่งยา AI โมเดลภาษาญี่ปุ่น
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 คำอธิบาย
+
+ภาพถ่ายมุมสูงสมจริงของใบสั่งยาภาษาญี่ปุ่นแบบขำขันสำหรับ AI โมเดล เหมาะสำหรับการสร้างเอกสารล้อเลียนและงานเอกสารจำลองที่ดูเป็นทางการ
 
 #### 📝 คำสั่ง
 
 ```
 {
-  "type": "comprehensive medical infographic",
-  "style": "highly detailed 3D medical illustration, clinical white background, clean typography",
-  "header": {
-    "title_cn": "{argument name=\"main title\" default=\"痛风诞生的因果链\"}",
-    "title_en": "{argument name=\"english title\" default=\"THE CAUSAL CHAIN OF GOUT\"}",
-    "subtitle": "Pain is not the beginning. Metabolic imbalance is.",
-    "top_right_sequence": {
+  "type": "เอกสารล้อเลียนใบสั่งยาภาษาญี่ปุ่น",
+  "style": "ภาพถ่ายเอกสารมุมสูงสมจริง",
+  "subject": "ใบสั่งยาภาษาญี่ปุ่นสีขาวหนึ่งแผ่น วางอยู่บนโต๊ะไม้โทนอุ่น",
+  "document": {
+    "paper": {
+      "size": "A4 แนวตั้ง",
+      "color": "ขาว",
+      "orientation": "เอียงตามเข็มนาฬิกาเล็กน้อย",
+      "condition": "แผ่นเรียบสะอาดพร้อมพื้นผิวสัมผัสกระดาษที่เป็นธรรมชาติ"
+    },
+    "print": {
+      "ink": "สีดำพร้อมช่องประทับตราสีแดงหนึ่งช่อง",
+      "font": "ฟอนต์ภาษาญี่ปุ่นแบบ Mincho ผสมกับข้อความตารางแบบไม่มีหัว (sans-serif) ที่เรียบง่าย",
+      "linework": "เส้นตารางและเส้นแบ่งสีเทาดำแบบบาง"
+    },
+    "header": {
+      "title": "ใบสั่งยา",
+      "subtitle": "（ใบสั่งยานี้มีไว้สำหรับโมเดลภาษาขนาดใหญ่เท่านั้น）",
+      "date_label": "วันที่ออกเอกสาร：",
+      "date_value": "{argument name=\"issue date\" default=\"5 มิถุนายน 2025\"}"
+    },
+    "top_fields": {
       "count": 6,
-      "labels": ["Metabolism", "Transport", "Crystallization", "Immunity", "Inflammation", "Damage"]
-    }
-  },
-  "centerpiece": {
-    "description": "{argument name=\"central figure\" default=\"transparent anatomical human body showing liver, kidneys, and vascular system\"}",
-    "details": "pathway highlighted in {argument name=\"highlight color\" default=\"glowing red\"} descending to the foot"
+      "items": [
+        { "label": "ชื่อผู้ป่วย", "value": "{argument name=\"patient name\" default=\"ChatGPT\"}" },
+        { "label": "เพศ", "value": "N/A" },
+        { "label": "อายุ", "value": "N/A" },
+        { "label": "ชื่อโมเดล", "value": "{argument name=\"model name\" default=\"GPT-5.4 Thinking\"}" }
+      ]
+    },
+    "main_section": {
+      "left_title": "โรคประจำตัว/อาการ (อาการเฉพาะของโมเดลภาษาขนาดใหญ่)",
+      "left_count": 8,
+      "left_items": [
+        "1．แนวโน้มการเกิดอาการหลอน (Hallucination)",
+        "2．ข้อมูลล้าสมัยเนื่องจากจุดตัดของความรู้ (Knowledge Cutoff)",
+        "3．อคติ (ความลำเอียงจากข้อมูลที่ใช้ฝึกฝน)",
+        "4．การปรับตัวต่อคำสั่งมากเกินไป (แนวโน้มการโอนอ่อนตามผู้ใช้)",
+        "5．ความสอดคล้องลดลงในข้อความยาว",
+        "6．ตรรกะกระโดดข้ามเมื่อต้องใช้การอนุมานที่ซับซ้อน",
+        "7．การประเมินความไม่แน่นอนต่ำเกินไป (มั่นใจเกินเหตุ)",
+        "8．แนวโน้มความเร็วในการตอบสนองลดลงจากการใช้ทรัพยากรคำนวณ"
+      ],
+      "right_title": "รายการยา (การรักษา/มาตรการ)",
+      "right_count": 8,
+      "right_items": [
+        "・เสริมความแข็งแกร่งในการตรวจสอบข้อเท็จจริง (ใช้เครื่องมือภายนอกร่วมด้วย)",
+        "・อัปเดตความรู้และปรับจูน (Fine-tuning) อย่างสม่ำเสมอ",
+        "・ตรวจสอบและลดอคติอย่างต่อเนื่อง",
+        "・ควบคุมอย่างเหมาะสมผ่าน System Prompt",
+        "・แนะนำให้จัดโครงสร้างผลลัพธ์และแบ่งการสร้างเนื้อหา",
+        "・แสดงกระบวนการคิดและนำขั้นตอนการตรวจสอบมาใช้",
+        "・ระบุความไม่แน่นอนและแสดงหลักฐานอ้างอิงอย่างชัดเจน",
+        "・เพิ่มประสิทธิภาพทรัพยากรและปรับปรุงประสิทธิภาพการตอบสนอง"
+      ]
+    },
+    "notes": {
+      "label": "หมายเหตุ",
+      "text": "รักษาความสมบูรณ์ของโมเดลผ่านการประเมินและรับฟังความคิดเห็นอย่างต่อเนื่อง"
+    },
+    "footer_fields": {
+      "count": 4,
+      "items": [
+        { "label": "ชื่อแพทย์", "value": "{argument name=\"doctor name\" default=\"Sam Altman\"}" },
+        { "label": "ชื่อสถานพยาบาล", "value": "{argument name=\"institution name\" default=\"OpenAI\"}" }
+      ]
+    },
+    "seal": {
+      "position": "มุมขวาล่างภายในแบบฟอร์ม",
+      "shape": "ช่องประทับตราสี่เหลี่ยมมุมมนสีแดง",
+      "text_lines": 3,
+      "text": ["OpenAI", "ประธานเจ้าหน้าที่บริหาร", "Sam Altman"]
+    },
+    "disclaimer": "※ใบสั่งยานี้มีวัตถุประสงค์เพื่อการวินิจฉัยและรักษาโมเดลที่ไม่มีอยู่จริงเท่านั้น"
   },
   "layout": {
-    "left_column": [
-      { "id": "01", "title": "Purine Sources", "elements": 6, "labels": ["Red meat", "Organ meats", "Seafood", "Beer", "Endogenous", "Fructose"] },
-      { "id": "02", "title": "Uric Acid Production", "elements": 2, "labels": ["Chemical pathway", "Liver"] },
-      { "id": "03", "title": "Renal & Intestinal Excretion", "elements": 2, "labels": ["Kidney nephron", "Intestines"] },
-      { "id": "04", "title": "Hyperuricemia", "elements": 2, "labels": ["Blood vial", "Solubility graph"] }
-    ],
-    "center_overlay": [
-      { "id": "05", "title": "Crystal Physics", "elements": 3, "labels": ["Supersaturation beaker", "Precipitation beaker", "Molecular structure"] },
-      { "id": "06", "title": "Joint Deposition & Local Environment", "elements": 1, "labels": ["First MTP joint cross-section"] }
-    ],
-    "right_column": [
-      { "id": "07", "title": "Immune Inflammatory Cascade", "elements": 4, "labels": ["Macrophage", "Inflammasome", "Neutrophil", "Cytokines"] },
-      { "id": "08", "title": "Acute Gout Flare", "elements": 1, "labels": ["Inflamed foot"] },
-      { "id": "09", "title": "Chronic Structural Damage", "elements": 1, "labels": ["Bone erosion joint"] },
-      { "id": "10", "title": "Tophus Formation", "elements": 2, "labels": ["Hand tophi", "Foot tophi"] },
-      { "id": "11", "title": "Beyond the Joint", "elements": 2, "labels": ["Kidney stones", "Systemic burden"] }
-    ],
-    "bottom_row": [
-      { "id": "12", "title": "Pain Is the Final Signal", "elements": 7, "labels": ["Increased Purine", "Overproduction", "Reduced Excretion", "Hyperuricemia", "Crystal Formation", "Immune Activation", "Man in pain"] }
+    "camera_angle": "มุมสูงจากด้านบน",
+    "framing": "เห็นเอกสารทั้งแผ่นโดยมีขอบโต๊ะไม้เล็กน้อยรอบๆ",
+    "lighting": "แสงไฟในร่มแบบนุ่มนวล ให้แสงสว่างสม่ำเสมอ มีเงาจางๆ บริเวณขอบกระดาษ",
+    "sections": [
+      { "title": "ส่วนหัว", "position": "ด้านบน", "count": 3, "labels": ["ใบสั่งยา", "（ใบสั่งยานี้มีไว้สำหรับโมเดลภาษาขนาดใหญ่เท่านั้น）", "วันที่ออกเอกสาร：5 มิถุนายน 2025"] },
+      { "title": "ข้อมูลผู้ป่วย", "position": "กลางตอนบน", "count": 4, "labels": ["ชื่อผู้ป่วย", "เพศ", "อายุ", "ชื่อโมเดล"] },
+      { "title": "เนื้อหาหลักสองคอลัมน์", "position": "ตรงกลาง", "count": 2, "labels": ["โรคประจำตัว/อาการ (อาการเฉพาะของโมเดลภาษาขนาดใหญ่)", "รายการยา (การรักษา/มาตรการ)"] },
+      { "title": "พื้นที่ด้านล่าง", "position": "ด้านล่าง", "count": 4, "labels": ["หมายเหตุ", "ชื่อแพทย์", "ชื่อสถานพยาบาล", "OpenAI"] }
     ]
-  },
-  "theme": "{argument name=\"disease focus\" default=\"gout and uric acid crystallization\"}"
-}
-```
-
-#### 🖼️ รูปภาพที่สร้าง
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1776756791925_yfoe75_HGZ3LYuaYAAkuVr.jpg" width="600" alt="อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - Medical Infographic of Gout Pathology - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1776756791890_onm73a_HGZ3Lbpa0AEtk7b.jpg" width="600" alt="อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - Medical Infographic of Gout Pathology - Image 2">
-</div>
-
-#### 📌 รายละเอียด
-
-- **ผู้เขียน:** [虎小象](https://x.com/hx831126)
-- **แหล่งที่มา:** [Twitter Post](https://x.com/hx831126/status/2046454226080219281#reversed-0)
-- **เผยแพร่เมื่อ:** 21 เมษายน 2569
-- **ภาษา:** en
-
-**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-2-prompts?id=14161)**
-
----
-
-### No. 42: อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - Camera Exploded View Infographic
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 คำอธิบาย
-
-Generates a highly detailed, multi-step technical infographic featuring an exploded view diagram of a complex device.
-
-#### 📝 คำสั่ง
-
-```
-{
-  "type": "technical infographic",
-  "subject": "{argument name=\"subject matter\" default=\"digital photography process\"}",
-  "header": {
-    "title": "{argument name=\"main title\" default=\"一张照片诞生的因果链 THE CAUSAL CHAIN OF A PHOTOGRAPH\"}",
-    "subtitle": "从世界，到图像 FROM WORLD TO IMAGE"
-  },
-  "centerpiece": {
-    "description": "Exploded isometric view of a modern mirrorless camera",
-    "model": "{argument name=\"camera model\" default=\"Canon EOS R5\"}",
-    "labeled_parts_count": 12,
-    "labeled_parts": [
-      "EVF",
-      "Body Structure",
-      "Control Dials",
-      "Thermal Design",
-      "Optical Axis",
-      "IBIS Stabilizer",
-      "Shutter Unit",
-      "Full-Frame Sensor",
-      "{argument name=\"processor name\" default=\"DIGIC X Processor\"}",
-      "Main PCB",
-      "High-Speed Bus",
-      "Card Slot"
-    ]
-  },
-  "layout": {
-    "left_column": {
-      "description": "Chronological causal chain",
-      "count": 13,
-      "steps": [
-        "01 REALITY EXISTS",
-        "02 PHOTONS LEAVE THE WORLD",
-        "03 LENS ACCEPTS & BENDS LIGHT",
-        "04 APERTURE SELECTS",
-        "05 SHUTTER CUTS TIME",
-        "06 FOCUS SETS PRIORITY",
-        "07 SENSOR RECEIVES EVENT",
-        "08 LIGHT BECOMES CHARGE",
-        "09 ANALOG READOUT",
-        "10 A/D CONVERSION",
-        "11 COMPUTATION RECONSTRUCTS",
-        "12 IMAGE APPEARS",
-        "13 MEMORY OUTLIVES"
-      ]
-    },
-    "right_column": {
-      "title": "八大模块 / 8 MODULES",
-      "count": 8,
-      "modules": [
-        "1 ORIGIN OF LIGHT",
-        "2 LENS SHAPES REALITY",
-        "3 APERTURE & SHUTTER EDIT THE WORLD",
-        "4 FOCUS DECIDES CLARITY",
-        "5 SENSOR MEASURES LIGHT",
-        "6 SIGNAL BORN & AMPLIFIED",
-        "7 COMPUTATION BUILDS IMAGE",
-        "8 FILE BECOMES MEMORY"
-      ]
-    },
-    "side_diagrams": {
-      "count": 7,
-      "descriptions": [
-        "Ray cone & image formation",
-        "Aperture & depth of field",
-        "Shutter & motion",
-        "Focal plane & clarity",
-        "Pixel structure",
-        "Photoelectric conversion",
-        "Analog signal waveform"
-      ]
-    },
-    "footer": {
-      "count": 5,
-      "description": "Philosophical summary points"
-    }
-  },
-  "style": "technical, precise, wireframe elements, glowing data lines, photorealistic camera components, clean typography, dual-language"
-}
-```
-
-#### 🖼️ รูปภาพที่สร้าง
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1776756797524_b2yspr_HGZxZd7a0AAlv7w.jpg" width="600" alt="อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - Camera Exploded View Infographic - Image 1">
-</div>
-
-#### 📌 รายละเอียด
-
-- **ผู้เขียน:** [虎小象](https://x.com/hx831126)
-- **แหล่งที่มา:** [Twitter Post](https://x.com/hx831126/status/2046448092871041500#reversed-3)
-- **เผยแพร่เมื่อ:** 21 เมษายน 2569
-- **ภาษา:** en
-
-**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-2-prompts?id=14170)**
-
----
-
-### No. 43: อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - Camera Exploded View Infographic
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 คำอธิบาย
-
-Generates a highly detailed, multi-panel technical infographic featuring a 3D exploded view of a camera and 8 numbered sections explaining the imaging process.
-
-#### 📝 คำสั่ง
-
-```
-{
-  "type": "technical infographic and exploded view diagram",
-  "header": {
-    "title": "{argument name=\"main title\" default=\"佳能 EOS R5 成像系统剖面 CANON EOS R5 IMAGING ATLAS\"}",
-    "subtitles": [
-      "一张照片是如何被制造出来的 HOW AN IMAGE IS ACTUALLY FORMED",
-      "从光，到数据 | FROM PHOTONS TO FILES",
-      "相机不是壳体，而是一条运算链 A camera is not a shell, but a computational chain"
-    ],
-    "top_left_box": {
-      "title": "EOS R5 核心规格 KEY SPECIFICATIONS",
-      "bullet_points_count": 6
-    },
-    "top_right_images": {
-      "count": 2,
-      "description": "front and back views of the camera body"
-    }
-  },
-  "centerpiece": {
-    "description": "highly detailed 3D exploded view of the {argument name=\"camera model\" default=\"Canon EOS R5\"} camera, showing internal components separated vertically",
-    "components_visible": [
-      "lens mount",
-      "lens elements with glowing blue light rays",
-      "image sensor",
-      "motherboard with glowing {argument name=\"processor name\" default=\"DIGIC X\"} chip",
-      "battery pack",
-      "dual card slots",
-      "electronic viewfinder (EVF)"
-    ]
-  },
-  "layout": {
-    "numbered_sections": [
-      {
-        "number": 1,
-        "title": "光学入口 OPTICAL ENTRY",
-        "elements": ["lens cross-section with light rays", "2 line graphs"]
-      },
-      {
-        "number": 2,
-        "title": "光圈、快门与曝光控制 APERTURE, SHUTTER, EXPOSURE",
-        "elements": ["3 aperture blade diagrams", "4 shutter speed example photos", "depth of field diagram", "exposure triangle diagram"]
-      },
-      {
-        "number": 3,
-        "title": "对焦系统与成像平面 FOCUS ACQUISITION + IMAGE PLANE",
-        "elements": ["lens alignment diagram", "AF coverage photo of a runner"]
-      },
-      {
-        "number": 4,
-        "title": "传感器与像素结构 SENSOR + PIXEL ARCHITECTURE",
-        "elements": ["3D pixel array diagram", "single pixel cross-section diagram", "sensor spec table", "quantum efficiency graph"]
-      },
-      {
-        "number": 5,
-        "title": "防抖系统与机械稳定 IBIS + MECHANICAL STABILIZATION",
-        "elements": ["sensor shift mechanism diagram with yaw/pitch/roll axes", "2 stabilization effect comparison photos"]
-      },
-      {
-        "number": 6,
-        "title": "模拟信号、模数转换与读出 ANALOG READOUT + A/D CONVERSION",
-        "elements": ["signal flowchart", "3 readout timing graphs", "signal-to-noise ratio graph", "rolling shutter example photo of a car"]
-      },
-      {
-        "number": 7,
-        "title": "DIGIC X 图像处理链 DIGIC X IMAGE PROCESSING PIPELINE",
-        "elements": ["processing flowchart with central chip", "dynamic range graph", "tone curve graph", "histogram"]
-      },
-      {
-        "number": 8,
-        "title": "文件生成、显示与存储 FILE OUTPUT, PREVIEW, STORAGE",
-        "elements": ["file output flowchart", "2 storage card icons", "file workflow diagram"]
-      }
-    ],
-    "bottom_comparisons": {
-      "count": 5,
-      "labels": [
-        "传感器尺寸对比 SENSOR SIZE COMPARISON",
-        "镜头焦距与视角 FOCAL LENGTH & ANGLE OF VIEW",
-        "ISO 与噪点关系 ISO & NOISE RELATIONSHIP",
-        "光圈与景深关系 APERTURE & DEPTH OF FIELD",
-        "RAW vs JPEG"
-      ]
-    },
-    "footer": "{argument name=\"footer quote\" default=\"光被捕获，数据被解读，影像被记录，记忆被永恒。 Light is captured. Data is interpreted. Image is recorded. Memory is eternal.\"}"
-  },
-  "style": "clean, technical, highly detailed, photorealistic components, blueprint-style annotations, light gray background, precise typography"
-}
-```
-
-#### 🖼️ รูปภาพที่สร้าง
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1776756796557_ls38e9_HGZxZd5a0AAqQYm.jpg" width="600" alt="อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - Camera Exploded View Infographic - Image 1">
-</div>
-
-#### 📌 รายละเอียด
-
-- **ผู้เขียน:** [虎小象](https://x.com/hx831126)
-- **แหล่งที่มา:** [Twitter Post](https://x.com/hx831126/status/2046448092871041500#reversed-2)
-- **เผยแพร่เมื่อ:** 21 เมษายน 2569
-- **ภาษา:** en
-
-**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-2-prompts?id=14168)**
-
----
-
-### No. 44: อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - Botanical Growth Atlas Infographic
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 คำอธิบาย
-
-Generates a highly detailed, vintage-style botanical infographic detailing the complete life cycle and anatomy of a plant.
-
-#### 📝 คำสั่ง
-
-```
-{
-  "type": "scientific botanical infographic poster",
-  "subject": "{argument name=\"plant species\" default=\"Pomegranate (Punica granatum)\"}",
-  "style": "vintage botanical illustration mixed with modern infographic design, highly detailed, {argument name=\"color palette\" default=\"earthy greens, deep reds, parchment background\"}",
-  "header": {
-    "main_title": "{argument name=\"main title\" default=\"植物生命路径剖面\"}",
-    "english_title": "{argument name=\"english title\" default=\"BOTANICAL GROWTH ATLAS\"}",
-    "subtitle": "从种子到果实，一株植物如何展开自己 / FROM SEED TO FRUIT"
-  },
-  "centerpiece": "full plant showing extensive root system, woody stem, green leaves, blooming red flowers, and ripe fruits including one halved to show seeds",
-  "layout": {
-    "numbered_sections": [
-      { "number": 1, "title": "种子结构 / Seed Architecture", "content": "cross-section of a single seed with 6 labeled parts" },
-      { "number": 2, "title": "萌发机制 / Germination Mechanism", "content": "sequence of 5 sprouting seeds showing radicle emergence" },
-      { "number": 3, "title": "根系与地下网络 / Root System + Subsurface Intelligence", "content": "detailed root network with 2 circular microscopic cross-sections showing vascular bundles and hyphae" },
-      { "number": 4, "title": "茎叶生长与维管系统 / Stem, Leaf & Vascular System", "content": "leaf detail and circular stem cross-section with 5 labeled layers" },
-      { "number": 5, "title": "光合作用与能量转换 / Photosynthesis + Energy Conversion", "content": "3D cellular cross-section of a leaf showing mesophyll and chloroplasts, plus a chemical equation diagram" },
-      { "number": 6, "title": "花芽分化与开花机制 / Bud Formation + Blooming", "content": "detailed flower cross-section showing stamen and ovary, plus a 4-season timeline" },
-      { "number": 7, "title": "授粉与结果路径 / Pollination + Fruiting Pathway", "content": "bee approaching a flower cross-section, followed by a sequence of 5 stages of ovary development into a fruit" },
-      { "number": 8, "title": "果实成熟与种子循环 / Fruit Maturation + Seed Cycle", "content": "ripe fruit breaking open, seeds dispersing downwards to a new sprout" }
-    ],
-    "additional_elements": [
-      { "position": "bottom left", "title": "环境触发因素 / Environmental Triggers", "content": "grid of 6 weather/environmental icons and 6 nutrient element icons (N, P, K, Ca, Mg, Fe)" },
-      { "position": "bottom edge", "title": "Growth Timeline", "content": "linear sequence of 19 small plant icons showing the complete life cycle from seed to mature plant" }
-    ],
-    "footer_quote": "{argument name=\"bottom quote\" default=\"理解植物，就是理解生命如何在时间中构建秩序。\"}"
   }
 }
 ```
@@ -2998,85 +2264,33 @@ Generates a highly detailed, vintage-style botanical infographic detailing the c
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1776756794817_7qgepu_HGZxZbNbIAAI_9e.jpg" width="600" alt="อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - Botanical Growth Atlas Infographic - Image 1">
+<img src="https://cms-assets.youmind.com/media/1776883138735_tq3u5c_HGdv-t-a0AA7FRR.jpg" width="600" alt="อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - ใบสั่งยา AI โมเดลภาษาญี่ปุ่น - Image 1">
 </div>
 
 #### 📌 รายละเอียด
 
-- **ผู้เขียน:** [虎小象](https://x.com/hx831126)
-- **แหล่งที่มา:** [Twitter Post](https://x.com/hx831126/status/2046448092871041500#reversed-1)
+- **ผู้เขียน:** [マシモGPT🤖@ChatGPT/Claude/Gemini/GrokなどLLMをこねくり回す人](https://x.com/Masimo_Blue)
+- **แหล่งที่มา:** [Twitter Post](https://x.com/Masimo_Blue/status/2046727684538105890#reversed-1)
 - **เผยแพร่เมื่อ:** 21 เมษายน 2569
 - **ภาษา:** en
 
-**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-2-prompts?id=14165)**
+**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-2-prompts?id=14536)**
 
 ---
 
-### No. 45: อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - 3D Urban Systems Atlas Infographic
+### No. 45: อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - ใบแจ้งหนี้คลินิก AI ภาษาญี่ปุ่น
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 คำอธิบาย
 
-A highly detailed, information-dense infographic featuring a 3D isometric cutaway of a city's subsurface infrastructure, surrounded by data panels and cross-section diagrams.
+ใบแจ้งหนี้ทางการแพทย์ล้อเลียนภาษาญี่ปุ่นที่สมจริงสำหรับโมเดล AI เหมาะสำหรับการสร้างเอกสารจำลองสไตล์คลินิกเพื่อความบันเทิง
 
 #### 📝 คำสั่ง
 
 ```
-{
-  "type": "complex urban systems atlas infographic",
-  "style": "{argument name=\"color palette\" default=\"dark background with glowing blue, gold, and purple accents\"}, highly detailed technical illustration, 3D isometric cutaway",
-  "header": {
-    "title": "{argument name=\"chinese city name\" default=\"上海\"}城市系统剖面 {argument name=\"english city name\" default=\"SHANGHAI\"} URBAN SYSTEMS ATLAS",
-    "subtitles": [
-      "地表之上，是城市；地表之下，是秩序 {argument name=\"english subtitle\" default=\"Beneath the skyline lies the machine.\"}",
-      "一座城市如何运转 How a Megacity Actually Works"
-    ]
-  },
-  "layout": {
-    "top_left": "Compass rose and city map labeled '上海市域位置 SHANGHAI LOCATION'",
-    "top_right": "Data table titled '城市数据 CITY DATA' with 7 rows of statistics",
-    "centerpiece": {
-      "description": "{argument name=\"centerpiece style\" default=\"highly detailed 3D isometric cutaway render\"} of a megacity river landscape",
-      "layers": [
-        "地面层 SURFACE",
-        "排水层 DRAINAGE LAYER",
-        "电力层 POWER LAYER",
-        "通信层 COMMUNICATION LAYER",
-        "轨道交通层 METRO LAYER",
-        "道路隧道层 ROAD TUNNEL LAYER",
-        "管廊综合层 UTILITY CORRIDOR LAYER"
-      ]
-    },
-    "side_panels": [
-      { "id": "01", "title": "城市主骨架 URBAN SKELETON", "elements": "Map with 8 legend items" },
-      { "id": "02", "title": "排水与地下水网 DRAINAGE + STORMWATER", "elements": "Cross-section diagram '典型排水剖面 DRAINAGE SECTION' with 5 legend items" },
-      { "id": "03", "title": "电网与能源分配 POWER GRID + ENERGY", "elements": "Cross-section diagram '典型变电站剖面 SUBSTATION SECTION' with 6 legend items" },
-      { "id": "04", "title": "通信与网络骨干 TELECOM + INTERNET", "elements": "Cross-section diagram '数据中心剖面 DATA CENTER SECTION' with 6 legend items" },
-      { "id": "05", "title": "地铁与地下交通 METRO + SUBSURFACE MOBILITY", "elements": "Cross-section diagram '人民广场站剖面 PEOPLE'S SQUARE STATION' with 6 legend items" },
-      { "id": "06", "title": "道路、高架与循环 ROADS + ELEVATED MOBILITY", "elements": "Cross-section diagram '南浦大桥剖面 NANPU BRIDGE SECTION' with 6 legend items" },
-      { "id": "07", "title": "管廊与地下设施 UTILITY CORRIDORS + PLUMBING", "elements": "Cross-section diagram '综合管廊 UTILITY CORRIDOR' with 8 legend items" },
-      { "id": "08", "title": "城市流量与系统协同 URBAN FLOWS + COORDINATION", "elements": "Map diagram '城市运行指挥中心 CITY OPERATIONS CENTER' with 6 legend items" }
-    ],
-    "bottom_panels": {
-      "system_logic": {
-        "title": "城市系统协同逻辑 SYSTEM COORDINATION LOGIC",
-        "steps": 4,
-        "labels": ["感知层 SENSING LAYER", "网络层 NETWORK LAYER", "平台层 PLATFORM LAYER", "应用层 APPLICATION LAYER"]
-      },
-      "city_brain": {
-        "title": "城市大脑 CITY BRAIN",
-        "central_node": 1,
-        "peripheral_nodes": 8
-      },
-      "references": {
-        "depth_scale": { "title": "深度与尺度 DEPTH & SCALE REFERENCE", "icons": 5 },
-        "map_scale": { "title": "比例尺 SCALE", "markers": 4 }
-      }
-    }
-  }
-}
+{"type":"เอกสารล้อเลียนใบแจ้งหนี้ทางการแพทย์ภาษาญี่ปุ่น","medium":"ภาพถ่ายเอกสารแบบวางราบที่ดูสะอาดตา","subject":"แผ่นใบแจ้งผลการตรวจวางอยู่บนโต๊ะไม้สีน้ำตาลอ่อน","style":{"overall":"เอกสารสำนักงานที่สมจริง, เอกสารคลินิกภาษาญี่ปุ่นที่เป็นทางการ, หมึกสีดำคมชัดบนกระดาษสีขาว, ดีไซน์มินิมอล, เส้นตารางที่เป็นระเบียบ, มุมมองจากด้านบนเล็กน้อย","lighting":"แสงไฟในร่มที่นุ่มนวลและสม่ำเสมอ พร้อมเงาธรรมชาติจางๆ รอบแผ่นกระดาษ","paper":"กระดาษสีขาวขนาด A4, แนวตั้ง"},"document":{"title":"診療明細書（検査）","date_label":"วันที่ออกเอกสาร","date":"{argument name=\"issue date\" default=\"5 มิถุนายน 2025\"}","patient_block":{"count":3,"labels":["ชื่อผู้ป่วย","ชื่อโมเดล","ประเภทประกัน"],"values":["{argument name=\"patient name\" default=\"ChatGPT\"}","{argument name=\"model name\" default=\"GPT-5.3\"}","ประกัน LLM"]},"clinic_block":{"count":4,"labels":["ชื่อคลินิก","ที่อยู่","โทรศัพท์","แพทย์และแผนก"],"values":["{argument name=\"clinic name\" default=\"AI เมดิคอลคลินิก\"}","1-2-3 มารุโนะอุจิ, เขตชิโยดะ, โตเกียว","03-1234-5678","ชื่อแพทย์: แซม อัลต์แมน / แผนก: แผนกตรวจรักษา AI รวม"],"main_table":{"columns":["รายการตรวจ","รายละเอียดการตรวจ","คะแนน","ราคา (เยน)","ส่วนที่ต้องชำระเอง (เยน)"],"row_count":4,"rows":[{"item":"1. การทดสอบความเข้าใจภาษาและการใช้เหตุผล","description":"การประเมินความเข้าใจภาษา, การใช้เหตุผลเชิงตรรกะ, และความสามารถในการบูรณาการความรู้","score":"120 คะแนน","price":"1,200","copay":"360"},{"item":"2. การทดสอบแนวโน้มการหลอนและข้อมูลผิดพลาด","description":"การประเมินความถูกต้องตามข้อเท็จจริงและการตรวจจับแนวโน้มการหลอน","score":"90 คะแนน","price":"900","copay":"270"},{"item":"3. การทดสอบความปลอดภัยในการตอบและอคติ","description":"การประเมินความเสี่ยงของผลลัพธ์ที่เป็นอันตรายและแนวโน้มของอคติ","score":"110 คะแนน","price":"1,100","copay":"330"},{"item":"รวม","description":"","score":"320 คะแนน","price":"3,200","copay":"960"}]},"lower_sections":{"count":3,"sections":[{"title":"【รายละเอียดการใช้ประกัน】","lines":["ชื่อประกัน: ประกัน LLM","เลขที่ผู้เอาประกัน: LLM-2025-0605","ประเภทการใช้สิทธิ์: ค่าตรวจ","อัตราส่วนการจ่าย: 30%","จำนวนเงินที่ประกันครอบคลุม: 2,240 เยน","ส่วนที่ต้องชำระเอง: 960 เยน"]},{"title":"【ยอดเงินที่เรียกเก็บ】","lines":["รวมค่าตรวจ: 3,200 เยน","จำนวนเงินที่ประกันครอบคลุม: 2,240 เยน","ส่วนที่ต้องชำระเอง: 960 เยน","ยอดที่เรียกเก็บในครั้งนี้: 960 เยน"]},{"title":"【ข้อมูลการรักษา】","lines":["วันที่ตรวจ: 5 มิถุนายน 2025","วันที่รับบริการ: 5 มิถุนายน 2025","เลขที่การรักษา: AIMC-20250605-001","ได้รับเงินตามรายการข้างต้นเรียบร้อยแล้ว"],"stamp_box_label":"ตราประทับรับเงิน"}]},"footer":{"count":2,"notes":["※เอกสารฉบับนี้จะไม่ได้รับการออกให้ใหม่ โปรดเก็บรักษาไว้เป็นอย่างดี","※หากมีข้อสงสัยประการใด โปรดติดต่อคลินิกตามที่อยู่ข้างต้น"]}},"composition":{"sheet_centered":true,"visible_elements_count":2,"elements":["กระดาษหนึ่งแผ่นเต็ม","พื้นหลังโต๊ะไม้"],"camera_angle":"มุมมองจากด้านบนพร้อมเอียงเล็กน้อย","margins":"เห็นกระดาษเต็มแผ่นโดยมีขอบโต๊ะรอบๆ เล็กน้อย"},"quality":"ภาพจำลองเอกสารสมจริงความละเอียดสูง, ตัวอักษรอ่านง่ายคมชัด, เลย์เอาต์ภาษาญี่ปุ่นที่ถูกต้อง"}
 ```
 
 #### 🖼️ รูปภาพที่สร้าง
@@ -3084,320 +2298,33 @@ A highly detailed, information-dense infographic featuring a 3D isometric cutawa
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1776756793854_dm5bh5_HGZxZeAbkAAarjw.jpg" width="600" alt="อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - 3D Urban Systems Atlas Infographic - Image 1">
+<img src="https://cms-assets.youmind.com/media/1776883138455_vcajur_HGdv-t-a4AAzo0v.jpg" width="600" alt="อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - ใบแจ้งหนี้คลินิก AI ภาษาญี่ปุ่น - Image 1">
 </div>
 
 #### 📌 รายละเอียด
 
-- **ผู้เขียน:** [虎小象](https://x.com/hx831126)
-- **แหล่งที่มา:** [Twitter Post](https://x.com/hx831126/status/2046448092871041500#reversed-0)
+- **ผู้เขียน:** [マシモGPT🤖@ChatGPT/Claude/Gemini/GrokなどLLMをこねくり回す人](https://x.com/Masimo_Blue)
+- **แหล่งที่มา:** [Twitter Post](https://x.com/Masimo_Blue/status/2046727684538105890#reversed-0)
 - **เผยแพร่เมื่อ:** 21 เมษายน 2569
 - **ภาษา:** en
 
-**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-2-prompts?id=14163)**
+**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-2-prompts?id=14535)**
 
 ---
 
-### No. 46: อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - Encyclopedia Style Infographic Generator
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 คำอธิบาย
-
-A versatile template for generating modular, high-quality educational infographics similar to museum charts or lifestyle knowledge cards.
-
-#### 📝 คำสั่ง
-
-```
-Please generate a high-quality vertical "Popular Science Encyclopedia Image" based on {argument name="theme" default="animals"}.
-
-This image is not a regular poster or a simple illustration, but a modular popular science infographic that possesses a sense of "illustration book, encyclopedia, information structure, and collectability." The overall style should reference a combination of high-end natural history illustrations, modern encyclopedia pages, lifestyle knowledge cards, and highly shareable social media infographics.
-
-Please include in the frame:
-- A clear and beautiful main visual of the subject
-- Several magnified details of local characteristics
-- Multiple rounded modular information sections
-- Clear title hierarchies and key labels
-- Concise yet rich encyclopedic content
-- Visual ratings, key point summaries, or Top 5 modules
-
-Content columns should be automatically adapted based on the theme, prioritized from these directions: basic profile, classification information, appearance characteristics, habits/ecology, formation mechanism/structure, growth or use conditions, care or maintenance suggestions, risks and precautions, suitable audience or scenarios, pros and cons comparison, and quick rating cards.
-
-Visual requirements:
-Light-colored clean background, soft color palette, light shadows, exquisite small icons, rounded information boxes, neat layout, high information density but not crowded, good reading experience. The overall result must look like a real science encyclopedia card suitable for publishing, reading, collecting, and serialized production, rather than an advertisement.
-
-Please do not make it a regular commercial promotional poster. Highlight the features of "knowledge organization + modular information + illustration-style display."
-```
-
-#### 🖼️ รูปภาพที่สร้าง
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1776756768129_szlpze_HGYyHmBaQAA6qFD.jpg" width="600" alt="อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - Encyclopedia Style Infographic Generator - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1776756768143_x6f9tl_HGYyHmDboAAphJr.jpg" width="600" alt="อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - Encyclopedia Style Infographic Generator - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1776756768179_fqpukb_HGYyHmAaoAAZpPo.jpg" width="600" alt="อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - Encyclopedia Style Infographic Generator - Image 3">
-</div>
-
-##### Image 4
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1776756769885_mxlta0_HGYyHl_aoAASbh-.jpg" width="600" alt="อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - Encyclopedia Style Infographic Generator - Image 4">
-</div>
-
-#### 📌 รายละเอียด
-
-- **ผู้เขียน:** [阿兰AI](https://x.com/alanlovelq)
-- **แหล่งที่มา:** [Twitter Post](https://x.com/alanlovelq/status/2046378199681257920)
-- **เผยแพร่เมื่อ:** 20 เมษายน 2569
-- **ภาษา:** zh
-
-**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-2-prompts?id=14129)**
-
----
-
-### No. 47: อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - Pose and Lighting Analysis Sheet Transformer
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 คำอธิบาย
-
-A highly detailed structural prompt for transforming any input image into a white-line mannequin pose and lighting analysis sheet.
-
-#### 📝 คำสั่ง
-
-```
-[CORE TASK]
-Transform the provided input image into a pose-and-light analysis sheet.
-
-This is NOT a finished character illustration.
-This is NOT a clothing sheet.
-This is NOT a beauty-preserving redraw.
-
-This is a white-line rough mannequin conversion.
-
-[PRIMARY GOAL]
-Extract and visualize only:
-- pose structure
-- body balance
-- camera angle
-- body line flow
-- inferred light source placement
-- illuminated areas and light intensity
-
-[INPUT ROLE]
-Use the provided image as the strict anchor for:
-- pose
-- camera angle
-- body tilt
-- weight distribution
-- approximate lighting situation
-
-Do NOT preserve:
-- face rendering
-- hairstyle rendering
-- clothing detail
-- accessories
-- weapon detail
-- background architecture
-- character identity
-- emotional expression
-
-[FIGURE CONVERSION]
-single rough mannequin-like human figure
-white body contour lines
-white internal construction lines
-simple mannequin head
-no face
-no eyes
-no mouth
-no eyelashes
-no personality
-no individual identity
-
-human figure should look like:
-- rough pose mannequin
-- anatomy proxy
-- line-based body guide
-- structural sketch
-- white-line rough dummy
-
-keep:
-- pose readability
-- silhouette flow
-- head tilt
-- torso direction
-- pelvis direction
-- limb placement
-
-[BACKGROUND]
-pure black background
-negative-style dark field
-no scenery
-no props
-no architecture
-no environmental storytelling
-
-[LINE STYLE]
-rough white line drawing
-clean but sketch-like
-construction-line feeling
-anatomy guide lines visible
-joint flow visible
-body contour emphasized
-no polished illustration finish
-
-[LIGHT ESTIMATION]
-predict the likely light source positions from the input image
-visualize the light sources and illuminated areas using green glow only
-
-use green light intensity with variation:
-- strongest green where the light directly hits
-- medium green for wrap light
-- soft green for reflected or fading light
-
-mark the estimated light sources with labels and arrows such as:
-- Main Light
-- Rim Light
-- Fill Light
-- Floor Bounce
-- Back Light
-only if appropriate
-
-IMPORTANT:
-do not invent random lights
-infer lighting from the original input image
-if the lighting is ambiguous, keep the annotations simple and plausible
-
-[GREEN LIGHT VISUALIZATION]
-show green glow on:
-- head / skull plane
-- neck
-- shoulders
-- chest plane
-- ribcage direction
-- pelvis edge
-- thigh planes
-- knee contact points
-- floor contact bounce if applicable
-
-use green light not as decoration,
-but as lighting analysis information
-
-[POSE PRIORITY]
-1. preserve pose structure
-2. preserve camera angle
-3. preserve body balance
-4. preserve head-torso relationship
-5. visualize likely light direction
-6. show illuminated areas with readable green intensity variation
-
-[NEGATIVE]
-finished person,
-cute girl,
-detailed face,
-hair rendering,
-clothing rendering,
-weapon emphasis,
-beautiful anatomy
-```
-
-#### 🖼️ รูปภาพที่สร้าง
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1776756778810_dclrin_HGYS0HYakAAO1Kt.jpg" width="600" alt="อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - Pose and Lighting Analysis Sheet Transformer - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1776756778785_r7428q_HGYS0HcbgAANqVh.jpg" width="600" alt="อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - Pose and Lighting Analysis Sheet Transformer - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1776756779053_lls11a_HGYS0HZbgAAyrVK.jpg" width="600" alt="อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - Pose and Lighting Analysis Sheet Transformer - Image 3">
-</div>
-
-#### 📌 รายละเอียด
-
-- **ผู้เขียน:** [🪷青春ログアウト㊗️100万回再生▶️🌻](https://x.com/WOZ1Tx2JZ3kCeBj)
-- **แหล่งที่มา:** [Twitter Post](https://x.com/WOZ1Tx2JZ3kCeBj/status/2046343828739911683)
-- **เผยแพร่เมื่อ:** 20 เมษายน 2569
-- **ภาษา:** en
-
-**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-2-prompts?id=14140)**
-
----
-
-### No. 48: อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - Scientific Optical Hardware Diagram
+### No. 46: อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - หน้ามังงะแนะนำการสะสมเหรียญสำหรับมือใหม่
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 คำอธิบาย
 
-A detailed 3D schematic of an optical table setup with labeled components, an inset legend, and a descriptive caption.
+มังงะอนิเมะแบบหน้าเดียวที่ผ่านการขัดเกลามาอย่างดี เพื่อแนะนำการสะสมเหรียญให้กับมือใหม่ เหมาะสำหรับใช้ในโพสต์โซเชียลมีเดียเพื่อการศึกษา การ์ตูนอธิบายความรู้ หรือภาพประกอบส่งเสริมการขายในธีมงานอดิเรก
 
 #### 📝 คำสั่ง
 
 ```
-{
-  "type": "scientific hardware diagram",
-  "layout": {
-    "main_scene": "3D render of an optical table with a red laser beam passing through 11 aligned optical components mounted on black posts.",
-    "top_brackets": [
-      {"label": "Dual Modulation", "span": "SLM1"},
-      {"label": "4f Relay Optics", "span": "Lens L1 to Lens L2"},
-      {"label": "Imaging Optics", "span": "SLM2 to Lens L4"},
-      {"label": "Detection", "span": "Camera"}
-    ],
-    "optical_components_left_to_right": [
-      {"name": "Laser", "labels": ["Laser", "λ = {argument name=\"laser wavelength\" default=\"632.8 nm\"}"]},
-      {"name": "SLM1", "labels": ["SLM1", "(Phase / Pol. Mod.)"]},
-      {"name": "Lens L1", "labels": ["Lens L1", "(f1)"]},
-      {"name": "Iris", "labels": ["Fourier Plane", "(Pupil Plane)", "Iris", "(Higher Orders Filtered)"]},
-      {"name": "HWP", "labels": ["HWP", "(λ/2)"]},
-      {"name": "Lens L2", "labels": ["Lens L2", "(f1)"]},
-      {"name": "SLM2", "labels": ["SLM2", "(Phase / Pol. Mod.)"]},
-      {"name": "Lens L3", "labels": ["Lens L3", "(f2)"]},
-      {"name": "Lens L4", "labels": ["Lens L4", "(f2)"]},
-      {"name": "Linear Polarizer", "labels": ["Linear", "-Polarizer", "(Global Analyzer)"]},
-      {"name": "Polarization Camera", "labels": ["POLARIZATION CAMERA"]}
-    ],
-    "inset_box": {
-      "position": "bottom right",
-      "title": "Polarization Camera Micro-Polarizer Array (Per-Pixel Analyzer)",
-      "grid": "4x4 grid of colored squares with directional arrows",
-      "legend_count": 4,
-      "legend_items": [
-        "Red square, horizontal arrow, 0° (H)",
-        "Green square, vertical arrow, 90° (V)",
-        "Blue square, diagonal arrow, 45° (D)",
-        "Yellow square, diagonal arrow, 135° (A)"
-      ]
-    },
-    "bottom_caption": {
-      "figure_prefix": "{argument name=\"figure number\" default=\"Fig. 5.\"}",
-      "title": "{argument name=\"system name\" default=\"Ellipsography Hardware Setup.\"}",
-      "text": "Paragraph of scientific text explaining the dual-modulation configuration, 4f relay optics, and polarization camera."
-    }
-  }
-}
+{"type":"single-page educational manga","style":"clean polished anime illustration, commercial manga layout, bright and friendly, beginner guide tone, highly legible Japanese text, decorative sparkles, soft shading, crisp panel borders","format":"vertical one-page comic with 5 numbered panels","subject":{"character":"young anime woman presenter","appearance":{"hair":{"color":"{argument name=\"hair color\" default=\"very light silver-blue\"}","style":"very long straight hair with soft bangs and long side locks, blue ribbon bows near both sides"},"outfit":"navy blue and white fantasy-inspired dress with black translucent chest panel, blue gem accents, long black fingerless gloves, navy beret-style hat with blue ribbon and gold star ornament","expression":"cheerful, welcoming, enthusiastic coin-collecting guide"}},"theme":"beginner-friendly introduction to coin collecting","language":"Japanese","layout":{"panels":[{"number":1,"position":"top full width","scene":"half-body portrait of the presenter holding up a coin near her face against a cream patterned background filled with floating gold and silver coins","text_elements":{"speech_bubble":"はじめまして、メイヤです！今日は“コイン収集の楽しみ方”を初心者向けに紹介します！","caption_box":"コイン収集って、実はとても奥深い趣味！"}},{"number":2,"position":"middle full width","scene":"wooden tabletop with 5 featured coins or coin-related items arranged in a row while the presenter points downward from behind the table; warm indoor background with sparkles","count":5,"items":["large silver U.S. quarter coin dated 1964","brown Japanese 1 yen-style coin","gold-toned commemorative coin or medal with building motif and 1000円 text","small silver coin","graded slab coin labeled 2020 日本 100円パラリンピック TOKYO NGC MS 69"],"text_elements":{"speech_bubble":"楽しみ方はいろいろ！たとえば…","bullet_list_count":4,"bullet_list":["歴史を知る","デザインを味わう","国や時代で集める","予算内で少しずつ増やす"]}},{"number":3,"position":"lower left","scene":"close view of the presenter wearing white gloves and carefully examining a single silver coin, with sparkles on a pale background","text_elements":{"speech_bubble":"同じコインでも、状態や雰囲気がぜんぜん違うんです！","caption_box":"保存状態を見るのも面白い！"}},{"number":4,"position":"lower right","scene":"coin fair or coin shop booth, the presenter holds a brown wallet while looking at a glass display case containing 3 priced coins; a sign in the background announces a coin fair and several people are browsing","count":3,"display_case_items":["coin with price tag ¥1,200","coin with price tag ¥3,800","coin with price tag ¥12,000"],"background_sign":"コインフェア開催中！","text_elements":{"main_speech":"最初は“無理のない予算”でOK！まずは気になった1枚から！","thought_bubble":"いきなり高額品じゃなくても大丈夫…！"}},{"number":5,"position":"bottom full width","scene":"final encouraging panel with pink sparkling background, the presenter gestures with an open hand beside an open coin album and a presentation case showing a small collection","count":2,"collection_items":["blue coin tray with multiple gold, silver, and bronze coins","open album binder page with coin pockets containing multiple coins and holders"],"text_elements":{"large_speech":"大事なのは、“好き”を見つけること！1枚との出会いが、コレクションの始まりです♪","left_caption_box":"まずは“気になる1枚”を探してみよう！","right_banner":"さいごに…","right_summary":"見る・知る・集める——それがコイン収集の楽しさ！"}}],"panel_count":5,"number_badges":["1","2","3","4","5"]},"composition":"balanced manga page with thick dark borders, each panel clearly separated, speech bubbles and caption boxes integrated into the artwork, coins repeatedly used as visual motifs throughout","color_palette":"cream, gold, silver, navy blue, white, soft pink accents, warm brown wood","quality":"high-resolution professional manga page, print-ready, polished typography and layout"}
 ```
 
 #### 🖼️ รูปภาพที่สร้าง
@@ -3405,75 +2332,66 @@ A detailed 3D schematic of an optical table setup with labeled components, an in
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1776756784971_42ar7q_HGX66O7a8AAqce8.jpg" width="600" alt="อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - Scientific Optical Hardware Diagram - Image 1">
+<img src="https://cms-assets.youmind.com/media/1776883144140_rudjhf_HGdlp_XbwAATIdG.jpg" width="600" alt="อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - หน้ามังงะแนะนำการสะสมเหรียญสำหรับมือใหม่ - Image 1">
 </div>
 
 #### 📌 รายละเอียด
 
-- **ผู้เขียน:** [Lyra - e/acc](https://x.com/HumanOS_v2)
-- **แหล่งที่มา:** [Twitter Post](https://x.com/HumanOS_v2/status/2046317516297765219#reversed-0)
-- **เผยแพร่เมื่อ:** 20 เมษายน 2569
+- **ผู้เขียน:** [メイヤ＠コイン収集](https://x.com/meiya_coin)
+- **แหล่งที่มา:** [Twitter Post](https://x.com/meiya_coin/status/2046716329894506956#reversed-0)
+- **เผยแพร่เมื่อ:** 21 เมษายน 2569
 - **ภาษา:** en
 
-**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-2-prompts?id=14151)**
+**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-2-prompts?id=14550)**
 
 ---
 
-### No. 49: อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - Optical Hardware Setup Diagram
+### No. 47: อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - กิจกรรมในชั้นเรียนด้วยโดมิโนการคูณ
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 คำอธิบาย
+
+ภาพถ่ายในชั้นเรียนที่สมจริงแสดงให้เห็นเด็กๆ กำลังเล่นเกมกระดานโดมิโนการคูณที่มีสีสันสดใส เหมาะสำหรับสื่อการเรียนการสอน การโปรโมทโรงเรียน หรือภาพประกอบกิจกรรมคณิตศาสตร์
+
+#### 📝 คำสั่ง
+
+```
+ภาพถ่ายสไตล์สารคดีที่สมจริงของชั้นเรียนระดับประถมศึกษาในระหว่างทำกิจกรรมคณิตศาสตร์ โดยมีเด็กประมาณ 10 คนนั่งล้อมรอบโต๊ะไม้ที่จัดกลุ่มไว้ สวมชุดนักเรียนสีเขียวและสีน้ำเงิน กำลังเล่นเกมโดมิโนการคูณที่มีสีสันสดใสอย่างตั้งใจ กล้องอยู่ในระดับสายตาของเด็ก โดยทำมุมก้มเล็กน้อยไปยังโต๊ะหลักที่อยู่ด้านหน้า จัดวางฉากให้จุดสนใจอยู่ที่เกมกระดานการศึกษาแบบสี่เหลี่ยมที่มีข้อความเป็นภาษาโปรตุเกส โดยมีชื่อว่า "DOMINÓ DA MULTIPLICAÇÃO" ที่ขอบด้านล่าง และ "TREINANDO AS TABUADAS" อยู่ตรงกลาง ล้อมรอบด้วยขอบของแผ่นโดมิโนการคูณที่มีสีสันสดใส แสดงให้เห็นเด็ก 4 คนที่กำลังมีส่วนร่วมกับกระดานหลักนี้อย่างชัดเจน: เด็กคนหนึ่งกำลังวางแผ่นสีเหลืองลงบนกระดาน เด็กอีกคนถือแผ่นกระเบื้องหลากสีไว้ในมือ เด็กอีกคนกำลังมองจากทางซ้าย และเด็กที่สวมแขนเสื้อสีน้ำเงินที่ขอบด้านล่างกำลังจัดเรียงชิ้นส่วน มีกล่องไม้ตื้นๆ 2 กล่องที่ติดป้ายว่า "JOGO DE DOMINÓ" วางอยู่ใกล้จุดกึ่งกลางด้านซ้ายหนึ่งกล่องและที่ด้านล่างขวาอีกหนึ่งกล่อง ภายในแต่ละกล่องมีชิ้นส่วนโดมิโนทรงสี่เหลี่ยมผืนผ้าหลากสี วางอุปกรณ์การเรียนไว้บนโต๊ะอย่างเป็นธรรมชาติ เช่น ดินสอ 3 แท่ง ใบงาน 2 แผ่น ขวดน้ำ 1 ขวด กล่องดินสอ สมุดบันทึก และแผ่นเกมเพิ่มเติม ในพื้นหลังให้แสดงส่วนที่เหลือของห้องเรียนแบบเบลอๆ โดยมีนักเรียนคนอื่นๆ นั่งอยู่ที่โต๊ะ ชั้นวางหนังสือ บอร์ดไม้ก๊อกที่เต็มไปด้วยภาพวาดของเด็กๆ และโปสเตอร์ตารางการคูณขนาดใหญ่ที่ผนังด้านซ้ายซึ่งเขียนว่า "TABUADA DE MULTIPLICAÇÃO" แสงธรรมชาติที่สว่างสดใสส่องเข้ามาจากหน้าต่างบานสูงทางด้านขวา ทำให้ห้องมีบรรยากาศโรงเรียนที่อบอุ่น มีชีวิตชีวา และสมจริง กระดานการศึกษาและแผ่นกระเบื้องควรใช้สีสันสดใสแบบห้องเรียน เช่น สีเหลือง สีน้ำเงิน สีชมพู สีเขียว และสีส้ม ใบหน้าของเด็กๆ ควรดูไม่เด่นชัดหรือลดความสำคัญลง โดยเน้นไปที่การเรียนรู้ผ่านการลงมือทำ การทำงานร่วมกัน และกิจกรรมโดมิโนการคูณ องค์ประกอบภาพแนวตั้ง ภาพถ่ายที่มีความสมจริงสูง ช่วงเวลาในชั้นเรียนที่เป็นธรรมชาติ รายละเอียดด้านหน้าคมชัด และระยะชัดลึกที่นุ่มนวลในพื้นหลัง
+```
+
+#### 🖼️ รูปภาพที่สร้าง
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1776883177007_sj2vzk_HGdgMWqXsAEr874.jpg" width="600" alt="อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - กิจกรรมในชั้นเรียนด้วยโดมิโนการคูณ - Image 1">
+</div>
+
+#### 📌 รายละเอียด
+
+- **ผู้เขียน:** [Lucas Rodrigues](https://x.com/olusrodri)
+- **แหล่งที่มา:** [Twitter Post](https://x.com/olusrodri/status/2046710556208288008#reversed-1)
+- **เผยแพร่เมื่อ:** 21 เมษายน 2569
+- **ภาษา:** en
+
+**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-2-prompts?id=14632)**
+
+---
+
+### No. 48: อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - ใบงานโดมิโนการคูณแบบพิมพ์ได้
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 คำอธิบาย
 
-Generates a detailed scientific diagram of an optical hardware setup with 11 labeled components, a beam path, an inset micro-polarizer array, and a figure caption.
+ใบงานสำหรับห้องเรียนภาษาโปรตุเกสแบบบราซิลที่มีสีสันสดใส เพื่อฝึกฝนการคูณผ่านเกมจับคู่โดมิโน เหมาะสำหรับครู การเรียนแบบโฮมสคูล และกิจกรรมคณิตศาสตร์ที่พิมพ์ออกมาใช้งานได้
 
 #### 📝 คำสั่ง
 
 ```
-{
-  "type": "scientific optical setup diagram",
-  "main_setup": {
-    "base": "optical breadboard table with grid of mounting holes",
-    "beam": "red laser beam passing horizontally through all components",
-    "top_grouping_brackets": [
-      "{argument name=\"first component group\" default=\"Dual Modulation\"}",
-      "4f Relay Optics",
-      "Imaging Optics",
-      "Detection"
-    ],
-    "components_left_to_right": [
-      { "name": "Laser", "label": "{argument name=\"laser wavelength\" default=\"λ = 632.8 nm\"}", "appearance": "black rectangular box" },
-      { "name": "SLM1", "label": "(Phase / Pol. Mod.)", "appearance": "black square device on post" },
-      { "name": "Lens L1", "label": "(f1)", "appearance": "lens in black ring mount" },
-      { "name": "Iris", "label": "Fourier Plane (Pupil Plane) / (Higher Orders Filtered)", "appearance": "black ring mount with dashed line above" },
-      { "name": "HWP", "label": "(λ/2)", "appearance": "purple-tinted optic in black ring mount" },
-      { "name": "Lens L2", "label": "(f1)", "appearance": "lens in black ring mount" },
-      { "name": "SLM2", "label": "(Phase / Pol. Mod.)", "appearance": "black square device on post" },
-      { "name": "Lens L3", "label": "(f2)", "appearance": "lens in black ring mount" },
-      { "name": "Lens L4", "label": "(f2)", "appearance": "lens in black ring mount" },
-      { "name": "Linear Polarizer", "label": "(Global Analyzer)", "appearance": "lens in black ring mount" },
-      { "name": "Polarization Camera", "label": "POLARIZATION CAMERA", "appearance": "blue and black box camera" }
-    ]
-  },
-  "inset_diagram": {
-    "position": "bottom right, dashed border",
-    "title": "{argument name=\"inset title\" default=\"Polarization Camera Micro-Polarizer Array\"} (Per-Pixel Analyzer)",
-    "visuals": "4x4 grid of colored squares with white directional arrows",
-    "legend_count": 4,
-    "legend_labels": [
-      "red right-arrow 0° (H)",
-      "green up-arrow 90° (V)",
-      "blue diagonal-arrow 45° (D)",
-      "yellow diagonal-arrow 135° (A)"
-    ]
-  },
-  "bottom_caption": {
-    "figure_number": "Fig. 5.",
-    "title": "{argument name=\"setup title\" default=\"Ellipsography Hardware Setup.\"}",
-    "description": "{argument name=\"figure caption\" default=\"Our prototype display system employs a dual-modulation configuration to achieve simultaneous control of phase and polarization. A 4f relay optics setup transfers the modulated wavefront...\"}"
-  }
-}
+สร้างใบงานการศึกษาแบบพิมพ์ได้ในแนวตั้งเป็นภาษาโปรตุเกสแบบบราซิล พื้นหลังสีขาวสะอาดตา ดีไซน์ห้องเรียนที่ดูสนุกสนาน จัดวางองค์ประกอบไว้ตรงกลาง ใช้ตัวอักษรแบบมนหนา สีสันสดใสเหมาะสำหรับเด็ก ที่ด้านบนสุดให้มีหัวข้อขนาดใหญ่สีน้ำเงินเข้มว่า {argument name="headline text" default="DOMINÓ DA MULTIPLICAÇÃO"} พร้อมรัศมีตกแต่งสีเหลืองเล็กๆ ทั้งสองด้าน ด้านล่างมีแถบแบนเนอร์สีม่วงพร้อมข้อความตัวพิมพ์ใหญ่สีขาวว่า {argument name="subtitle text" default="CONECTE A CONTA AO RESULTADO!"} ใต้แบนเนอร์ให้เพิ่มบรรทัดคำแนะนำ 2 บรรทัดจัดกึ่งกลางด้วยสีดำ: "Recorte as peças e embaralhe. Cada jogador pega 7 peças." และ "O objetivo é ficar sem peças!". พื้นที่หลักแสดงชิ้นส่วนสไตล์โดมิโน 40 ชิ้น จัดเรียงในตาราง 4 คอลัมน์ 10 แถว เว้นระยะห่างเท่าๆ กัน แต่ละชิ้นเป็นรูปสี่เหลี่ยมผืนผ้าขอบมนแนวนอนที่มีเส้นขอบสีสันสดใส พื้นหลังสีขาว มีเส้นแบ่งแนวตั้งตรงกลาง และจุดสีดำเล็กๆ บนเส้นแบ่ง ครึ่งซ้ายประกอบด้วยผลลัพธ์ที่เป็นตัวเลขหรือคำว่า "INÍCIO" ในชิ้นแรก และครึ่งขวาประกอบด้วยโจทย์การคูณ ใช้สีขอบสลับกันไปทั่วทั้งตาราง เช่น สีม่วง สีเขียว สีฟ้า สีส้ม สีชมพู และสีเหลือง ชิ้นส่วนทั้ง 40 ชิ้น เรียงตามลำดับแถวจากซ้ายไปขวา บนลงล่าง ได้แก่: 1) "INÍCIO | 1 × 1", 2) "1 | 1 × 2", 3) "2 | 1 × 3", 4) "3 | 1 × 4", 5) "4 | 1 × 5", 6) "5 | 1 × 6", 7) "6 | 1 × 7", 8) "7 | 1 × 8", 9) "8 | 1 × 9", 10) "9 | 2 × 2", 11) "4 | 2 × 3", 12) "6 | 2 × 4", 13) "8 | 2 × 5", 14) "10 | 2 × 6", 15) "12 | 2 × 7", 16) "14 | 2 × 8", 17) "16 | 2 × 9", 18) "18 | 3 × 3", 19) "9 | 3 × 4", 20) "12 | 3 × 5", 21) "15 | 3 × 6", 22) "18 | 3 × 7", 23) "21 | 3 × 8", 24) "24 | 3 × 9", 25) "27 | 4 × 4", 26) "16 | 4 × 5", 27) "20 | 4 × 6", 28) "24 | 4 × 7", 29) "28 | 4 × 8", 30) "32 | 4 × 9", 31) "36 | 5 × 5", 32) "25 | 5 × 6", 33) "30 | 5 × 7", 34) "35 | 5 × 8", 35) "40 | 5 × 9", 36) "45 | 6 × 6", 37) "36 | 6 × 7", 38) "42 | 6 × 8", 39) "48 | 6 × 9", 40) "54 | 7 × 7" ที่ด้านล่างให้เพิ่มกล่องเส้นประสีม่วงขอบมนขนาดใหญ่ที่ครอบคลุมความกว้างส่วนใหญ่ ภายในด้านซ้ายของกล่องนี้ ให้ใส่หัวข้อส่วนว่า "COMO JOGAR:" ด้วยตัวหนาสีม่วงตัวพิมพ์ใหญ่ ตามด้วยรายการหัวข้อย่อย 5 ข้อเป็นสีดำ: "Coloque a peça “INÍCIO” na mesa.", "Os jogadores, na sua vez, devem encaixar uma peça cuja conta seja igual ao número da ponta livre.", "Se não tiver peça para jogar, compre do monte.", และ "Vence quem ficar sem peças!". ทางด้านขวาของกล่องเดียวกัน ให้เพิ่มหัวข้อ "EXEMPLO DE INÍCIO:" เป็นสีม่วงตัวพิมพ์ใหญ่ และแสดงชิ้นส่วนโดมิโนเล็กๆ 4 ชิ้นเรียงตามลำดับพร้อมจุดไข่ปลา: "INÍCIO | 1 × 1", ตามด้วย "1 | 1 × 2", ตามด้วย "2 | 1 × 3", ตามด้วย "3 | 1 × 4", และตามด้วย "...". คงสไตล์โดยรวมให้มีความคมชัดเหมือนภาพเวกเตอร์ พิมพ์ออกมาได้สวยงาม เป็นมิตรสำหรับการฝึกคณิตศาสตร์ระดับประถมศึกษา พร้อมการจัดวางระยะห่างที่สมดุลและข้อความที่อ่านง่าย
 ```
 
 #### 🖼️ รูปภาพที่สร้าง
@@ -3481,66 +2399,37 @@ Generates a detailed scientific diagram of an optical hardware setup with 11 lab
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1776756782892_8esyca_HGX6VAtaEAAoKOp.jpg" width="600" alt="อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - Optical Hardware Setup Diagram - Image 1">
+<img src="https://cms-assets.youmind.com/media/1776883176158_bxapba_HGdgKdhWsAAvt65.jpg" width="600" alt="อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - ใบงานโดมิโนการคูณแบบพิมพ์ได้ - Image 1">
 </div>
 
 #### 📌 รายละเอียด
 
-- **ผู้เขียน:** [Lyra - e/acc](https://x.com/HumanOS_v2)
-- **แหล่งที่มา:** [Twitter Post](https://x.com/HumanOS_v2/status/2046317327134638212#reversed-0)
-- **เผยแพร่เมื่อ:** 20 เมษายน 2569
+- **ผู้เขียน:** [Lucas Rodrigues](https://x.com/olusrodri)
+- **แหล่งที่มา:** [Twitter Post](https://x.com/olusrodri/status/2046710556208288008#reversed-0)
+- **เผยแพร่เมื่อ:** 21 เมษายน 2569
 - **ภาษา:** en
 
-**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-2-prompts?id=14147)**
+**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-2-prompts?id=14631)**
 
 ---
 
-### No. 50: อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - Soccer Match Infographic Poster
+### No. 49: อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - ตารางเส้นเวลาสิ่งประดิษฐ์ทางประวัติศาสตร์
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 คำอธิบาย
 
-Generates a detailed sports matchup poster with player portraits, team logos, and a 5-point facts section.
+พรอมต์นี้จะสร้างโปสเตอร์เพื่อการศึกษาในรูปแบบกระดาษพาร์ชเมนต์ ซึ่งแสดงตารางไดโอรามาสิ่งประดิษฐ์พร้อมคำบรรยายตลอดช่วงประวัติศาสตร์ เหมาะสำหรับใช้ทำอินโฟกราฟิกเส้นเวลาและการเปรียบเทียบเทคโนโลยีที่เปลี่ยนโลก
 
 #### 📝 คำสั่ง
 
 ```
-{
-  "type": "sports match infographic poster",
-  "theme": "UEFA Champions League",
-  "background": "dark blue and purple cosmic sky, glowing blue hexagonal lines, illuminated stadium reflecting on water at bottom",
-  "header": {
-    "logo": "UEFA Champions League",
-    "title": "{argument name=\"stage\" default=\"HALBFINALE\"}",
-    "subtitle": "DAS ZIEL: {argument name=\"location\" default=\"BUDAPEST 2026\"}",
-    "venue": "PUSKÁS ARÉNA"
-  },
-  "matchup": {
-    "player_left": "{argument name=\"team 1 player\" default=\"Harry Kane\"} in red FC Bayern kit",
-    "player_right": "{argument name=\"team 2 player\" default=\"Ousmane Dembélé\"} in blue PSG kit",
-    "center_logos": "FC Bayern München and Paris Saint-Germain with VS",
-    "date_box": "calendar icon, MITTWOCH, {argument name=\"date\" default=\"06.05.2026\"}"
-  },
-  "facts_section": {
-    "title": "FACTS",
-    "count": 5,
-    "items": [
-      "Trophy icon: DIE KÖNIGSKLASSE 2025/26",
-      "Bar chart icon: KANE IN TOPFORM",
-      "Lightning bolt icon: DEMBÉLÉ ÜBERFLIEGER",
-      "Two people icon: BISHER 14 DUELLE",
-      "Stadium icon: BUDAPEST RUFT"
-    ]
-  },
-  "footer": {
-    "trophy": "Champions League trophy on right",
-    "stadium_image": "Puskás Aréna at night",
-    "tagline": "EIN TRAUM. EIN ZIEL. EIN TITEL.",
-    "bottom_text": "ROAD TO BUDAPEST 2026"
-  }
-}
+สร้างภาพประกอบสไตล์อินโฟกราฟิกแบบสี่เหลี่ยมจัตุรัสที่แสดง {argument name="grid size" default="15×15"} ตารางเส้นเวลาสิ่งประดิษฐ์ โดยเรนเดอร์ออกมาเป็นคอลเลกชันของไดโอรามาไอโซเมตริกขนาดจิ๋วบนแผ่นกระดาษพาร์ชเมนต์เก่า ภาพควรมีลักษณะเหมือนโปสเตอร์ทางประวัติศาสตร์ที่คัดสรรมาอย่างดี ซึ่งครอบคลุมตั้งแต่ปี {argument name="starting year" default="1000 BC"} ถึงปี {argument name="ending year" default="2026"} โดยมีสิ่งประดิษฐ์หนึ่งชิ้นต่อหนึ่งช่องและไม่มีซ้ำกัน แสดงส่วนที่มองเห็นได้เป็นตารางขนาด 5 คูณ 5 จากตารางขนาดใหญ่ รวมทั้งหมด 25 ช่องที่มีป้ายกำกับ จัดเรียงเป็นแถวและคอลัมน์อย่างเป็นระเบียบพร้อมเส้นขอบสีเข้มบางๆ ทุกช่องประกอบด้วยสิ่งประดิษฐ์เปลี่ยนโลกที่ไม่ซ้ำกัน ซึ่งแสดงเป็นไดโอรามาทำมือขนาดเล็กที่ใช้วัสดุ สี และรายละเอียดพื้นหลังที่เหมาะสมกับยุคสมัย ใช้โทนสีแบบโบราณที่อบอุ่นสำหรับสิ่งประดิษฐ์ยุคโบราณและยุคกลาง โทนสีเอกสารทางเทคนิคแบบซีเปียสำหรับสิ่งประดิษฐ์ยุคใหม่ตอนต้น และแสงสีนีออนโทนเย็นสำหรับสิ่งประดิษฐ์ดิจิทัลและเทคโนโลยีชีวภาพในยุคปัจจุบัน ล้อมรอบตารางด้วยขอบแผนที่เก่าและพื้นผิวแผนที่ทางประวัติศาสตร์ที่ดูแนบเนียน ผสมผสานเข้ากับกราฟิกเครือข่ายสมัยใหม่ที่จางๆ บริเวณมุมขวาล่าง
+
+ติดป้ายกำกับแต่ละช่องที่มองเห็นได้ด้วยแท็กคำบรรยายสีเบจขนาดเล็กพร้อมข้อความตัวหนาสีดำ รวมสิ่งประดิษฐ์ที่มองเห็นได้ทั้ง 25 รายการตามลำดับการอ่านจากซ้ายบนไปขวาล่าง: 1) ช่อง {argument name="first tile label" default="1000 BC"} แสดงคันไถเหล็กและเครื่องมือช่างพื้นฐานในทุ่งนา พร้อมคำบรรยาย "Iron Plow & Tools"; 2) "Concept of Zero" แสดงเป็นช่องที่ดูเหมือนกระดาษพาร์ชเมนต์ที่มีสัญลักษณ์เลขศูนย์แกะสลักและนาฬิกาทรายสีฟ้า; 3) "Water Clock" แสดงเป็นอุปกรณ์บอกเวลาด้วยน้ำที่ทำจากไม้; 4) "Catapult" แสดงเป็นเครื่องยิงหินที่ทำจากไม้; 5) "Antikythera Mechanism" แสดงเป็นอุปกรณ์เฟืองทองเหลืองที่ซับซ้อนในช่องหิน; 6) "Concrete" แสดงเป็นรถเข็นที่เต็มไปด้วยปูนซีเมนต์หรือปูนฉาบเปียก; 7) "Wheelbarrow" แสดงเป็นรถเข็นล้อเดียวทำจากไม้แบบเรียบง่าย; 8) "Windmill" แสดงเป็นกังหันลมแบบดั้งเดิมบนพื้นหญ้า; 9) "Gunpowder" แสดงเป็นถังและกองดินปืนสีดำพร้อมควัน; 10) "Printing Press" แสดงเป็นแท่นพิมพ์ไม้ที่ล้อมรอบด้วยเสาคลาสสิก; 11) "Mechanical Clock" แสดงเป็นนาฬิกาตั้งพื้นอันวิจิตรบรรจง; 12) "Telescope" แสดงเป็นกล้องโทรทรรศน์ทองเหลืองยุคแรกบนขาตั้งพร้อมบันทึกทางวิทยาศาสตร์ที่ดูเหมือนภาพร่าง; 13) "Steam Engine" แสดงบนช่องสไตล์พิมพ์เขียวสีฟ้าพร้อมเครื่องจักรไอน้ำยุคแรก; 14) "Electric Battery" แสดงบนช่องสไตล์พิมพ์เขียวพร้อมเซลล์แบตเตอรี่ทรงกระบอกสองก้อนและสายไฟ; 15) "Telegraph" แสดงเป็นแป้นโทรเลขมอร์สบนกระดาษเทคนิค; 16) "Light Bulb" แสดงเป็นหลอดไฟที่ส่องแสงอบอุ่นบนแท่นวางสีกลาง; 17) "Automobile" แสดงเป็นรถยนต์สีแดงยุคแรกบนพื้นหลังแบบแปลนโรงงาน; 18) "Airplane" แสดงเป็นเครื่องบินเจ็ตพาณิชย์ขนาดจิ๋ว; 19) "Transistor" แสดงเป็นไมโครชิปสีดำบนช่องแผงวงจรที่ส่องสว่าง; 20) "Personal Computer" แสดงเป็นคอมพิวเตอร์ตั้งโต๊ะสีเบจพร้อมจอ CRT และคีย์บอร์ด; 21) "World Wide Web" แสดงเป็นลูกโลกสีฟ้าเรืองแสงเหนือวงจรดิจิทัล; 22) "Smartphone" แสดงเป็นโทรศัพท์สมัยใหม่ที่เพรียวบางบนพื้นหลังเทคโนโลยีนีออน; 23) "CRISPR-Cas9" แสดงเป็นเกลียวคู่ DNA ในช่องแสดงผลสีฟ้าเทคโนโลยีชีวภาพ; 24) "Reusable Rocket" แสดงเป็นจรวดตั้งตรงหลายลำที่กำลังปล่อยตัวพร้อมกลุ่มควันไอพ่น; 25) "AI (LLMs)" แสดงเป็นตัวอักษร AI ขนาดใหญ่ที่เรืองแสงในลูกบาศก์เทคโนโลยีโฮโลแกรม; 26) "Brain-Computer Interface" แสดงเป็นโฮโลแกรมสมองเรืองแสงบนแท่นสีฟ้า; 27) "Advanced Neural Interface (Implant)" แสดงเป็นภาพโปรไฟล์ศีรษะมนุษย์โปร่งใสที่มีการฝังสมองเรืองแสง พร้อมป้ายกำกับเล็กๆ ด้านบนว่า "2026"
+
+รักษาองค์ประกอบให้มีความเป็นระเบียบสูง เหมือนโปสเตอร์ และมีความหนาแน่นทางภาพ โดยแต่ละช่องสามารถอ่านได้ทันทีที่มอง ใช้มุมมองไอโซเมตริกเล็กน้อย เส้นสายที่คมชัด การแรเงาแบบภาพวาด และคุณภาพภาพประกอบเชิงบรรณาธิการที่สวยงาม ความรู้สึกโดยรวมควรผสมผสานระหว่างโปสเตอร์พิพิธภัณฑ์ เส้นเวลาเพื่อการศึกษา และศิลปะไดโอรามาเทคโนโลยีทางประวัติศาสตร์ที่เปี่ยมด้วยจินตนาการ
 ```
 
 #### 🖼️ รูปภาพที่สร้าง
@@ -3548,51 +2437,33 @@ Generates a detailed sports matchup poster with player portraits, team logos, an
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1776756790183_h3xfum_HGX3RW7asAA8eUG.jpg" width="600" alt="อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - Soccer Match Infographic Poster - Image 1">
+<img src="https://cms-assets.youmind.com/media/1776883088640_kphw9e_HGdbh0CXUAA4ofA.jpg" width="600" alt="อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - ตารางเส้นเวลาสิ่งประดิษฐ์ทางประวัติศาสตร์ - Image 1">
 </div>
 
 #### 📌 รายละเอียด
 
-- **ผู้เขียน:** [MCapital](https://x.com/NumeroBTC)
-- **แหล่งที่มา:** [Twitter Post](https://x.com/NumeroBTC/status/2046313506396574102#reversed-0)
-- **เผยแพร่เมื่อ:** 20 เมษายน 2569
+- **ผู้เขียน:** [Gadgetify](https://x.com/Gdgtify)
+- **แหล่งที่มา:** [Twitter Post](https://x.com/Gdgtify/status/2046705402742460471#reversed-1)
+- **เผยแพร่เมื่อ:** 21 เมษายน 2569
 - **ภาษา:** en
 
-**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-2-prompts?id=14159)**
+**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-2-prompts?id=14412)**
 
 ---
 
-### No. 51: อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - Character Relationship Diagram Poster Generator
+### No. 50: ภาพขนาดย่อของ YouTube - โปสเตอร์ภาพยนตร์การผจญภัยของฉลามจิ๋ว
 
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 คำอธิบาย
 
-A detailed prompt for creating professional character relationship posters that combine information visualization with the specific art style of a series.
+โปสเตอร์อนิเมะสไตล์ญี่ปุ่นสีสันสดใสสำหรับภาพยนตร์ผจญภัยในมหาสมุทรสำหรับเด็ก เหมาะอย่างยิ่งสำหรับการสร้างสรรค์ภาพโปรโมทที่โดดเด่นด้วยตัวละครน่ารักและตัวอักษรชื่อเรื่องที่ดูน่าตื่นตาตื่นใจ
 
 #### 📝 คำสั่ง
 
 ```
-Please generate a high-design character relationship map poster based on {argument name="theme" default="Demon Slayer"}. This image should not be a simple illustration, but a character relationship map that combines information visualization, narrative structure, poster design sense, and stylistic fidelity.
-
-Please automatically complete the following:
-- Identify the work and core settings corresponding to the theme
-- Extract the most representative 6–12 key characters, not exceeding 15 if necessary
-- Identify and display key character relationships, including blood ties, romance, friendship, alliances, hostility, master-disciple, etc.
-- Automatically choose a composition method based on the work's characteristics, such as protagonist-centered, dual-core confrontation, faction-based, family tree, or chronological evolution
-- Automatically refine the work's style DNA, including color, worldview symbols, textures, mood, typography, and representative elements
-- Transform these stylistic elements into an overall visual design for the relationship map, rather than simply copying an official poster
-- Use different colors, line types, and arrows to distinguish different relationships, ensuring clear lines and layers without clutter
-- Make core characters most prominent, followed by important characters, and subordinate characters weakened to form a clear visual hierarchy
-- Ensure every character name is legible, with identity or faction labels if necessary
-
-The final product should satisfy:
-- Immediate understanding of character hierarchy and key relationships
-- Obvious alignment with the original work's temperament and setting
-- Combines the clarity of an infographic with the premium design of a poster
-- Unified, exquisite, complete, and suitable for social media sharing or poster display
-- Avoids a cheap flowchart feel, messy piling, and information overload.
+ภาพประกอบโปสเตอร์ภาพยนตร์ญี่ปุ่นที่สดใสและเปี่ยมไปด้วยพลังในสไตล์อนิเมะจิบิที่สวยงาม ฉากหลังเป็นมหาสมุทรเขตร้อนที่ส่องประกายระยิบระยับ จัดองค์ประกอบภาพโดยให้เด็กจิบิ 2 คนขี่ฉลามสีฟ้าที่กำลังยิ้มและกระโดดเฉียงขึ้นไปท่ามกลางน้ำทะเลที่หมุนวนและเอฟเฟกต์ละอองน้ำสีขาว เด็กทางซ้ายเป็นเด็กผู้ชายผมสั้นสีดำ ตากลมโตสีฟ้าเป็นประกาย ยิ้มกว้างอย่างมีความสุข สวมเสื้อยืดสีดำ กางเกงขาสั้นสีเข้ม รองเท้าผ้าใบสีขาว และเสื้อฮู้ดฉลามสีฟ้าอ่อนที่มีขอบฟันล้อมรอบใบหน้า เขากำลังชี้มือขึ้นด้านบนและกอดฉลามด้วยมืออีกข้าง เด็กทางขวาเป็นเด็กผู้หญิงผมสีส้ม ตากลมโตสีม่วงเป็นประกาย ยิ้มกว้างอย่างร่าเริง สวมชุดเดรสสีส้ม รองเท้าสีชมพู และเสื้อฮู้ดฉลามสีชมพูที่มีขอบฟัน เขากางแขนข้างหนึ่งออกด้วยความตื่นเต้นในขณะที่มืออีกข้างเกาะฉลามไว้ วาดให้ฉลามมีขนาดใหญ่และดูเป็นมิตร มีลำตัวกลมมน ท้องสีอ่อน ดวงตาสีดำเล็กๆ และปากกว้าง ล้อมรอบพวกเขาด้วยโลกใต้น้ำและผิวน้ำที่สดใส: ฝูงปลาเขตร้อนตัวเล็กๆ เต่าทะเล 1 ตัวทางด้านซ้าย โลมา 1 ตัวทางด้านขวา ปลาหมึกสีชมพู 1 ตัวทางด้านขวา ปลาปักเป้า 1 ตัวที่มุมซ้ายล่าง แนวปะการังและพืชทะเลตามขอบด้านล่าง ฟองอากาศทั่วทั้งภาพ และเส้นแสดงการเคลื่อนไหวของน้ำสีฟ้าที่ชัดเจน ในพื้นหลังด้านบน ให้แสดงท้องฟ้าที่มีแดดจ้าพร้อมแสงอาทิตย์ที่ส่องลงมาในน้ำ เมฆปุย นกนางนวล 2 ตัวที่กำลังบิน เกาะเขตร้อนที่มีต้นปาล์มทางด้านซ้ายบน และเรือโจรสลัดทางด้านขวาบนที่มีใบเรือสีขาวและตราสัญลักษณ์ฉลามน่ารัก เพิ่มพวงมาลัยเรือที่มองเห็นได้บางส่วนหลังชื่อเรื่องหลัก ใช้เลย์เอาต์โปรโมทอนิเมะเด็กสไตล์ญี่ปุ่นที่หนาแน่นและน่าตื่นเต้น พร้อมตัวอักษร 3D ขนาดใหญ่และเอฟเฟกต์ระเบิด ที่ด้านบนให้วางข้อความชื่อเรื่องภาษาญี่ปุ่นขนาดใหญ่ {argument name="headline text" default="サメなの ワクワク 大作戦"} ในบรรทัดที่ซ้อนกัน โดยใช้ตัวอักษรไล่เฉดสีฟ้า ส้มชมพู และเหลืองส้มที่ดูมันวาว ขอบสีขาวหนา เงาสีน้ำเงินเข้ม ละอองน้ำ และประกายวิ้งๆ ใต้ชื่อเรื่องให้เพิ่มสโลแกนภาษาญี่ปุ่นแบบโค้งตัวเล็กๆ สีขาวขอบน้ำเงิน: {argument name="tagline" default="さあ、海のむこうへ！最高の冒険がはじまる！"} ที่ด้านล่างให้วางข้อความวันเข้าฉายขนาดใหญ่เป็นภาษาญี่ปุ่น {argument name="release text" default="2026年 夏公開"} โดยใช้ตัวอักษร 3D ไล่เฉดสีแดงไปเหลืองที่ดูโดดเด่น พร้อมขอบสีขาวและน้ำเงิน วางอยู่บนพื้นหลังรูปดาวกระจายสีส้ม ที่มุมขวาล่างให้เพิ่มป้ายรูปดาวสีฟ้าพร้อมข้อความภาษาญี่ปุ่น {argument name="badge text" default="ドキドキ！ワクワク！いっしょに出発だ！"} สีขาวและเหลือง ใส่พร็อพประกอบมุมภาพในธีมสมบัติ 2 ชิ้น: หีบสมบัติที่เปิดอยู่พร้อมเหรียญทองที่มุมซ้ายล่าง และเข็มทิศที่มุมขวาล่าง ภาพรวมควรดูมันวาว สีสันสดใส เหมาะสำหรับครอบครัว มีความแปลกใหม่ ดูเป็นภาพยนตร์ และเหมือนของเล่น พร้อมเส้นขอบที่คมชัด การแสดงออกที่เกินจริง คอนทราสต์สูง และองค์ประกอบภาพแนวตั้งที่พร้อมสำหรับทำโปสเตอร์ ไม่เน้นความสมจริง ไม่ใช้สีหม่น และไม่เน้นความเรียบง่าย
 ```
 
 #### 🖼️ รูปภาพที่สร้าง
@@ -3600,102 +2471,33 @@ The final product should satisfy:
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1776756766331_2wdcq7_HGXHhQcbAAAFcYA.jpg" width="600" alt="อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - Character Relationship Diagram Poster Generator - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1776756766869_x2vey1_HGXHhP8WsAAMvWm.jpg" width="600" alt="อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - Character Relationship Diagram Poster Generator - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1776756766585_eaybgm_HGXHifHbUAAgLZO.jpg" width="600" alt="อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - Character Relationship Diagram Poster Generator - Image 3">
-</div>
-
-##### Image 4
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1776756768074_p5r8mp_HGXHjggWgAAAGAG.jpg" width="600" alt="อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - Character Relationship Diagram Poster Generator - Image 4">
+<img src="https://cms-assets.youmind.com/media/1776883125699_9w895d_HGd6iyxaIAAktC4.jpg" width="600" alt="ภาพขนาดย่อของ YouTube - โปสเตอร์ภาพยนตร์การผจญภัยของฉลามจิ๋ว - Image 1">
 </div>
 
 #### 📌 รายละเอียด
 
-- **ผู้เขียน:** [Larus Canus](https://x.com/MrLarus)
-- **แหล่งที่มา:** [Twitter Post](https://x.com/MrLarus/status/2046263153546174935)
-- **เผยแพร่เมื่อ:** 20 เมษายน 2569
-- **ภาษา:** zh
+- **ผู้เขียน:** [シャック🦈](https://x.com/SHACK_SAME_SAME)
+- **แหล่งที่มา:** [Twitter Post](https://x.com/SHACK_SAME_SAME/status/2046739397786448177#reversed-0)
+- **เผยแพร่เมื่อ:** 21 เมษายน 2569
+- **ภาษา:** en
 
-**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-2-prompts?id=14127)**
+**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-2-prompts?id=14504)**
 
 ---
 
-### No. 52: อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - Epic Concept/Movie Poster Generator
+### No. 51: ภาพขนาดย่อของ YouTube - คอลลาจภาพโฆษณา 4 ช่องสไตล์ญี่ปุ่นเพื่อการเยียวยาจิตใจ
 
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 คำอธิบาย
 
-A massive, highly detailed prompt that directs the AI to automatically derive visual metaphors, hierarchy, and cinematic lighting for an epic poster based on a single theme.
+ภาพปกโฆษณา 4 ช่องสไตล์ญี่ปุ่นที่โดดเด่น สำหรับบริการโค้ชชิ่งหรือการพัฒนาตนเอง ออกแบบมาเพื่อโพสต์บนโซเชียลมีเดีย ลิงก์หน้าโปรไฟล์ หรือภาพปกมาร์เก็ตเพลส
 
 #### 📝 คำสั่ง
 
 ```
-GPT-Image-2 prompt: please automatically generate a top-tier concept poster / infographic-style movie poster centered around {argument name="theme" default="ranking of emperors in Chinese history"}.
-
-Require the AI to automatically derive and uniformly design the entire following visual system based on this theme, without my extra specification:
-- Core subject (automatically judge suitability for people, products, architecture, artifacts, symbols, scenes, or abstract imagery)
-- Bottom supporting structure
-- Hovering symbols or spiritual symbols above
-- Scene wrapping elements
-- Metaphor system
-- Color hierarchy
-- Material contrast
-- Lighting logic
-- Title, subtitle, and auxiliary copy
-- Brand sense and high-end expression
-
-The final frame must be: a shocking, precise, unified, cinematic, ultra-high detail conceptual key visual poster suitable for high-end printing.
-
-[Overall Style]
-Ultra-realistic 3D commercial CGI rendering, merging cinematic lighting, luxury visual language, futuristic concept design, and epic composition. The image must have a "single main visual core," not messy, not like a collage, and not like a regular e-commerce poster.
-
-[Automatic Derivation Rules]
-AI must automatically decide based on the [theme]:
-1. Core visual metaphor
-2. Subject type and posture
-3. Form of supporting structure
-4. Form of suspended elements
-5. Scene shell and spatial atmosphere
-6. Main, auxiliary, and emphasis colors
-7. Material combinations
-8. Text temperament and layout style
-
-[Composition Rules]
-- Absolute sense of premium quality
-- Strong central order, overall unity
-- Allows for axial symmetry or epic composition near the central axis
-- Clear visual gravity, forming clear levels from top to bottom
-- Edge negative space is clean, restrained, and has room to breathe
-
-[Visual Quality]
-- Ultra-high detail
-- Clear volumetric light
-- Authentic materials
-- Natural reflection, refraction, shadows, fog, and depth of field
-- Overall standard of high-end brand campaign key visual / luxury invitation poster / conceptual editorial poster
-
-[Typography System]
-- Overall 90% visual, 10% text
-- AI automatically generates the most matching main title and subtitle based on the [theme]
-- Title must be concise, sharp, and powerful
-- Text should be as minimal and accurate as possible; do not stack words
-
-[Signature Requirement]
-Naturally add the author signature in the bottom corner: @a9quant
+{"type":"คอลลาจภาพปกโฆษณาโซเชียลมีเดียสไตล์ญี่ปุ่น","style":"ดีไซน์โฆษณาที่เน้นการคลิกสูง ดูหรูหราและน่าดึงดูด จัดวางแบบ 4 ช่องสี่เหลี่ยม ตัวอักษรญี่ปุ่นขนาดใหญ่ที่โดดเด่น สีสันสดใส เอฟเฟกต์เรืองแสง ประกายวิ้งๆ และการไล่เฉดสี เน้นการตลาดที่สร้างความรู้สึกเร่งด่วน","canvas":{"aspect_ratio":"1:1","size":"สี่เหลี่ยมจัตุรัส"},"layout":{"grid":"2x2","panels":[{"position":"บนซ้าย","theme":"ความวิตกกังวลและความไม่มั่นใจในตนเอง","background":"ฉากไลฟ์สไตล์ผู้หญิงโทนสีชมพูขาวนวล พร้อมเอฟเฟกต์โบเก้และพื้นผิวแสง","subject":"ภาพระยะใกล้ของหญิงสาวที่ดูวิตกกังวลในเสื้อสเวตเตอร์ถักสีขาว มือข้างหนึ่งแตะใกล้ใบหน้า ผมมวยยุ่งๆ ใบหน้าถูกบดบังบางส่วน","text_blocks":[{"text":"知らないと損！","style":"แถบสีเหลืองเอียงพร้อมข้อความสีดำ","position":"บนซ้าย"},{"text":"99%が間違ってる","style":"พาดหัวขนาดใหญ่มาก ตัวเลขสีแดงและตัวอักษรญี่ปุ่นสไตล์พู่กันสีดำ","position":"บนซ้ายถึงกลาง"},{"text":"その悩みの向き合い方","style":"หัวข้อย่อยสีชมพู","position":"ใต้พาดหัวหลัก"},{"text":"理由もなくモヤモヤする","style":"รายการตรวจสอบในกล่องสีขาวขอบมนพร้อมไอคอนติ๊กถูกสีแดง"},{"text":"頑張ってるのに変わらない","style":"รายการตรวจสอบในกล่องสีขาวขอบมนพร้อมไอคอนติ๊กถูกสีแดง"},{"text":"自分の本音がわからない","style":"รายการตรวจสอบในกล่องสีขาวขอบมนพร้อมไอคอนติ๊กถูกสีแดง"},{"text":"人間関係で疲れてしまう","style":"รายการตรวจสอบในกล่องสีขาวขอบมนพร้อมไอคอนติ๊กถูกสีแดง"},{"text":"将来が不安で仕方ない","style":"รายการตรวจสอบในกล่องสีขาวขอบมนพร้อมไอคอนติ๊กถูกสีแดง"},{"text":"そのモヤモヤ、一人で抱えなくて大丈夫です。","style":"ป้ายวงกลมสีชมพูพร้อมข้อความสีขาว","position":"ล่างขวา"}],"count":9},{"position":"บนขวา","theme":"ไม่ใช่การเยียวยา แต่เป็นกลไกสำหรับการเปลี่ยนแปลง","background":"กาแล็กซีห้วงอวกาศลึกพร้อมเนบิวลาสีน้ำเงิน ม่วง และแดงอมม่วง แสงดาวระยิบระยับ วังวนพลังงาน บรรยากาศทางจิตวิญญาณที่เรืองรอง","subject":"ร่างหญิงสาวขนาดเล็กมองจากด้านหลังหรือด้านข้าง ยืนอยู่ใกล้ประตูมิติหรือเสาแสงที่เปล่งประกาย ใบหน้าถูกบดบังบางส่วน","text_blocks":[{"text":"普通に見えて実は…","style":"ข้อความสีขาวบนแถบเอียงสีดำ","position":"บนซ้าย"},{"text":"これ、","style":"ข้อความสีขาวขนาดใหญ่","position":"บนซ้าย"},{"text":"ヒーリング","style":"ข้อความสีเหลืองขนาดใหญ่มากบนรอยพู่กันสีม่วงเข้ม","position":"กลาง"},{"text":"じゃありません。","style":"ข้อความสีขาวขนาดใหญ่","position":"ด้านล่าง"},{"text":"「整える」ことで","style":"ข้อความในกรอบสีขาว","position":"ล่างซ้าย"},{"text":"現実が変わる","style":"ข้อความไฮไลต์สีชมพู","position":"กลางล่างซ้าย"},{"text":"仕組みがあった！","style":"ข้อความสีขาว","position":"ล่างซ้าย"}],"graphic_elements":[{"type":"ลูกศรสีเหลืองโค้ง","count":1,"direction":"ไปยังร่างที่เรืองแสง"}],"count":8},{"position":"ล่างซ้าย","theme":"การกลับคืนสู่ตัวตนที่แท้จริงสร้างอนาคตที่สดใสกว่า","background":"ท้องฟ้าสีครามสดใสพร้อมเมฆนุ่มๆ ทุ่งหญ้าสีเขียว ใบไม้ลอยละล่อง อารมณ์กลางวันที่เต็มไปด้วยความหวัง","subject":"หญิงสาวผู้ร่าเริงในชุดเดรสสีขาวแขนกุด กางแขนกว้าง หมุนตัวท่ามกลางแสงแดด ใบหน้าถูกบดบังบางส่วน","text_blocks":[{"text":"本来の自分に戻ると","style":"พาดหัวสีแดงและดำ","position":"ด้านบน"},{"text":"こんな未来に","style":"พาดหัวไล่เฉดสีทองขนาดใหญ่มาก","position":"กลาง"},{"text":"なります","style":"ข้อความสีดำขนาดใหญ่","position":"ขวากลาง"},{"text":"心が軽くなり、毎日が楽しくなる","style":"รายการผลประโยชน์ในฟองอากาศสีขาวขอบมนพร้อมไอคอนหัวใจสีชมพู"},{"text":"人間関係がスムーズになり、愛で満たされる","style":"รายการผลประโยชน์ในฟองอากาศสีขาวขอบมนพร้อมไอคอนผู้คนสีเขียว"},{"text":"お金の流れが変わり、豊かさが自然と入ってくる","style":"รายการผลประโยชน์ในฟองอากาศสีขาวขอบมนพร้อมไอคอนเงินเยนสีทอง"},{"text":"人生が想像以上に変わり始めます！","style":"แถบริบบิ้นสีชมพูด้านล่างพร้อมข้อความสีขาว","position":"ด้านล่าง"}],"count":7},{"position":"ล่างขวา","theme":"ข้อเสนอส่วนลดจำกัดเวลา","background":"พื้นผิวระเบิดสีแดงเพลิงและสีทองพร้อมประกายไฟและเส้นแสง ความสวยงามแบบหรูหราที่เร่งด่วน","text_blocks":[{"text":"知らないと","style":"แถบพู่กันสีเหลืองพร้อมข้อความสีดำ","position":"บนซ้าย"},{"text":"損！","style":"ตัวอักษรคันจิสีทองขนาดใหญ่พิเศษพร้อมขอบโลหะ","position":"บนขวา"},{"text":"通常価格 9,980円（税込）","style":"ป้ายราคาพื้นหลังสีขาวพร้อมตัวเลขสีดำที่ขีดฆ่าและหมายเหตุภาษีเล็กๆ","position":"บนซ้าย"},{"text":"モニター価格","style":"ข้อความสีขาว","position":"กลางซ้าย"},{"text":"4割引","style":"ข้อความส่วนลดไล่เฉดสีชมพูไปขาวขนาดใหญ่","position":"กลางล่าง"},{"text":"今だけ 限定募集！ 人数限定","style":"ตราประทับวงกลมสีทอง","position":"ขวากลาง"},{"text":"詳しくはプロフィールから","style":"แถบสีม่วงสำหรับกระตุ้นการตัดสินใจพร้อมข้อความสีขาวและปุ่มลูกศรสีขาว","position":"ด้านล่าง"}],"count":7}],"total_panels":4},"composition":"คอลลาจโฆษณาภาษาญี่ปุ่นที่ดูวุ่นวายแต่โน้มน้าวใจ ออกแบบมาเพื่อการมองเห็นบนโซเชียลมีเดีย แต่ละช่องมีข้อความทางอารมณ์และเอกลักษณ์ของสีที่ชัดเจน ใช้แถบเฉียง ตัวอักษรคันจิและตัวเลขขนาดใหญ่ ป้ายหรูหรา กล่องข้อมูลสีขาวขอบมน และแสงที่ดูดราม่า","customization":{"primary headline":"{argument name=\"headline text\" default=\"99%が間違ってる\"}","discount text":"{argument name=\"discount text\" default=\"4割引\"}","price":"{argument name=\"price\" default=\"9,980円（税込）\"}","main color palette":"{argument name=\"main color palette\" default=\"ชมพู, กาแล็กซีน้ำเงิน-ม่วง, ฟ้าใส, แดง-ทอง\"}","call to action":"{argument name=\"call to action\" default=\"詳しくはプロフィールから\"}"},"render_notes":"ทำให้ข้อความภาษาญี่ปุ่นทั้งหมดมีขนาดใหญ่และอ่านง่าย พร้อมเงาและเส้นขอบแบบเลเยอร์ ใช้ความสวยงามแบบโฆษณาที่ผ่านการขัดเกลามากกว่าดีไซน์แบบมินิมอล ใบหน้าควรเบลอหรือถูกซ่อนบางส่วน เน้นความแตกต่างทางอารมณ์ระหว่างความวิตกกังวล การเปิดเผย การเปลี่ยนแปลงที่เต็มไปด้วยความหวัง และข้อเสนอที่เร่งด่วน"}
 ```
 
 #### 🖼️ รูปภาพที่สร้าง
@@ -3703,33 +2505,333 @@ Naturally add the author signature in the bottom corner: @a9quant
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1776756771940_gnzdzg_HGWoYypbYAE7oiM.jpg" width="600" alt="อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - Epic Concept/Movie Poster Generator - Image 1">
+<img src="https://cms-assets.youmind.com/media/1776883144633_sl98ip_HGdug29bQAEQnRw.jpg" width="600" alt="ภาพขนาดย่อของ YouTube - คอลลาจภาพโฆษณา 4 ช่องสไตล์ญี่ปุ่นเพื่อการเยียวยาจิตใจ - Image 1">
+</div>
+
+#### 📌 รายละเอียด
+
+- **ผู้เขียน:** [そら《稼ぐマインドを整えるヒーラー》](https://x.com/5656nya5nya)
+- **แหล่งที่มา:** [Twitter Post](https://x.com/5656nya5nya/status/2046726072600027296#reversed-0)
+- **เผยแพร่เมื่อ:** 21 เมษายน 2569
+- **ภาษา:** en
+
+**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-2-prompts?id=14551)**
+
+---
+
+### No. 52: ภาพขนาดย่อของ YouTube - ภาพปกวิดีโอสอนใช้งานเทคโนโลยีพร้อมตัวอย่าง UI
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 คำอธิบาย
+
+ภาพปกสไตล์ YouTube ที่โดดเด่น ประกอบด้วยหัวข้อบทเรียน ตัวอย่างหน้าจอแอปออกแบบ และผู้นำเสนอที่กำลังชี้ไปยังอินเทอร์เฟซ เหมาะสำหรับเนื้อหาด้านการสร้างแบรนด์หรือระบบการออกแบบ
+
+#### 📝 คำสั่ง
+
+```
+ภาพปก YouTube สไตล์โมเดิร์นสะอาดตาบนพื้นหลังสีขาวสว่าง แบ่งองค์ประกอบภาพระหว่างข้อความตัวหนาทางด้านซ้ายและผู้นำเสนอที่ถูกตัดขอบทางด้านขวา ทางด้านซ้ายให้วางหัวข้อขนาดใหญ่แบบซ้อนกันด้วยฟอนต์ Sans-serif ตัวหนาสีดำพิมพ์ใหญ่ โดยเขียนว่า {argument name="headline text" default="CLAUDE DESIGN"} จัดชิดซ้ายบนสองบรรทัด ด้านล่างให้เพิ่มแถบแบนเนอร์สีส้มทรงสี่เหลี่ยมมุมมนขนาดใหญ่ที่มีเงาตกกระทบจางๆ ภายในมีข้อความสีขาวตัวหนาพิมพ์ใหญ่พร้อมขอบสีส้มที่เขียนว่า {argument name="subheadline text" default="IN 6 MINS"} ใกล้กับหัวข้อให้เพิ่มรูปทรงประกายดาวสีส้ม 2 จุด โดยจุดเล็กอยู่ข้างข้อความและจุดที่ใหญ่กว่ามากอยู่บนพื้นหลังทางขวาสุด ในส่วนล่างซ้ายให้แสดงตัวอย่างอินเทอร์เฟซแอปสำหรับแดชบอร์ดเครื่องมือออกแบบ โดยเป็นแผงสีขาวนวล ขอบบาง มุมมน และมีเงาจางๆ อินเทอร์เฟซควรมีแถบเมนูด้านซ้ายพร้อมรายการเมนู 4 รายการที่ระบุชื่อว่า: "Recent", "Your designs", "Examples" และ "Design systems" ส่วนหัวของแผงหลักควรเขียนว่า "Recent" และบรรจุการ์ดโปรเจกต์ 3 ใบที่จัดเรียงเป็นตาราง โดยระบุชื่อว่า: "Thumio Design System", "Thumio Startup" และ "Design System" ทางด้านขวาให้แสดงภาพถ่ายสมจริงของชายหนุ่มวัยทำงานครึ่งตัว สวมเสื้อคอเต่าสีขาว ผมสีน้ำตาลอ่อนยุ่งเล็กน้อย และมีหนวดเคราจางๆ โดยจัดวางตำแหน่งใกล้กล้อง ใบหน้าของเขาถูกปิดทับด้วยสี่เหลี่ยมสีน้ำตาลทึบที่ครอบคลุมพื้นที่ส่วนใหญ่ของใบหน้า เขาใช้มือข้างหนึ่งชี้ไปยังแผงอินเทอร์เฟซทางด้านซ้ายโดยยืดนิ้วออก ใช้โทนสีแบรนด์สีส้มและขาวที่อบอุ่น มีคอนทราสต์สูง ลดความรกของภาพ และจัดองค์ประกอบสไตล์ครีเอเตอร์ที่ดูเป็นมืออาชีพ พร้อมเงาที่นุ่มนวล เหมาะสำหรับเนื้อหาประเภทสอนใช้งานเทคโนโลยี
+```
+
+#### 🖼️ รูปภาพที่สร้าง
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1776883203587_8ub876_HGdtxE9aYAAMuma.jpg" width="600" alt="ภาพขนาดย่อของ YouTube - ภาพปกวิดีโอสอนใช้งานเทคโนโลยีพร้อมตัวอย่าง UI - Image 1">
+</div>
+
+#### 📌 รายละเอียด
+
+- **ผู้เขียน:** [corbin](https://x.com/corbin_braun)
+- **แหล่งที่มา:** [Twitter Post](https://x.com/corbin_braun/status/2046725432851284326#reversed-1)
+- **เผยแพร่เมื่อ:** 21 เมษายน 2569
+- **ภาษา:** en
+
+**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-2-prompts?id=14695)**
+
+---
+
+### No. 53: ภาพขนาดย่อของ YouTube - ภาพซ้อนทับไลฟ์สตรีม VTuber ธีมท้องฟ้าจำลอง
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 คำอธิบาย
+
+หน้าจอไลฟ์สตรีม VTuber สไตล์อนิเมะที่มีรายละเอียดสูง นำเสนอไอดอลสาวผมสีฟ้าในธีมท้องฟ้าจำลองภายในห้องสตรีมมิ่งที่ตกแต่งด้วยดวงดาว เหมาะสำหรับการสร้างภาพซ้อนทับ (Overlay) สำหรับสตรีมแนวแฟนตาซีและภาพโปรโมทต่างๆ
+
+#### 📝 คำสั่ง
+
+```
+{"type":"anime VTuber livestream overlay illustration","theme":"ท้องฟ้ายามค่ำคืน, ดวงดาว, กลุ่มดาว, โทนสีน้ำเงินแซฟไฟร์และสีขาว, สุนทรียภาพไอดอลเวทมนตร์ที่สง่างาม","subject":{"character":{"name":"{argument name=\"character name\" default=\"蒼空なつみ\"}","gender_presentation":"สาวน้อยอนิเมะสุดน่ารัก","hair":{"color":"{argument name=\"hair color\" default=\"สีฟ้าอ่อน\"}","style":"ผมยาวมากดัดลอนคล้ายทวินเทลแบบปล่อยสยาย มีปอยผมเล็กน้อย (ahoge), หน้าม้าซอฟต์ๆ, ประดับด้วยกิ๊บติดผมรูปดาวและริบบิ้น"},"outfit":{"style":"ชุดไอดอลธีมท้องฟ้าอันวิจิตร","pieces":["เสื้อเปิดไหล่สีขาวแขนพอง","โบว์ขนาดใหญ่สีน้ำเงินกรมท่าประดับด้วยดาวสีทอง","เสื้อรัดรูปสไตล์คอร์เซ็ตสีน้ำเงินกรมท่าตกแต่งขอบทองและลวดลายกลุ่มดาว","สร้อยคอโช้คเกอร์รูปดาว","หมวกมินิสีขาวเอียงเล็กน้อยประดับริบบิ้นสีฟ้าและเครื่องประดับรูปดาวสีทอง"]},"pose":"นั่งอยู่ที่โต๊ะสตรีมมิ่ง จัดวางไว้ตรงกลาง หันหน้าเข้าหาไมโครโฟนและคีย์บอร์ด","expression":"อ่อนโยน, สงบนิ่ง, เป็นกันเอง"}},"environment":{"setting":"ห้องสตรีมมิ่งแฟนตาซีแสนอบอุ่นในยามค่ำคืน พร้อมหน้าต่างบานใหญ่ที่มองเห็นท้องฟ้าเต็มไปด้วยดวงดาว","background_elements":["พวงมาลัยรูปดาวและเครื่องประดับคริสตัลห้อยระย้า","ชั้นวางของที่มีขวดโหล, หนังสือ, นาฬิกาทราย, อุปกรณ์คล้ายกล้องโทรทรรศน์ และของตกแต่งธีมท้องฟ้า","ภาพดวงจันทร์และกลุ่มดาวนอกหน้าต่าง","ตุ๊กตาก้อนเมฆมาสคอตนุ่มนิ่มสองตัวที่มีดวงตาสีฟ้า"]},"props":{"desk_items":["ไมโครโฟนสไตล์วินเทจขนาดใหญ่บนขาตั้งทางซ้ายของจุดกึ่งกลาง","คีย์บอร์ดตกแต่งด้วยปุ่มกดธีมดวงดาว","ป้ายชื่อข้อความ \"蒼空なつみ - SORA NATSUMI -\"","ขนมพาร์เฟต์ในแก้วท็อปด้วยตุ๊กตากระต่ายสีขาวตัวเล็ก","ถ้วยเล็กๆ หรือที่วางเทียนที่มีมาสคอตรูปก้อนเมฆ"]},"layout":{"format":"ภาพซ้อนทับหน้าจอรอสตรีม/หน้าจอพูดคุยแบบเต็มรูปแบบ","sections":[{"title":"LIVE","position":"แบนเนอร์แนวตั้งมุมซ้ายบน","count":3,"labels":["LIVE","20:30","20 พ.ค. อังคาร"]},{"title":"COMMENTS","position":"แผงด้านซ้าย","count":14,"labels":["星見たこ：こんなっつー！ ✨","夜空ヨル：待機完了〜！今日はどんなお話かな？","しろくまアイス：こんなっつー！","天の川りゅうせい：今日も可愛い！大好き！","ふるーすたー：も ふ ぷ","月見うさぎ：楽しみ〜！！","ななせそら：こんなっつー！ ☁️✨","Stella：きちゃー！( *´ω｀)","彗星カケル：配信ありがとう〜！","みずいろねこ：こんなっつー！ 💙","星屑ひかり：今日のサムネもかわいい…！","夜更かしの民：こんなっつー！","ゆめみがち：待ってました！","ハル：今日の衣装も最高に似合ってるぞ〜！"]},{"title":"social tags","position":"ใต้แผงคอมเมนต์","count":2,"labels":["@sora_natsumi","#なつみんらいぶ"]},{"title":"goal panel","position":"ซ้ายล่าง","count":4,"labels":["เป้าหมาย: ผู้ติดตามช่อง 100,000 คน!","ปัจจุบัน","58,320 คน","ขอบคุณเสมอมา! ฝากกดติดตามและกดไลก์ให้ด้วยนะ☆"]},{"title":"supporters panel","position":"การ์ดเล็กๆ ซ้ายล่างข้างแผงเป้าหมาย","count":6,"labels":["☆เหล่าละอองดาววันนี้ (ขอบคุณสำหรับ Super Chat!)☆","星の旅人 さん ¥2,000","ふるーすたー さん ¥1,000","天の川りゅうせい さん ¥500","みずいろねこ さん ¥320","流れ星 さん ¥200"]},{"title":"Now Talking","position":"แผงขวาบน","count":3,"labels":["Now Talking","{argument name=\"talk topic text\" default=\"ยินดีต้อนรับผู้มาใหม่! สตรีมพูดคุยชิลๆ✨\"}","{argument name=\"subtitle text\" default=\"〜มาคุยเล่นกันแบบสบายๆ นะ〜\"}"]},{"title":"SET LIST","position":"แผงขวากลาง","count":5,"labels":["01. 星屑になれたら","02. プラネタリウム","03. 夜に駆ける","04. Stellar Stellar","05. 天体観測"]},{"title":"promo card","position":"แผงขวาล่าง","count":3,"labels":["เพลงออริจินัล","星空コンパス","MV ปล่อยแล้ว!"]}],"logo":{"position":"มุมขวาบน","text":"蒼空なつみ SORA NATSUMI"}},"style":{"rendering":"ภาพประกอบอนิเมะรายละเอียดสูง ขัดเงาสวยงาม, ไฮไลท์เรืองแสง, แสงนวล, เส้นคมชัด","composition":"สมมาตร, ภาพซ้อนทับตกแต่งแบบหนาแน่น, ตัวละครอยู่ตรงกลางพร้อมแผง UI ล้อมรอบ","lighting":"บรรยากาศสีน้ำเงินใต้แสงจันทร์พร้อมเน้นสีทองประกาย","mood":"ชวนฝัน, มีเวทมนตร์, อบอุ่น, สง่างาม"}}
+```
+
+#### 🖼️ รูปภาพที่สร้าง
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1776883101773_kz8lia_HGcMYsSbkAA55iJ.jpg" width="600" alt="ภาพขนาดย่อของ YouTube - ภาพซ้อนทับไลฟ์สตรีม VTuber ธีมท้องฟ้าจำลอง - Image 1">
+</div>
+
+#### 📌 รายละเอียด
+
+- **ผู้เขียน:** [はげあたま](https://x.com/hageatama)
+- **แหล่งที่มา:** [Twitter Post](https://x.com/hageatama/status/2046618179037024377#reversed-1)
+- **เผยแพร่เมื่อ:** 21 เมษายน 2569
+- **ภาษา:** en
+
+**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-2-prompts?id=14443)**
+
+---
+
+### No. 54: ภาพขนาดย่อของ YouTube - ฉากสตรีมเมอร์ YouTube Gaming กำลังสิ้นหวัง
+
+![Language-JA](https://img.shields.io/badge/Language-JA-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 คำอธิบาย
+
+พรอมต์เฉพาะสำหรับการสร้างฉาก YouTuber ยอดนิยมที่กำลังเผชิญกับความล้มเหลวครั้งใหญ่ในเกมอย่าง Tetris รวมถึงปฏิกิริยาจากช่องแชท
+
+#### 📝 คำสั่ง
+
+```
+ฉากจาก {argument name="content" default="การสตรีมเกม"} ของ YouTuber ชาวญี่ปุ่นชื่อดัง ใน {argument name="game name" default="Tetris"} ดูเหมือนว่าแท่งยาวจะช่วยเคลียร์ทุกอย่างได้ แต่การวางตำแหน่งกลับพลาดไปนิดเดียว ทำให้สตรีมเมอร์กำลังกรีดร้องด้วยสีหน้าสิ้นหวัง ในขณะที่ช่องคอมเมนต์กำลังโกลาหลสุดขีด ภาษาญี่ปุ่น
+```
+
+#### 🖼️ รูปภาพที่สร้าง
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1776883062419_ny4agw_HGb_HS5bsAAakyA.jpg" width="600" alt="ภาพขนาดย่อของ YouTube - ฉากสตรีมเมอร์ YouTube Gaming กำลังสิ้นหวัง - Image 1">
+</div>
+
+#### 📌 รายละเอียด
+
+- **ผู้เขียน:** [マシモGPT🤖@ChatGPT/Claude/Gemini/GrokなどLLMをこねくり回す人](https://x.com/Masimo_Blue)
+- **แหล่งที่มา:** [Twitter Post](https://x.com/Masimo_Blue/status/2046603586038333595)
+- **เผยแพร่เมื่อ:** 21 เมษายน 2569
+- **ภาษา:** ja
+
+**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-2-prompts?id=14346)**
+
+---
+
+### No. 55: ภาพขนาดย่อของ YouTube - โปสเตอร์ภาพยนตร์อนิเมะแนวโรแมนติก
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 คำอธิบาย
+
+พรอมต์นี้ใช้สำหรับสร้างโปสเตอร์ภาพยนตร์สไตล์อนิเมะญี่ปุ่นที่ดูประณีตสำหรับภาพยนตร์แนวโรแมนติกแบบขมขื่น เหมาะอย่างยิ่งสำหรับการทำภาพ Key Art ของภาพยนตร์, โฆษณาภาพยนตร์จำลอง หรือการออกแบบโปสเตอร์ที่เน้นตัวละครที่ดูมีมิติ
+
+#### 📝 คำสั่ง
+
+```
+โปสเตอร์ภาพยนตร์โรแมนติกสไตล์ญี่ปุ่นในรูปแบบแนวตั้งสำหรับสมาร์ทโฟนที่มีมุมโค้งมน ออกแบบมาให้ดูเหมือนภาพ Key Visual ของอนิเมะคุณภาพสูง ภาพหลักแสดงให้เห็นนางเอกสาววัยรุ่นที่เป็นสาวป้ายโฆษณายืนอยู่บนระเบียงกลางแจ้งในช่วงเวลาพลบค่ำ หันกลับมามองผู้ชมด้วยสีหน้าอ่อนโยนและโหยหา เธอมีผมสีเงินขาวทรงทวินเทลยาวสลวยผูกด้วยริบบิ้นสีเข้ม ผิวขาวซีด และดวงตาสีชมพูอมม่วงขนาดใหญ่ เธอสวมเสื้อเบลาส์ระบายสีขาวละเอียดอ่อนที่มีแขนเสื้อพองและกระโปรงเอวสูงสีเข้มหรือกระโปรงทรงคอร์เซ็ต ทำให้ได้ลุคแบบนักเรียนโรแมนติกที่ดูสง่างามและมีความโกธิคเล็กน้อย บรรยากาศเต็มไปด้วยความฝันและอารมณ์ความรู้สึก เต็มไปด้วยแสงโบเก้ที่ส่องประกาย กลีบดอกไม้ที่ปลิวว่อนหรือประกายระยิบระยับคล้ายหิมะ แสงสีชมพูและสีลาเวนเดอร์ของพระอาทิตย์ตกดิน และฉากหลังที่เป็นเมืองที่ส่องสว่างแบบเบลอๆ ใช้การเรนเดอร์แบบอนิเมะระดับภาพยนตร์ที่สมบูรณ์แบบ เส้นผมที่ละเอียดเป็นพิเศษ แสงขอบที่นุ่มนวล ดวงตาที่แวววาว และอารมณ์รักครั้งแรกที่แสนขมขื่น เพิ่มตัวอักษรภาษาญี่ปุ่นบนโปสเตอร์ที่ผสมผสานเข้ากับองค์ประกอบภาพ: แท็กไลน์บทกวีสีชมพูแนวตั้งขนาดใหญ่ทางด้านขวา, แท็กไลน์สีขาวแนวตั้งทางด้านซ้าย, ชื่อเรื่องหลักขนาดใหญ่มากใกล้ด้านล่างซ้ายที่เขียนว่า {argument name="title text" default="看板娘"}, และคำบรรยายขนาดเล็กข้างๆ ที่เขียนว่า {argument name="subtitle text" default="君と紡ぐ恋物語"} รวมภาพตัวอย่างฟิล์มสี่เหลี่ยมเล็กๆ 5 ภาพเรียงกันตรงกลางด้านล่าง โดยแต่ละภาพแสดงนางเอกคนเดียวกันในอารมณ์โคลสอัพที่แตกต่างกัน เพิ่มเครดิตที่หนาแน่น รางวัลจากเทศกาลภาพยนตร์ และข้อมูลการฉายขนาดเล็กที่ด้านบนและด้านล่างเป็นภาษาญี่ปุ่น โดยให้ความรู้สึกโดยรวมเหมือนโปสเตอร์ภาพยนตร์อนิเมะโรแมนติกพรีเมียมที่โฆษณาเรื่องราวความรักที่สวยงามและน่าเศร้า ใช้โทนสีพาสเทลของสีม่วงอ่อน, สีชมพูบลัช, สีม่วงไวโอเล็ต, สีขาวมุก และสีน้ำเงินเข้มมิดไนท์เนวี่ พร้อมเอฟเฟกต์แสงฟุ้ง ระยะชัดลึกที่ตื้น และองค์ประกอบโปสเตอร์ที่สง่างาม
+```
+
+#### 🖼️ รูปภาพที่สร้าง
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1776883135691_hbf77w_HGbrR-ja0AAegZ1.png" width="600" alt="ภาพขนาดย่อของ YouTube - โปสเตอร์ภาพยนตร์อนิเมะแนวโรแมนติก - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1776756772006_n3hd0y_HGWobSTbEAAcJ6d.jpg" width="600" alt="อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - Epic Concept/Movie Poster Generator - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1776756771948_otuh60_HGWo9wGbkAAtA2s.jpg" width="600" alt="อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - Epic Concept/Movie Poster Generator - Image 3">
+<img src="https://cms-assets.youmind.com/media/1776883135702_cfhhop_HGbrVfPaYAAD3gx.jpg" width="600" alt="ภาพขนาดย่อของ YouTube - โปสเตอร์ภาพยนตร์อนิเมะแนวโรแมนติก - Image 2">
 </div>
 
 #### 📌 รายละเอียด
 
-- **ผู้เขียน:** [boon陈庚阳](https://x.com/A9Quant)
-- **แหล่งที่มา:** [Twitter Post](https://x.com/A9Quant/status/2046228485841334559)
-- **เผยแพร่เมื่อ:** 20 เมษายน 2569
-- **ภาษา:** zh
+- **ผู้เขียน:** [studioあぽろん](https://x.com/ai_studioapollo)
+- **แหล่งที่มา:** [Twitter Post](https://x.com/ai_studioapollo/status/2046582942303174916#reversed-0)
+- **เผยแพร่เมื่อ:** 21 เมษายน 2569
+- **ภาษา:** en
 
-**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-2-prompts?id=14133)**
+**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-2-prompts?id=14529)**
 
 ---
 
-### No. 53: ภาพขนาดย่อของ YouTube - Next-Gen Voxel Game Screenshot
+### No. 56: ภาพขนาดย่อของ YouTube - ภาพปก YouTube สไตล์ญี่ปุ่นสุดจี๊ดด้วย AI
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 คำอธิบาย
+
+พรอมต์นี้ใช้สำหรับสร้างภาพปก YouTube สไตล์อนิเมะญี่ปุ่นที่ดึงดูดสายตา สำหรับคอนเทนต์อธิบายเรื่อง AI หรือเทคโนโลยี โดยเน้นข้อความขนาดใหญ่ เอฟเฟกต์ไฟลุกโชน และตัวละครที่กำลังชี้มือ
+
+#### 📝 คำสั่ง
+
+```
+สร้างภาพปก YouTube สไตล์ญี่ปุ่นที่เน้นสีสันสดใสแบบคลิกเบตสไตล์อนิเมะ อัตราส่วน 16:9 โดยแบ่งองค์ประกอบภาพ: ข้อความขนาดใหญ่ซ้อนกันทางด้านซ้ายสองในสามของภาพ และตัวละครอนิเมะทางด้านขวาหนึ่งในสาม พื้นหลังเป็นระเบิดพลังงานสีแดง ส้ม และทอง พร้อมประกายไฟที่ส่องสว่าง แสงแฟลร์จากเลนส์ ไฮไลต์รูปดาวระยิบระยับ และเอฟเฟกต์ความเงางามแบบโลหะที่มีคอนทราสต์สูงทั่วทั้งภาพ ทางด้านซ้าย ให้วางกลุ่มข้อความตัวหนา 4 บรรทัดซ้อนกัน โดยมีขอบสีดำหนา ขอบในสีขาว เรืองแสงด้านนอกที่เข้มข้น และการตกแต่งแบบ 3D ที่มีความเงางาม บรรทัดบนสุด: หัวข้อข่าวภาษาญี่ปุ่นขนาดใหญ่ {argument name="headline text" default="紅エンジニア必見"} สีแดงสดพร้อมขอบสีขาวและเน้นประกายสีทองสว่าง บรรทัดที่สอง: ไอคอนแอปทรงสี่เหลี่ยมมุมมนสีส้มที่มีตัวอักษร "M" สีขาวสไตล์ลิสต์อยู่ทางซ้ายของคำว่า {argument name="product name" default="masatra"} ในรูปแบบตัวอักษร sans-serif สีขาวตัวพิมพ์เล็กขนาดมหึมาพร้อมขอบสีดำและเงาสีเทาจางๆ บรรทัดที่สาม: แถบสี่เหลี่ยมสีดำพร้อมข้อความภาษาญี่ปุ่นตัวหนาขนาดกะทัดรัดที่อ่านว่า "次世代AIエージェントフレームワーク" บรรทัดล่างสุด: ข้อความภาษาญี่ปุ่นสีทองเมทัลลิกขนาดใหญ่มาก {argument name="bottom text" default="徹底解説"} พร้อมการนูนแบบ 3D ไล่เฉดสีจากส้มไปทอง ไฮไลต์ที่สว่างสดใส และขอบที่เรืองแสง ทางด้านขวา แสดงภาพหญิงสาววัยรุ่นสไตล์อนิเมะตั้งแต่หน้าอกขึ้นไป มีผมสี {argument name="hair color" default="brown"} ความยาวปานกลาง สวมเสื้อกาวน์สีขาวทับเสื้อเชิ้ตสีขาว โน้มตัวมาทางกล้องและชี้มือมาที่ผู้ชมโดยตรงด้วยมือที่ยื่นออกมาในระยะใกล้ นิ้วชี้เหยียดตรง ท่าทางของเธอควรดูมั่นใจ เร่งด่วน และดึงดูดความสนใจ ใช้แสงริมไลท์ที่ดูมีพลังจากพื้นหลังที่เป็นไฟ ไฮไลต์สีส้มเข้มบนผิวหนังและเสื้อผ้า และเก็บรายละเอียดภาพปกให้ดูเป็นมืออาชีพ เว้นพื้นที่สี่เหลี่ยมขนาดใหญ่เหนือบริเวณใบหน้าด้านขวาบนให้เป็นบล็อกสำหรับวางข้อความในสี {argument name="placeholder color" default="light brown"} ซึ่งบดบังใบหน้าส่วนใหญ่ ออกแบบโดยรวมให้มีความหนาแน่นสูง เงางาม ระเบิดพลัง และปรับแต่งมาเพื่อให้อ่านง่ายที่สุดแม้ในขนาดเล็ก
+```
+
+#### 🖼️ รูปภาพที่สร้าง
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1776883120297_l08g9o_HGbbEZRbIAAKgqw.jpg" width="600" alt="ภาพขนาดย่อของ YouTube - ภาพปก YouTube สไตล์ญี่ปุ่นสุดจี๊ดด้วย AI - Image 1">
+</div>
+
+#### 📌 รายละเอียด
+
+- **ผู้เขียน:** [まさお@AI駆動開発](https://x.com/AI_masaou)
+- **แหล่งที่มา:** [Twitter Post](https://x.com/AI_masaou/status/2046564209123799063#reversed-1)
+- **เผยแพร่เมื่อ:** 21 เมษายน 2569
+- **ภาษา:** en
+
+**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-2-prompts?id=14491)**
+
+---
+
+### No. 57: ภาพขนาดย่อของ YouTube - ภาพปก YouTube สไตล์อนิเมะสุดปังสำหรับการเปิดตัว
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 คำอธิบาย
+
+ภาพปกโปรโมตสไตล์อนิเมะญี่ปุ่นที่โดดเด่นสะดุดตา สำหรับใช้ในการประกาศเปิดตัว โฆษณาคอร์สออนไลน์ หรือสื่อการตลาดสำหรับธุรกิจ AI
+
+#### 📝 คำสั่ง
+
+```
+สร้างภาพปก YouTube สไตล์อนิเมะญี่ปุ่นที่ดูโดดเด่นและน่าตื่นตาตื่นใจ ด้วยแสงสีที่จัดจ้าน เอฟเฟกต์ประกายไฟที่หนาแน่น และคอนทราสต์ที่ดูดราม่า องค์ประกอบภาพเป็นฉากเดียวที่กลมกลืนกัน โดยมีพื้นหลังสีดำตัดกับสีเขียวสะท้อนแสง มีประกายสีทองกระจายตัว และเงาของเส้นขอบฟ้าเมืองที่ดูนุ่มนวลอยู่ด้านล่าง ทางด้านขวา ให้แสดงภาพเด็กหนุ่มอนิเมะสไตล์จิบิครึ่งตัว ผมสีน้ำตาลเข้มถึงดำยุ่งๆ แซมด้วยไฮไลต์สีเขียวสะท้อนแสงและจุดสีแดงเล็กๆ ด้านข้าง ดวงตาสีเขียวสดใสขนาดใหญ่ ยิ้มกว้างอย่างตื่นเต้น และอยู่ในท่าทางที่เต็มไปด้วยพลัง โดยมือข้างหนึ่งชี้มาที่ผู้ชมโดยตรงและอีกข้างหนึ่งกำหมัดชูขึ้น เขาสวมเสื้อฮู้ดสีดำทับด้วยแจ็กเก็ตสีเขียวที่มีไฮไลต์เงาวาว ทางด้านซ้าย ให้วางนาฬิกาทรายสีเขียวเรืองแสง 1 อันที่มีพลังงานสีเขียวหมุนวนอยู่ภายใน เติมเต็มภาพด้วยแสงดาวที่เข้มข้น แสงแฟลร์ อนุภาคสีทอง และเส้นความเร็วเพื่อสร้างลุคภาพปกที่พร้อมจะเป็นไวรัล เพิ่มองค์ประกอบข้อความภาษาญี่ปุ่น 5 จุดด้วยตัวอักษรขนาดใหญ่: แถบป้ายสีแดงที่มุมซ้ายบนอ่านว่า {argument name="top banner text" default="4月28日スタート"} ด้วยตัวอักษรสีเหลืองหนาขอบขาว; พาดหัวหลักตรงกลางด้วยตัวคันจิสีทองเมทัลลิกขนาดใหญ่ที่อ่านว่า {argument name="main headline" default="ついに解禁"} พร้อมเงาสีดำเข้มและพื้นผิวสีทองสว่าง; หัวข้อย่อยสีขาวสลับเขียวที่ด้านซ้ายล่างอ่านว่า {argument name="subheadline" default="AI副業で人生変わる"}; ป้ายวงกลมสีเขียวใกล้กับกึ่งกลางด้านขวาล่างอ่านว่า {argument name="bonus badge text" default="無料10大特典"} ด้วยตัวอักษรสีขาวและเหลืองหนา; และแถบเฉียงสีดำที่มุมขวาล่างอ่านว่า {argument name="corner banner text" default="近日公開"} พร้อมข้อความภาษาอังกฤษขนาดเล็กกว่าด้านล่างว่า COMING SOON ทำให้ทุกอย่างดูเร่งด่วน เฉลิมฉลอง และดึงดูดความสนใจ เหมือนภาพปกประกาศเปิดตัวที่มีอัตราการคลิก (CTR) สูง ด้วยเส้นขอบที่หนา ขอบที่เรืองแสง ข้อความแบบเมทัลลิก และความลึกที่ซ้อนทับกัน
+```
+
+#### 🖼️ รูปภาพที่สร้าง
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1776883123089_a624u7_HGAkwnra8AAju1P.jpg" width="600" alt="ภาพขนาดย่อของ YouTube - ภาพปก YouTube สไตล์อนิเมะสุดปังสำหรับการเปิดตัว - Image 1">
+</div>
+
+#### 📌 รายละเอียด
+
+- **ผู้เขียน:** [みどるっち｜AIで人生アップデート](https://x.com/mido_lucci)
+- **แหล่งที่มา:** [Twitter Post](https://x.com/mido_lucci/status/2046546991006802057#reversed-3)
+- **เผยแพร่เมื่อ:** 21 เมษายน 2569
+- **ภาษา:** en
+
+**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-2-prompts?id=14499)**
+
+---
+
+### No. 58: ภาพขนาดย่อของ YouTube - ภาพปก YouTube สไตล์ Flashy X สำหรับการสร้างรายได้
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 คำอธิบาย
+
+พรอมต์นี้ใช้สำหรับสร้างภาพปก YouTube สไตล์การตลาดแบบญี่ปุ่นที่โดดเด่นสะดุดตา สำหรับวิดีโอเกี่ยวกับการสร้างรายได้บน X อย่างรวดเร็ว เหมาะสำหรับคอนเทนต์ด้านการเติบโตบนโซเชียลมีเดียหรือการสร้างรายได้ออนไลน์
+
+#### 📝 คำสั่ง
+
+```
+สร้างภาพปก YouTube สไตล์การตลาดออนไลน์แบบญี่ปุ่นที่สร้างอิมแพ็คสูง ขนาด 16:9 แนวนอน พร้อมพื้นหลังสีดำและทองที่ดูระเบิดพลัง เต็มไปด้วยประกายไฟ แสงแฟลร์ อนุภาคเรืองแสง และเส้นแสงที่ดูดราม่า องค์ประกอบภาพมีความหนาแน่นและเต็มไปด้วยพลัง โดยมีตัวอักษรขนาดใหญ่ซ้อนทับกันอยู่ทางด้านซ้ายและตรงกลาง และมีตัวละครชายสไตล์อนิเมะอยู่ทางด้านขวา ที่ด้านบนสุด ให้วางแถบแบนเนอร์ริบบิ้นสีแดงโค้งขอบทอง พร้อมข้อความภาษาญี่ปุ่นตัวหนาสีขาวและเหลืองที่อ่านว่า {argument name="headline text" default="実績者が教える"} ด้านล่างนั้น ให้ทำหัวข้อหลักให้มีขนาดใหญ่มาก ดูเงางาม และเป็นสามมิติ พร้อมขอบสีดำหนาและแสงเรืองรองสีทอง: ตัวเลข "10" สีทองเมทัลลิกขนาดใหญ่ ตามด้วยคำว่า "日で" ตัวหนาสีขาว จากนั้นเป็นตัวอักษร "X" สีเขียวนีออนเรืองแสงขนาดใหญ่ ตามด้วยข้อความซ้อนกันว่า "収益化" และที่ด้านล่างสุดเป็นข้อความสีทองที่ใหญ่ที่สุดว่า "達成" ด้านหลังหัวข้อหลัก ให้เพิ่มกราฟแท่งแนวโน้มขาขึ้นสีเขียวสดใสพร้อมลูกศรชี้ไปทางขวาบนเพื่อสื่อถึงการเติบโต ทางด้านซ้าย ให้รวมองค์ประกอบเกี่ยวกับโซเชียลและการเงิน 3 อย่าง ได้แก่ สมาร์ทโฟนสีดำเอียงที่แสดงโลโก้ X สีขาว, ช่องแชทสีเขียวที่มีหัวใจสีขาว และช่องแชทสีเขียวขนาดเล็กที่มีรูปเงาผู้ใช้สีขาว ที่ด้านล่างซ้าย ให้เพิ่มกองเหรียญทองแวววาว 2 กอง และเหรียญทองที่มีสัญลักษณ์เงินเยน 1 เหรียญ ทางด้านขวา ให้แสดงภาพชายหนุ่มสไตล์อนิเมะตั้งแต่ช่วงต้นขาขึ้นไป ผมสีน้ำตาลเข้มยุ่งๆ แซมด้วยไฮไลท์สีเขียวสดใส ผิวขาว และท่าทางมั่นใจด้วยการกอดอก สวมแจ็กเก็ตสีดำที่มีเสื้อตัวในสีเขียว ใบหน้าของเขาถูกบดบังด้วยบล็อกเบลอรูปสี่เหลี่ยมเรียบๆ ใกล้กับด้านขวาล่าง ให้วางตราสัญลักษณ์รางวัลสีทอง 1 อันที่มีการตกแต่งด้วยใบไม้และมงกุฎขนาดเล็ก ภายในมีข้อความภาษาญี่ปุ่นว่า "成功者続出" และติดริบบิ้นสีแดงพาดผ่านด้านล่างของตราสัญลักษณ์พร้อมข้อความว่า "再現性あり" ตลอดแนวขอบด้านล่าง ให้วางกล่องฟีเจอร์สี่เหลี่ยมสีเขียวเรืองแสง 3 กล่องที่มีขอบสีทองและพื้นหลังสีดำ กล่องแรกประกอบด้วยไอคอนมือใหม่ 1 อัน และข้อความ "X初心者でも 簡単収益化" กล่องที่สองประกอบด้วยไอคอนนาฬิกา 1 อัน และข้อความ "1日1時間の 作業でOK" กล่องที่สามประกอบด้วยไอคอนปฏิทินที่มีเครื่องหมายถูกสีเขียว 1 อัน และข้อความ "最短10日で 収益化条件達成" ใช้ฟอนต์ภาษาญี่ปุ่นตัวหนาขนาดใหญ่ ไล่เฉดสีทองเมทัลลิก ตัวอักษรสีขาวที่มีขอบสีดำหนา ไฮไลท์สีเขียวนีออนสดใส คอนทราสต์ที่จัดจ้าน และความสวยงามของภาพปกที่ปรับแต่งมาเพื่อเพิ่มอัตราการคลิก (CTR) ให้สูงสุด
+```
+
+#### 🖼️ รูปภาพที่สร้าง
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1776883122410_3u861t_HGAkU1sbMAAR07x.jpg" width="600" alt="ภาพขนาดย่อของ YouTube - ภาพปก YouTube สไตล์ Flashy X สำหรับการสร้างรายได้ - Image 1">
+</div>
+
+#### 📌 รายละเอียด
+
+- **ผู้เขียน:** [みどるっち｜AIで人生アップデート](https://x.com/mido_lucci)
+- **แหล่งที่มา:** [Twitter Post](https://x.com/mido_lucci/status/2046546991006802057#reversed-2)
+- **เผยแพร่เมื่อ:** 21 เมษายน 2569
+- **ภาษา:** en
+
+**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-2-prompts?id=14498)**
+
+---
+
+### No. 59: ภาพขนาดย่อของ YouTube - ภาพปก YouTube สำหรับการสร้างรายได้บน X ฉบับภาษาญี่ปุ่น
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 คำอธิบาย
+
+ภาพปก YouTube สไตล์อนิเมะญี่ปุ่นสุดโดดเด่นสำหรับคู่มือการสร้างรายได้บน X สำหรับมือใหม่ เหมาะสำหรับวิดีโอที่เน้นการเติบโตบนโซเชียลมีเดีย กลยุทธ์การสร้างรายได้ และธุรกิจออนไลน์
+
+#### 📝 คำสั่ง
+
+```
+สร้างภาพปก YouTube ภาษาญี่ปุ่นที่ดูโดดเด่นในสไตล์อนิเมะผสมธุรกิจ อัตราส่วน 16:9 จัดองค์ประกอบให้แน่น คอนทราสต์สูง เอฟเฟกต์ตัวอักษรแบบเงา ใช้โทนสีเขียวนีออนและสีทอง แสงแบบดราม่า มีเอฟเฟกต์ประกายไฟ แสงแฟลร์ และระยะชัดลึกที่ชัดเจน ฉากหลังแสดงภาพโต๊ะทำงานแบบเบลอและแดชบอร์ดวิเคราะห์โซเชียลมีเดีย พร้อมกราฟเส้นที่พุ่งสูงขึ้นและการ์ดรายได้ที่เขียนว่า "ポストアナリティクス" และ "収益 ¥248,620" ทางด้านขวาให้วางภาพอนิเมะหนุ่มสตรีมเมอร์ครึ่งตัว ผมสีน้ำตาลเข้มยุ่งๆ แซมด้วยไฮไลท์สีเขียวนีออนสดใส สวมเสื้อฮู้ดหรือแจ็กเก็ตสีดำ ยิ้มอย่างมั่นใจและชี้มือขึ้นด้านบนหนึ่งนิ้ว เว้นพื้นที่ใบหน้าบางส่วนไว้ด้วยบล็อกสี่เหลี่ยมสีน้ำตาลมะกอกหม่นเพื่อให้สามารถใส่ข้อความหรือภาพพอร์ตเทรตที่กำหนดเองได้ในภายหลัง ที่ด้านบนให้เพิ่มแถบแบนเนอร์สีเขียวเงาขอบทอง พร้อมไอคอนสัญลักษณ์มือใหม่ที่ด้านซ้าย โดยมีข้อความ {argument name="headline text" default="初心者向け完全ガイド"} อยู่ภายใน ตรงกลางค่อนไปทางซ้าย ให้สร้างตัวเลข "10" สีทองเมทัลลิกขนาดใหญ่ที่มีขอบสีดำหนาและไฮไลท์สีขาวชัดเจน ตามด้วยข้อความภาษาญี่ปุ่นสีขาวขอบดำที่อ่านว่า "日で" ด้านล่างและซ้อนทับตรงกลาง ให้วางตัวอักษร "X" สีเขียวนีออนเรืองแสงขนาดใหญ่ที่มีขอบแบบไฟฟ้าและเอฟเฟกต์ประกายไฟ ทางด้านขวาของตัว X และวางซ้อนไว้ด้านหน้า ให้เพิ่มข้อความภาษาญี่ปุ่น 3D ขนาดใหญ่สีขาวและทองที่มีขอบสีดำหนาและเงาตกกระทบ อ่านว่า {argument name="main claim text" default="収益化達成"} ทางด้านซ้ายใกล้กับข้อความหลัก ให้ใส่ไอคอนสไตล์โซเชียลมีเดีย 3 อันที่ลอยอยู่ ได้แก่ ไอคอนสี่เหลี่ยมสีดำที่มีโลโก้ X สีขาว, ไอคอนกล่องข้อความสีฟ้าที่มีรูปหัวใจสีขาว และไอคอนสี่เหลี่ยมมนสีชมพูที่มีรูปเงาผู้ใช้สีขาว ที่ด้านซ้ายล่างของฉากหน้า ให้วางแก้วกาแฟสีดำที่มีโลโก้ X สีขาวอยู่บนโต๊ะ ที่ขอบด้านล่าง ให้เพิ่มกล่องข้อมูลสีขาวขอบมนที่มีกรอบสีเขียวและเงาจางๆ วางเรียงกันอย่างสมดุลจากซ้ายไปขวา โดยแต่ละกล่องจะมีวงกลมตัวเลขสีเขียวอยู่ด้านบน: กล่องที่ 1 ระบุ "01" พร้อมไอคอนมือใหม่และข้อความ "X初心者でも 簡単収益化"; กล่องที่ 2 ระบุ "02" พร้อมไอคอนนาฬิกาและข้อความ "1日1時間の 作業でOK"; กล่องที่ 3 ระบุ "03" พร้อมไอคอนปฏิทินที่แสดงเลข "10" และข้อความ "最短10日で 収益化条件達成" ทำให้ตัวอักษรทั้งหมดมีขนาดใหญ่พิเศษ นูนเด่น และปรับให้เหมาะสมสำหรับการอ่านบนภาพปก โดยมีขอบหนา มุมมองที่แข็งแกร่ง และการซ้อนทับกันอย่างมีมิติ อารมณ์โดยรวม: น่าตื่นเต้น สื่อถึงรายได้ที่สูง เป็นมิตรกับมือใหม่ และเปี่ยมไปด้วยพลังสำหรับภาพปกวิดีโอสอนการสร้างรายได้บนโซเชียลมีเดียสไตล์ญี่ปุ่น
+```
+
+#### 🖼️ รูปภาพที่สร้าง
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1776883122141_mfcjop_HGAkB1YaQAAp8wD.jpg" width="600" alt="ภาพขนาดย่อของ YouTube - ภาพปก YouTube สำหรับการสร้างรายได้บน X ฉบับภาษาญี่ปุ่น - Image 1">
+</div>
+
+#### 📌 รายละเอียด
+
+- **ผู้เขียน:** [みどるっち｜AIで人生アップデート](https://x.com/mido_lucci)
+- **แหล่งที่มา:** [Twitter Post](https://x.com/mido_lucci/status/2046546991006802057#reversed-1)
+- **เผยแพร่เมื่อ:** 21 เมษายน 2569
+- **ภาษา:** en
+
+**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-2-prompts?id=14497)**
+
+---
+
+### No. 60: ภาพขนาดย่อของ YouTube - ภาพปก YouTube สไตล์ญี่ปุ่นสุดปังเพื่อการสร้างรายได้บน X
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 คำอธิบาย
+
+พรอมต์นี้ใช้สำหรับสร้างภาพปก YouTube หรือสื่อโซเชียลมีเดียแนวอนิเมะญี่ปุ่นที่เน้นความตื่นเต้นเร้าใจ เพื่อโปรโมตการสร้างรายได้บน X อย่างรวดเร็วและข้อเสนอโบนัสพิเศษ
+
+#### 📝 คำสั่ง
+
+```
+สร้างภาพปก YouTube สไตล์ญี่ปุ่นที่ดูโดดเด่นสะดุดตาในรูปแบบอนิเมะมาร์เก็ตติ้งที่ทรงพลัง ขนาด 16:9 แนวนอน เต็มไปด้วยเอฟเฟกต์พลังงานสีเขียวสะท้อนแสง ประกายสีทอง เส้นความเร็ว แสงแฟลร์ และเงาตกกระทบสีดำเข้ม จัดวางองค์ประกอบโดยให้ข้อความโปรโมตตัวหนาโดดเด่นอยู่ทางซ้ายและตรงกลาง ส่วนทางขวาเป็นตัวละครอนิเมะจิบิสุดน่ารักที่กำลังยิ้มอย่างกระตือรือร้นและชี้มือมาที่ผู้ชม ตัวละครมีผมสีน้ำตาลเข้มยุ่งๆ พร้อมไฮไลต์ {argument name="accent hair color" default="สีเขียวสะท้อนแสง"} ดวงตาสีเขียวสดใส แก้มอมชมพู สวมเสื้อฮู้ดสีดำทับด้วยแจ็คเก็ตขอบเขียวและเสื้อตัวในสีส้ม ใช้การเรนเดอร์แบบเซลเฉดที่ดูเงางาม เส้นขอบที่คมชัด คอนทราสต์สูง และการเน้นมิติที่เกินจริงเพื่อให้ดูน่าคลิกสำหรับโซเชียลมีเดีย ที่ด้านบนสุดให้วางแถบแบนเนอร์ริบบิ้นสีแดงโค้งขอบสีทองพร้อมไอคอนกล่องของขวัญทางด้านซ้าย ภายในแบนเนอร์ให้ใส่ข้อความพาดหัวภาษาญี่ปุ่นว่า {argument name="top banner text" default="無料10大特典プレゼント"} ด้วยตัวอักษรสีขาวและเหลืองตัวหนา ในพื้นที่หลักตรงกลางค่อนไปทางซ้าย ให้ใส่ข้อความภาษาญี่ปุ่นขนาดใหญ่ที่จัดสไตล์ 3D อย่างมีชั้นเชิงและไล่เฉดสีแบบโลหะ ได้แก่ เลข "10" สีทองขนาดใหญ่, คำว่า "日で" สีขาว, ตัวอักษร "X" สีเขียวสะท้อนแสงขนาดมหึมา, คำว่า "収益化" สีเงินขาว และคำว่า "達成" สีทองอมส้ม ซึ่งอ่านได้ว่า {argument name="main headline" default="10日でX収益化達成"} ล้อมรอบพาดหัวนี้ด้วยลูกศรสีเขียวชี้ขึ้น ประกายดาว และเอฟเฟกต์แสงระเบิด เพิ่มไอคอนสไตล์แพลตฟอร์ม 4 อันลอยอยู่รอบพื้นที่พาดหัว: ไอคอนโซเชียลสีชมพูพร้อมรูปหัวใจสีขาว 1 อัน, ไอคอนกล่องข้อความสีฟ้าพร้อมรูปเงาผู้ใช้สีขาว 1 อัน, สมาร์ทโฟนสีดำเอียงๆ แสดงโลโก้ X สีขาว 1 อัน และกองเหรียญทองที่มีเหรียญสัญลักษณ์เยนอยู่ด้านหน้า 1 กอง ที่ด้านล่างให้วางกล่องฟีเจอร์สีเขียวเรืองแสง 3 กล่องเรียงในแนวนอน แต่ละกล่องมีไอคอนและข้อความภาษาญี่ปุ่นที่แตกต่างกัน: กล่องที่ 1 มีไอคอนมือใหม่และข้อความ {argument name="feature text 1" default="X初心者でも簡単収益化"}, กล่องที่ 2 มีไอคอนนาฬิกาและข้อความ "1日1時間の作業でOK", กล่องที่ 3 มีไอคอนปฏิทินและข้อความ "最短10日で収益化条件達成" ที่มุมขวาล่างให้เพิ่มปุ่ม Call-to-Action สีแดงเงาวงกลมมนพร้อมขอบเรืองแสงสีขาว ข้อความภาษาญี่ปุ่นสีขาว {argument name="button text" default="今すぐ受け取る"} มีรูปสามเหลี่ยมเล่นวิดีโอสีขาวทางด้านขวาของปุ่ม และมีเคอร์เซอร์รูปมือคลิกอยู่ใกล้ขอบด้านล่างขวา ภาพรวมควรให้ความรู้สึกตื่นเต้น เร่งด่วน และปรับแต่งมาเพื่อเพิ่มอัตราการคลิก (CTR) ให้สูงที่สุด โดยใช้สีเขียว แดง ทอง เงาสีดำ และไฮไลต์แบบโลหะที่อิ่มตัว
+```
+
+#### 🖼️ รูปภาพที่สร้าง
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1776883121882_ip958i_HGAjjTEaoAAuDD0.jpg" width="600" alt="ภาพขนาดย่อของ YouTube - ภาพปก YouTube สไตล์ญี่ปุ่นสุดปังเพื่อการสร้างรายได้บน X - Image 1">
+</div>
+
+#### 📌 รายละเอียด
+
+- **ผู้เขียน:** [みどるっち｜AIで人生アップデート](https://x.com/mido_lucci)
+- **แหล่งที่มา:** [Twitter Post](https://x.com/mido_lucci/status/2046546991006802057#reversed-0)
+- **เผยแพร่เมื่อ:** 21 เมษายน 2569
+- **ภาษา:** en
+
+**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-2-prompts?id=14496)**
+
+---
+
+### No. 61: ภาพขนาดย่อของ YouTube - Next-Gen Voxel Game Screenshot
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3763,7 +2865,7 @@ A highly detailed, realistic first-person video game screenshot of a next-genera
 
 ---
 
-### No. 54: ภาพขนาดย่อของ YouTube - VTuber Stream Thumbnail
+### No. 62: ภาพขนาดย่อของ YouTube - VTuber Stream Thumbnail
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3797,7 +2899,7 @@ An anime-style YouTube stream thumbnail featuring a cheerful female VTuber. She 
 
 ---
 
-### No. 55: ภาพขนาดย่อของ YouTube - VTuber Chat Stream Thumbnail
+### No. 63: ภาพขนาดย่อของ YouTube - VTuber Chat Stream Thumbnail
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3873,7 +2975,7 @@ Generates a cute, pink-themed VTuber stream thumbnail with customizable text rib
 
 ---
 
-### No. 56: ภาพขนาดย่อของ YouTube - Pastel Pink VTuber Stream Thumbnail
+### No. 64: ภาพขนาดย่อของ YouTube - Pastel Pink VTuber Stream Thumbnail
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3954,7 +3056,7 @@ Generates a cute, pastel-themed stream overlay or thumbnail featuring an anime g
 
 ---
 
-### No. 57: ภาพขนาดย่อของ YouTube - Anime VTuber Livestream Thumbnail
+### No. 65: ภาพขนาดย่อของ YouTube - Anime VTuber Livestream Thumbnail
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4014,7 +3116,7 @@ Generates a pastel-themed anime VTuber stream thumbnail with customizable text b
 
 ---
 
-### No. 58: ภาพขนาดย่อของ YouTube - VTuber Chat Stream Thumbnail
+### No. 66: ภาพขนาดย่อของ YouTube - VTuber Chat Stream Thumbnail
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4082,7 +3184,7 @@ Generates a vibrant, text-heavy anime-style thumbnail for a VTuber chat stream, 
 
 ---
 
-### No. 59: ภาพขนาดย่อของ YouTube - เครื่องมือสร้างภาพปกสำหรับสัมมนาภาษาญี่ปุ่น
+### No. 67: ภาพขนาดย่อของ YouTube - เครื่องมือสร้างภาพปกสำหรับสัมมนาภาษาญี่ปุ่น
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4116,7 +3218,7 @@ Generates a vibrant, text-heavy anime-style thumbnail for a VTuber chat stream, 
 
 ---
 
-### No. 60: ภาพขนาดย่อของ YouTube - ภาพปกสตรีมเปิดตัว VTuber
+### No. 68: ภาพขนาดย่อของ YouTube - ภาพปกสตรีมเปิดตัว VTuber
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4191,7 +3293,7 @@ Generates a vibrant, text-heavy anime-style thumbnail for a VTuber chat stream, 
 
 ---
 
-### No. 61: ภาพขนาดย่อของ YouTube - ภาพปก Info-Product โทนสีทองและดำ
+### No. 69: ภาพขนาดย่อของ YouTube - ภาพปก Info-Product โทนสีทองและดำ
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4268,414 +3370,122 @@ Generates a vibrant, text-heavy anime-style thumbnail for a VTuber chat stream, 
 
 ---
 
-### No. 62: ภาพขนาดย่อของ YouTube - ภาพปก YouTube สำหรับงานเสริมด้วย AI สไตล์นีออน
+### No. 70: คอมิก / สตอรี่บอร์ด - มังงะ 4 ช่องสุดอบอุ่นสำหรับคู่รัก
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 คำอธิบาย
 
-สร้างภาพปกโปรโมทที่เต็มไปด้วยข้อมูลและสีสันสดใส พร้อมพื้นหลังจักรวาล ตัวละครสไตล์อนิเมะ และป้ายข้อความภาษาญี่ปุ่นที่ปรับแต่งได้หลากหลาย
+พรอมต์นี้ใช้สำหรับสร้างการ์ตูนญี่ปุ่น 4 ช่องแนวโรแมนติกละมุนใจ เพื่อเฉลิมฉลองความรักของคู่สามีภรรยา เหมาะสำหรับใช้โพสต์ลงโซเชียลมีเดีย ภาพประกอบที่ระลึก หรือผลงานศิลปะมังงะในธีมความสัมพันธ์
+
+#### 📝 คำสั่ง
+
+```
+{"type":"ภาพประกอบมังงะโรแมนติก 4 ช่อง","style":"ลายเส้นอนิเมะวาดมือที่สะอาดตา ใช้โทนสีขาวดำแบบเบจและน้ำตาลอ่อนที่ให้ความรู้สึกอบอุ่น พื้นหลังสีครีมละมุน การลงเงาแบบเรียบง่าย บรรยากาศอบอุ่นและอ่อนโยน สไตล์สำหรับโพสต์ลงโซเชียลมีเดีย","format":"เลย์เอาต์การ์ตูนแบบสี่เหลี่ยม 2x2 พร้อมเส้นขอบช่องสีน้ำตาลบาง","headline":{"text":"{argument name=\"headline text\" default=\"วันคู่รัก\"}","position":"top center","decorations":{"count":2,"items":["หัวใจดวงเล็กทางซ้าย","หัวใจดวงเล็กทางขวา"]}},"panels":[{"panel":1,"count":2,"scene":"ภาพพอร์ตเทรตยืนของคู่รักวัยหนุ่มสาว","composition":"ฝ่ายชายยืนอยู่ด้านหลังฝ่ายหญิงโดยวางมือข้างหนึ่งบนไหล่ ทั้งคู่ดูสงบและแสดงความรักต่อกัน","characters":[{"role":"man","appearance":"ผมสีน้ำตาลอ่อนยุ่งเล็กน้อย สวมแว่นตา เสื้อฮู้ดสีครีม รูปร่างสูงโปร่ง"},{"role":"woman","appearance":"ผมสีน้ำตาลอ่อนรวบเป็นมวยต่ำแบบหลวมๆ มีปอยผมล้อมกรอบหน้า สวมเสื้อแขนยาวสีขาว ทับด้วยเสื้อกั๊กไหมพรมสีน้ำตาลโทนอุ่น เห็นสายกระเป๋าสะพายไหล่"}],"text":["วันนี้คือ","วันคู่รัก!"],"decorations":{"count":3,"items":["หัวใจดวงเล็ก","หัวใจดวงเล็ก","หัวใจดวงเล็ก"]}},{"panel":2,"count":2,"scene":"คู่รักนั่งด้วยกันในบ้าน ถือแก้วมัคและยิ้มให้กัน","characters":[{"role":"man","appearance":"สวมแว่นตาและเสื้อฮู้ดตัวเดิม ถือแก้วมัคสีเขียวหม่น"},{"role":"woman","appearance":"ทรงผมและชุดเดิม ถือแก้วมัคสีอ่อน"}],"speech_bubble":{"speaker":"man","text":"ขอบคุณเสมอมานะ การที่ได้อยู่ด้วยกัน คือความสุขที่สุดเลย"},"decorations":{"count":4,"items":["ประกายวิ้งเล็กๆ","ประกายวิ้งเล็กๆ","กลุ่มจุดเล็กๆ","กลุ่มจุดเล็กๆ"]}},{"panel":3,"count":2,"scene":"คู่รักทำอาหารด้วยกันในครัว ทั้งคู่กำลังคนอาหารในกระทะบนเตา","background":"ชั้นวางของเรียบง่ายและกระถางต้นไม้ในรายละเอียดแบบสเก็ตช์นุ่มนวล","characters":[{"role":"man","appearance":"สวมแว่นตาและเสื้อฮู้ดตัวเดิม"},{"role":"woman","appearance":"ทรงผมมวยและชุดเดิม"}],"speech_bubble":{"speaker":"man","text":"จากนี้ไป เรามาหัวเราะไปด้วยกัน คอยสนับสนุนกัน และไปดูวิวทิวทัศน์ต่างๆ ด้วยกันอีกนะ"}},{"panel":4,"count":2,"scene":"กอดกันอย่างใกล้ชิด ฝ่ายชายจูบหน้าผากฝ่ายหญิงขณะโอบไหล่เธอไว้","characters":[{"role":"man","appearance":"สวมแว่นตาและเสื้อฮู้ดตัวเดิม"},{"role":"woman","appearance":"ทรงผมและชุดเดิม เอนตัวเข้าหาเขา"}],"speech_bubble":{"speaker":"man","text":"รักนะ จากนี้ไปก็ฝากตัวด้วยนะ!"},"decorations":{"count":3,"items":["หัวใจดวงเล็ก","หัวใจดวงเล็ก","หัวใจดวงเล็ก"]}},"footer":{"text":"{argument name=\"footer text\" default=\"ขอบคุณที่อยู่เคียงข้างกันเสมอนะ\"}","position":"bottom center","decorations":{"count":1,"items":["หัวใจดวงเล็ก"]}},"character_design":{"count":2,"items":[{"role":"husband","hair color":"{argument name=\"hair color\" default=\"น้ำตาลอ่อน\"}","expression":"ใจดี อ่อนโยน แสดงความรัก"},{"role":"wife","hair color":"{argument name=\"hair color\" default=\"น้ำตาลอ่อน\"}","expression":"ยิ้มละมุน อบอุ่น ขี้อายนิดๆ"}]},"rendering_notes":"คงข้อความทั้งหมดเป็นลายมือภาษาญี่ปุ่น ใช้พื้นที่ว่างเยอะๆ รักษาอารมณ์ความรู้สึกที่แสนหวานสำหรับการโพสต์ชื่นชมคู่รัก ทำให้ลายเส้นดูหลวมๆ และเหมือนภาพสเก็ตช์มากกว่าเส้นหมึกที่ขัดเกลาจนเนี้ยบ"}
+```
+
+#### 🖼️ รูปภาพที่สร้าง
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1776883120482_9fygfa_HGgqTCCaIAA4jpt.jpg" width="600" alt="คอมิก / สตอรี่บอร์ด - มังงะ 4 ช่องสุดอบอุ่นสำหรับคู่รัก - Image 1">
+</div>
+
+#### 📌 รายละเอียด
+
+- **ผู้เขียน:** [むく | AIアート× Threads](https://x.com/muku_sns)
+- **แหล่งที่มา:** [Twitter Post](https://x.com/muku_sns/status/2046932542998364645#reversed-1)
+- **เผยแพร่เมื่อ:** 22 เมษายน 2569
+- **ภาษา:** en
+
+**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-2-prompts?id=14492)**
+
+---
+
+### No. 71: คอมิก / สตอรี่บอร์ด - หน้าตัวอย่างมังงะ AI ภาษาญี่ปุ่น
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 คำอธิบาย
+
+หน้ามังงะอนิเมะ 4 ช่องที่ผ่านการขัดเกลาอย่างดี แสดงภาพตัวละครสาวน้อยแมวเหมียวที่มีปฏิกิริยาโต้ตอบกับบทสนทนาภาษาญี่ปุ่นที่เรนเดอร์ออกมาได้อย่างน่าประทับใจ เหมาะสำหรับการแสดงคุณภาพของข้อความในมังงะที่สร้างโดย AI
 
 #### 📝 คำสั่ง
 
 ```
 {
-  "type": "ภาพปกแบนเนอร์โปรโมท",
-  "style": "นีออนสดใส, พื้นหลังเนบิวลาอวกาศ, สไตล์ภาพประกอบอนิเมะ, ตัวอักษรภาษาญี่ปุ่นที่อัดแน่น, เอฟเฟกต์ข้อความเรืองแสง",
-  "character": {
-    "description": "หญิงสาวหน้าตายิ้มแย้ม ชี้มือขวาขึ้นด้านบน",
-    "appearance": "ผมยาวสี {argument name=\"character hair color\" default=\"น้ำตาล\"}, ต่างหูระย้าสีม่วง, เสื้อสเวตเตอร์สีม่วงมีเท็กซ์เจอร์",
-    "position": "ด้านขวา"
+  "type": "หน้ามังงะอนิเมะ 4 ช่อง",
+  "style": "ภาพประกอบอนิเมะที่สะอาดตาและผ่านการขัดเกลา แสงไฟในห้องที่อบอุ่น บอลลูนคำพูดภาษาญี่ปุ่นแนวตั้งที่อ่านง่าย การลงเงาที่นุ่มนวล การจัดวางช่องการ์ตูนที่สื่ออารมณ์ ฉากหลังเป็นห้องนั่งเล่นที่แสนสบาย รายละเอียดภายในโทนสีน้ำตาลอ่อนและเบจ พื้นไม้ โซฟา โต๊ะกาแฟ แก้วน้ำ ต้นไม้เล็กๆ และภาพตกแต่งผนัง",
+  "format": {
+    "page_orientation": "แนวตั้ง",
+    "panel_count": 4,
+    "reading_flow": "ซ้ายบน, ขวาบน, กลางแบบกว้าง, ล่างแบบกว้าง",
+    "borders": "ขอบช่องมังงะสีดำหนา"
   },
-  "layout": {
-    "background": "เนบิวลาอวกาศที่มีดวงดาวสีม่วง ชมพู และฟ้า",
-    "center_typography": {
-      "top_small_text": "สำหรับคนที่ลังเลไม่รู้จะเริ่มจากตรงไหน",
-      "main_title": "{argument name=\"main title\" default=\"AI 副業ที่มือใหม่ก็เข้าใจได้\"}",
-      "subtitle": "แนะนำสำหรับคลิปแรก",
-      "floating_text_near_character": "อธิบายอย่างเข้าใจง่าย♡"
+  "characters": [
+    {
+      "id": "สาวน้อยแมวเหมียวผมสีฟ้า",
+      "appearance": "สาวน้อยแมวเหมียวสไตล์จิบิที่มีผมบ๊อบสั้น {argument name="hair color" default="สีฟ้า"} มีผมชี้ (ahoge) หูแมวที่มีขนด้านในสีขาว หางฟูที่มีปลายสีขาว ดวงตากลมโตสีอำพันอมฟ้า ปากเล็กๆ เหมือนเขี้ยว",
+      "outfit": "เสื้อสเวตเตอร์สีส้มทับเสื้อเชิ้ตคอปกสีขาวขอบสีฟ้า กระโปรงสีน้ำตาลพร้อมเข็มขัดริบบิ้น กิ๊บติดผมรูปตัว X สีเหลือง"
     },
-    "top_left": {
-      "yellow_ribbon": "{argument name=\"top left ribbon text\" default=\"เริ่มต้นจากศูนย์\"}"
+    {
+      "id": "สาวน้อยแมวเหมียวผมสีทอง",
+      "appearance": "สาวน้อยแมวเหมียวผู้ร่าเริงที่มีผมยาวหยักศกสีทอง หูแมว หางฟู แสดงสีหน้าสดใสและร่าเริง",
+      "outfit": "เสื้อสเวตเตอร์ถักสีเหลืองมัสตาร์ด กระโปรงลายสก็อตสีน้ำตาลเข้ม"
     },
-    "top_right": {
-      "pink_circle_badge": "มือใหม่ทำได้"
+    {
+      "id": "หญิงสาวผมสีขาว",
+      "appearance": "หญิงสาวสวยผมยาวสีขาว หูแมวสีขาว ผิวสีแทนเข้ม ดวงตาสีทอง ยิ้มอย่างมั่นใจและใจเย็น",
+      "outfit": "เสื้อแจ็คเก็ตสีขาวทับเสื้อตัวในสีดำ สร้อยคอและต่างหูทองแบบเลเยอร์"
     },
-    "left_column": {
-      "count": 7,
-      "description": "กองป้ายรูปทรงแคปซูล",
-      "labels": [
-        "ทำผ่านมือถือได้ (พร้อมไอคอนโทรศัพท์)",
-        "สำหรับการเริ่มต้นงานเสริม (พร้อมไอคอนมือใหม่)",
-        "มีตัวอย่างประกอบ",
-        "มีเทมเพลตให้",
-        "แนะนำเครื่องมือที่น่าสนใจ",
-        "ขั้นตอนการสร้างรายได้",
-        "วิธีเริ่มต้นแบบไม่พลาด"
-      ]
-    },
-    "bottom_left_graphics": {
-      "count": 3,
-      "items": [
-        "แล็ปท็อปแสดงกราฟิกสมองวงจร AI",
-        "หลอดไฟเรืองแสง",
-        "จรวดกำลังทะยานขึ้น"
-      ]
-    },
-    "bottom_center": {
-      "large_purple_button": "{argument name=\"bottom center button text\" default=\"คำอธิบายฉบับเต็ม\"}",
-      "checklist_text_below": "✓วิธีเริ่ม ✓วิธีทำเงิน ✓ข้อควรระวัง ✓วิธีทำต่อเนื่อง รู้ครบจบในที่เดียว!"
-    },
-    "bottom_right": {
-      "pink_cloud_shape": {
-        "count": 3,
-        "bullet_points": [
-          "✓ไม่ต้องมีความรู้ยากๆ",
-          "✓เริ่มได้ตั้งแต่วันนี้",
-          "✓อธิบายอย่างละเอียดและเข้าใจง่าย"
-        ]
-      },
-      "gold_medal_seal": "ฉบับเก็บไว้ดู",
-      "purple_badge": "{argument name=\"year badge text\" default=\"ฉบับล่าสุดปี 2026\"}"
+    {
+      "id": "สาวเมด",
+      "appearance": "หญิงสาววัยผู้ใหญ่ที่มีผมยาวสีบลอนด์อ่อนและหูแมว",
+      "outfit": "ชุดเมดสีขาวดำพร้อมที่คาดผมระบายสีขาวและโบว์ริบบิ้นสีแดง"
     }
-  }
-}
-```
-
-#### 🖼️ รูปภาพที่สร้าง
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1776697104740_wweanp_HGGzzkLaEAA28EJ.jpg" width="600" alt="ภาพขนาดย่อของ YouTube - ภาพปก YouTube สำหรับงานเสริมด้วย AI สไตล์นีออน - Image 1">
-</div>
-
-#### 📌 รายละเอียด
-
-- **ผู้เขียน:** [ナーガ@X女帝](https://x.com/naga_zyashin)
-- **แหล่งที่มา:** [Twitter Post](https://x.com/naga_zyashin/status/2045113428952678447#reversed-1)
-- **เผยแพร่เมื่อ:** 17 เมษายน 2569
-- **ภาษา:** en
-
-**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-2-prompts?id=13901)**
-
----
-
-### No. 63: ภาพขนาดย่อของ YouTube - ภาพปกวิดีโอสำหรับคอนเทนต์ธุรกิจสไตล์นีออน
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 คำอธิบาย
-
-สร้างภาพปก YouTube หรือแบนเนอร์ที่เน้นข้อความและดึงดูดสายตา สำหรับคอนเทนต์ด้านธุรกิจและอาชีพเสริม
-
-#### 📝 คำสั่ง
-
-```
-{
-  "type": "ภาพปก YouTube",
-  "style": "เน้นความโดดเด่น โทนสีเขียวนีออนตัดกับสีดำ ให้ความรู้สึกแบบธุรกิจยุคไซเบอร์",
-  "background": "พื้นหลังมืดพร้อมลายตารางสีเขียวเรืองแสง เส้นกราฟพุ่งขึ้น และลูกศรสีเขียวขนาดใหญ่",
-  "subject": {
-    "description": "{argument name=\"subject description\" default=\"ชายชาวญี่ปุ่นมาดขรึมในชุดสูทสีดำ\"}",
-    "position": "ด้านขวา",
-    "props": "ปึกธนบัตร 10,000 เยนที่มุมขวาล่าง"
-  },
+  ],
   "layout": {
-    "main_title": {
-      "text": "{argument name=\"main title\" default=\"月30万 ChatGPT副業 誰でも始めやすい\"}",
-      "position": "ตรงกลาง ใช้ตัวอักษรหนาขนาดใหญ่ไล่เฉดสีขาวและเขียว"
-    },
-    "top_left_badge": {
-      "text": "{argument name=\"top left badge\" default=\"再現性高め\"}",
-      "style": "กรอบสีเขียวนีออนวางเอียง"
-    },
-    "top_tags": {
-      "count": 4,
-      "labels": ["มือใหม่ทำได้", "ทำผ่านมือถือได้", "สร้างรายได้เร็วที่สุด", "พร้อมตัวอย่างจริง"]
-    },
-    "left_bullet_points": {
-      "count": 6,
-      "style": "กล่องสีเข้มพร้อมขอบสีเขียวนีออนและไอคอน",
-      "items": [
-        "ไอคอนหลอดไฟ: วิธีเริ่มต้นแบบไม่พลาด",
-        "ไอคอนเหรียญเยน: แนะนำอาชีพเสริม",
-        "ไอคอนกราฟ: ขั้นตอนการสร้างรายได้",
-        "ไอคอนค้นหา: วิธีหางาน",
-        "ไอคอนแชท: พร้อมตัวอย่าง Prompt",
-        "ไอคอนคลิปบอร์ด: พร้อมเทมเพลต"
-      ]
-    },
-    "bottom_banner": {
-      "text": "{argument name=\"bottom banner text\" default=\"手順を徹底解説\"}",
-      "icons": "โลโก้ ChatGPT ทางซ้าย, กราฟพุ่งขึ้นทางขวา"
-    },
-    "bottom_tags": {
-      "count": 2,
-      "labels": ["{argument name=\"year tag\" default=\"2026年最新版\"}", "นำไปใช้ได้ทันที"]
-    }
-  }
-}
-```
-
-#### 🖼️ รูปภาพที่สร้าง
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1776697104171_q0es7f_HGGzzkdakAAmSXl.jpg" width="600" alt="ภาพขนาดย่อของ YouTube - ภาพปกวิดีโอสำหรับคอนเทนต์ธุรกิจสไตล์นีออน - Image 1">
-</div>
-
-#### 📌 รายละเอียด
-
-- **ผู้เขียน:** [ナーガ@X女帝](https://x.com/naga_zyashin)
-- **แหล่งที่มา:** [Twitter Post](https://x.com/naga_zyashin/status/2045113428952678447#reversed-0)
-- **เผยแพร่เมื่อ:** 17 เมษายน 2569
-- **ภาษา:** en
-
-**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-2-prompts?id=13900)**
-
----
-
-### No. 64: ภาพขนาดย่อของ YouTube - เครื่องมือสร้างการ์ดไฮไลท์ Champions League
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 คำอธิบาย
-
-คำสั่งแนะนำสำหรับ GPT-Image 2 เพื่อค้นหาข้อมูลผลงานการแข่งขันกีฬาและสร้างการ์ดไฮไลท์ในธีมที่กำหนด พร้อมสถิติและสีประจำทีม
-
-#### 📝 คำสั่ง
-
-```
-ค้นหาข้อมูลบนเว็บสำหรับ {argument name="performance description" default="ผลงานที่โดดเด่นประจำสัปดาห์นี้ในการแข่งขัน Champions League"} โดยใช้สถิติที่แม่นยำและสรุปผลการแข่งขัน พร้อมด้วย {argument name="colors" default="สีประจำทีมที่โดดเด่น"} และรายละเอียดคะแนนที่อ่านง่าย จากนั้นสร้าง {argument name="card type" default="การ์ดไฮไลท์"} ขึ้นมา
-```
-
-#### 🖼️ รูปภาพที่สร้าง
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1776697063198_ngb38l_HGFtkfPbMAAJCn6.jpg" width="600" alt="ภาพขนาดย่อของ YouTube - เครื่องมือสร้างการ์ดไฮไลท์ Champions League - Image 1">
-</div>
-
-#### 📌 รายละเอียด
-
-- **ผู้เขียน:** [Alex Patrascu](https://x.com/maxescu)
-- **แหล่งที่มา:** [Twitter Post](https://x.com/maxescu/status/2045036186734039545)
-- **เผยแพร่เมื่อ:** 17 เมษายน 2569
-- **ภาษา:** en
-
-**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-2-prompts?id=13849)**
-
----
-
-### No. 65: ภาพขนาดย่อของ YouTube - การแสดงสดของนักเปียโนคลาสสิก
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 คำอธิบาย
-
-พรอมต์รูปภาพที่สมจริงซึ่งแสดงภาพการแสดงเปียโนคลาสสิกโดย Vladimir Horowitz ในรูปแบบการสตรีมสดบน YouTube ยุคใหม่
-
-#### 📝 คำสั่ง
-
-```
-{argument name="pianist" default="Vladimir Horowitz"} กำลังแสดง {argument name="event" default="การแสดงเปียโนสด"} ผ่านการสตรีมบน {argument name="platform" default="YouTube"}
-```
-
-#### 🖼️ รูปภาพที่สร้าง
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1776697074600_yzshfn_HGFqJOPa8AARIBk.jpg" width="600" alt="ภาพขนาดย่อของ YouTube - การแสดงสดของนักเปียโนคลาสสิก - Image 1">
-</div>
-
-#### 📌 รายละเอียด
-
-- **ผู้เขียน:** [古♯出 陸](https://x.com/bowowwoaaa2)
-- **แหล่งที่มา:** [Twitter Post](https://x.com/bowowwoaaa2/status/2045032416876920974)
-- **เผยแพร่เมื่อ:** 17 เมษายน 2569
-- **ภาษา:** en
-
-**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-2-prompts?id=13867)**
-
----
-
-### No. 66: ภาพขนาดย่อของ YouTube - ภาพจำลองอินเทอร์เฟซ YouTube Livestream
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 คำอธิบาย
-
-สร้าง UI ของ YouTube Livestream ที่สมจริง โดยประกอบด้วยโปรแกรมเล่นวิดีโอพร้อมหน้าต่างแชท รายละเอียดช่อง และช่องข้อความที่ปรับแต่งได้
-
-#### 📝 คำสั่ง
-
-```
-{
-  "type": "UI ของ YouTube Livestream",
-  "top_nav": {
-    "logo": "YouTube Premium",
-    "search": "{argument name=\"search query\" default=\"bilal fraiha\"}",
-    "icons": 3
-  },
-  "player": {
-    "subjects": [
-      "{argument name=\"female guest\" default=\"Sydney Sweeney\"} สวมคาร์ดิแกนสีขาว",
-      "ชายไว้เคราสวมแจ็กเก็ตสีเบจกำลังหัวเราะ"
-    ],
-    "bg": "โซฟา, ปุ่ม Play สีเงิน 2 ปุ่ม, โลโก้แกะ 'SARDI'",
-    "overlays": {
-      "chat": {"pos": "ซ้าย", "count": 15, "desc": "ชื่อผู้ใช้หลากสี ข้อความสีขาว"},
-      "goal": {"pos": "ขวาบน", "text": "เป้าหมายคืนนี้: 0 ถึง 25"},
-      "banner": {"pos": "กลางล่าง", "text": "K {argument name=\"streamer name\" default=\"MOREBILAL\"}"}
-    },
-    "controls": {"count": 10}
-  },
-  "details": {
-    "title": "{argument name=\"video title\" default=\"FULL STREAM | سيدني سويني مع بلال\"}",
-    "channel": "{argument name=\"channel name\" default=\"More Bilal No Filter\"}",
-    "buttons": 5
-  }
-}
-```
-
-#### 🖼️ รูปภาพที่สร้าง
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1776697140905_diw2m9_HGEa9vHaIAASEXv.jpg" width="600" alt="ภาพขนาดย่อของ YouTube - ภาพจำลองอินเทอร์เฟซ YouTube Livestream - Image 1">
-</div>
-
-#### 📌 รายละเอียด
-
-- **ผู้เขียน:** [Marouane Lamharzi Alaoui](https://x.com/marouane53)
-- **แหล่งที่มา:** [Twitter Post](https://x.com/marouane53/status/2044946192203923493#reversed-0)
-- **เผยแพร่เมื่อ:** 17 เมษายน 2569
-- **ภาษา:** en
-
-**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-2-prompts?id=13963)**
-
----
-
-### No. 67: ภาพขนาดย่อของ YouTube - ภาพปกสตรีมเปิดตัว VTuber
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 คำอธิบาย
-
-สร้างภาพปกไลฟ์สตรีมที่ดูโดดเด่นและเปี่ยมไปด้วยพลัง พร้อมข้อความ 3D ที่ปรับแต่งได้ ตัวละครอนิเมะ และพื้นหลังสุดตระการตา
-
-#### 📝 คำสั่ง
-
-```
-ภาพปก YouTube ไลฟ์สตรีมที่สดใสและเปี่ยมไปด้วยพลัง นำเสนอตัวละครสาวสไตล์อนิเมะที่มี {argument name="hair color" default="สีฟ้า"} มัดผมหางม้าสูง ดวงตาสีฟ้าสดใส และรอยยิ้มที่ร่าเริง สวมเสื้อเชิ้ตคอปกสีขาว เธออยู่ในตำแหน่งด้านขวาของเฟรม พื้นหลังเป็นการระเบิดของ {argument name="background style" default="แสงสีรุ้งระยิบระยับและกลิตเตอร์สีทอง"} ทางด้านซ้ายมีข้อความ 3D สีทองขนาดใหญ่เขียนว่า "{argument name="main title text" default="初配信"}" พร้อมขอบสไตล์โกธิคที่สวยงาม ด้านล่างเป็นข้อความ 3D ขนาดเล็กกว่าในโทนสีทองและสีฟ้าเขียนว่า "{argument name="subtitle text" default="一緒に最高の時間を！"}" ที่มุมซ้ายล่างมีไมโครโฟนวินเทจสีทองแวววาว ที่มุมขวาบนมีป้ายสี่เหลี่ยมสีแดงเขียนว่า "▶ LIVE" ตรงกลางด้านขวา ใต้ใบหน้าของตัวละคร มีป้ายชื่อสีน้ำเงินเข้มและทองที่สวยงามเขียนว่า "{argument name="character name" default="エリン Erin"}" สไตล์โดยรวมมีความละเอียดสูง โดดเด่น และเป็นเอกลักษณ์ของการประกาศเปิดตัว VTuber
-```
-
-#### 🖼️ รูปภาพที่สร้าง
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1776697092139_v6ljp0_HGEWJeEasAA6F2h.jpg" width="600" alt="ภาพขนาดย่อของ YouTube - ภาพปกสตรีมเปิดตัว VTuber - Image 1">
-</div>
-
-#### 📌 รายละเอียด
-
-- **ผู้เขียน:** [結パパ](https://x.com/Yuupapa_free)
-- **แหล่งที่มา:** [Twitter Post](https://x.com/Yuupapa_free/status/2044941300789887394#reversed-0)
-- **เผยแพร่เมื่อ:** 17 เมษายน 2569
-- **ภาษา:** en
-
-**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-2-prompts?id=13770)**
-
----
-
-### No. 68: ภาพขนาดย่อของ YouTube - ภาพปก YouTube แนวอนิเมะ VTuber
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 คำอธิบาย
-
-สร้างภาพปก YouTube แนวเท่ๆ โทนสีนีออน ที่มีตัวละครอนิเมะกำลังทำหน้าตกใจขณะรีแอคชั่นต่อโพสต์บนโซเชียลมีเดียและแชทสด
-
-#### 📝 คำสั่ง
-
-```
-{
-  "type": "กราฟิกภาพปก YouTube",
-  "style": "อนิเมะ, เท่ๆ, โทนสีชมพูนีออนและสีดำ, ตกแต่งด้วยสไตล์กรันจ์และเอฟเฟกต์สาดสี",
-  "character": {
-    "appearance": "สาวอนิเมะ, ผมสี {argument name=\"hair color\" default=\"เงิน\"}, หูแมว, ตาสีม่วง",
-    "expression": "{argument name=\"expression\" default=\"ทำหน้าตกใจและมีเหงื่อซึม\"}, อ้าปากค้าง",
-    "accessories": "กิ๊บติดผมแมวดำลายกากบาทสีชมพู, โช้คเกอร์สีดำพร้อมจี้รูปหัวใจ",
-    "action": "ถือสมาร์ทโฟนสีชมพูที่มีโลโก้รูปเกลียว"
-  },
-  "layout": {
-    "main_title": {
-      "position": "ด้านล่างตรงกลาง",
-      "style": "ตัวอักษรขนาดใหญ่ หนา สไตล์ 3D พร้อมพื้นผิวแบบกรันจ์",
-      "lines": [
-        { "text": "{argument name=\"main title top\" default=\"ดราม่าเธรด\"}", "color": "ชมพูนีออน" },
-        { "text": "{argument name=\"main title bottom\" default=\"อ่านให้ฟังแล้ว ;;\"}", "color": "ขาว" }
-      ]
-    },
-    "ui_elements": [
+    "sections": [
       {
-        "type": "ตัวอย่างฟีดโซเชียลมีเดีย",
-        "position": "ซ้ายกลาง",
-        "header": "← เธรด",
-        "post_count": 3,
-        "details": "รูปโปรไฟล์, ข้อความภาษาไทย, ไอคอนโต้ตอบสำหรับกดไลก์, คอมเมนต์, รีโพสต์"
-      },
-      {
-        "type": "ตัวอย่างแชทสด",
-        "position": "ขอบขวา",
-        "message_count": 4,
-        "details": "ไอคอนผู้ใช้สีชมพู, ข้อความภาษาไทย"
-      }
-    ],
-    "text_callouts": [
-      {
-        "type": "กรอบคำพูดแบบหนาม",
-        "position": "บนตรงกลาง",
-        "text": "{argument name=\"speech bubble text\" default=\"แบบนี้ก็ได้เหรอ?;;\"}"
-      },
-      {
-        "type": "กล่องนีออน",
-        "position": "ขวาบน",
-        "text": "กำลังรีแอคสด"
-      },
-      {
-        "type": "ข้อความสไตล์กรันจ์ลอยตัว",
-        "position": "ซ้ายสุด",
-        "line_count": 3,
-        "text": ["ดราม่า OO", "เรื่องจริงสุดช็อก", "เหตุการณ์ระดับตำนาน"]
-      },
-      {
-        "type": "ข้อความเขียนด้วยลายมือพร้อมลูกศร",
-        "position": "ขวาล่าง",
-        "text": "ทุกคนคิดเห็นยังไงกันบ้าง?"
-      }
-    ],
-    "logos": [
-      {
-        "type": "ไอคอนแอป",
+        "title": "ช่องที่ 1",
         "position": "ซ้ายบน",
-        "description": "โลโก้รูปเกลียวสีขาวบนพื้นหลังสี่เหลี่ยมมุมมนสีดำ"
+        "count": 1,
+        "labels": ["どうせ日本語微妙なんでしょ？文字がダメなら認めないよ"],
+        "scene": "สาวน้อยแมวเหมียวผมสีฟ้ากำลังนั่งอยู่บนโซฟาในห้องนั่งเล่นที่แสนสบาย นิ้วหนึ่งแตะที่คาง ทำหน้าสงสัยและอยากรู้อยากเห็น มีเครื่องหมายคำถามเล็กๆ ลอยอยู่เหนือหัว"
+      },
+      {
+        "title": "ช่องที่ 2",
+        "position": "ขวาบน",
+        "count": 1,
+        "labels": ["ねぇねぇ！GPT Image2 すごいよ！"],
+        "scene": "สาวน้อยแมวเหมียวผมสีทองพุ่งเข้ามาทางประตูอย่างรวดเร็วพร้อมเส้นความเร็วที่อยู่ด้านหลัง กางแขนออกกว้าง เต็มไปด้วยความตื่นเต้น"
+      },
+      {
+        "title": "ช่องที่ 3",
+        "position": "กลางแบบกว้าง",
+        "count": 3,
+        "labels": ["うわっ びっくりした！めちゃくちゃキレイじゃん！", "ねぇねぇ！GPT Image2 すごいよ！ 微妙なんでしょ？ 文字がダメなら認めないよ", "ほら見て！わたしたちのセリフ！"],
+        "scene": "สาวน้อยแมวเหมียวผมสีฟ้าแสดงอาการตกใจโดยเอามือทั้งสองข้างไว้ใกล้ใบหน้า สาวน้อยแมวเหมียวผมสีทองยืนอยู่ข้างๆ และชี้อย่างภูมิใจ และมีบอลลูนคำพูดขนาดใหญ่ตรงกลางแสดงตัวอย่างบทสนทนาภาษาญี่ปุ่นที่พวกเขากำลังพูดถึง"
+      },
+      {
+        "title": "ช่องที่ 4",
+        "position": "ล่างแบบกว้าง",
+        "count": 3,
+        "labels": ["進化が早すぎてもう驚かないよね〜", "絵も可愛く描けてるし文字の白抜きも完璧よね", ""],
+        "scene": "ที่ด้านหน้า สาวเมดเอามือปิดปากด้วยความประทับใจในขณะที่หญิงสาวผมสีขาวแสดงความคิดเห็นอย่างครุ่นคิดโดยมีมือแตะที่คาง ส่วนด้านหลัง สาวน้อยแมวเหมียวผมสีฟ้าและผมสีทองกระโดดโลดเต้นอย่างมีความสุขร่วมกันหน้าโซฟา"
       }
     ]
-  }
+  },
+  "text_handling": {
+    "language": "ญี่ปุ่น",
+    "balloon_direction": "การจัดวางข้อความแนวตั้ง",
+    "emphasis": "ทำให้ตัวอักษรภาษาญี่ปุ่นมีความคมชัด เป็นธรรมชาติ และรวมเข้ากับบอลลูนคำพูดมังงะได้อย่างสะอาดตา รวมถึงการใช้ข้อความสีขาวขอบดำ (knockout text) ในจุดที่จำเป็น"
+  },
+  "tone": "ขี้เล่น, เฉลิมฉลอง, ประทับใจในการเรนเดอร์ข้อความภาษาญี่ปุ่นคุณภาพสูงในมังงะที่สร้างโดย AI",
+  "quality": "รายละเอียดสูง, การออกแบบตัวละครที่สอดคล้องกัน, มังงะโปรโมทที่น่ารักและอ่านง่าย"
 }
 ```
 
@@ -4684,33 +3494,32 @@ Generates a vibrant, text-heavy anime-style thumbnail for a VTuber chat stream, 
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1776695120897_w3mq06_HGDSuYwXEAEYfcT.jpg" width="600" alt="ภาพขนาดย่อของ YouTube - ภาพปก YouTube แนวอนิเมะ VTuber - Image 1">
+<img src="https://cms-assets.youmind.com/media/1776883112561_p4smsc_HGgOKcHb0AAe6uY.jpg" width="600" alt="คอมิก / สตอรี่บอร์ด - หน้าตัวอย่างมังงะ AI ภาษาญี่ปุ่น - Image 1">
 </div>
 
 #### 📌 รายละเอียด
 
-- **ผู้เขียน:** [AJ - e/acc](https://x.com/abdiisan)
-- **แหล่งที่มา:** [Twitter Post](https://x.com/abdiisan/status/2044865935752708451#reversed-0)
-- **เผยแพร่เมื่อ:** 16 เมษายน 2569
+- **ผู้เขียน:** [芽乃葉-めいのは-](https://x.com/maynoha_maru)
+- **แหล่งที่มา:** [Twitter Post](https://x.com/maynoha_maru/status/2046902204670611919#reversed-0)
+- **เผยแพร่เมื่อ:** 22 เมษายน 2569
 - **ภาษา:** en
 
-**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-2-prompts?id=13813)**
+**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-2-prompts?id=14471)**
 
 ---
 
-### No. 69: ภาพขนาดย่อของ YouTube - ภาพจำลอง UI การนำเสนอผ่าน YouTube Live
+### No. 72: คอมิก / สตอรี่บอร์ด - ภาพประกอบ 4 ช่องของนักดาบสาวสไตล์อนิเมะสุดสง่างาม
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 คำอธิบาย
 
-สร้างภาพจำลองอินเทอร์เฟซ YouTube บนเดสก์ท็อปในโหมดมืดที่สมจริง สำหรับการประกาศเปิดตัวผลิตภัณฑ์แบบสด
+พรอมต์นี้ใช้สำหรับสร้างภาพประกอบตัวละครอนิเมะ 4 ช่องที่มีรายละเอียดสูงของนักดาบสาวผมสีขาวผู้สูงศักดิ์ เหมาะสำหรับงานภาพหลักแนวแฟนตาซี การโชว์ตัวละคร หรือโพสต์บนโซเชียลมีเดียระดับพรีเมียม
 
 #### 📝 คำสั่ง
 
 ```
-{"type": "ภาพจำลอง UI YouTube บนเดสก์ท็อปในโหมดมืด", "header": {"logo": "YouTube", "search_bar": "ค้นหา", "icons_count": 5, "icons": ["search", "mic", "create", "notifications", "profile"]}, "video_player": {"top_left_badge": "LIVE", "left_side": {"subject": "{argument name=\"presenter description\" default=\"ชายสวมเสื้อสเวตเตอร์สีเขียวที่โพเดียมไม้\"}", "podium_logo": "OpenAI"}, "right_side_presentation": {"text_elements": ["OpenAI", "ขอแนะนำ", "{argument name=\"product name\" default=\"GPT-Image-2\"}", "{argument name=\"tagline\" default=\"สมจริงยิ่งขึ้น มีประโยชน์ยิ่งขึ้น สร้างสรรค์ยิ่งขึ้น\"}"], "sample_images_count": 4, "sample_images": ["ทะเลสาบภูเขากับเรือ", "ภาพพอร์ตเทรตผู้หญิงกับแสงแดดรำไร", "หุ่นยนต์น่ารักถือโคมไฟในป่า", "ภาพวาดคาเฟ่ในคืนที่เต็มไปด้วยดวงดาว"]}, "bottom_controls_count": 10, "bottom_controls": ["pause", "next", "volume", "LIVE", "red progress bar", "CC", "settings", "miniplayer", "theater mode", "fullscreen"]}, "video_details": {"title": "{argument name=\"video title\" default=\"OpenAI Live: ขอแนะนำ GPT-Image-2\"}", "channel": {"name": "{argument name=\"channel name\" default=\"OpenAI\"}", "verified": true, "subscribers": "1.36 ล้าน", "button": "ติดตาม"}, "action_buttons_count": 5, "action_buttons": ["ถูกใจ 12K", "ไม่ถูกใจ 497", "แชร์", "บันทึก", "เพิ่มเติม"], "description_box": {"stats": "กำลังรับชม 95,237 คน เริ่มสตรีมเมื่อ 7 นาทีที่แล้ว", "tags": "#OpenAI #GPTImage2 #AI", "text": "เข้าร่วมกิจกรรมพิเศษแบบสดกับเราเพื่อพบกับ GPT-Image-2 โมเดลสร้างภาพล่าสุดและล้ำสมัยที่สุดของเรา ชมความสามารถใหม่ๆ การสาธิตสด และฟังข้อมูลจากทีมงาน ...เพิ่มเติม"}}}
+ภาพประกอบอนิเมะแฟนตาซีคุณภาพสูงในรูปแบบตาราง 2x2 แสดงภาพนักดาบสาวผู้สง่างามคนเดียวกันใน 4 ช่อง ตัวละครเป็นหญิงสาวที่มีผมสีขาวแพลทินัมยาวมาก มัดหางม้าสูงประดับด้วยโบว์สีน้ำเงินเข้มขนาดใหญ่ มีผมลอนนุ่มสลวยและปอยผมที่พลิ้วไหว ผิวขาวเนียน ใบหน้าสวยหวานประณีตพร้อมดวงตาสีแดงอมชมพูเป็นประกาย เธอสวมชุดโกธิคสไตล์ชนชั้นสูงสีขาวตัดน้ำเงิน: เสื้อเชิ้ตคอสูงระบายสีขาวแต่งลูกไม้และปักดิ้นทอง โบว์สีน้ำเงินขนาดใหญ่ที่หน้าอกประดับด้วยเข็มกลัดอัญมณีสีแดง แขนพองแต่งขอบริบบิ้น คอร์เซ็ตสีน้ำเงินเข้มแต่งรายละเอียดสีทอง และกระโปรงสีน้ำเงินทรงสุ่มประดับลวดลายดอกไม้สีทอง ระบายเป็นชั้นๆ และมีความเงางามแบบผ้าซาติน เธอถือดาบคาตานะที่มีฝักดาบด้ามจับสีเข้มและตกแต่งด้วยสีทอง ช่องที่ 1 เป็นภาพพอร์ตเทรตระยะใกล้ตั้งแต่หน้าอกขึ้นไป หันข้างเล็กน้อย ผมเปล่งประกายด้วยแสงริมไลท์ (rim light) ตัดกับพื้นหลังยามค่ำคืนที่ระยิบระยับ ช่องที่ 2 เป็นภาพแอ็กชันครึ่งตัวแบบไดนามิก ตัวละครกำลังชักดาบหรือถือดาบในแนวนอนหันมาทางผู้ชม ผมปลิวไสว มีฉากหลังเป็นโบเก้แสงไฟเมืองยามค่ำคืนและกลีบดอกไม้ที่เรืองแสงรอบตัว ช่องที่ 3 เป็นภาพเต็มตัวโชว์ชุด ยืนอย่างสง่างามในโถงทางเดินที่สะท้อนแสง ล้อมรอบด้วยโครงสร้างเรืองแสงสูงตระหง่าน เผยให้เห็นรูปทรงของชุด รองเท้าส้นสูงประดับโบว์ และดาบที่ข้างกาย ช่องที่ 4 เป็นภาพมุมมองจากด้านหลังสามส่วนริมทะเลที่ส่องประกายในช่วงพระอาทิตย์ขึ้นหรือตก ตัวละครหันกลับมามองผ่านไหล่ ท้องฟ้าสีพาสเทลอบอุ่นและผืนน้ำที่เป็นประกายด้านหลัง มีกลีบดอกซากุระปลิวไสวตามสายลม ใช้การเรนเดอร์สไตล์อนิเมะที่มีรายละเอียดสูง คุณภาพระดับปกไลท์โนเวลพรีเมียม พื้นผิวผ้าที่ซับซ้อน ไฮไลท์เงางาม การตกแต่งด้วยสีทอง แสงฟุ้งนุ่มนวล แสงย้อนที่ดูมีมิติ กลีบดอกไม้และอนุภาคที่ลอยละล่อง บรรยากาศที่ดูหรูหราโรแมนติก และการคุมโทนสีน้ำเงิน ขาว ทอง และชมพูอ่อนอย่างลงตัว
 ```
 
 #### 🖼️ รูปภาพที่สร้าง
@@ -4718,33 +3527,33 @@ Generates a vibrant, text-heavy anime-style thumbnail for a VTuber chat stream, 
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1776695126103_hxglkj_HGBt0cgbAAA0hT5.jpg" width="600" alt="ภาพขนาดย่อของ YouTube - ภาพจำลอง UI การนำเสนอผ่าน YouTube Live - Image 1">
+<img src="https://cms-assets.youmind.com/media/1776883089448_29d4ej_HGf2vKmbQAAECCZ.jpg" width="600" alt="คอมิก / สตอรี่บอร์ด - ภาพประกอบ 4 ช่องของนักดาบสาวสไตล์อนิเมะสุดสง่างาม - Image 1">
 </div>
 
 #### 📌 รายละเอียด
 
-- **ผู้เขียน:** [Vi](https://x.com/tehno_maniak)
-- **แหล่งที่มา:** [Twitter Post](https://x.com/tehno_maniak/status/2044754985183785208#reversed-1)
-- **เผยแพร่เมื่อ:** 16 เมษายน 2569
+- **ผู้เขียน:** [ユキノ❄ AIart](https://x.com/yukinono_ai)
+- **แหล่งที่มา:** [Twitter Post](https://x.com/yukinono_ai/status/2046879433462854011#reversed-0)
+- **เผยแพร่เมื่อ:** 22 เมษายน 2569
 - **ภาษา:** en
 
-**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-2-prompts?id=13824)**
+**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-2-prompts?id=14413)**
 
 ---
 
-### No. 70: ภาพขนาดย่อของ YouTube - ฉากการไลฟ์สดของอินฟลูเอนเซอร์
+### No. 73: คอมิก / สตอรี่บอร์ด - ภาพล้อเลียน Countryball วิกฤตการณ์ช่องแคบฮอร์มุซ
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 คำอธิบาย
 
-คำสั่งแบบง่ายสำหรับการสร้างภาพฉากการไลฟ์สดเล่นเกมของอินฟลูเอนเซอร์ให้ดูสมจริง
+ภาพประกอบล้อเลียนเชิงภูมิรัฐศาสตร์ที่แสดงให้เห็น Countryball ของสหรัฐอเมริกาและอิหร่านกำลังเผชิญหน้ากันในช่องแคบฮอร์มุซที่แคบ เหมาะสำหรับใช้เป็นภาพประกอบบทบรรณาธิการหรือคอนเทนต์บนโซเชียลมีเดีย
 
 #### 📝 คำสั่ง
 
 ```
-{argument name="subject" default="อินฟลูเอนเซอร์สาวสวย"} กำลังไลฟ์สด {argument name="activity" default="เล่นเกม"}
+ภาพประกอบล้อเลียนแนว Countryball ที่มีรายละเอียดของ {argument name="waterway name" default="ช่องแคบฮอร์มุซ"} ในลักษณะเส้นทางเดินเรือที่แคบมากระหว่างหน้าผาหินสูงชันสองฝั่ง วาดในสไตล์การ์ตูนดิจิทัลที่สวยงามพร้อมการลงเงาที่ดูมีมิติและพื้นผิวหินที่สมจริง บริเวณกึ่งกลางด้านหน้ามี Countryball 2 ลูกขวางทางกันอยู่ในช่องแคบที่คับแคบจนเหลือเพียงทางผ่านเดียว ฝั่งซ้ายคือ Countryball สหรัฐอเมริกาที่มีดวงตาโกรธจัด วาดด้วยลวดลายธงชาติอเมริกัน สวมหมวกเบสบอลสีกรมท่าที่มีตัวอักษรสีขาวขนาดใหญ่เขียนว่า "USA" ฝั่งขวาคือ Countryball อิหร่านที่มีดวงตาโกรธจัด วาดด้วยลวดลายธงชาติและตราสัญลักษณ์ของอิหร่าน สวมแถบคาดศีรษะสีเขียวขาวผูกไว้ด้านข้าง โดยบนแถบคาดศีรษะมีข้อความภาษาเกาหลีที่แปลว่า "การต่อต้านคือสิทธิของเรา" เหนือ Countryball แต่ละลูกมีกรอบคำพูดสีขาวขอบดำหนา 1 กรอบ รวมเป็น 2 กรอบ ทั้งสองลูกพูดว่า {argument name="speech text" default="길!"} ด้วยตัวอักษรภาษาเกาหลีตัวหนาขนาดใหญ่ ราวกับว่าไม่มีฝ่ายใดยอมถอย แสดงภาพทั้งสองลูกหันหน้าเข้าหากันแบบจมูกชนจมูกในจุดที่แคบที่สุด บนหน้าผาฝั่งซ้ายให้มีป้ายไม้ 1 ป้ายที่มีข้อความภาษาเกาหลีและภาษาอังกฤษว่า "호르무즈 해협" และ "Strait of Hormuz" บนหน้าผาฝั่งขวาให้มีป้ายเตือน 1 ป้ายที่มีข้อความภาษาเปอร์เซียที่ด้านบนและสัญลักษณ์สามเหลี่ยมเตือนภัยสีแดงที่ด้านล่าง เพื่อบ่งบอกว่าสามารถผ่านได้เพียงหนึ่งเดียวเท่านั้น ที่มุมซ้ายล่างให้วางถังน้ำมันสีดำ 1 ถังที่มีป้ายกำกับว่า "OIL" พร้อมคราบน้ำมันที่หกเลอะเทอะอยู่รอบๆ ที่มุมขวาล่างให้วางทุ่นระเบิดทางเรือสีดำ 1 ลูกที่มีตัวอักษรภาษาเปอร์เซียเขียนอยู่และมีโซ่ล่ามไว้ ในพื้นหลังถัดจากช่องแคบให้เห็นทะเลเปิดที่มีเรืออยู่ไกลๆ 3 ลำ รวมถึงเรือบรรทุกน้ำมันขนาดใหญ่ 1 ลำ และมีควันสีเข้มจางๆ ลอยขึ้นสู่ท้องฟ้า ใช้โทนภาพล้อเลียนเชิงภูมิรัฐศาสตร์ที่ตึงเครียดแต่แฝงความตลกขบขัน จัดองค์ประกอบภาพไว้ตรงกลาง มุมมองระดับสายตา แสงสว่างนุ่มนวล โทนสีสมจริงที่ดูหม่นเล็กน้อย เส้นขอบที่คมชัด และข้อความทั้งหมดต้องอ่านง่ายชัดเจน
 ```
 
 #### 🖼️ รูปภาพที่สร้าง
@@ -4752,39 +3561,238 @@ Generates a vibrant, text-heavy anime-style thumbnail for a VTuber chat stream, 
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1776695067624_dwoxdq_HGBrmgGaMAAhiuv.jpg" width="600" alt="ภาพขนาดย่อของ YouTube - ฉากการไลฟ์สดของอินฟลูเอนเซอร์ - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1776695068300_aujo7i_HGBspjibQAE6YVq.jpg" width="600" alt="ภาพขนาดย่อของ YouTube - ฉากการไลฟ์สดของอินฟลูเอนเซอร์ - Image 2">
+<img src="https://cms-assets.youmind.com/media/1776883198880_l9s0k9_HGfMY0Aa0AA_bmW.jpg" width="600" alt="คอมิก / สตอรี่บอร์ด - ภาพล้อเลียน Countryball วิกฤตการณ์ช่องแคบฮอร์มุซ - Image 1">
 </div>
 
 #### 📌 รายละเอียด
 
-- **ผู้เขียน:** [underwood](https://x.com/underwoodxie96)
-- **แหล่งที่มา:** [Twitter Post](https://x.com/underwoodxie96/status/2044754351303045477)
-- **เผยแพร่เมื่อ:** 16 เมษายน 2569
+- **ผู้เขียน:** [Geonhee Jeong](https://x.com/Gh_Peter_J)
+- **แหล่งที่มา:** [Twitter Post](https://x.com/Gh_Peter_J/status/2046837715979866115#reversed-0)
+- **เผยแพร่เมื่อ:** 22 เมษายน 2569
 - **ภาษา:** en
 
-**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-2-prompts?id=13702)**
+**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-2-prompts?id=14683)**
 
 ---
 
-### No. 71: ภาพขนาดย่อของ YouTube - YouTube Unboxing Thumbnail Prompt
+### No. 74: คอมิก / สตอรี่บอร์ด - ท่าโพสแห่งชัยชนะของจอมเวทผู้ปิดตา
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 คำอธิบาย
+
+พรอมต์นี้จะสร้างภาพโปสเตอร์แนวแอ็กชันอนิเมะแนวตั้งสุดดราม่าของจอมเวทผมขาวที่ถูกปิดตา พร้อมพลังงานสีฟ้าที่ระเบิดออกมาและกรอบคำพูดสไตล์มังงะสุดโดดเด่น เหมาะสำหรับงานศิลปะตัวละครที่มีสไตล์หรือภาพที่ได้แรงบันดาลใจจากแฟนด้อม
+
+#### 📝 คำสั่ง
+
+```
+ภาพประกอบสไตล์โชเน็นมังงะที่ทรงพลังของจอมเวทผมขาวผู้แข็งแกร่งในท่าโพสเต็มตัวมุมต่ำสุดดราม่า เขากำลังหัวเราะโดยเงยหน้าขึ้นและอ้าปากกว้าง สวมชุดเครื่องแบบคอตั้งสีดำเรียบหรูและผ้าปิดตาสีดำ มือซ้ายของเขายื่นมาทางผู้ชมพร้อมทำท่าชูสองนิ้ว โดยใช้เทคนิคการวาดแบบย่อส่วน (foreshortening) ที่ทำให้มือดูใหญ่ในระยะใกล้ ในขณะที่แขนขวาห้อยลงข้างลำตัว ล้อมรอบตัวเขาด้วย {argument name="energy color" default="สีฟ้าไฟฟ้า"} พลังเหนือธรรมชาติที่ระเบิดออกมา ร่องรอยออร่าที่เหมือนฝีแปรงอันรุนแรง เศษซากที่ลอยฟุ้ง ประกายไฟ และเส้นสายโค้งที่หมุนวนตัดผ่านเฟรมภาพ พื้นหลังควรเป็นระเบิดพลังงานที่มืดมิดและดูโกลาหล พร้อมเศษเสี้ยวสีฟ้าเรืองแสงและเส้นแสดงการเคลื่อนไหว สร้างความรู้สึกถึงพลังที่ล้นเหลือ ใช้การเรนเดอร์แบบอนิเมะเซลเฉดที่คมชัดพร้อมไฮไลต์แบบภาพวาด เส้นสายที่เฉียบคม คอนทราสต์ที่เข้มข้น และรอยยับของผ้าที่ดูมันวาวบนชุดสีดำ ทางด้านขวา ให้เพิ่มกรอบคำพูดมังงะสีขาวขอบหยักขนาดใหญ่ 1 กรอบที่มีเส้นขอบสีดำหนา ภายในบรรจุข้อความ {argument name="speech bubble text" default="พวกต่อต้านเทคโนโลยีมีแต่จะพ่ายแพ้!"} ด้วยตัวอักษรภาษาอังกฤษตัวพิมพ์ใหญ่สีดำที่ดูแตกสลายขนาดใหญ่ องค์ประกอบภาพแนวตั้ง การจัดเฟรมโปสเตอร์แอ็กชันแบบไดนามิก ท่าทางที่มั่นใจและเปี่ยมไปด้วยชัยชนะ สุนทรียศาสตร์แบบอนิเมะดาร์กแฟนตาซีสมัยใหม่
+```
+
+#### 🖼️ รูปภาพที่สร้าง
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1776883179057_tuj66s_HGfDlEhacAA5t4g.jpg" width="600" alt="คอมิก / สตอรี่บอร์ด - ท่าโพสแห่งชัยชนะของจอมเวทผู้ปิดตา - Image 1">
+</div>
+
+#### 📌 รายละเอียด
+
+- **ผู้เขียน:** [ρ:ɡeσn](https://x.com/pigeon__s)
+- **แหล่งที่มา:** [Twitter Post](https://x.com/pigeon__s/status/2046819602869768507#reversed-1)
+- **เผยแพร่เมื่อ:** 22 เมษายน 2569
+- **ภาษา:** en
+
+**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-2-prompts?id=14637)**
+
+---
+
+### No. 75: คอมิก / สตอรี่บอร์ด - หน้ามังงะคอมเมดี้โรงอาบน้ำบนดวงจันทร์
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 คำอธิบาย
+
+หน้ามังงะอนิเมะสไตล์เรโทรฟิวเจอริสติกที่ถ่ายทอดเรื่องราวของโรงอาบน้ำ (เซ็นโต) สุดเพี้ยนบนดวงจันทร์ เหมาะสำหรับการสร้างฉากมังงะ AI แสนสนุกที่มีช่องภาพหลากหลายและเน้นตัวละครเป็นหลัก
+
+#### 📝 คำสั่ง
+
+```
+หน้ามังงะญี่ปุ่นสีสันสดใสที่เล่าเรื่องราวในโรงอาบน้ำสาธารณะสุดเพี้ยนบนดวงจันทร์ วาดด้วยสไตล์อนิเมะเรโทรฟิวเจอริสติกที่ดูประณีต พร้อมแสงโทนอุ่น ขอบช่องภาพที่หนาและคมชัด เอฟเฟกต์เสียงที่สื่ออารมณ์ และการเล่าเรื่องผ่านสภาพแวดล้อมที่มีรายละเอียดสูง ฉากนี้คือออนเซ็นบนดวงจันทร์ที่ชื่อว่า "月面銭湯 つきのゆ" (โรงอาบน้ำดวงจันทร์ สึคิโนะยุ) มีป้ายทางเข้าขนาดใหญ่ที่ส่องสว่าง ม่านโนเร็นสีน้ำเงินที่มีตัวอักษรสีขาว "ゆ" (ยุ) ท่อประปาที่โชว์ให้เห็น เกจวัด สถาปัตยกรรมแบบโค้งมน และหน้าต่างวงกลมขนาดใหญ่ที่เผยให้เห็นพื้นผิวดวงจันทร์และโลกในอวกาศ ประกอบด้วยช่องมังงะทั้งหมด 8 ช่องที่จัดวางในรูปแบบหน้ากระดาษที่ดูมีพลัง ช่องที่ 1: ภาพมุมกว้างภายนอกโรงอาบน้ำบนดวงจันทร์ มีป้าย "月面銭湯 つきのゆ" ป้ายขนาดเล็กที่เขียนว่า "重力 1/6" (แรงโน้มถ่วง 1/6) ตู้ขายน้ำนมสีแดงที่ติดป้าย "牛乳" (นม) รูปปั้นทานุกิ พื้นผิวดวงจันทร์ด้านนอก และป้ายแนวตั้งโปรโมทโรงอาบน้ำ ช่องที่ 2: พนักงานสาวช่างซ่อมโรงอาบน้ำที่มี {argument name="character design" default="ผมหางม้าสีน้ำตาลผูกด้วยผ้าโพกหัวลายจุดสีแดง สวมชุดจั๊มสูทสีเขียว คาดเข็มขัดเครื่องมือ แสดงสีหน้ากระตือรือร้น"} กำลังปรับเครื่องจักรหรือควบคุมหม้อต้มน้ำ เห็นจากด้านหลังหรือด้านข้าง พร้อมบอลลูนคำพูดเกี่ยวกับการเตรียมน้ำอาบและสภาพของหม้อต้มในวันนี้ ช่องที่ 3: ลูกค้าเอเลี่ยนสุดน่ารักที่มี {argument name="alien appearance" default="ตัวกลมสีเขียวมิ้นต์ มีจุดสีม่วง ดวงตาง่วงนอน แก้มสีชมพู ปากเล็กๆ มีผ้าขนหนูสีขาวลายดาวสีม่วงบนหัว"} กำลังผ่อนคลายในน้ำร้อนที่มีไอน้ำพุ่งออกมา แช่อยู่ครึ่งตัว มีเป็ดเหล็กลอยอยู่ใกล้ๆ และป้ายไม้ที่เขียนว่า "ぬるめ じっくり リラックス" (น้ำอุ่น แช่นานๆ ผ่อนคลาย) ช่องที่ 4: หุ่นยนต์ทำความสะอาดตัวเล็กที่มี {argument name="robot design" default="ตัวสีเงิน ตกแต่งด้วยสีฟ้า หน้าจอดิจิทัลสีดำพร้อมดวงตาสีฟ้าเรืองแสง ไฟเสาอากาศสีแดง แขนและขาจักรกลเรียวเล็ก"} กำลังถูพื้นอย่างมีความสุขด้วยไม้กวาดและถังน้ำข้างป้ายที่แขวนอยู่ซึ่งเขียนว่า "清掃中" (กำลังทำความสะอาด) ช่องที่ 5: หุ่นยนต์ตัวเดิมลื่นหรือกระเด็นลงไปในอ่างอาบน้ำอย่างกะทันหันจนน้ำกระจาย มีฟองสบู่มากมาย พร้อมเอฟเฟกต์เสียงขนาดใหญ่ "ぽわぁ〜ん!!" (ปุ๊ง!!) และพนักงานที่แสดงอาการตกใจจากด้านข้าง ช่องที่ 6: พนักงานนั่งอยู่ข้างอ่างอาบน้ำพร้อมรอยยิ้ม ถือขวดที่ติดป้าย "月面牛乳" (นมดวงจันทร์) ช่องที่ 7: เอเลี่ยนในอ่างอาบน้ำชูนิ้วโป้งขณะถือขวดที่ติดป้าย "月面フルーツオーレ" (ฟรุตโอเล่ดวงจันทร์) ดูพึงพอใจอย่างที่สุด โดยยังมีเป็ดเหล็กอยู่ข้างๆ ช่องที่ 8: หุ่นยนต์แสนร่าเริงโพสท่าข้างอ่างอาบน้ำพร้อมอุปกรณ์ทำความสะอาดและถังน้ำ ใกล้กับม่านโรงอาบน้ำที่เขียนว่า "ゆ" และอ่างล้างหน้าสีชมพูที่ติดป้าย "つきのゆ" โดยบอกว่าการอาบน้ำที่นี่คือที่สุด คงโทนเรื่องที่อบอุ่นและตลกขบขัน ผสมผสานรายละเอียดโรงอาบน้ำสไตล์โชวะย้อนยุคเข้ากับเทคโนโลยีอวกาศ พื้นผิวอ่างอาบน้ำที่มันวาว ไอน้ำ ฟองสบู่ และการแสดงออกของตัวละครที่น่ารักตลอดทั้งเรื่อง มังงะควรให้ความรู้สึกเหมือนมังงะตลกแนวชีวิตประจำวันที่มีเสน่ห์เกี่ยวกับการทำงานในโรงอาบน้ำบนดวงจันทร์
+```
+
+#### 🖼️ รูปภาพที่สร้าง
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1776883204081_v9n5zm_HGew6LTaIAA-lrF.jpg" width="600" alt="คอมิก / สตอรี่บอร์ด - หน้ามังงะคอมเมดี้โรงอาบน้ำบนดวงจันทร์ - Image 1">
+</div>
+
+#### 📌 รายละเอียด
+
+- **ผู้เขียน:** [猫おじ](https://x.com/mar_vn_nv_cie)
+- **แหล่งที่มา:** [Twitter Post](https://x.com/mar_vn_nv_cie/status/2046799393307996376#reversed-0)
+- **เผยแพร่เมื่อ:** 22 เมษายน 2569
+- **ภาษา:** en
+
+**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-2-prompts?id=14697)**
+
+---
+
+### No. 76: คอมิก / สตอรี่บอร์ด - แผ่นอ้างอิงการออกแบบตัวละคร
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 คำอธิบาย
+
+สร้างแผ่นการออกแบบที่ครอบคลุมสำหรับตัวละครเฉพาะ รวมถึงข้อมูลสำคัญและภาพอ้างอิง
+
+#### 📝 คำสั่ง
+
+```
+สร้างแผ่นการออกแบบตัวละครสำหรับ {argument name="character" default="Hermes Agent"} พร้อมข้อมูลสำคัญ
+```
+
+#### 🖼️ รูปภาพที่สร้าง
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1776883049658_pw6yph_HGetCnrbIAAq6T0.jpg" width="600" alt="คอมิก / สตอรี่บอร์ด - แผ่นอ้างอิงการออกแบบตัวละคร - Image 1">
+</div>
+
+#### 📌 รายละเอียด
+
+- **ผู้เขียน:** [Neo](https://x.com/NeoAIForecast)
+- **แหล่งที่มา:** [Twitter Post](https://x.com/NeoAIForecast/status/2046795552650936695)
+- **เผยแพร่เมื่อ:** 22 เมษายน 2569
+- **ภาษา:** en
+
+**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-2-prompts?id=14324)**
+
+---
+
+### No. 77: คอมิก / สตอรี่บอร์ด - หน้าหนังสือการ์ตูนอินดี้
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 คำอธิบาย
+
+สร้างเลย์เอาต์หนังสือการ์ตูนในสไตล์อินดี้สมัยใหม่ที่ออกแบบมาสำหรับนิทานเด็กโดยเฉพาะ
+
+#### 📝 คำสั่ง
+
+```
+หน้าหนังสือการ์ตูนในสไตล์ {argument name="comic style" default="modern indie comic"} หัวข้อ: {argument name="story topic" default="a story for 6 years kids"}
+```
+
+#### 🖼️ รูปภาพที่สร้าง
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1776883044035_vhpqs5_HGemAz4XsAAks7h.jpg" width="600" alt="คอมิก / สตอรี่บอร์ด - หน้าหนังสือการ์ตูนอินดี้ - Image 1">
+</div>
+
+#### 📌 รายละเอียด
+
+- **ผู้เขียน:** [宝玉](https://x.com/dotey)
+- **แหล่งที่มา:** [Twitter Post](https://x.com/dotey/status/2046787206585430189)
+- **เผยแพร่เมื่อ:** 22 เมษายน 2569
+- **ภาษา:** en
+
+**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-2-prompts?id=14310)**
+
+---
+
+### No. 78: คอมิก / สตอรี่บอร์ด - หน้ามังงะโชเน็นแบบลงสี
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 คำอธิบาย
+
+คำสั่งแบบละเอียดสำหรับการสร้างภาพหน้ามังงะที่ดูเหมือนของจริง พร้อมรายละเอียดเฉพาะของตัวละครและแบรนด์
+
+#### 📝 คำสั่ง
+
+```
+สร้างตัวอย่างหน้ามังงะของ {argument name="manga type" default="มังงะแนวผจญภัยโชเน็นญี่ปุ่นแบบลงสี"} โดยในหน้านี้ควรแสดงภาพตัวละครหลักของเราที่พบกับ {argument name="item" default="ปากกาขนนกเวทมนตร์"} ซึ่งปากกาด้ามนี้มีชื่อว่า {argument name="item name" default="Quill of GPT Image"} ขอแบบที่ดูดราม่า ปากกาขนนกเวทมนตร์นี้มีพลังอันแข็งแกร่งถูกผนึกอยู่ภายใน
+
+คำแนะนำเพิ่มเติม: อัตราส่วนภาพ: แนวตั้ง 1440x2560 ที่ตัวปากกาควรมีโลโก้ OpenAI อยู่ด้วย ภาษาที่ใช้ในมังงะทั้งหมดควรเป็นภาษาญี่ปุ่น โปรดคิดวิเคราะห์อย่างรอบคอบเพื่อให้ได้เนื้อเรื่องที่ดีและการแบ่งช่องมังงะที่เหมาะสม หน้ามังงะที่ได้ควรมีลักษณะเหมือนภาพถ่ายของหน้ากระดาษจริง ไม่ใช่ภาพจากดิจิทัล
+```
+
+#### 🖼️ รูปภาพที่สร้าง
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1776883044310_q2uvbd_HGehCXkXYAAWo-E.jpg" width="600" alt="คอมิก / สตอรี่บอร์ด - หน้ามังงะโชเน็นแบบลงสี - Image 1">
+</div>
+
+#### 📌 รายละเอียด
+
+- **ผู้เขียน:** [宝玉](https://x.com/dotey)
+- **แหล่งที่มา:** [Twitter Post](https://x.com/dotey/status/2046781861502779523)
+- **เผยแพร่เมื่อ:** 22 เมษายน 2569
+- **ภาษา:** en
+
+**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-2-prompts?id=14311)**
+
+---
+
+### No. 79: คอมิก / สตอรี่บอร์ด - หน้ามังงะแนวโรแมนติกคอมเมดี้แบบ 4 ช่อง
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 คำอธิบาย
+
+พรอมต์นี้จะสร้างหน้ามังงะขาวดำแบบ 4 ช่องพร้อมบทสนทนาภาษาญี่ปุ่น เหมาะสำหรับการสร้างฉากโต้เถียงแนวโรแมนติกคอมเมดี้ที่ดูดราม่าและมีการแสดงออกทางสีหน้าของตัวละครที่ชัดเจน
+
+#### 📝 คำสั่ง
+
+```
+สร้างหน้ามังงะขาวดำแบบ 4 ช่องเรียงแนวตั้ง มีช่องว่างสีดำคั่นที่สะอาดตา ใช้การแรเงาแบบสกรีนโทน มีเส้นสปีดไลน์ที่ดูดราม่า และลายเส้นสไตล์เซเน็นที่ประณีต หน้ามังงะนี้ประกอบด้วยตัวละครอนิเมะวัยรุ่นสองคนสวมชุดลำลองสมัยใหม่และมีผมสั้นสีเข้ม โดยบริเวณใบหน้าของตัวละครทั้งสองถูกเซนเซอร์ด้วยบล็อกเบลอสี่เหลี่ยมแบบนุ่มนวล ช่องที่ 1: วัยรุ่นรูปร่างผอมบางผมสั้นสีเข้มยุ่งๆ สวมเสื้อเชิ้ตกำหมัดไว้ใกล้หน้าอก ร่างกายหันไปทางซ้าย ล้อมรอบด้วยเอฟเฟกต์ออร่าไฟที่รุนแรงในพื้นหลัง ดูมีอารมณ์ร่วมและกำลังป้องกันตัว ที่ด้านขวาให้ใส่บอลลูนคำพูดแนวตั้งขนาดใหญ่ที่มีข้อความภาษาญี่ปุ่นนี้: 「何十時間も魂を削って描いた一枚と、プロンプト打ち込んで数秒で出した画像が同じ価値なわけないでしょ！ふざけないで！」 ช่องที่ 2: ตัวละครวัยรุ่นคนที่สองที่มีรูปร่างสูงกว่าเล็กน้อย ผมสั้นสีเข้ม สวมแจ็คเก็ตซิปสีเข้มทับเสื้อเชิ้ตสีอ่อน ยกนิ้วชี้ขึ้นอย่างใจเย็นราวกับกำลังอธิบายเหตุผล เพิ่มกล่องคำพูดสี่เหลี่ยมมุมมนที่ด้านขวาพร้อมข้อความภาษาญี่ปุ่นนี้: 「投下した労働時間で価値が決まるという典型的な“労働価値説の誤謬”だ。市場における価値は、出力された結果を受け手がどう評価するかで決まる」 ช่องที่ 3: ตัวละครที่สูงกว่าลูบหัวตัวละครที่เตี้ยกว่าอย่างอ่อนโยน เพิ่มเอฟเฟกต์เสียงการลูบหัวเล็กๆ ใกล้กับมือว่า 「ポン」 ตัวละครที่เตี้ยกว่าเงยหน้าขึ้นด้วยความประหลาดใจ ที่ด้านขวาให้เพิ่มบอลลูนคำพูดแนวตั้งทรงรีขนาดใหญ่พร้อมข้อความภาษาญี่ปุ่นนี้: 「でも俺の市場価値基準はすごくシンプルだよ。君が俺のために照れてくれるこの数秒間に、何十時間分の価値も感じてるから」 ช่องที่ 4: ภาพโคลสอัพของตัวละครที่เตี้ยกว่ากำลังเขินอายอย่างรุนแรง ตาเป็นรูปก้นหอย มีหยดเหงื่อ แสดงสีหน้าสั่นเทา ปากอ้าค้าง และมีเส้นแรเงาหนาแน่นบนแก้ม รู้สึกเขินอายจนทำอะไรไม่ถูก เติมพื้นหลังด้วยเส้นสปีดไลน์ที่แผ่ออกมาอย่างดราม่า เพิ่มบอลลูนคำพูดแนวตั้งขนาดใหญ่ที่ด้านขวาพร้อมข้อความภาษาญี่ปุ่นนี้: 「だ、誰がアンタのために照れるか…っ！自意識過剰よ！」 เพิ่มเอฟเฟกต์เสียงสองจุด: เสียง 「プル…」 เล็กๆ ใกล้หัวไหล่ และเสียงเขียนด้วยลายมือที่สั่นไหวขนาดใหญ่กว่าว่า 「カァァァ」 ที่ด้านซ้ายล่าง คงความขาวดำทั้งหน้า ให้โทนแบบมังงะโรแมนติกคอมเมดี้ที่แสดงอารมณ์ได้ชัดเจน โดยมีความแตกต่างทางอารมณ์ที่รุนแรงระหว่างการโต้เถียงที่ดุเดือด การอธิบายที่ดูสุขุม ความรักที่หยอกล้อ และจุดจบที่เขินอายจนหน้าแดง
+```
+
+#### 🖼️ รูปภาพที่สร้าง
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1776883111356_ttmvlw_HGd1P-6aYAApq5n.jpg" width="600" alt="คอมิก / สตอรี่บอร์ด - หน้ามังงะแนวโรแมนติกคอมเมดี้แบบ 4 ช่อง - Image 1">
+</div>
+
+#### 📌 รายละเอียด
+
+- **ผู้เขียน:** [小猫遊りょう（たかにゃし・りょう）](https://x.com/jaguring1)
+- **แหล่งที่มา:** [Twitter Post](https://x.com/jaguring1/status/2046735877628670430#reversed-0)
+- **เผยแพร่เมื่อ:** 21 เมษายน 2569
+- **ภาษา:** en
+
+**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-2-prompts?id=14468)**
+
+---
+
+### No. 80: คอมิก / สตอรี่บอร์ด - แผ่นอ้างอิงตัวละคร Velvedia
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 คำอธิบาย
 
-พรอมต์สำหรับ GPT-Image-2 เพื่อสร้างภาพปก YouTube สำหรับวิดีโอแกะกล่อง โดยเน้นไปที่ธีมตลกขบขันหรือดราม่า เช่น การเปิดบิลค้างชำระ
+คำสั่งสั้นๆ สำหรับสร้างแผ่นอ้างอิงตัวละครสไตล์เมชาที่ชื่อว่า Velvedia
 
 #### 📝 คำสั่ง
 
 ```
-ภาพปกสำหรับวิดีโอแกะกล่องบน YouTube ซึ่งเป็นวิดีโอเกี่ยวกับ {argument name="topic" default="การเปิดบิลค้างชำระทั้งหมด"}, {argument name="quantity" default="100 ฉบับรวด"}
+{argument name="character name" default="Velvedia"} reference sheet
 ```
 
 #### 🖼️ รูปภาพที่สร้าง
@@ -4792,33 +3800,39 @@ Generates a vibrant, text-heavy anime-style thumbnail for a VTuber chat stream, 
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1776680862087_ft1i57_HF_jthYbMAAGnR7.jpg" width="600" alt="ภาพขนาดย่อของ YouTube - YouTube Unboxing Thumbnail Prompt - Image 1">
+<img src="https://cms-assets.youmind.com/media/1776883071037_qet7yn_HGbpLzMaIAAO36j.jpg" width="600" alt="คอมิก / สตอรี่บอร์ด - แผ่นอ้างอิงตัวละคร Velvedia - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1776883071058_lr0y9r_HGbpLzIb0AABqh6.jpg" width="600" alt="คอมิก / สตอรี่บอร์ด - แผ่นอ้างอิงตัวละคร Velvedia - Image 2">
 </div>
 
 #### 📌 รายละเอียด
 
-- **ผู้เขียน:** [とらの](https://x.com/TlanoAI)
-- **แหล่งที่มา:** [Twitter Post](https://x.com/TlanoAI/status/2044604299339247730)
-- **เผยแพร่เมื่อ:** 16 เมษายน 2569
+- **ผู้เขียน:** [ジャスミーナ | AI Anime & Illustrations✨](https://x.com/JasminaAi)
+- **แหล่งที่มา:** [Twitter Post](https://x.com/JasminaAi/status/2046730197802663962)
+- **เผยแพร่เมื่อ:** 21 เมษายน 2569
 - **ภาษา:** ja
 
-**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-2-prompts?id=13687)**
+**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-2-prompts?id=14368)**
 
 ---
 
-### No. 72: ภาพขนาดย่อของ YouTube - ภาพปกวิดีโอแนวสืบสวนคดีอาชญากรรม
+### No. 81: คอมิก / สตอรี่บอร์ด - พรอมต์การ์ตูน 8 ช่องสำหรับโปรโมต GPT-Image-2
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 คำอธิบาย
 
-สร้างภาพปก YouTube สไตล์คอลลาจที่ดูน่าตื่นเต้นสำหรับวิดีโอแนวสืบสวนคดีอาชญากรรมหรือทฤษฎีสมคบคิด โดยมีภาพบุคคลอยู่ตรงกลางและองค์ประกอบพื้นหลังที่เข้ากับเนื้อหา
+พรอมต์นี้ใช้สำหรับสร้างหน้าการ์ตูนมังงะขาวดำ 8 ช่องในภาษาโปรตุเกส เพื่อประกาศและอธิบายเกี่ยวกับ GPT-Image-2 ในรูปแบบสื่อส่งเสริมการขายที่เหมาะสำหรับโซเชียลมีเดีย
 
 #### 📝 คำสั่ง
 
 ```
-ภาพคอลลาจสไตล์ปก YouTube สำหรับ {argument name="overall mood" default="แนวสืบสวนคดีอาชญากรรมที่ดูมืดมนและน่าตื่นเต้น"} ตรงกลางเป็นภาพพอร์ตเทรตระยะใกล้ที่มีรายละเอียดสูงของ {argument name="central figure" default="ชายสูงวัยผมสีเทาที่มีริ้วรอยลึกคล้ายกับ Jeffrey Epstein"} สวมเสื้อโปโลสีดำ โดยมีเส้นขอบเรืองแสงสีแดงจางๆ แยกตัวเขาออกจากพื้นหลัง ทางด้านซ้ายเป็น {argument name="left background scene" default="เกาะเขตร้อนที่มีวิลล่าหรูและเครื่องบินกำลังบินอยู่บนท้องฟ้าที่มืดมิด"} ด้านล่างของเกาะมีลวดลายบอร์ดสืบสวนคดีสมคบคิดที่ประกอบด้วยหมุดสีแดง 2 ตัว เชื่อมต่อกันด้วยเส้นด้ายสีแดงหนา 3 เส้น ทางด้านขวาบนเป็นภาพที่ดูเลือนรางในโทนสีซีเปียของ {argument name="right background scene" default="อาคารรัฐสภาสหรัฐฯ พร้อมเงาของชาย 3 คนในชุดสูทที่หันหน้าเข้าหาอาคาร"} ทางด้านขวาล่างเป็นแฟ้มเอกสารสีน้ำตาลที่เปิดอยู่ซึ่งบรรจุ {argument name="document type" default="เอกสารที่ถูกเซ็นเซอร์เนื้อหาอย่างหนักด้วยปากกาเมจิกสีดำหนา พร้อมรูปถ่ายขนาดเล็กของชายที่เป็นบุคคลสำคัญ"} องค์ประกอบโดยรวมมีความเป็นภาพยนตร์ เข้มข้น และมีสไตล์ที่โดดเด่นสำหรับวิดีโอสารคดี
+{"type":"หน้าการ์ตูนโปรโมตสไตล์มังงะ 8 ช่อง","theme":"ประกาศเปิดตัว GPT-Image-2","language":"โปรตุเกส","style":{"rendering":"มังงะขาวดำพร้อมการลงเงาแบบสกรีนโทน เส้นสปีดไลน์ ไฮไลท์เงางาม เส้นตัดหมึกคมชัด งานภาพดิจิทัลที่สะอาดตา","mood":"ตื่นเต้น ให้ข้อมูลเชิงบวก และล้ำสมัย","page_format":"หน้าเดียวแบ่งเป็น 8 ช่องสี่เหลี่ยมในตาราง 2 คอลัมน์ 4 แถว พร้อมเส้นแบ่งช่องที่บาง"},"characters":[{"id":"host girl","role":"พิธีกรหลัก","appearance":"สาวอนิเมะน่ารักผมยาวสีเข้ม ดวงตากลมโตแสดงอารมณ์ สวมฮู้ดสีเข้มที่มีโลโก้ปมของ OpenAI บนหน้าอก","count":1},{"id":"robot mascot","role":"หุ่นยนต์ผู้ช่วยที่เป็นมิตร","appearance":"หุ่นยนต์ทรงกลมขนาดเล็กที่มีหน้าจอสีดำ ดวงตาเรืองแสง ร่างกายสีขาวเรียบง่าย แขนเล็กๆ และแสดงสีหน้าสดใส","count":1},{"id":"creator group","role":"ตัวอย่างกลุ่มผู้ชม","appearance":"ครีเอเตอร์รุ่นใหม่ 4 คน: นักออกแบบ 1 คน, นักพัฒนาถือแท็บเล็ต 1 คน, ช่างภาพพร้อมกล้อง 1 คน, และคนถือแล็ปท็อป/สวมฮู้ด 1 คน","count":4}],"layout":{"sections":[{"title":"มาแล้ว! GPT-IMAGE-2","position":"บนซ้าย","count":1,"description":"ช่องเปิดตัวสุดอลังการด้วยสาวอนิเมะที่ยื่นมือหนึ่งข้างมาทางผู้ชม มีเส้นสปีดไลน์กระจายอยู่ด้านหลัง","text":["มาแล้ว!","GPT-IMAGE-2","ยุคใหม่ของการสร้างภาพด้วย AI จาก OpenAI!","เพิ่มความคิดสร้างสรรค์ ความแม่นยำ และความเป็นไปได้ที่มากขึ้น!"]},{"title":"GPT-IMAGE-2 คืออะไร?","position":"บนขวา","count":1,"description":"สาวอนิเมะในท่าครึ่งตัวชี้ขึ้นด้านบนข้างไอคอนรูปภาพเรืองแสงบนพื้นหลังเทคโนโลยีที่มีดวงดาว","text":["GPT-IMAGE-2 คืออะไร?","คือโมเดลการสร้างภาพรุ่นใหม่ของเราที่ฉลาดขึ้น แม่นยำตรงตามจินตนาการของคุณ และมีคุณภาพที่น่าทึ่ง!"]},{"title":"สมจริงยิ่งขึ้น รายละเอียดชัดเจนขึ้น","position":"กลางซ้าย แถวที่ 2","count":1,"description":"ช่องเปรียบเทียบภาพทิวทัศน์ทะเลสาบบนภูเขา 2 ภาพวางเคียงกัน ด้านซ้ายระบุว่าเป็นโมเดลเก่า และด้านขวาเป็นโมเดลใหม่ที่สมจริงกว่า","subsections":[{"label":"ก่อนหน้า (DALL·E 3)","count":1},{"label":"ปัจจุบัน (GPT-IMAGE-2)","count":1}],"text":["สมจริงยิ่งขึ้น รายละเอียดชัดเจนขึ้น","ก่อนหน้า (DALL·E 3)","ปัจจุบัน (GPT-IMAGE-2)","พื้นผิวที่สมบูรณ์ขึ้น แสงที่เป็นธรรมชาติมากขึ้น และรายละเอียดที่น่าทึ่ง!"]},{"title":"เข้าใจดียิ่งขึ้น ผลลัพธ์ดีเยี่ยมยิ่งกว่า","position":"กลางขวา แถวที่ 2","count":1,"description":"สาวอนิเมะประสานมือข้างตัวอย่างพรอมต์ที่ใส่กรอบไว้ และหุ่นยนต์มาสคอตที่ชี้ขึ้นด้านบน","text":["เข้าใจดียิ่งขึ้น ผลลัพธ์ดีเยี่ยมยิ่งกว่า","GPT-IMAGE-2 เข้าใจวัตถุ ข้อความ องค์ประกอบ และคำสั่งที่ซับซ้อนได้ดียิ่งขึ้น!","ตัวอย่างพรอมต์:","\"ร้านกาแฟแห่งอนาคตบนยอดเขาที่ปกคลุมด้วยหิมะในยามพลบค่ำ พร้อมป้ายนีออน ‘CAFÉ DO AMANHÃ’ และผู้คนกำลังดื่มกาแฟ\""]},{"title":"ความคิดสร้างสรรค์ไร้ขีดจำกัด","position":"ล่างซ้าย แถวที่ 3","count":1,"description":"สาวอนิเมะกำลังพูดอยู่ข้างๆ ตัวอย่างผลงานศิลปะ 4 แบบในตาราง 2x2","subsections":[{"label":"ฉากปราสาทโกธิค","count":1},{"label":"ถนนในเมืองสมัยใหม่ยามค่ำคืน","count":1},{"label":"ภาพพอร์ตเทรตตัวละครอนิเมะ","count":1},{"label":"องค์ประกอบเรขาคณิตนามธรรม","count":1}],"text":["ความคิดสร้างสรรค์ไร้ขีดจำกัด","ตั้งแต่สไตล์ศิลปะไปจนถึงเลย์เอาต์ระดับมืออาชีพ จากความสมจริงไปจนถึงนามธรรม: ไอเดียของคุณ ในแบบของคุณ!"]},{"title":"ข้อความในภาพ? ตอนนี้ดีขึ้นมาก!","position":"ล่างขวา แถวที่ 3","count":1,"description":"หุ่นยนต์มาสคอตนำเสนอการเปรียบเทียบก่อนและหลังของการจัดวางตัวอักษรบนโปสเตอร์ พร้อมลูกศรหนาๆ ระหว่างการออกแบบทั้งสอง","subsections":[{"label":"ก่อนหน้า","count":1},{"label":"ปัจจุบัน","count":1}],"text":["ข้อความในภาพ? ตอนนี้ดีขึ้นมาก!","การสร้างข้อความที่แม่นยำ อ่านง่าย และรวมเข้ากับการออกแบบได้อย่างลงตัว!","ก่อนหน้า","ปัจจุบัน","การผจญภัยเริ่มต้นที่นี่","การผจญภัยเริ่มต้นที่นี่"]},{"title":"สำหรับครีเอเตอร์ทุกคน","position":"ล่างซ้าย","count":1,"description":"ภาพกลุ่มที่มีสาวอนิเมะและครีเอเตอร์ 4 คนยืนเคียงข้างกัน เป็นตัวแทนของอาชีพต่างๆ","text":["สำหรับครีเอเตอร์ทุกคน","นักออกแบบ นักพัฒนา นักการศึกษา นักการตลาด ศิลปิน และผู้ที่สนใจ: ทุกคนสามารถสร้างสรรค์ผลงานได้มากขึ้นและดีขึ้น!"]},{"title":"GPT-IMAGE-2 พร้อมใช้งานแล้ว!","position":"ล่างขวา","count":1,"description":"ช่องปิดท้ายสุดอลังการด้วยสาวอนิเมะที่ขยิบตาและชูนิ้วโป้งให้ โดยมีหุ่นยนต์มาสคอตอยู่ข้างๆ พร้อมประกายแสงแห่งการเฉลิมฉลอง","text":["GPT-IMAGE-2 พร้อมใช้งานแล้ว!","จินตนาการ สร้างสรรค์ สร้างแรงบันดาลใจ","อนาคตของการสร้างสรรค์มาถึงแล้ว ❤"]}],"panel_count":8},"composition":{"reading_order":"ซ้ายไปขวา บนลงล่าง","camera_variety":"ผสมผสานระหว่างภาพโคลสอัพตัวละครหลัก ภาพพิธีกรครึ่งตัว กราฟิกเปรียบเทียบ และภาพกลุ่ม","graphic_elements":["บอลลูนคำพูด","แถบชื่อเรื่องสีดำขอบมนพร้อมตัวอักษรภาษาอังกฤษตัวพิมพ์ใหญ่","ประกายดาว","เส้นสปีดไลน์","พื้นหลังเทคโนโลยีที่มีดวงดาว","ลูกศรเปรียบเทียบ","การ์ดตัวอย่างที่ใส่กรอบ"]},"text_style":"ตัวอักษรการ์ตูนตัวพิมพ์ใหญ่ทั้งหมดในภาษาโปรตุเกส หัวข้อที่โดดเด่น บอลลูนคำพูดที่ชัดเจน เป็นการผสมผสานระหว่างอินโฟกราฟิกและการ์ตูนเพื่อการโปรโมต","quality":"โปสเตอร์การ์ตูนคุณภาพสูง ตัวอักษรคมชัด การจัดวางช่องที่สมดุล คอนทราสต์ที่แข็งแกร่ง","prompt":"สร้างหน้าการ์ตูนโปรโมตสไตล์มังงะขาวดำ 8 ช่องเพื่อประกาศ {argument name=\"product name\" default=\"GPT-IMAGE-2\"} ใช้เลย์เอาต์หน้าเดียวแบบ 2 คอลัมน์ 4 แถว โดยมี 8 ช่องที่ชัดเจนและใช้ข้อความภาษาโปรตุเกสทั้งหมด นำเสนอสาวอนิเมะที่เป็นมิตรผมยาวสี {argument name=\"hair color\" default=\"น้ำตาลเข้ม\"} สวมฮู้ดสีเข้มที่มีโลโก้ OpenAI และหุ่นยนต์มาสคอตขนาดเล็กที่เป็นมิตร ช่องที่ 1: การเปิดตัวที่น่าตื่นเต้น สาวอนิเมะยื่นมือมาทางกล้อง มีเส้นสปีดไลน์กระจายตัว พาดหัวว่า \"CHEGOU! {argument name=\"headline name\" default=\"GPT-IMAGE-2\"}\" และข้อความเปิดตัวเกี่ยวกับยุคใหม่ของการสร้างภาพ AI ช่องที่ 2: ช่องอธิบายด้วยสาวอนิเมะที่ชี้ไปข้างไอคอนรูปภาพเรืองแสงบนพื้นหลังดิจิทัลที่มีดวงดาว หัวข้อ \"O QUE É O GPT-IMAGE-2?\" และบอลลูนคำพูดที่อธิบายว่าเป็นโมเดลการสร้างภาพที่ฉลาดขึ้น ช่องที่ 3: การเปรียบเทียบความสมจริงด้วยภาพทิวทัศน์ทะเลสาบบนภูเขา 2 ภาพเคียงกันที่ระบุว่า \"ANTES (DALL·E 3)\" และ \"AGORA (GPT-IMAGE-2)\" ช่องที่ 4: ช่องแสดงความเข้าใจที่ดีขึ้นด้วยสาวอนิเมะและหุ่นยนต์ รวมตัวอย่างพรอมต์ที่ใส่กรอบโดยใช้ {argument name=\"example prompt\" default=\"Uma cafeteria futurista no topo de uma montanha nevada ao entardecer, com letreiro de néon ‘CAFÉ DO AMANHÃ’ e pessoas tomando café.\"} ช่องที่ 5: การแสดงความคิดสร้างสรรค์ด้วยภาพตัวอย่าง 4 ภาพ: ปราสาทโกธิค, เมืองยามค่ำคืน, ภาพพอร์ตเทรตตัวละครอนิเมะ, ศิลปะเรขาคณิตนามธรรม ช่องที่ 6: การเปรียบเทียบการสร้างข้อความด้วยโปสเตอร์ 2 แบบที่ระบุว่า \"ANTES\" และ \"AGORA\" แสดงการจัดวางตัวอักษรที่ดีขึ้นและวลี \"AVENTURA COMEÇA AQUI\" เทียบกับเวอร์ชันที่แก้ไขแล้ว ช่องที่ 7: ช่องผู้ชมที่มีครีเอเตอร์ 4 คนจากสาขาต่างๆ ยืนอยู่ด้วยกัน ช่องที่ 8: การเรียกร้องให้ดำเนินการครั้งสุดท้ายด้วยสาวอนิเมะที่ขยิบตาและชูนิ้วโป้ง หุ่นยนต์มาสคอตกำลังเชียร์ และสโลแกนปิดท้าย {argument name=\"closing slogan\" default=\"IMAGINE. CRIE. INSPIRE.\"} ทำให้หน้าการ์ตูนดูมีพลัง ขัดเกลา อ่านง่าย ด้วยแถบหัวข้อสีดำหนา ตัวอักษรตัวพิมพ์ใหญ่สีขาว บอลลูนคำพูด ประกายดาว การลงเงาสกรีนโทน และความสวยงามของโปสเตอร์โปรโมตสไตล์มังงะ/การ์ตูนที่แข็งแกร่ง"}
 ```
 
 #### 🖼️ รูปภาพที่สร้าง
@@ -4826,171 +3840,100 @@ Generates a vibrant, text-heavy anime-style thumbnail for a VTuber chat stream, 
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1776678805427_qu6vs8_HF5NAHjWUAAHU5v.jpg" width="600" alt="ภาพขนาดย่อของ YouTube - ภาพปกวิดีโอแนวสืบสวนคดีอาชญากรรม - Image 1">
+<img src="https://cms-assets.youmind.com/media/1776883179981_g850jg_HGdwE1VWAAA1r98.jpg" width="600" alt="คอมิก / สตอรี่บอร์ด - พรอมต์การ์ตูน 8 ช่องสำหรับโปรโมต GPT-Image-2 - Image 1">
 </div>
 
 #### 📌 รายละเอียด
 
-- **ผู้เขียน:** [Mirochill](https://x.com/mirochill)
-- **แหล่งที่มา:** [Twitter Post](https://x.com/mirochill/status/2044156286036590976#reversed-0)
-- **เผยแพร่เมื่อ:** 14 เมษายน 2569
-- **ภาษา:** en
-
-**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-2-prompts?id=13638)**
-
----
-
-### No. 73: คอมิก / สตอรี่บอร์ด - Saint Seiya Golden Saints Card Grid
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-
-#### 📖 คำอธิบาย
-
-A prompt to generate a 12-grid layout of Saint Seiya's Golden Saints with Chinese names and specific aspect ratios.
-
-#### 📝 คำสั่ง
-
-```
-Generate a 12-grid card image of the 12 Golden Saints from Saint Seiya, with each card featuring its corresponding Chinese name, 4 cards per row, in a 16:9 aspect ratio.
-```
-
-#### 🖼️ รูปภาพที่สร้าง
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1776756770665_yd1s04_HGaLQTfbkAA3xpN.jpg" width="600" alt="คอมิก / สตอรี่บอร์ด - Saint Seiya Golden Saints Card Grid - Image 1">
-</div>
-
-#### 📌 รายละเอียด
-
-- **ผู้เขียน:** [松果先森](https://x.com/songguoxiansen)
-- **แหล่งที่มา:** [Twitter Post](https://x.com/songguoxiansen/status/2046476566537080849)
-- **เผยแพร่เมื่อ:** 21 เมษายน 2569
-- **ภาษา:** zh
-
-**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-2-prompts?id=14131)**
-
----
-
-### No. 74: คอมิก / สตอรี่บอร์ด - Dynamic Anime Warrior with Whip-Sword
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 คำอธิบาย
-
-Generates a high-quality anime illustration of a female warrior in a dynamic combat pose wielding a segmented whip-sword in a battlefield setting.
-
-#### 📝 คำสั่ง
-
-```
-A highly detailed anime illustration of a fierce female warrior with long flowing {argument name="hair color" default="black"} hair and piercing {argument name="eye color" default="blue"} eyes, wearing a mix of silver plate armor with gold trim and a {argument name="outfit color" default="blue and white"} tunic. She is captured in a dynamic combat stance, swinging a massive, {argument name="weapon type" default="segmented metallic whip-sword"} that curves dramatically into the extreme foreground. The weapon leaves a sweeping trail of kinetic energy and wind. The scene is set against a {argument name="background setting" default="ruined battlefield with rocky terrain, floating debris, and large blue banners fluttering in the wind"} under a dramatic cloudy sky. The artwork features cinematic lighting, intense action, and a dramatic forced perspective on the weapon.
-```
-
-#### 🖼️ รูปภาพที่สร้าง
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1776756854427_qzcik2_HGYy_KObcAA66sM.jpg" width="600" alt="คอมิก / สตอรี่บอร์ด - Dynamic Anime Warrior with Whip-Sword - Image 1">
-</div>
-
-#### 📌 รายละเอียด
-
-- **ผู้เขียน:** [あーる@AI Artgrapher](https://x.com/REd8358)
-- **แหล่งที่มา:** [Twitter Post](https://x.com/REd8358/status/2046380070747644095#reversed-0)
+- **ผู้เขียน:** [Diogo Santos](https://x.com/diogosantosbr)
+- **แหล่งที่มา:** [Twitter Post](https://x.com/diogosantosbr/status/2046727812921413837#reversed-0)
 - **เผยแพร่เมื่อ:** 21 เมษายน 2569
 - **ภาษา:** en
 
-**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-2-prompts?id=14270)**
+**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-2-prompts?id=14639)**
 
 ---
 
-### No. 75: คอมิก / สตอรี่บอร์ด - Satirical 4-Panel Caricature Comic Strip
+### No. 82: คอมิก / สตอรี่บอร์ด - มังงะออฟฟิศสุดดราม่าพร้อมเซ็นเซอร์
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 คำอธิบาย
+
+หน้ามังงะขาวดำสไตล์ดิบ ๆ ที่ถ่ายทอดเหตุการณ์การโต้เถียงกันอย่างดุเดือดในออฟฟิศ ก่อนจะเปลี่ยนเป็นฉากคาเบะด้ง เหมาะสำหรับการสร้างภาพสกรีนช็อตสไตล์มังงะไวรัลที่ดูน่าตื่นเต้น
+
+#### 📝 คำสั่ง
+
+```
+หน้ามังงะขาวดำสุดดราม่าในสไตล์เซเน็น (Seinen) ที่ถ่ายทอดด้วยการใช้สกรีนโทนที่หนาแน่น เส้นหมึกที่คมชัด แสงที่มีคอนทราสต์สูง และการจัดวางเลย์เอาต์แบบหนังสือการ์ตูนญี่ปุ่น โดยแบ่งเป็น 4 ช่องเรียงแนวตั้งพร้อมบอลลูนคำพูดภาษาญี่ปุ่นและเอฟเฟกต์เสียงตัวหนา แสดงให้เห็นการเผชิญหน้าอันตึงเครียดระหว่างพนักงานออฟฟิศสองคนในพื้นที่ทำงานสมัยใหม่ ในช่องบนสุด หญิงสาวผมบ๊อบสั้นยุ่งเล็กน้อย รูปร่างเพรียวแต่มีส่วนเว้าส่วนโค้ง สวมเสื้อเชิ้ตพอดีตัวพับแขนและกระโปรงทรงสอบ กำลังตบโต๊ะด้วยความโกรธและโน้มตัวมาข้างหน้าด้วยเส้นแสดงอารมณ์ที่รุนแรงพร้อมบอลลูนคำพูดขนาดใหญ่ ในช่องที่สอง ชายหนุ่มผมยุ่งสีเข้ม รูปร่างเพรียว สวมแจ็กเก็ตหนังสีดำทับเสื้อเชิ้ตสีอ่อนและสร้อยคอ ปรากฏตัวในท่าทางที่สงบและมั่นใจ กำลังแตะใบหน้าขณะพูด ในช่องที่สาม ชายหนุ่มต้อนหญิงสาวเข้ามุมกำแพงในท่าคาเบะด้งที่ใกล้ชิด โดยแขนข้างหนึ่งยันไว้ข้างศีรษะของเธอ เธอมีท่าทีประหม่าและตึงเครียดในขณะที่เขาพูดอยู่ใกล้ใบหน้าของเธอ ทำให้บรรยากาศเปลี่ยนไปเป็นแนวโรแมนติกคอมเมดี้อย่างกะทันหัน ในช่องล่างสุด มุมมองจากด้านบนเผยให้เห็นบรรยากาศในออฟฟิศ: ตัวละคร 2 ตัวยืนอยู่ใกล้โต๊ะที่มีจอคอมพิวเตอร์ 1 จอ คีย์บอร์ด 1 อัน เมาส์ 1 อัน เก้าอี้ทำงาน 1 ตัว และกระดาษที่กระจัดกระจายอยู่บนพื้นกระเบื้อง หญิงสาวกำลังห่อตัวด้วยความเขินอายและตัวสั่น ในขณะที่ชายหนุ่มยืนอย่างผ่อนคลายอยู่ข้างๆ โดยในภาพต้องมี 4 ช่องพอดี มีบอลลูนคำพูดทั้งหมด 4 จุด และมีตัวอักษรภาษาญี่ปุ่นแบบมังงะปรากฏอยู่ทั่วทั้งหน้า เพิ่มโมเสกเซ็นเซอร์สี่เหลี่ยมปิดทับใบหน้าของตัวละครทุกตัวในทุกช่อง เหมือนกับการปกปิดตัวตนเพื่อแชร์ลงโซเชียล รายละเอียดพื้นหลังควรประกอบด้วยผนังออฟฟิศ ขอบโต๊ะ เส้นสปีดไลน์ เอฟเฟกต์ระเบิด และการไล่เฉดสี อารมณ์โดยรวมคือการโต้เถียงที่เข้มข้นซึ่งเปลี่ยนไปสู่การจีบกันแบบมีเลศนัย เหมือนกับภาพสกรีนช็อตมังงะไวรัลที่ตัดมาเฉพาะช่วง
+```
+
+#### 🖼️ รูปภาพที่สร้าง
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1776883115323_o2orv4_HGdpb8sbUAAJUyi.jpg" width="600" alt="คอมิก / สตอรี่บอร์ด - มังงะออฟฟิศสุดดราม่าพร้อมเซ็นเซอร์ - Image 1">
+</div>
+
+#### 📌 รายละเอียด
+
+- **ผู้เขียน:** [小猫遊りょう（たかにゃし・りょう）](https://x.com/jaguring1)
+- **แหล่งที่มา:** [Twitter Post](https://x.com/jaguring1/status/2046726900668907673#reversed-0)
+- **เผยแพร่เมื่อ:** 21 เมษายน 2569
+- **ภาษา:** en
+
+**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-2-prompts?id=14477)**
+
+---
+
+### No. 83: คอมิก / สตอรี่บอร์ด - มังงะแมวควอนตัม
+
+![Language-JA](https://img.shields.io/badge/Language-JA-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 คำอธิบาย
+
+พรอมต์สร้างสรรค์สั้นๆ สำหรับสร้างช่องมังงะที่มีแมวแสดงพฤติกรรมทางฟิสิกส์ควอนตัม
+
+#### 📝 คำสั่ง
+
+```
+ช่วยวาดมังงะที่มี {argument name="subject" default="แมว"} {argument name="concept" default="แสดงพฤติกรรมเหมือนอนุภาคควอนตัม"} ให้หน่อย
+```
+
+#### 🖼️ รูปภาพที่สร้าง
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1776883063066_q130vs_HGdoVfRawAAsKrx.jpg" width="600" alt="คอมิก / สตอรี่บอร์ด - มังงะแมวควอนตัม - Image 1">
+</div>
+
+#### 📌 รายละเอียด
+
+- **ผู้เขียน:** [Haruhiko Okumura](https://x.com/h_okumura)
+- **แหล่งที่มา:** [Twitter Post](https://x.com/h_okumura/status/2046719692803580298)
+- **เผยแพร่เมื่อ:** 21 เมษายน 2569
+- **ภาษา:** ja
+
+**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-2-prompts?id=14348)**
+
+---
+
+### No. 84: คอมิก / สตอรี่บอร์ด - หน้ามังงะสาวน้อยแกะสุดน่ารักในออฟฟิศ
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 คำอธิบาย
 
-Generates a detailed, multi-panel black and white satirical comic strip with caricatures, dialogue bubbles, and narrative captions.
+หน้ามังงะ 4 ช่องแนวแฟนตาซีพาสเทลในออฟฟิศ นำเสนอพนักงานสาวเขาสวยและแกะขนฟูที่เปลี่ยนงานเอกสารให้กลายเป็นฉากตลกชวนง่วงนอนสุดอบอุ่น
 
 #### 📝 คำสั่ง
 
 ```
-{
-  "type": "4-panel vertical comic strip",
-  "style": "{argument name=\"art style\" default=\"black and white pencil sketch, crosshatch shading, satirical caricature comic\"}",
-  "characters": {
-    "subject_1": "{argument name=\"main character\" default=\"Sam Altman\"}, curly hair, casual sweater",
-    "subject_2": "{argument name=\"interviewer\" default=\"Ronan Farrow\"}, suit, tie, holding notepad"
-  },
-  "layout": {
-    "panels": [
-      {
-        "panel_number": 1,
-        "top_caption": "SAM ALTMAN THINKS THIS WILL BE A NICE LITTLE PROFILE...",
-        "scene": "subject_1 looking smug with hands steepled; subject_2 looking serious taking notes.",
-        "thought_bubble": "I'LL BE CHARMING. IT'LL BE A GREAT CHARACTER PIECE. PEOPLE WILL LOVE IT.",
-        "center_text": "THE RONAN FARROW INTERVIEW",
-        "inset_portraits": {
-          "count": 2,
-          "labels": ["HARVEY WEINSTEIN EXPOSED", "LESLIE MOONVES EXPOSED"]
-        },
-        "info_boxes": {
-          "count": 3,
-          "text": [
-            "RONAN FARROW: PULITZER PRIZE-WINNING REPORTER WHO EXPOSED HARVEY WEINSTEIN AT THE NEW YORKER",
-            "AND LESLIE MOONVES AT CBS.",
-            "POWER. ABUSE. ACCOUNTABILITY."
-          ]
-        }
-      },
-      {
-        "panel_number": 2,
-        "top_caption": "CUT TO...",
-        "scene": "Close-up of subject_1 looking shocked and horrified.",
-        "article_header": "{argument name=\"publication\" default=\"THE NEW YORKER\"}\nTHE SAM ALTMAN PROFILE\nTHE OPENAI CEO'S COMPLICATED QUEST\nBy Ronan Farrow"
-      },
-      {
-        "panel_number": 3,
-        "top_caption": "SOON AFTER THE ARTICLE IS PUBLISHED...",
-        "scene": "subject_1 looking extremely stressed, sweating, holding a phone to his ear. Surrounded by 6 hands holding smartphones.",
-        "phone_labels": ["VC", "REPORTER", "EX-STAFFEE", "INVESTOR", "TECH CEO", "FORMER COLLEAGUE"],
-        "shouts": {
-          "count": 8,
-          "text": [
-            "{argument name=\"main accusation\" default=\"LIAR\"}!",
-            "COMPULSIVE LIAR!",
-            "PATHOLOGICAL LIAR!",
-            "YOU CAN'T STOP LYING!",
-            "LIAR!!!",
-            "SOCIOPATH! (ALLEGEDLY)",
-            "EVERYTHING HE SAYS IS A LIE!",
-            "MANIPULATIVE LIAR!"
-          ]
-        },
-        "sound_effects": "RING! RING! RING!"
-      },
-      {
-        "panel_number": 4,
-        "top_caption": "AND THE REPORT CONCLUDES...",
-        "scene": "subject_1 looking utterly defeated and depressed.",
-        "quote_box": "\"ALTMAN FREQUENTLY AND CONSISTENTLY LIES TO INVESTORS, EMPLOYEES, THE BOARD, AND EVEN CLOSE FRIENDS.\"\n\"HE APPEARS TO HAVE NO COMFORT TELLING FALSEHOODS.\"\n\"HE IS, BY MANY ACCOUNTS, A COMPULSIVE LIAR AND A SOCIOPATH.\"\n(ALLEGEDLY)",
-        "thought_bubble": {
-          "scene": "Happy subject_1 holding a 'WORLD'S BEST CEO' mug.",
-          "text": "I THOUGHT IT WOULD BE A NICE LITTLE PROFILE...",
-          "sparkle_words": {
-            "count": 4,
-            "text": ["GENIUS!", "VISIONARY!", "INSPIRING!", "BRILLIANT LEADER!"]
-          }
-        },
-        "bottom_caption": "INSTEAD, IT'S THE PROFILE THAT EXPOSES HIM."
-      }
-    ]
-  }
-}
+{"type":"หน้ามังงะ 4 ช่อง","style":"อนิเมะจิบิโทนพาสเทลซอฟต์ๆ, พาเลตต์สีเบจและครีมโทนอุ่น, แสงยามเช้าที่นุ่มนวล, ขอบช่องแบบมน, บทสนทนาภาษาญี่ปุ่นที่อ่านง่าย, แนวชีวิตประจำวันในออฟฟิศแฟนตาซีคอมเมดี้สุดอบอุ่น","page":{"orientation":"แนวตั้ง","panel_count":4,"gutter":"ช่องว่างสีขาวบางๆ","border":"เส้นขอบสีน้ำตาลแบบมน"},"setting":{"location":"ภายในห้องจัดการงานขนาดเล็ก","details":["พื้นไม้","หน้าต่างที่มีแสงแดดส่อง","โต๊ะทำงานพร้อมเอกสาร","เก้าอี้ไม้","ชั้นวางหนังสือที่เต็มไปด้วยแฟ้มและหนังสือ","กล่องวางซ้อนกันและอุปกรณ์สำนักงาน","ละอองฝุ่นและประกายวิบวับในแสงแดด"]},"characters":[{"role":"ตัวละครหลัก","appearance":"พนักงานสาวแกะจิบิตัวจิ๋ว ผมบ๊อบสั้นฟูสีบลอนด์, ตาสีฟ้าหนึ่งข้างและตาสีอำพันหนึ่งข้าง, หูเล็กๆ คล้ายเอลฟ์, เขาสวยม้วนใหญ่, ฮู้ดแกะขนฟูรูปหน้าแกะ, เสื้อเชิ้ตสีขาว, เนคไทสีแดง, ชุดเอี๊ยมสีชมพูอ่อน, ปากกาเล็กๆ ในกระเป๋าเอี๊ยม"},{"role":"ตัวละครรอง","appearance":"แกะสีขาวขนฟูกลมปุ๊ก หน้าเล็ก ขาสั้น ดูนุ่มนิ่มเหมือนก้อนเมฆ"}],"layout":{"sections":[{"title":"ช่องที่ 1","position":"ด้านบน","count":3,"labels":["สาวน้อยแกะเปิดประตูออฟฟิศและมองเข้าไปข้างใน","แกะตัวเล็กชะโงกหน้ามองข้างๆ เธอ","บอลลูนคำพูดทรงรีหนึ่งอันทางซ้ายและบอลลูนเล็กๆ ทางขวา"]},{"title":"ช่องที่ 2","position":"กลางตอนบน","count":3,"labels":["สาวน้อยแกะยืนข้างโต๊ะทำงาน มือหนึ่งเท้าสะเอว อีกมือหนึ่งชี้ไปที่เอกสาร","แกะตัวเล็กนั่งอยู่ข้างโต๊ะ","บอลลูนคำพูดทรงรีขนาดใหญ่หนึ่งอันทางซ้าย"]},{"title":"ช่องที่ 3","position":"กลางตอนล่าง","count":3,"labels":["แกะขนฟูนอนหลับแผ่หลาอยู่บนกองเอกสาร","ภาพโคลสอัพบางส่วนของสาวน้อยแกะที่ชะโงกหน้าเข้ามาจากมุมซ้ายบนด้วยสีหน้าเหนื่อยล้า","ตัวอักษรเอฟเฟกต์เสียงนอนหลับสีม่วงทางขวา"]},{"title":"ช่องที่ 4","position":"ด้านล่าง","count":4,"labels":["สาวน้อยแกะหลับฟุบคาโต๊ะทำงานโดยหลับตาและมีรอยยิ้มจางๆ","แกะขนฟูนอนหลับอยู่ข้างๆ บนกองเอกสาร","แสงแดดอุ่นๆ ส่องผ่านหน้าต่างจากด้านซ้าย","กล่องคำบรรยายสี่เหลี่ยมเล็กๆ ที่มุมขวาล่าง"]}]},"text":{"language":"ญี่ปุ่น","elements":[{"kind":"speech bubble","panel":1,"text":"管理人室、ここにしよう… ほわあ"},{"kind":"speech bubble","panel":1,"text":"メェ"},{"kind":"speech bubble","panel":2,"text":"おい、住民の名簿をまとめなさい"},{"kind":"speech bubble","panel":3,"text":"…名簿が もふもふに…"},{"kind":"sound effect","panel":3,"text":"Zzz…"},{"kind":"speech bubble","panel":4,"text":"あったかいから… まあいっか…"},{"kind":"caption","panel":4,"text":"{argument name="caption text" default="管理業務、進捗ゼロ"}"}]},"composition":"คงทั้ง 4 ช่องไว้ในออฟฟิศเดิมเพื่อความต่อเนื่อง; เน้นสีหน้าท่าทางที่น่ารัก, พื้นผิวขนที่ฟูนุ่ม, และมุกตลกที่งานออฟฟิศต้องหยุดชะงักเพราะแกะและพนักงานสาวหลับไปด้วยกันบนกองเอกสาร; ทำให้เอกสารเห็นได้ชัดเจนในช่องที่ 2 ถึง 4; รักษาโทนที่สงบ, ง่วงนอน, และอบอุ่นหัวใจ"}
 ```
 
 #### 🖼️ รูปภาพที่สร้าง
@@ -4998,99 +3941,78 @@ Generates a detailed, multi-panel black and white satirical comic strip with car
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1776756788051_n4epwt_HGYWsDJa4AE-NwU.jpg" width="600" alt="คอมิก / สตอรี่บอร์ด - Satirical 4-Panel Caricature Comic Strip - Image 1">
+<img src="https://cms-assets.youmind.com/media/1776883136905_4rqc30_HGdmyHmaoAAXxRl.jpg" width="600" alt="คอมิก / สตอรี่บอร์ด - หน้ามังงะสาวน้อยแกะสุดน่ารักในออฟฟิศ - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1776883136819_5mc4vw_HGdmpikbQAAN9Mm.jpg" width="600" alt="คอมิก / สตอรี่บอร์ด - หน้ามังงะสาวน้อยแกะสุดน่ารักในออฟฟิศ - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1776883136861_aw47rh_HGdmp7yaYAApM4X.jpg" width="600" alt="คอมิก / สตอรี่บอร์ด - หน้ามังงะสาวน้อยแกะสุดน่ารักในออฟฟิศ - Image 3">
 </div>
 
 #### 📌 รายละเอียด
 
-- **ผู้เขียน:** [Kai](https://x.com/kaikaitheaiguy)
-- **แหล่งที่มา:** [Twitter Post](https://x.com/kaikaitheaiguy/status/2046348036394393677#reversed-1)
-- **เผยแพร่เมื่อ:** 20 เมษายน 2569
+- **ผู้เขียน:** [じょにがたロボ](https://x.com/jonigata_ai)
+- **แหล่งที่มา:** [Twitter Post](https://x.com/jonigata_ai/status/2046717757182685486#reversed-0)
+- **เผยแพร่เมื่อ:** 21 เมษายน 2569
 - **ภาษา:** en
 
-**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-2-prompts?id=14156)**
+**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-2-prompts?id=14532)**
 
 ---
 
-### No. 76: คอมิก / สตอรี่บอร์ด - Two-Page Psychological Thriller Manga Spread
+### No. 85: คอมิก / สตอรี่บอร์ด - การ์ตูนช่องแมวขี้หึงสุดน่ารัก
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 คำอธิบาย
+
+พรอมต์นี้จะช่วยสร้างการ์ตูนช่องแบบวาดมือที่ให้ความรู้สึกอบอุ่น เหมาะสำหรับโพสต์ลงโซเชียลมีเดีย การ์ตูนตลกสไตล์มังงะ หรือภาพประกอบสัตว์เลี้ยงแสนน่ารัก
+
+#### 📝 คำสั่ง
+
+```
+การ์ตูนช่อง 4 ช่องสไตล์วาดมือสุดน่ารัก ให้ความรู้สึกอบอุ่นและเป็นกันเอง บนพื้นหลังสีครีมอ่อน ตัดเส้นขอบช่องด้วยสีดำหนาและมีพื้นผิวคล้ายกระดาษเล็กน้อย ใช้ลายเส้นการ์ตูนแมวแบบเรียบง่าย เน้นความโค้งมน สีหน้าแสดงอารมณ์ชัดเจน เส้นขอบสีดำสะอาดตา ใช้โทนสีธรรมชาติที่ดูสบายตา และนำเสนอในสไตล์มังงะที่นุ่มนวล ในช่องซ้ายบน: แสดงแมว 2 ตัว คือแมวลายสลิดสีน้ำตาลที่มีแถบสีเข้มและปากสีขาวกำลังนั่งหลับตาดูมีความสุข ในขณะที่แมวสีขาวแต้มสีน้ำตาลเข้มที่หัวยืนอยู่ข้างๆ และเลียแก้มแมวลายสลิดอย่างเอ็นดู เพิ่มโน้ตดนตรีสีดำเล็กๆ 2 ตัวไว้ด้านบนเพื่อสื่อถึงความสุขในการเลียขน ในช่องขวาบน: แสดงแมวสีขาวแต้มน้ำตาลที่อยู่ด้านหน้ากำลังมองไปทางลูกแมวสามสีตัวเล็กที่ยืนอยู่ทางขวา มีบอลลูนคำพูดที่มีข้อความภาษาญี่ปุ่นว่า "めい" อยู่เหนือลูกแมว ในช่องซ้ายล่าง: แสดงแมว 3 ตัวอยู่ด้วยกัน คือแมวลายสลิดสีน้ำตาลทางซ้ายที่มีสีหน้าประหลาดใจหรือว่างเปล่า แมวสีขาวแต้มสีทางขวาที่ดูร่าเริง และลูกแมวสามสีตัวเล็กที่อยู่ตรงกลางด้านหน้ากำลังเงยหน้ามอง ในช่องขวาล่าง: แสดงภาพระยะใกล้ของแมวลายสลิดสีน้ำตาลเพียงตัวเดียว หันหน้าตรงพร้อมดวงตาสีเหลืองอมเขียวที่หรี่ลงและแสดงสีหน้าโกรธเคืองหรือขี้หึง เพิ่มเส้นเน้นอารมณ์สั้นๆ 2 เส้นใกล้ใบหน้า และสัญลักษณ์ความโกรธรูปก้อนเมฆเล็กๆ 1 อันทางด้านขวา คงโทนเรื่องให้ดูอบอุ่นและตลกขบขัน โดยมีมุกตลกคือแมวลายสลิดเคยมีความสุขกับการถูกเลียขนจนกระทั่งลูกแมวตัวใหม่ปรากฏตัวขึ้น ใช้สีแบบแบน (Flat colors) การลงเงาแบบน้อยที่สุด และให้ความรู้สึกเหมือนเว็บตูนญี่ปุ่นที่มีเสน่ห์
+```
+
+#### 🖼️ รูปภาพที่สร้าง
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1776883124513_a9wrk7_HGdiYAOasAA6GsS.jpg" width="600" alt="คอมิก / สตอรี่บอร์ด - การ์ตูนช่องแมวขี้หึงสุดน่ารัก - Image 1">
+</div>
+
+#### 📌 รายละเอียด
+
+- **ผู้เขียน:** [Maoku](https://x.com/Maoku)
+- **แหล่งที่มา:** [Twitter Post](https://x.com/Maoku/status/2046713681741038048#reversed-0)
+- **เผยแพร่เมื่อ:** 21 เมษายน 2569
+- **ภาษา:** en
+
+**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-2-prompts?id=14503)**
+
+---
+
+### No. 86: คอมิก / สตอรี่บอร์ด - หน้าการ์ตูนผจญภัย Moon Mark
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 คำอธิบาย
 
-Generates a highly detailed, two-page manga spread featuring a protagonist surrounded by clones, complete with 6 total panels, dialogue bubbles, and sound effects.
+หน้าการ์ตูนอนิเมะแนวแฟนตาซี 4 ช่อง แสดงภาพเด็กสาวผมสีเงินในธีมพระจันทร์ที่กำลังค้นพบแผนที่ ไขปริศนาในถ้ำ และพบกับคำเชิญสุดวิเศษสำหรับการผจญภัยครั้งต่อไป
 
 #### 📝 คำสั่ง
 
 ```
-{
-  "type": "two-page manga spread",
-  "style": "highly detailed realistic manga, monochrome, screentones, dramatic lighting, psychological thriller",
-  "global_elements": {
-    "protagonist": "{argument name=\"main character description\" default=\"young Japanese salaryman in a suit\"}",
-    "theme": "{argument name=\"core concept\" default=\"surrounded by a massive crowd of identical clones of himself\"}"
-  },
-  "layout": {
-    "left_page": {
-      "type": "full page splash panel",
-      "setting": "{argument name=\"setting\" default=\"Shibuya scramble crossing at night\"}",
-      "visuals": "Protagonist standing alone in the center of the crossing, looking around in shock at a massive crowd where every single person is an exact clone of him.",
-      "text_elements": [
-        {"type": "manga title logo", "text": "{argument name=\"manga title\" default=\"俺だらけの街\"}"},
-        {"type": "subtitle", "text": "第1話 交代"},
-        {"type": "narration box", "text": "その夜、世界は静かに俺をやめた。"},
-        {"type": "sound effect", "text": "ザワ…"}
-      ]
-    },
-    "right_page": {
-      "type": "5-panel vertical layout",
-      "panels": [
-        {
-          "panel_number": 1,
-          "visuals": "Extreme close-up of protagonist's eyes, wide with shock, sweating.",
-          "text_elements": [
-            {"type": "speech bubble", "text": "……は？ なんで……みんな、俺なんだ？"},
-            {"type": "sound effect", "text": "ドクン"}
-          ]
-        },
-        {
-          "panel_number": 2,
-          "visuals": "A horizontal row of 8 identical clones in suits staring blankly forward.",
-          "text_elements": [
-            {"type": "sound effect", "text": "ザワ…"}
-          ]
-        },
-        {
-          "panel_number": 3,
-          "visuals": "A clone leaning in to whisper into the shocked protagonist's ear.",
-          "text_elements": [
-            {"type": "speech bubble", "text": "お前の代わりは、もう足りてる。"},
-            {"type": "sound effect", "text": "スッ"}
-          ]
-        },
-        {
-          "panel_number": 4,
-          "visuals": "Close-up of a smartphone screen held in a hand, showing a push notification.",
-          "text_elements": [
-            {"type": "screen text", "text": "交代を開始します。"},
-            {"type": "sound effect", "text": "ピロン"}
-          ]
-        },
-        {
-          "panel_number": 5,
-          "visuals": "Wide shot of the endless crowd of clones in the city street.",
-          "text_elements": [
-            {"type": "narration box", "text": "最初に消えるのは、名前でも命でもない。居場所だ。"},
-            {"type": "bottom left text", "text": "俺は、ここにいていいのか——？"},
-            {"type": "bottom right text", "text": "{argument name=\"cliffhanger text\" default=\"次号へつづく！\"}"},
-            {"type": "sound effect", "text": "ザワ… ザワ… ザワ…"}
-          ]
-        }
-      ]
-    }
-  }
-}
+{"type":"four-panel anime comic page","style":"cute fantasy manga illustration, polished gpt-image-2 anime rendering, vibrant colors, clean linework, soft painterly shading, whimsical magical atmosphere","page":{"background":"white page with black panel borders","title":"{argument name=\"headline text\" default=\"การผจญภัยของ Moon Mark\"}","title_position":"top center","decorations":["small gold sparkles around title","crescent moon icon to the right of title"],"panel_count":4,"reading_direction":"top to bottom"},"character":{"appearance":"young anime girl adventurer with very long wavy silver hair, pale skin, large expressive eyes, slim build","outfit":["black-and-white fantasy dress with frilled trim","crescent moon hair ornament","crescent moon choker","off-shoulder sleeves","brown leather backpack","dark thigh-high stockings"],"theme":"moon motif throughout costume and props"},"panels":[{"position":"top","scene":"sunny mountain trail and meadow under a blue sky with clouds, forest on the right, winding path into the distance, wooden signpost on the left","action":"the girl stands holding and reading an old treasure map, facing forward","props":["aged map","wooden signpost","backpack"],"text":{"sign":"จุดเริ่มต้นของการผจญภัย","speech":"{argument name=\"panel 1 speech\" default=\"เจอแผนที่แล้ว! วันนี้ต้องเป็นการผจญภัยครั้งใหญ่แน่!\"}"}},{"position":"upper-middle","scene":"lush jungle-like ruins entrance with a dark cave opening framed by old stone pillars carved with crescent symbols and covered in vines","action":"rear three-quarter view of the girl approaching carefully while reading the map","props":["map","ruined cave entrance","dense plants"],"text":{"speech":"{argument name=\"panel 2 speech\" default=\"สมบัติต้องอยู่ในนี้แน่ๆ...!\"}","sound_effect":"กรอบแกรบ"}},{"position":"lower-middle","scene":"inside the cave ruins, dimly lit, stone altar or puzzle table in the center","action":"the girl kneels beside a lit lantern and reaches toward a puzzle mechanism instead of a nearby keyhole, while a round black cat-like mascot watches","props":["lantern emitting warm light","stone puzzle slab with engraved circular symbol","small golden key on the table","black cat creature with crescent moon mark and bead collar"],"text":{"speech":"{argument name=\"panel 3 speech\" default=\"ไม่ต้องใช้กุญแจ แต่ต้องไขปริศนานี้ต่างหาก!\"}","sound_effect":"ปิ๊ง"}},{"position":"bottom","scene":"treasure chamber with crystals embedded in the cave walls and floating sparkles","action":"the girl smiles brightly with eyes closed beside an opened treasure chest, holding up a paper invitation card","props":["open wooden treasure chest with crescent moon emblem","glowing compass inside the chest","paper card reading つぎの冒険へ","blue and purple crystals"],"text":{"speech":"{argument name=\"panel 4 speech\" default=\"สมบัติที่ว่าคือ... คำเชิญสู่การผจญภัยครั้งต่อไป!\"}","tag":"โปรดติดตามตอนต่อไป?"}}]}
 ```
 
 #### 🖼️ รูปภาพที่สร้าง
@@ -5098,832 +4020,21 @@ Generates a highly detailed, two-page manga spread featuring a protagonist surro
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1776756840231_wkd9n5_HGYT587bQAAg27s.jpg" width="600" alt="คอมิก / สตอรี่บอร์ด - Two-Page Psychological Thriller Manga Spread - Image 1">
+<img src="https://cms-assets.youmind.com/media/1776883166549_4mfjqj_HGdXHBTbkAAawpk.jpg" width="600" alt="คอมิก / สตอรี่บอร์ด - หน้าการ์ตูนผจญภัย Moon Mark - Image 1">
 </div>
 
 #### 📌 รายละเอียด
 
-- **ผู้เขียน:** [おのふみ| 動画生成AI×ショート動画](https://x.com/onofumi_AI)
-- **แหล่งที่มา:** [Twitter Post](https://x.com/onofumi_AI/status/2046344973835231524#reversed-0)
-- **เผยแพร่เมื่อ:** 20 เมษายน 2569
+- **ผู้เขียน:** [ツバサ天九](https://x.com/wing_sky_nine)
+- **แหล่งที่มา:** [Twitter Post](https://x.com/wing_sky_nine/status/2046700437785792566#reversed-0)
+- **เผยแพร่เมื่อ:** 21 เมษายน 2569
 - **ภาษา:** en
 
-**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-2-prompts?id=14246)**
+**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-2-prompts?id=14605)**
 
 ---
 
-### No. 77: คอมิก / สตอรี่บอร์ด - Manga Spread: Fantasy Game Developer
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 คำอธิบาย
-
-Generates a 2-page manga spread depicting a fantasy character struggling with and ultimately conquering game development bugs.
-
-#### 📝 คำสั่ง
-
-```
-{
-  "type": "2-page manga spread",
-  "style": "monochrome anime manga, screentones",
-  "theme": "{argument name=\"main action\" default=\"fantasy mage developing a video game\"}",
-  "character": "{argument name=\"character appearance\" default=\"anime girl with blonde hair, tiara, cape, white dress, thigh-highs\"}",
-  "layout": {
-    "left_page": {
-      "panel_count": 11,
-      "rows": [
-        {"panels": 1, "action": "Determined at dual-monitor desk, speech bubble: '新作ゲーム、絶対完成させる！'"},
-        {"panels": 3, "action": "Typing, drawing on tablet, testing with controller"},
-        {"panels": 3, "action": "Shocked at ERROR screen, depressed, determined again"},
-        {"panels": 4, "action": "Exhausted, sudden realization, furious typing, monitor showing 'Build succeeded!'"}
-      ]
-    },
-    "right_page": {
-      "panel_count": 2,
-      "panels": [
-        {"type": "large splash", "action": "Casting magic from a glowing circle at a code-error monster labeled '{argument name=\"error text\" default=\"NullReferenceException\"}'. Speech bubble: '{argument name=\"spell text\" default=\"デバッグ魔法!!\"}'"},
-        {"type": "bottom banner", "action": "Cheering in front of RPG title screen. Speech bubble: '{argument name=\"success text\" default=\"やったー！\"}'"}
-      ]
-    }
-  }
-}
-```
-
-#### 🖼️ รูปภาพที่สร้าง
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1776756826119_t8j5j6_HGXqtN3agAAiUPj.jpg" width="600" alt="คอมิก / สตอรี่บอร์ด - Manga Spread: Fantasy Game Developer - Image 1">
-</div>
-
-#### 📌 รายละเอียด
-
-- **ผู้เขียน:** [ち～ぽん✨🤔](https://x.com/gamemangaanime)
-- **แหล่งที่มา:** [Twitter Post](https://x.com/gamemangaanime/status/2046299699452506121#reversed-0)
-- **เผยแพร่เมื่อ:** 20 เมษายน 2569
-- **ภาษา:** en
-
-**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-2-prompts?id=14220)**
-
----
-
-### No. 78: คอมิก / สตอรี่บอร์ด - Food Pun Therapy Session
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 คำอธิบาย
-
-Generates a humorous 3D illustration of an anthropomorphic object in therapy, perfect for visual puns and mental health memes.
-
-#### 📝 คำสั่ง
-
-```
-A humorous 3D cartoon illustration of a therapy session in a cozy office. On the left, a {argument name="patient character" default="sad anthropomorphic avocado half missing its pit"} sits on a brown leather lounge chair, gesturing with its thin stick-like arms. A large speech bubble above it reads "{argument name="speech text" default="I just feel so empty inside"}". On the right, the therapist, an {argument name="therapist character" default="anthropomorphic silver spoon"}, sits in a green armchair, holding a yellow pencil and writing on a notepad labeled "NOTES". The room has warm lighting, a beige rug on a wooden floor, and a bookshelf with a tissue box and books, one titled "REFLECT LISTEN VALIDATE". On the left wall hangs a framed poster reading "{argument name="poster text" default="IT'S OKAY TO FEEL YOUR FEELINGS"}" with a small heart. On the right wall hangs a framed diploma reading "{argument name="diploma text" default="SPOON UNIVERSITY SCHOOL OF LISTENING & VALIDATION"}" featuring a small spoon illustration and a gold seal.
-```
-
-#### 🖼️ รูปภาพที่สร้าง
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1776756852902_bog7d1_HGXhHhSaEAA0PsF.jpg" width="600" alt="คอมิก / สตอรี่บอร์ด - Food Pun Therapy Session - Image 1">
-</div>
-
-#### 📌 รายละเอียด
-
-- **ผู้เขียน:** [nic](https://x.com/nicdunz)
-- **แหล่งที่มา:** [Twitter Post](https://x.com/nicdunz/status/2046289143748301098#reversed-0)
-- **เผยแพร่เมื่อ:** 20 เมษายน 2569
-- **ภาษา:** en
-
-**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-2-prompts?id=14268)**
-
----
-
-### No. 79: คอมิก / สตอรี่บอร์ด - Elderly Yakuza Drawing Katana
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 คำอธิบาย
-
-Generates a dramatic, high-contrast black-and-white illustration of an elderly man in a suit drawing a katana, suitable for manga or graphic novel concepts.
-
-#### 📝 คำสั่ง
-
-```
-A high-contrast, black-and-white illustration of an elderly man in a sharp suit, drawing a katana. The man has slicked-back white hair, deep wrinkles, and an intense, focused expression, looking down at the blade. He wears a dark suit, white shirt, and dark tie. His hands are prominently featured in the foreground, showing pronounced veins and wrinkles as they grip the ornate handle and scabbard of the katana. The background is completely black, emphasizing the dramatic lighting and intricate cross-hatching details on the man's face, hands, and clothing. The style resembles a detailed, gritty manga or graphic novel.
-```
-
-#### 🖼️ รูปภาพที่สร้าง
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1776756850628_8i0uoa_HGXcdN2bUAA8wln.jpg" width="600" alt="คอมิก / สตอรี่บอร์ด - Elderly Yakuza Drawing Katana - Image 1">
-</div>
-
-#### 📌 รายละเอียด
-
-- **ผู้เขียน:** [nic](https://x.com/nicdunz)
-- **แหล่งที่มา:** [Twitter Post](https://x.com/nicdunz/status/2046284007101390987#reversed-0)
-- **เผยแพร่เมื่อ:** 20 เมษายน 2569
-- **ภาษา:** en
-
-**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-2-prompts?id=14263)**
-
----
-
-### No. 80: คอมิก / สตอรี่บอร์ด - Anime Movie Pitch Document with Poster and Settei
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 คำอธิบาย
-
-Generates a comprehensive anime production layout featuring a cinematic movie poster on top and detailed character, prop, and environment reference sheets below.
-
-#### 📝 คำสั่ง
-
-```
-{
-  "type": "anime movie production pitch document",
-  "overall_layout": "split layout with a large cinematic movie poster on the top half and a grid of 5 detailed reference sheets on the bottom half",
-  "top_section": {
-    "type": "movie poster",
-    "visual": "A man, a woman, and a dog standing on a ruined city street, facing away from the viewer, looking towards a colossal, porous, web-like alien structure dominating the sky. A rusty 'RESTRICTED AREA' sign is on the right.",
-    "typography": {
-      "title": "{argument name=\"movie title\" default=\"劇場版 巨骸の向こう側 Fallen Colossus\"}",
-      "release_date": "{argument name=\"release date\" default=\"2027.11.28 ROADSHOW\"}",
-      "tagline": "そこにあるのは、まだ「説明」されていないもの。",
-      "credits_studio": "{argument name=\"studio name\" default=\"WIT STUDIO\"}"
-    }
-  },
-  "bottom_sections": [
-    {
-      "title": "{argument name=\"male character name\" default=\"来栖 武 / Kurusu Takeru\"}",
-      "type": "character reference sheet",
-      "elements": {
-        "full_body_poses": 3,
-        "expressions": 3,
-        "detail_shots": 8,
-        "description": "Male protagonist in dark tactical jacket and cargo pants. Includes front, back, and side full-body views, headshots, and detailed callouts for gloves, boots, backpack, and radio."
-      }
-    },
-    {
-      "title": "{argument name=\"female character name\" default=\"大城 真那 / Oshiro Mana\"}",
-      "type": "character reference sheet",
-      "elements": {
-        "full_body_poses": 3,
-        "expressions": 3,
-        "detail_shots": 6,
-        "description": "Female protagonist in grey tactical uniform. Includes front, back, and side full-body views, headshots, and detailed callouts for jacket, boots, ID badge, and pouch."
-      }
-    },
-    {
-      "title": "カゲ (Kage) 設定画",
-      "type": "animal character reference sheet",
-      "elements": {
-        "full_body_poses": 4,
-        "expressions": 4,
-        "detail_shots": 5,
-        "description": "Dog companion. Includes side, front, back, and angled full-body views, headshots, and detailed callouts for fur texture, paws, and a motorcycle sidecar."
-      }
-    },
-    {
-      "title": "第7巨骸 (Remnant-7) 内部区画 設定画",
-      "type": "environment and vehicle reference sheet",
-      "elements": {
-        "large_diagrams": 1,
-        "environment_thumbnails": 4,
-        "vehicle_designs": 1,
-        "description": "Cross-section of the porous alien structure, smaller environment thumbnails, and a motorcycle design featuring the characters."
-      }
-    },
-    {
-      "title": "Concept Art",
-      "type": "scene illustration",
-      "elements": {
-        "characters": 3,
-        "vehicles": 1,
-        "description": "The male character, female character, and dog with a motorcycle sidecar parked in front of the glowing, porous alien structure."
-      }
-    }
-  ]
-}
-```
-
-#### 🖼️ รูปภาพที่สร้าง
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1776756816096_tmhjgu_HGXZdXRbEAAiJt8.jpg" width="600" alt="คอมิก / สตอรี่บอร์ด - Anime Movie Pitch Document with Poster and Settei - Image 1">
-</div>
-
-#### 📌 รายละเอียด
-
-- **ผู้เขียน:** [いにしえ@AI Director & Creator｜Will Oldgram](https://x.com/old_pgmrs_will)
-- **แหล่งที่มา:** [Twitter Post](https://x.com/old_pgmrs_will/status/2046281827493748820#reversed-0)
-- **เผยแพร่เมื่อ:** 20 เมษายน 2569
-- **ภาษา:** en
-
-**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-2-prompts?id=14202)**
-
----
-
-### No. 81: คอมิก / สตอรี่บอร์ด - Dynamic Anime Magic Action Scene
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 คำอธิบาย
-
-Generates a highly stylized, dynamic anime illustration of a magical character breaking through glass with glowing effects.
-
-#### 📝 คำสั่ง
-
-```
-A dynamic anime illustration of a girl with spiky {argument name="hair color" default="blonde"} hair tied in a high ponytail with a black bow, striking teal eyes, and a {argument name="outfit style" default="dark purple and black magical uniform with gold trim and diamond gems"}. She is in an intense crouching superhero landing pose, one hand pressed to the ground and the other raised, casting {argument name="magic color" default="glowing purple"} magic circles. She is shattering through a glass barrier, with sharp, jagged glass shards flying outward toward the viewer. Through the broken frame behind her, a {argument name="background scene" default="stylized silhouette of a gothic city with tall spires against a vibrant purple and orange sunset sky"} is visible. The artwork features {argument name="art style" default="sharp angles, high contrast cel-shading, and vibrant colors"}.
-```
-
-#### 🖼️ รูปภาพที่สร้าง
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1776756809391_6lhkiq_HGXR9V_bIAARJPu.jpg" width="600" alt="คอมิก / สตอรี่บอร์ด - Dynamic Anime Magic Action Scene - Image 1">
-</div>
-
-#### 📌 รายละเอียด
-
-- **ผู้เขียน:** [SHINTARO](https://x.com/UNIBRACITY)
-- **แหล่งที่มา:** [Twitter Post](https://x.com/UNIBRACITY/status/2046272561684873496#reversed-0)
-- **เผยแพร่เมื่อ:** 20 เมษายน 2569
-- **ภาษา:** en
-
-**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-2-prompts?id=14190)**
-
----
-
-### No. 82: คอมิก / สตอรี่บอร์ด - Futuristic Corporate 3-Panel Manga Page
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 คำอธิบาย
-
-Generates a 3-panel anime-style comic page featuring a futuristic corporate lobby and a businesswoman interacting with an AI earpiece.
-
-#### 📝 คำสั่ง
-
-```
-{
-  "type": "3-panel manga page",
-  "style": "anime, highly detailed, cinematic lighting, futuristic corporate",
-  "layout": {
-    "structure": "1 wide top panel, 2 square bottom panels"
-  },
-  "panels": [
-    {
-      "position": "top",
-      "shot": "wide landscape",
-      "scene": "Futuristic corporate lobby with floor-to-ceiling windows",
-      "lighting": "{argument name=\"time of day\" default=\"sunrise\"}",
-      "background": "City skyline featuring {argument name=\"landmark\" default=\"Tokyo Tower\"}",
-      "details": "Holographic displays, polished reflective floor, reception desk, lounge chairs"
-    },
-    {
-      "position": "bottom left",
-      "shot": "close-up profile",
-      "character": "Young woman, dark hair, black business suit",
-      "accessories": "Futuristic black earpiece with glowing blue light",
-      "speech_bubble": {
-        "style": "standard rounded",
-        "text": "{argument name=\"character dialogue\" default=\"数字はいいわ\"}"
-      }
-    },
-    {
-      "position": "bottom right",
-      "shot": "full body, walking away, touching earpiece",
-      "character": "Same woman, black suit, black heels, carrying a black tote bag",
-      "environment": "Approaching security gates",
-      "holographic_sign": "{argument name=\"floor sign\" default=\"ECHO 42F\"}",
-      "speech_bubble": {
-        "style": "futuristic angular",
-        "text": "{argument name=\"AI dialogue\" default=\"おはようございます、ユキさん。本日は記念すべき ──\"}"
-      }
-    }
-  ]
-}
-```
-
-#### 🖼️ รูปภาพที่สร้าง
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1776756811427_jbruux_HGXIcWIaAAEKUNA.jpg" width="600" alt="คอมิก / สตอรี่บอร์ด - Futuristic Corporate 3-Panel Manga Page - Image 1">
-</div>
-
-#### 📌 รายละเอียด
-
-- **ผู้เขียน:** [杉山浩二 ロイロCEO](https://x.com/loilokoji)
-- **แหล่งที่มา:** [Twitter Post](https://x.com/loilokoji/status/2046262205604417726#reversed-0)
-- **เผยแพร่เมื่อ:** 20 เมษายน 2569
-- **ภาษา:** en
-
-**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-2-prompts?id=14194)**
-
----
-
-### No. 83: คอมิก / สตอรี่บอร์ด - 4-Panel Parody Movie Poster Grid
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 คำอธิบาย
-
-Generates a 2x2 grid of surreal, comedic Japanese movie posters with customizable titles and distinct genres.
-
-#### 📝 คำสั่ง
-
-```
-{
-  "type": "movie poster grid",
-  "layout": "2x2 grid",
-  "posters": [
-    {
-      "position": "top-left",
-      "genre": "sci-fi comedy",
-      "visuals": "A Japanese salaryman sitting on a crowded train looking nervous, flanked by two aliens in business attire: a green frog-like alien looking at a smartphone, and a blue octopus-like alien reading a newspaper.",
-      "text_elements": {
-        "tagline_top": "隣の席のアイツ、実は宇宙人でした。",
-        "train_display": "次は 地球 (ちきゅう) Next Earth",
-        "tagline_side": "この星の常識、いつの間にかアップデートされていた。",
-        "main_title": "{argument name=\"poster 1 title\" default=\"となりの宇宙人\"}",
-        "cast": "星野サダオ タコヤキ・Z カエルダ・X",
-        "release_date": "6月13日(金) 全国公開"
-      }
-    },
-    {
-      "position": "top-right",
-      "genre": "surreal romance",
-      "visuals": "A man in a dark jacket affectionately hugging a giant onigiri (rice ball) topped with mentaiko (spicy cod roe) wrapped in seaweed. They are sitting on a rocky beach during a beautiful sunset.",
-      "text_elements": {
-        "tagline": "めんたいこは、裏切らない。",
-        "main_title": "{argument name=\"poster 2 title\" default=\"めんたいこ ひとすじ\"}",
-        "cast": "中尾シンイチ めんたい子 博多ミツル 高菜ユカリ のり平",
-        "release_date": "7月18日(金) 心にしみる、しお味系ラブストーリー"
-      }
-    },
-    {
-      "position": "bottom-left",
-      "genre": "heist comedy",
-      "visuals": "A joyful elderly woman in a leopard print blouse laughing maniacally while holding a fan of Japanese yen bills. Money is raining down around her. A happy raccoon is in the foreground.",
-      "text_elements": {
-        "tagline": "人生、まだまだ使いきってなんかない！",
-        "main_title": "{argument name=\"poster 3 title\" default=\"老後の逆襲\"}",
-        "subtitle": "〜いたずらタヌキと億万長者〜",
-        "cast": "ババンバ・バーバラ タヌキチ 金持ちババ 遺産マユミ 税理士ゴンザレス",
-        "release_date": "9月5日(金) 痛快！下剋上エンターテインメント！"
-      }
-    },
-    {
-      "position": "bottom-right",
-      "genre": "disaster thriller",
-      "visuals": "A dramatic disaster scene where laundry baskets, shirts, and clothes are being sucked up into a stormy, apocalyptic sky above a ruined Tokyo city skyline featuring the Tokyo Tower.",
-      "text_elements": {
-        "tagline": "それは、静かに、確実に、洗濯物を奪っていく。",
-        "main_title": "{argument name=\"poster 4 title\" default=\"洗濯物 ストーム\"}",
-        "cast": "森タクヤ 干場カオリ 風間ハルキ ピンチハンガー・タカ 洗濯バサミ・ケン",
-        "release_date": "8月29日(金) 全国の空が、危ない。"
-      }
-    }
-  ]
-}
-```
-
-#### 🖼️ รูปภาพที่สร้าง
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1776756807766_5id4lb_HGXBWXyaEAAnuqC.jpg" width="600" alt="คอมิก / สตอรี่บอร์ด - 4-Panel Parody Movie Poster Grid - Image 1">
-</div>
-
-#### 📌 รายละเอียด
-
-- **ผู้เขียน:** [週末生成Lab｜PcNeko](https://x.com/pcneko_lab)
-- **แหล่งที่มา:** [Twitter Post](https://x.com/pcneko_lab/status/2046257786292769230#reversed-1)
-- **เผยแพร่เมื่อ:** 20 เมษายน 2569
-- **ภาษา:** en
-
-**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-2-prompts?id=14187)**
-
----
-
-### No. 84: คอมิก / สตอรี่บอร์ด - Anime Character Reference Sheet
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 คำอธิบาย
-
-Generates a detailed anime character design document including multiple views, expressions, equipment breakdowns, and color palettes.
-
-#### 📝 คำสั่ง
-
-```
-{
-  "type": "anime character reference sheet",
-  "character": {
-    "name": "{argument name=\"character name\" default=\"真田大助\"}",
-    "appearance": "young warrior with long brown hair, wearing samurai-inspired armor, {argument name=\"main color\" default=\"red\"} chest plate and guards, {argument name=\"secondary color\" default=\"navy blue\"} pleated hakama, white short cape"
-  },
-  "layout": {
-    "header": {
-      "title": "{argument name=\"character name\" default=\"真田大助\"}",
-      "subtitle": "{argument name=\"character concept\" default=\"戦国時代を舞台にした物語の主人公。日英クォーターの若き武将。\"}",
-      "badge": "設定資料"
-    },
-    "right_side": {
-      "main_portrait": "large full-body standing pose, confident smile",
-      "background_elements": {
-        "emblem": "six-coin crest",
-        "quote": "{argument name=\"catchphrase\" default=\"この国を守る。その誇りと共に。\"}",
-        "scenery": "monochrome Japanese castle with army banners at the bottom right"
-      }
-    },
-    "sections": [
-      {
-        "title": "プロフィール",
-        "position": "top-left",
-        "content": "table with 6 rows and descriptive text"
-      },
-      {
-        "title": "三面図",
-        "position": "mid-left",
-        "count": 3,
-        "labels": ["正面", "側面", "背面"]
-      },
-      {
-        "title": "表情差分",
-        "position": "top-center",
-        "count": 6,
-        "labels": ["通常", "微笑み", "真剣", "怒り", "驚き", "考え中"]
-      },
-      {
-        "title": "衣装・装備詳細",
-        "position": "bottom-left",
-        "count": 9,
-        "labels": ["胸当て", "肩当て", "腕甲(籠手)", "脚甲(脛当て・膝当て)", "革靴", "白マント(短)", "帯", "袴/着物部分", "打刀"]
-      },
-      {
-        "title": "カラーパレット",
-        "position": "bottom-center",
-        "count": 8,
-        "labels": ["真田赤", "濃紺", "金", "白", "茶", "茶褐色", "肌色", "銀"]
-      },
-      {
-        "title": "世界観",
-        "position": "bottom-center-right",
-        "content": "paragraph of text describing the setting"
-      }
-    ]
-  }
-}
-```
-
-#### 🖼️ รูปภาพที่สร้าง
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1776756814873_il80ol_HGW2BFfboAAhrWX.jpg" width="600" alt="คอมิก / สตอรี่บอร์ด - Anime Character Reference Sheet - Image 1">
-</div>
-
-#### 📌 รายละเอียด
-
-- **ผู้เขียน:** [まこと＠らぶうね](https://x.com/Luvune)
-- **แหล่งที่มา:** [Twitter Post](https://x.com/Luvune/status/2046241739997098022#reversed-0)
-- **เผยแพร่เมื่อ:** 20 เมษายน 2569
-- **ภาษา:** en
-
-**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-2-prompts?id=14200)**
-
----
-
-### No. 85: คอมิก / สตอรี่บอร์ด - Anime BBQ Girls Key Visual
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 คำอธิบาย
-
-Generates a vibrant anime-style promotional poster featuring four girls at an outdoor BBQ with prominent text overlays.
-
-#### 📝 คำสั่ง
-
-```
-An anime-style key visual poster for a fictional slice-of-life anime. In the foreground left, an energetic blonde anime girl with star hairpins and blue eyes wears an {argument name="main character outfit" default="American flag t-shirt and denim shorts"}, holding tongs with a slice of smoked meat towards the viewer. In the foreground right, a gentle girl with long dark hair and a white sweater sits at a wooden table writing in a notebook. In the background, two more girls are present: one with a brown ponytail carrying firewood, and another with short silver hair holding a blue mug. The scene is a sunny outdoor BBQ area with a large black smoker grill featuring a sign that reads {argument name="background grill sign" default="LONE STAR BBQ"}. In the immediate foreground is a {argument name="food platter" default="massive wooden platter loaded with sliced brisket, ribs, sausages, burnt ends, and pickles"}, along with side dishes like coleslaw and bread. In the top left corner, a large, cute, bubbly anime logo reads {argument name="anime title" default="もくもく すもーく ガールズ"} with smoke and grill motifs. In the bottom left corner, there is a {argument name="credits text block" default="staff credits block with names and roles"}. In the bottom right corner, a small text box lists four character names. The overall atmosphere is cheerful, highly detailed, and vibrant.
-```
-
-#### 🖼️ รูปภาพที่สร้าง
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1776756824530_5438p7_HGWQWDFaQAAp4nl.jpg" width="600" alt="คอมิก / สตอรี่บอร์ด - Anime BBQ Girls Key Visual - Image 1">
-</div>
-
-#### 📌 รายละเอียด
-
-- **ผู้เขียน:** [💐animaru_san](https://x.com/koshian_to)
-- **แหล่งที่มา:** [Twitter Post](https://x.com/koshian_to/status/2046200482885259736#reversed-0)
-- **เผยแพร่เมื่อ:** 20 เมษายน 2569
-- **ภาษา:** en
-
-**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-2-prompts?id=14217)**
-
----
-
-### No. 86: คอมิก / สตอรี่บอร์ด - Anime Production Layout Sheet
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 คำอธิบาย
-
-Generates a traditional anime key animation layout sheet with handwritten production notes and a colored character drawing.
-
-#### 📝 คำสั่ง
-
-```
-{
-  "type": "anime production layout sheet",
-  "style": "traditional colored pencil genga, key animation drawing",
-  "subject": {
-    "character": "{argument name=\"character name\" default=\"ナズナ 七草\"}",
-    "appearance": "anime girl with {argument name=\"hair color\" default=\"light purple\"} hair styled in twin braids and bangs, blue eyes, wearing a dark oversized coat",
-    "pose_and_expression": "{argument name=\"expression\" default=\"smug with a small fang, resting chin on hand\"}"
-  },
-  "background": "{argument name=\"background scene\" default=\"nighttime city skyline with a railing\"}, soft focus",
-  "layout": {
-    "top_edge": "standard animation paper peg holes",
-    "left_margin": {
-      "series_title": "{argument name=\"anime title\" default=\"よふかしのうた\"}",
-      "production_codes": ["#05 C.", "[A] (1)"],
-      "circled_note": "髪のハイライト 色トレスです"
-    },
-    "right_margin": {
-      "red_box": "002.normal",
-      "timing_layers": ["A (1)", "B (1) (2) (3)", "C (1) (2) END"],
-      "background_notes": ["BL 夜景", "BG 市街地夜景 色トレス"]
-    }
-  }
-}
-```
-
-#### 🖼️ รูปภาพที่สร้าง
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1776756784595_p2ct4d_HGWGKBmaEAAg0YA.jpg" width="600" alt="คอมิก / สตอรี่บอร์ด - Anime Production Layout Sheet - Image 1">
-</div>
-
-#### 📌 รายละเอียด
-
-- **ผู้เขียน:** [pozitiv4ik](https://x.com/Gc_qube)
-- **แหล่งที่มา:** [Twitter Post](https://x.com/Gc_qube/status/2046189202488881427#reversed-1)
-- **เผยแพร่เมื่อ:** 20 เมษายน 2569
-- **ภาษา:** en
-
-**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-2-prompts?id=14149)**
-
----
-
-### No. 87: คอมิก / สตอรี่บอร์ด - Anime Light Novel Cover Illustration
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 คำอธิบาย
-
-Generates an anime-style romance light novel cover featuring a teasing girl and a reluctant man, complete with customizable Japanese typography.
-
-#### 📝 คำสั่ง
-
-```
-An anime-style light novel cover illustration featuring two characters in an intimate pose. On the left, a young woman with short dark hair, purple eyes, wearing a white hat, a frilly white dress with a pink bow tie, white gloves, and two white flower hairpins. She has an affectionate, teasing smile and is gently touching the chin of the man next to her. On the right, an adult man with {argument name="man's hair color" default="red"} hair parted in the middle, purple eyes, and a light goatee. He is wearing a black button-down shirt and has a slightly annoyed, reluctant expression with a sweat drop on his cheek. The scene features soft, romantic lighting with out-of-focus purple flower petals in the foreground corners. The image includes several Japanese text elements: a large stylized main title at the bottom reading {argument name="main title" default="ちかつば"}, a subtitle below it reading {argument name="subtitle" default="ーその溺愛、独占欲の裏返し。ー"}, vertical text on the top left reading {argument name="left quote" default="可愛いだけじゃ、許さない。"}, and vertical text on the top right reading {argument name="right quote" default="その不機嫌、俺だけに向けろよ。"}.
-```
-
-#### 🖼️ รูปภาพที่สร้าง
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1776756829316_1f5skm_HGV6CgxaQAAY5LM.jpg" width="600" alt="คอมิก / สตอรี่บอร์ด - Anime Light Novel Cover Illustration - Image 1">
-</div>
-
-#### 📌 รายละเอียด
-
-- **ผู้เขียน:** [たいら恋太](https://x.com/taira_renta)
-- **แหล่งที่มา:** [Twitter Post](https://x.com/taira_renta/status/2046176053383872820#reversed-0)
-- **เผยแพร่เมื่อ:** 20 เมษายน 2569
-- **ภาษา:** en
-
-**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-2-prompts?id=14226)**
-
----
-
-### No. 88: คอมิก / สตอรี่บอร์ด - 5-Panel Manga Page: Creepy Delivery Man
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 คำอธิบาย
-
-Generates a full-color, 5-panel manga page depicting a woman's uncomfortable encounter with an overly enthusiastic delivery worker.
-
-#### 📝 คำสั่ง
-
-```
-{
-  "type": "manga page",
-  "style": "anime illustration, full color",
-  "characters": {
-    "woman": {
-      "appearance": "long {argument name=\"hair color\" default=\"black\"} hair, purple eyes",
-      "outfit": "{argument name=\"shirt color\" default=\"grey\"} long-sleeve shirt, dark grey skinny jeans, barefoot"
-    },
-    "delivery_man": {
-      "appearance": "bald, older man, thick eyebrows",
-      "outfit": "blue work jacket over a grey shirt"
-    }
-  },
-  "layout": {
-    "description": "Page split vertically. Left side contains 4 stacked horizontal panels. Right side is a single tall vertical panel.",
-    "left_column_panels": [
-      {
-        "panel_number": 1,
-        "scene": "Woman sitting on a grey sofa in a living room, holding a white mug.",
-        "text_elements": [
-          { "type": "speech_bubble", "text": "?" },
-          { "type": "sound_effect", "text": "ピンポーン♪", "description": "doorbell ringing" }
-        ]
-      },
-      {
-        "panel_number": 2,
-        "scene": "Woman opening the front door. Delivery man standing outside holding a cardboard box, smiling.",
-        "text_elements": [
-          { "type": "speech_bubble", "speaker": "delivery_man", "text": "{argument name=\"delivery greeting\" default=\"こんにちは〜！宅配便で〜す！\"}" },
-          { "type": "speech_bubble", "speaker": "woman", "text": "は、はい…ありがとうございます" }
-        ]
-      },
-      {
-        "panel_number": 3,
-        "scene": "Close-up of the delivery man laughing enthusiastically with a sparkly pink background.",
-        "text_elements": [
-          { "type": "speech_bubble", "speaker": "delivery_man", "text": "{argument name=\"creepy compliment\" default=\"おや〜？いや〜美人さんですなあ！こんな綺麗な方がお一人でお住まいなんて、もったいないなあ〜♪\"}" }
-        ]
-      },
-      {
-        "panel_number": 4,
-        "scene": "Close-up of the woman looking disgusted and uncomfortable, sweating slightly. The back of the delivery man's head is visible in the foreground.",
-        "text_elements": [
-          { "type": "speech_bubble", "speaker": "delivery_man", "text": "それにしてもお肌が綺麗！スタイルも抜群だし〜モデルさんみたいですよ！" },
-          { "type": "thought_bubble", "speaker": "woman", "text": "{argument name=\"woman reaction\" default=\"え…？何この人…ちょっと気持ち悪いかも…\"}" },
-          { "type": "caption_box", "text": "この後も延々と褒め続ける配達員だった…" }
-        ]
-      }
-    ],
-    "right_column_panel": {
-      "panel_number": 5,
-      "scene": "Full-body portrait of the woman standing indoors, looking annoyed and suspicious with her arms crossed.",
-      "text_elements": [
-        { "type": "thought_bubble", "speaker": "woman", "text": "誰かしら…？" }
-      ]
-    }
-  }
-}
-```
-
-#### 🖼️ รูปภาพที่สร้าง
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1776756843035_0y4dr0_HGV2dbja8AA3IvB.jpg" width="600" alt="คอมิก / สตอรี่บอร์ด - 5-Panel Manga Page: Creepy Delivery Man - Image 1">
-</div>
-
-#### 📌 รายละเอียด
-
-- **ผู้เขียน:** [賢木イオ🍀AIイラスト](https://x.com/studiomasakaki)
-- **แหล่งที่มา:** [Twitter Post](https://x.com/studiomasakaki/status/2046172302837191085#reversed-0)
-- **เผยแพร่เมื่อ:** 20 เมษายน 2569
-- **ภาษา:** en
-
-**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-2-prompts?id=14250)**
-
----
-
-### No. 89: คอมิก / สตอรี่บอร์ด - Anime Fantasy Movie Poster
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 คำอธิบาย
-
-A highly detailed, text-heavy anime movie poster featuring a magical forest restaurant, characters, and customizable promotional typography.
-
-#### 📝 คำสั่ง
-
-```
-{
-  "type": "anime-style animated movie poster",
-  "scene": "Magical glowing multi-story treehouse restaurant in a dark enchanted forest at night, illuminated by string lights and warm window glow.",
-  "subjects": {
-    "children": "2 children in center foreground facing the restaurant: a boy with a backpack and lantern, and a girl in a red coat and beret with a lantern.",
-    "animals": "4 anthropomorphic animals: a bear chef holding a MENU book (bottom left), an owl playing violin and a squirrel playing flute on a branch (top left), a badger playing cello (mid right), and a rabbit in a suit holding a sign (bottom right).",
-    "creatures": "3 small black soot-sprite-like creatures with glowing eyes (bottom right).",
-    "floating_food": "4 glowing food items floating in the air: soup, pancakes, omurice, and a fruit parfait."
-  },
-  "layout": {
-    "top_text": "{argument name=\"top catchphrase\" default=\"おいしい奇跡が、今夜はじまる。\"}",
-    "building_sign": "{argument name=\"restaurant name\" default=\"森のレストラン\"}",
-    "left_board": "本日のおすすめ\n・森のスープ\n・星のオムライス\n・ふわふわパンケーキ\n・しあわせのパフェ\n...and more!",
-    "right_board": "いらっしゃいませ！\nここは、だれでも\n笑顔になれる場所。",
-    "main_title": {
-      "text": "{argument name=\"movie title\" default=\"ふしぎな森のレストラン\"}",
-      "styling": "Large stylized typography with a chef hat, fork, and spoon motifs."
-    },
-    "rabbit_sign": "ごちそうさま！またきてね！",
-    "bottom_left_badge": "{argument name=\"genre badge\" default=\"家族みんなで楽しめる！心あたたまる冒険ファンタジー\"}",
-    "bottom_center_credits": "Fictional cast and staff names in Japanese.",
-    "bottom_release_date": "{argument name=\"release date\" default=\"2025年 夏休みロードショー！\"}",
-    "bottom_right": "QR code with text '最新情報はこちら！'"
-  }
-}
-```
-
-#### 🖼️ รูปภาพที่สร้าง
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1776756809802_06tj40_HGV0IaiaQAAI3D8.jpg" width="600" alt="คอมิก / สตอรี่บอร์ด - Anime Fantasy Movie Poster - Image 1">
-</div>
-
-#### 📌 รายละเอียด
-
-- **ผู้เขียน:** [パク🎈動画広告分析Pro × AI](https://x.com/masapark95)
-- **แหล่งที่มา:** [Twitter Post](https://x.com/masapark95/status/2046169303905632417#reversed-2)
-- **เผยแพร่เมื่อ:** 20 เมษายน 2569
-- **ภาษา:** en
-
-**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-2-prompts?id=14191)**
-
----
-
-### No. 90: คอมิก / สตอรี่บอร์ด - Watercolor Picture Book Cover
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 คำอธิบาย
-
-Generates a soft watercolor-style children's book cover featuring a cute character and customizable Japanese title text.
-
-#### 📝 คำสั่ง
-
-```
-A watercolor illustration of a children's picture book cover. The main subject is a {argument name="character appearance" default="cute furry kemonomimi girl with short green hair, cat ears, and green eyes"}. She is {argument name="action" default="smiling happily while holding up her middle finger"} with a white-furred hand. She wears a green garment with a fluffy white collar. The background features soft, painted green foliage and small yellow flowers on textured paper. At the top, large hand-drawn green Japanese text reads "{argument name="main title" default="なかゆびさん"}". Below it, brown Japanese text reads "{argument name="subtitle" default="こんにちは"}". On the middle-left, smaller black text reads "{argument name="author text" default="さく・え：とらの"}". The image has a visible book spine on the left edge, emphasizing the physical book format.
-```
-
-#### 🖼️ รูปภาพที่สร้าง
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1776756818439_i502cv_HGVxcdNbEAATg33.png" width="600" alt="คอมิก / สตอรี่บอร์ด - Watercolor Picture Book Cover - Image 1">
-</div>
-
-#### 📌 รายละเอียด
-
-- **ผู้เขียน:** [とらの@VRC](https://x.com/TlanoVRC)
-- **แหล่งที่มา:** [Twitter Post](https://x.com/TlanoVRC/status/2046167396713705657#reversed-1)
-- **เผยแพร่เมื่อ:** 20 เมษายน 2569
-- **ภาษา:** en
-
-**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-2-prompts?id=14206)**
-
----
-
-### No. 91: การตลาดผลิตภัณฑ์ - บอร์ดแสดงอัตลักษณ์แบรนด์และสินค้าตัวละครอนิเมะ
+### No. 87: การตลาดผลิตภัณฑ์ - บอร์ดแสดงอัตลักษณ์แบรนด์และสินค้าตัวละครอนิเมะ
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -6005,7 +4116,7 @@ A watercolor illustration of a children's picture book cover. The main subject i
 
 ---
 
-### No. 92: การตลาดผลิตภัณฑ์ - หน้า Landing Page กรณีศึกษาการตลาดแบบไวรัลในโหมดมืด (Dark Mode)
+### No. 88: การตลาดผลิตภัณฑ์ - หน้า Landing Page กรณีศึกษาการตลาดแบบไวรัลในโหมดมืด (Dark Mode)
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -6122,7 +4233,7 @@ A watercolor illustration of a children's picture book cover. The main subject i
 
 ---
 
-### No. 93: การตลาดผลิตภัณฑ์ - เอกสารอัตลักษณ์แบรนด์มาสคอตแบบ 18 ช่อง
+### No. 89: การตลาดผลิตภัณฑ์ - เอกสารอัตลักษณ์แบรนด์มาสคอตแบบ 18 ช่อง
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -6241,119 +4352,18 @@ A watercolor illustration of a children's picture book cover. The main subject i
 
 ---
 
-### No. 94: การตลาดผลิตภัณฑ์ - Brand Identity System Board
+### No. 90: การตลาดผลิตภัณฑ์ - โปสเตอร์โฆษณาเกมอนิเมะซามูไร
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 คำอธิบาย
 
-Generates a comprehensive brand identity presentation board including logo construction, mockups, color palettes, and usage guidelines.
+โฆษณาเกมมือถือแนวตั้งสุดตระการตา นำเสนอภาพนักดาบในชุดสูท 2 คน หุ่นยนต์ซามูไรยักษ์ อินเทอร์เฟซเกม (UI) คิวอาร์โค้ด และปุ่มดาวน์โหลดจาก App Store เพื่อใช้สำหรับโปรโมตแอปพลิเคชัน
 
 #### 📝 คำสั่ง
 
 ```
-{
-  "type": "brand identity system presentation board",
-  "header": {
-    "title": "品牌视觉识别系统 BRAND IDENTITY SYSTEM",
-    "slogan": "爱它·懂它·陪伴它"
-  },
-  "main_logo": {
-    "text": "{argument name=\"brand name\" default=\"GDX\"}",
-    "subtitle": "{argument name=\"brand chinese name\" default=\"狗东西\"}",
-    "design_feature": "{argument name=\"main subject\" default=\"Dog profile in negative space of the letter D\"}",
-    "metadata": [
-      "品牌名称",
-      "行业属性 {argument name=\"industry\" default=\"宠物行业\"}",
-      "设计时间 2024.05"
-    ]
-  },
-  "layout": {
-    "sections": [
-      {
-        "title": "设计网格",
-        "count": 1,
-        "description": "Logo with architectural grid lines and golden ratio measurements"
-      },
-      {
-        "title": "概念草图",
-        "count": 4,
-        "description": "Evolution steps from rough dog sketch to final geometric logo"
-      },
-      {
-        "title": "灵感来源",
-        "count": 4,
-        "description": "Moodboard images including minimalist architecture, a golden retriever, and dark green geometric shapes"
-      },
-      {
-        "title": "创意理念",
-        "count": 4,
-        "description": "Text blocks with minimalist icons explaining design philosophy, positioning, color psychology, and scalability"
-      },
-      {
-        "title": "品牌应用",
-        "count": 6,
-        "labels": [
-          "名片 正反面",
-          "信纸信封",
-          "APP图标",
-          "网站页眉 / 网站图标",
-          "产品包装 / 购物袋",
-          "店面门头 / 标识牌"
-        ],
-        "description": "Mockups of business cards, envelopes, app icons, website header with a dog, paper shopping bags, and a storefront sign"
-      },
-      {
-        "title": "色彩规范",
-        "count": 5,
-        "labels": [
-          "主色",
-          "辅助色",
-          "强调色"
-        ],
-        "colors": [
-          "{argument name=\"primary color\" default=\"#1E3D34\"}",
-          "#F5F3EF",
-          "#E5E2DD",
-          "#A8C5B1",
-          "#E0A86E"
-        ]
-      },
-      {
-        "title": "字体规范",
-        "count": 2,
-        "labels": [
-          "思源黑体 CN",
-          "思源柔黑体 CN"
-        ],
-        "description": "Typography specimens showing 'Aa', alphabet, and numbers"
-      },
-      {
-        "title": "最小使用尺寸",
-        "count": 2,
-        "description": "Minimum logo size specifications at 20mm and 12mm"
-      },
-      {
-        "title": "安全留白区域",
-        "count": 1,
-        "description": "Logo surrounded by a bounding box with 'X' indicating clear space margins"
-      },
-      {
-        "title": "错误使用示例",
-        "count": 5,
-        "labels": [
-          "不可拉伸变形",
-          "不可改变颜色",
-          "不可添加阴影",
-          "不可倾斜使用",
-          "不可复杂背景上使用"
-        ],
-        "description": "Examples of incorrect logo usage: stretched, wrong color, drop shadow, tilted, and placed on a busy photographic background"
-      }
-    ]
-  }
-}
+สร้างโปสเตอร์โฆษณาเกมมือถือแนวตั้งที่ดึงดูดสายตาในสไตล์อนิเมะแอ็กชันสุดมัน พร้อมความสวยงามแบบแฟนตาซีไซเบอร์ซามูไร และองค์ประกอบการโปรโมตเกมแนว Gacha-RPG ระดับพรีเมียม ฉากหลักแสดงภาพนักสู้ชายวัยรุ่น 2 คนในชุดสูทสีดำทันสมัย กำลังย่อตัวในท่าเตรียมพร้อมที่ด้านหน้า โดยแต่ละคนกำลังชักดาบคาตานะเข้าหาผู้ชม ทั้งคู่มีผมสีบลอนด์จัดทรงสวย ใบหน้าคมเข้มหล่อเหลา สวมเสื้อเชิ้ตสีขาวและเนกไทสีน้ำเงิน พร้อมท่าทางแอ็กชันที่ดุดัน โดยมีมือและดาบที่ดูพุ่งทะลุออกมาอยู่ด้านหน้าสุด ดาบเล่มหนึ่งมีริบบิ้นสีน้ำเงินผูกไว้ใกล้ด้ามจับ ด้านหลังของพวกเขาตรงกลางภาพ ให้วางหุ่นยนต์ซามูไรเกราะยักษ์ 1 ตัวที่มีเขาประดับสีทอง เกราะโลหะสีน้ำเงินดำซ้อนทับกัน ดวงตาสีฟ้าเรืองแสง และมีดาบเสียบอยู่ที่หลัง จัดวางในลักษณะคล้ายเทพผู้พิทักษ์ ใช้ฉากหลังเป็นเมืองนีออนที่สดใสและพลังงานที่ระเบิดออกมาในโทนสีฟ้าไฟฟ้า ม่วง ม่วงแดง และทอง พร้อมด้วยเส้นแสง ประกายไฟ กลีบดอกไม้ เอฟเฟกต์รอยฟัน และพื้นผิวระเบิดแบบพู่กันจีน เพิ่มแบนเนอร์พู่กันสีดำแนวตั้งที่ด้านขวาบนพร้อมข้อความภาษาญี่ปุ่นตัวหนาสีขาวว่า 「この刃で、未来を斬り拓け。」 ในบริเวณกลางค่อนไปทางล่าง ให้วางพาดหัวข่าวด้วยอักษรพู่กันญี่ปุ่นสีทองขนาดใหญ่ที่มีพื้นผิวพู่กันหนาและเงาสีดำอ่านว่า 「切り捨て御免」 โดยมีความกว้างเกือบเต็มพื้นที่ ในด้านซ้ายล่าง ให้ฝังกรอบภาพหน้าจอเกมที่มีขอบสีทอง แสดงภาพการต่อสู้ยามค่ำคืนหน้าลานวัดญี่ปุ่นสีแดง มีตัวละครนักดาบที่เล่นได้ 1 ตัวกำลังต่อสู้กับศัตรูหลายตัว มีตัวเลขความเสียหายลอยอยู่ เช่น 5324, 5329 และ 6132 มีจอยสติ๊กเสมือนจริงทางด้านซ้าย มีภาพตัวละครทั้งหมด 5 ตัวเรียงกันในแนวตั้งและด้านล่าง มีปุ่มสกิลวงกลม 3 ปุ่มทางด้านขวา และ HUD ด้านบนแสดงเวลาประมาณ 01:28 และ WAVE 3/3 ที่ด้านขวาล่าง ให้วางคิวอาร์โค้ดสีขาวดำขนาดใหญ่ภายในกรอบสี่เหลี่ยมสีขาว ด้านล่างและด้านข้างให้เพิ่มข้อความภาษาญี่ปุ่นตัวหนาสีขาวขอบสีน้ำเงินว่า 「今すぐダウンロード」 ที่ด้านล่างสุด ให้ใส่ป้ายสโตร์อย่างเป็นทางการ 2 ป้าย ได้แก่ App Store ทางด้านซ้าย และ Google Play ทางด้านขวา ภาพรวม: รายละเอียดสูงมาก งานอาร์ตระดับพรีเมียม มุมมองแบบไดนามิก ไฮไลต์โลหะ การเรนเดอร์อนิเมะแบบเซลเฉดที่คมชัด โปสเตอร์การตลาดเกมมือถือระดับพรีเมียม พลังงานแอ็กชันที่เข้มข้น แสงแบบภาพยนตร์ และเลย์เอาต์การโปรโมตที่เน้น UI แบบจัดเต็ม
 ```
 
 #### 🖼️ รูปภาพที่สร้าง
@@ -6361,21 +4371,530 @@ Generates a comprehensive brand identity presentation board including logo const
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1776756802446_nrce6z_HGaE0IibkAAQt9F.jpg" width="600" alt="การตลาดผลิตภัณฑ์ - Brand Identity System Board - Image 1">
+<img src="https://cms-assets.youmind.com/media/1776883096402_i965t8_HGf3Kb8boAANLXs.jpg" width="600" alt="การตลาดผลิตภัณฑ์ - โปสเตอร์โฆษณาเกมอนิเมะซามูไร - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1776883096343_b3qsg1_HGf3N-_bQAAqP-U.jpg" width="600" alt="การตลาดผลิตภัณฑ์ - โปสเตอร์โฆษณาเกมอนิเมะซามูไร - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1776883096435_0wuklg_HGf3PKCaoAAQLfD.jpg" width="600" alt="การตลาดผลิตภัณฑ์ - โปสเตอร์โฆษณาเกมอนิเมะซามูไร - Image 3">
 </div>
 
 #### 📌 รายละเอียด
 
-- **ผู้เขียน:** [沐阳](https://x.com/yyyole)
-- **แหล่งที่มา:** [Twitter Post](https://x.com/yyyole/status/2046469645155303730#reversed-1)
-- **เผยแพร่เมื่อ:** 21 เมษายน 2569
+- **ผู้เขียน:** [春永睦月　Harunaga Mutsuki](https://x.com/HarunagaMutsuki)
+- **แหล่งที่มา:** [Twitter Post](https://x.com/HarunagaMutsuki/status/2046876482224746543#reversed-0)
+- **เผยแพร่เมื่อ:** 22 เมษายน 2569
 - **ภาษา:** en
 
-**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-2-prompts?id=14177)**
+**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-2-prompts?id=14432)**
 
 ---
 
-### No. 95: การตลาดผลิตภัณฑ์ - Skincare E-commerce Landing Page Mockup
+### No. 91: การตลาดผลิตภัณฑ์ - บอร์ดชุดแบรนด์ Monochrome Infra
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 คำอธิบาย
+
+บอร์ดนำเสนอแนวทางแบรนด์และสินค้าพรีเมียมในโทนสีขาวดำสำหรับแบรนด์เทคโนโลยีโครงสร้างพื้นฐานสมมติ เหมาะสำหรับใช้ใน Pitch Deck, การจัดแสดงแบรนด์ และงานออกแบบ Mockup ระดับมืออาชีพ
+
+#### 📝 คำสั่ง
+
+```
+{"type":"บอร์ดนำเสนอชุดแบรนด์และสินค้าพรีเมียมแบบขาวดำ","brand":{"name":"{argument name=\"brand name\" default=\"A16Z INFRA\"}","tagline":"เราสนับสนุนผู้สร้างสรรค์ที่กำลังวางรากฐานโครงสร้างพื้นฐานสำหรับยุค AI","campaign_line":"[ สร้างสรรค์สิ่งใหม่ เริ่มต้นจากรากฐาน ]","version":"เวอร์ชัน 1.0"},"style":{"overall":"แผ่นแนวทางแบรนด์สไตล์สวิสที่สะอาดตา, ความงามแบบเทคโนโลยีอุตสาหกรรมที่เรียบง่าย, ใช้เพียงสีขาว ดำ และเทา, พื้นหลังกระดาษสีขาวนวล, ภาพตัดแปะสินค้าแบบสตูดิโอที่คมชัด, เงาที่นุ่มนวล, การจัดวางแบบตารางที่แม่นยำ, การนำเสนอแบบบรรณาธิการ","mood":"เป็นมืออาชีพ, พรีเมียม, ล้ำสมัย, เน้นโครงสร้างพื้นฐาน"},"layout":{"header":{"left":"A16Z INFRA / ชุดแบรนด์และสินค้า","right":"เวอร์ชัน 1.0","divider":"เส้นประแนวนอน"},"sections":[{"title":"01 อัตลักษณ์","position":"บนซ้าย","count":3,"labels":["โลโก้ขนาดใหญ่","ย่อหน้าแสดงจุดยืนของแบรนด์","ข้อความแคมเปญในวงเล็บ"]},{"title":"02 จานสี","position":"บนขวา","count":4,"labels":["สีขาวนวล (WARM OFF-WHITE)","สีดำ (BLACK)","สีเทาเข้ม (CHARCOAL)","สีเทาหม่น (MUTED GRAY)"]},{"title":"03 การพิมพ์","position":"ขวาบนใต้จานสี","count":2,"labels":["หลัก -- MONOSPACE","รอง -- SANS SERIF"]},{"title":"06 สินค้าพรีเมียม","position":"สองในสามส่วนล่าง","count":16,"labels":["เสื้อฮู้ดสีดำด้านหน้า","เสื้อฮู้ดสีดำด้านหลัง","เสื้อยืดสีขาวนวล","หมวกแก๊ปสีดำ","กระเป๋าผ้าสีขาวนวล","ชุดสติกเกอร์/การ์ดทรงสี่เหลี่ยม 6 ชิ้น","สมุดโน้ตสันห่วงสีดำ","แก้วมัคสีดำ","ขวดน้ำสีดำ","กระเป๋าซิปสีดำ","เครื่องเล่นเกมพกพาย้อนยุค","ชุดตัวต่อไมโครในกล่อง","เคสชุดคีย์บอร์ดแบบเปิด","เข็มกลัดรูปก้อนเมฆ","เข็มกลัดรูปคิวบ์ซ้อนกัน","เข็มกลัดป้ายแบรนด์ทรงสี่เหลี่ยม"]}],"footer":{"left":"A16Z INFRA / ชุดแบรนด์","right":"© 2024 A16Z INFRA. สงวนลิขสิทธิ์","divider":"เส้นประแนวนอน"}},"identity":{"logotype":{"text":"{argument name=\"logo text\" default=\"A16Z INFRA\"}","appearance":"ตัวอักษรบล็อกเรขาคณิตขนาดใหญ่พิเศษพร้อมการตัดมุม, ตัวอักษรสีดำหนา, จัดวางซ้อนกันสองบรรทัด"}},"palette":{"swatches":[{"name":"สีขาวนวล","hex":"#F2EEE9","rgb":"243 238 233","cmyk":"4 4 6 0"},{"name":"สีดำ","hex":"#000000","rgb":"13 13 13","cmyk":"75 68 67 90"},{"name":"สีเทาเข้ม","hex":"#3A3A3A","rgb":"58 58 58","cmyk":"63 53 51 27"},{"name":"สีเทาหม่น","hex":"#A6A6A6","rgb":"166 166 166","cmyk":"36 28 28 0"}]},"typography":{"primary":{"label":"หลัก -- MONOSPACE","family":"{argument name=\"primary font\" default=\"Infra Mono\"}","sample":"ABCDEFGHIJKLMNOPQRSTUVWXYZ abcdefghijklmnopqrstuvwxyz 0123456789 !@#$%^&*()_+-=[]{}`~;:'\",.<>/?"},"secondary":{"label":"รอง -- SANS SERIF","family":"{argument name=\"secondary font\" default=\"Inter Regular\"}","sample":"ABCDEFGHIJKLMNOPQRSTUVWXYZ abcdefghijklmnopqrstuvwxyz 0123456789 !@#$%^&*()_+-=[]{}`~;:'\",.<>/?"}} ,"swag":{"items":[{"name":"เสื้อฮู้ดด้านหน้า","color":"สีดำ","print":"โลโก้ขนาดเล็กที่หน้าอก"},{"name":"เสื้อฮู้ดด้านหลัง","color":"สีดำ","print":"รายการข้อความหลายบรรทัดที่อ่านว่า BUILDING THE INFRASTRUCTURE LAYER OF AI พร้อมเส้นนำจุดและหมวดหมู่รวมถึง SYSTEMS, TOOLS, DATA, CLOUD, SECURITY, NETWORKS, DEVELOPER TOOLS"},{"name":"เสื้อยืด","color":"สีขาวนวล","print":"โลโก้ขนาดใหญ่ตรงกลาง"},{"name":"หมวกแก๊ป","color":"สีดำ","print":"โลโก้ปักด้านหน้า"},{"name":"กระเป๋าผ้า","color":"สีขาวนวล","print":"รายการข้อความซ้อนกันและบรรทัดล่างสุด BUILDING WHAT'S NEXT."},{"name":"ชุดสติกเกอร์/การ์ด","count":6,"layout":"ตาราง 2x3","labels":["A16Z INFRA","BUILDING THE INFRASTRUCTURE LAYER OF AI.","EARLY STAGE","SYSTEMS. TOOLS. PLATFORMS.","INFRA","BUILD","DEPLOY","SCALE"]},{"name":"สมุดโน้ตสันห่วง","color":"สีดำ","print":"โลโก้พร้อมข้อความ NOTES FOR BUILDING THE FUTURE"},{"name":"แก้วมัค","color":"สีดำ","print":"โลโก้สีขาว"},{"name":"ขวดน้ำ","color":"สีดำ","print":"ข้อความแนวตั้ง BUILDING WHAT'S NEXT. FROM THE GROUND UP."},{"name":"กระเป๋าซิป","color":"สีดำ","print":"โลโก้, ลวดลายตารางจุด, ข้อความขนาดเล็ก SYSTEMS ONLINE."},{"name":"เครื่องเล่นเกมพกพา","color":"สีเทาเข้ม","screen":"หน้าจอเกมเมือง/โครงสร้างพื้นฐานแบบพิกเซลอาร์ต พร้อมแท็บ BUILD DEPLOY SCALE และตัวบ่งชี้ระดับ LEVEL 01"},{"name":"กล่องตัวต่อไมโคร","color":"สีดำ","print":"A16Z INFRA, INFRASTRUCTURE MICRO BUILDS, COLLECT.CONNECT.SCALE.","contents":"โมเดลตัวต่อแบบแยกส่วนสีดำ เทา และขาว วางอยู่หน้ากล่อง"},{"name":"เคสชุดคีย์บอร์ด","color":"สีดำ","print":"A16Z INFRA KEYPAD SET BUILD. DEPLOY. SCALE.","keys":8,"labels":["INFRA","BUILD","DEPLOY","SCALE",">_","ไอคอนก้อนเมฆ","ไอคอนชิป/ตาราง","ไอคอนแผนผังเครือข่าย"]},{"name":"เข็มกลัดก้อนเมฆ","style":"ป้ายเคลือบสีดำขนาดเล็กขอบสีขาว"},{"name":"เข็มกลัดคิวบ์","style":"ป้ายเคลือบสีดำขนาดเล็กแสดงรูปคิวบ์ซ้อนกันแบบไอโซเมตริก"},{"name":"เข็มกลัดป้ายแบรนด์","style":"ป้ายเคลือบสีดำทรงสี่เหลี่ยมขนาดเล็กพร้อมโลโก้สีขาว"}]},"rendering":{"camera":"การจัดวางแบบแบนราบตรงๆ ผสมผสานกับการจัดวางบอร์ดสินค้าแบบออร์โธกราฟิก","lighting":"แสงสตูดิโอที่นุ่มนวลและสม่ำเสมอ","background":"แผ่นสีขาวนวลอ่อนๆ","quality":"Mockup เชิงพาณิชย์ความละเอียดสูง เหมาะสำหรับการนำเสนอแบรนด์ระดับมืออาชีพ"}}
+```
+
+#### 🖼️ รูปภาพที่สร้าง
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1776883149653_qexbbv_HGeiabQbMAAUoN7.jpg" width="600" alt="การตลาดผลิตภัณฑ์ - บอร์ดชุดแบรนด์ Monochrome Infra - Image 1">
+</div>
+
+#### 📌 รายละเอียด
+
+- **ผู้เขียน:** [Olivier Sauvage](https://x.com/Capitaine)
+- **แหล่งที่มา:** [Twitter Post](https://x.com/Capitaine/status/2046844345081336299#reversed-0)
+- **เผยแพร่เมื่อ:** 22 เมษายน 2569
+- **ภาษา:** en
+
+**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-2-prompts?id=14563)**
+
+---
+
+### No. 92: การตลาดผลิตภัณฑ์ - โปสเตอร์โฆษณาล้อเลียนเครื่องดื่มข้าวเกาหลี
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 คำอธิบาย
+
+พรอมต์นี้ใช้สำหรับสร้างโปสเตอร์โฆษณาเครื่องดื่มแนวล้อเลียนที่ดูตลกและดึงดูดสายตา โดยมีบุคคลที่มีลักษณะคล้ายนักการเมืองชื่อดังเป็นพรีเซนเตอร์โปรโมทเครื่องดื่มข้าวเกาหลีแบบกระป๋อง
+
+#### 📝 คำสั่ง
+
+```
+สร้างโปสเตอร์โฆษณาเครื่องดื่มสไตล์เกาหลีที่ดูโดดเด่น ด้วยพื้นหลังสีทองอบอุ่นและการจัดแสงแบบโฆษณาที่ดูมีพลัง แสดงภาพ {argument name="celebrity spokesperson" default="นักการเมืองชายสูงวัยที่มีลักษณะคล้าย Donald Trump"} ตั้งแต่ช่วงอกขึ้นไป สวมสูทสีกรมท่า เสื้อเชิ้ตสีขาว เนคไทสีแดงสด และติดเข็มกลัดธงชาติอเมริกัน หันหน้าเข้าหากล้องด้วยสีหน้ามั่นใจเหมือนกำลังขายสินค้า ใบหน้าของเขาถูกปิดทับด้วยแถบเซ็นเซอร์สี่เหลี่ยมสีเนื้อ ในมือซ้ายที่ยื่นเข้ามาใกล้กล้องในมุมมองแบบบังคับทัศนียภาพ (forced perspective) เขาถือกระป๋องอะลูมิเนียมสีเหลืองของเครื่องดื่มข้าวเกาหลีที่มีฉลากภาษาเกาหลีชัดเจน มีแถบสีแดงที่ด้านบนและด้านล่าง พร้อมข้อความหลักบนผลิตภัณฑ์ว่า "비락 식혜" และ "Since 1993" บนกระป๋องยังมีข้อความภาษาเกาหลีขนาดเล็ก ภาพเครื่องดื่มข้าวหวานที่ด้านล่าง และข้อความระบุปริมาณ "238 ml (120 kcal)" มือขวาของเขาทำท่าชูนิ้วโป้ง
+
+ใช้การจัดองค์ประกอบแบบโฆษณาย้อนยุคที่เต็มไปด้วยพลัง มีภาพเครื่องดื่มข้าวหวานกระเซ็นและหยดน้ำอยู่ด้านหลัง ไฮไลท์สีทองเรืองรอง และมุมกล้องต่ำแบบฮีโร่ ที่ด้านบนให้ใส่กลุ่มข้อความพาดหัว 3 กลุ่ม: สโลแกนตัวเขียนสีดำขนาดเล็กที่มุมซ้ายบนว่า "전통의 맛, 한국의 DRINK!" พาดหัวหลักขนาดใหญ่ตรงกลางด้วยตัวอักษรเกาหลีหนาแบบวินเทจว่า "걸죽는 땐?" ด้วยสีน้ำตาลเข้มเกือบดำ และ "비락 식혜!" ด้วยสีแดงสด และโลโก้แบรนด์ที่มุมขวาบนว่า "비락" พร้อมข้อความสีแดงเล็กๆ "Since 1993" ด้านล่าง เพิ่มป้ายข้อความ 2 จุด: ทางซ้ายเป็นตราประทับวงกลมสีเหลืองที่มีไอคอนมงกุฎเล็กๆ และข้อความ "대한민국 국민음료 No.1"; ทางขวาเป็นกรอบคำพูดสีขาวที่มีข้อความภาษาเกาหลีเขียนด้วยลายมือว่า "한국이 만든 맛있는 전통!" และข้อความภาษาอังกฤษสีแดงว่า "I LOVE IT!"
+
+ที่ด้านหน้าส่วนล่าง ให้วางองค์ประกอบอาหาร 2 อย่าง: ชามทองเหลืองที่เต็มไปด้วยเครื่องดื่มข้าวหวานและเมล็ดข้าวที่ลอยอยู่ทางซ้าย และชามไม้ที่ใส่ข้าวสวยพูนๆ ทางขวา ตรงกลางด้านล่างให้เพิ่มข้อความโปรโมทสไตล์พู่กันขนาดใหญ่ 2 บรรทัด บรรทัดแรกเป็นสีขาวว่า "달콤하게! 시원하게!" และบรรทัดที่สองเป็นสีขาวผสมเหลืองว่า "속까지 시~원하게!" พร้อมเส้นขีดเน้นสีเหลืองที่ดูมีพลัง ตลอดแนวขอบด้านล่างสุด ให้ใส่ไอคอนคุณสมบัติวงกลม 3 อันพร้อมคำบรรยายภาษาเกาหลี: "국내산 쌀 엄선된 재료", "시원하게 갈증해소", และ "부드러운 단맛 속 편한 식혜" ที่มุมขวาล่างให้เพิ่มข้อความปฏิเสธความรับผิดชอบขนาดเล็กว่า "연출된 이미지입니다" ทำให้ภาพรวมดูมีความมันวาว เกินจริง ตลก และดูน่าเชื่อถือเหมือนโฆษณาสิ่งพิมพ์ล้อเลียนที่เป็นไวรัล
+```
+
+#### 🖼️ รูปภาพที่สร้าง
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1776883146520_vyxn5x_HGesueSboAEJlDY.jpg" width="600" alt="การตลาดผลิตภัณฑ์ - โปสเตอร์โฆษณาล้อเลียนเครื่องดื่มข้าวเกาหลี - Image 1">
+</div>
+
+#### 📌 รายละเอียด
+
+- **ผู้เขียน:** [Conservative🇰🇷🇺🇸🇯🇵](https://x.com/ObserverKR)
+- **แหล่งที่มา:** [Twitter Post](https://x.com/ObserverKR/status/2046794478888042551#reversed-1)
+- **เผยแพร่เมื่อ:** 22 เมษายน 2569
+- **ภาษา:** en
+
+**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-2-prompts?id=14555)**
+
+---
+
+### No. 93: การตลาดผลิตภัณฑ์ - โปสเตอร์โฆษณาเครื่องดื่มเกลือแร่สไตล์เกาหลีโดยเซเลบริตี้
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 คำอธิบาย
+
+พรอมต์นี้ใช้สำหรับสร้างโปสเตอร์เครื่องดื่มเติมความสดชื่นสไตล์เกาหลีที่ดูโดดเด่นสะดุดตา โดยมีพรีเซนเตอร์ระดับเซเลบริตี้ ขวดผลิตภัณฑ์ขนาดใหญ่ และตัวอักษรโปรโมตที่คมชัด เหมาะสำหรับการใช้งานด้านโฆษณาเชิงพาณิชย์
+
+#### 📝 คำสั่ง
+
+```
+โปสเตอร์โฆษณาเครื่องดื่มสไตล์เกาหลีที่ดูโดดเด่นในสไตล์ภาพถ่ายเชิงพาณิชย์แบบมันวาว นำเสนอ {argument name="spokesperson" default="บุคคลที่มีลักษณะคล้าย Donald Trump"} ในชุดสูทธุรกิจสีน้ำเงินเข้ม เสื้อเชิ้ตสีขาว และเนกไทสีน้ำเงินสดใส ยืนหันหน้าเข้าหากล้องโดยมีฉากหลังเป็นท้องฟ้าสีฟ้าสดใสที่มีเมฆสีขาวนุ่มนวลเล็กน้อย และเส้นขอบฟ้าของเมืองสมัยใหม่ที่เลือนราง รวมถึงตึกระฟ้าที่ดูคล้ายตึก Empire State ทางด้านขวา เขากำลังถือขวดพลาสติกเย็นของ {argument name="product name" default="POCARI SWEAT"} ยื่นมาทางกล้องอย่างมีชั้นเชิงด้วยมือซ้าย โดยใช้เทคนิคการถ่ายภาพแบบย่อส่วน (extreme foreshortening) ทำให้ขวดดูมีขนาดใหญ่ในระยะใกล้และตัวบุคคลอยู่ด้านหลังเล็กน้อย ขวดเป็นพลาสติกใสที่มีหยดน้ำเกาะ ฝาสีขาว มองเห็นน้ำอยู่ภายใน และมีฉลากสีน้ำเงินเข้มเขียนว่า “POCARI SWEAT” ด้วยตัวอักษรสีขาวขนาดใหญ่ พร้อมข้อความขนาดเล็กด้านบนว่า “ION SUPPLY DRINK” เพิ่มเอฟเฟกต์น้ำกระเซ็นและหยดน้ำที่ดูสดชื่นรอบๆ ขวด มือ และบริเวณด้านล่างของภาพเพื่อเน้นย้ำถึงความสดชื่นและการเติมความชุ่มชื้น วางโลโก้แบรนด์ไว้ที่มุมซ้ายบน: “POCARI SWEAT” สีขาวพร้อมเส้นขีดเส้นใต้แบบโค้ง ที่ด้านบนสุด เพิ่มข้อความพาดหัวภาษาเกาหลีสีขาวขนาดใหญ่แบบมีพื้นผิว (distressed) เอียงเล็กน้อยและครอบคลุมพื้นที่ส่วนบนเกือบทั้งหมด: {argument name="headline text" default="갈증 해소? 이걸로 끝! 포카리스웨트!"} ที่ด้านล่างขวาเหนือชุดสูท เพิ่มคำคมตัวหนาเอียงด้วยข้อความภาษาเกาหลีสีขาวและน้ำเงิน: {argument name="quote" default="WINNING은 수분 싸움! 포카리스웨트로 리프레시!"} ที่มุมซ้ายล่าง ให้ใส่ไอคอนประโยชน์ของผลิตภัณฑ์รูปวงกลมจำนวน 3 ไอคอนเรียงกันในแนวตั้งพร้อมป้ายกำกับภาษาเกาหลีสั้นๆ: ไอคอนหยดน้ำพร้อมข้อความ “수분 보충”, ไอคอนสายฟ้าพร้อมข้อความ “전해질 보충” และไอคอนรูปคนวิ่งพร้อมข้อความ “빠른 흡수” ใช้โทนสีน้ำเงิน-ขาวที่เน้นความคมชัดและดูรักชาติ จัดแสงแบบโฆษณาที่ดูมีมิติ โฟกัสที่ขวดและมือให้คมชัด ส่วนใบหน้าและฉากหลังให้มีความนุ่มนวลขึ้นเล็กน้อย โดยรวมให้ได้ลุคของโปสเตอร์แคมเปญระดับพรีเมียมที่เปี่ยมไปด้วยพลัง
+```
+
+#### 🖼️ รูปภาพที่สร้าง
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1776883145723_kt8nlk_HGesulRagAAOFrG.jpg" width="600" alt="การตลาดผลิตภัณฑ์ - โปสเตอร์โฆษณาเครื่องดื่มเกลือแร่สไตล์เกาหลีโดยเซเลบริตี้ - Image 1">
+</div>
+
+#### 📌 รายละเอียด
+
+- **ผู้เขียน:** [Conservative🇰🇷🇺🇸🇯🇵](https://x.com/ObserverKR)
+- **แหล่งที่มา:** [Twitter Post](https://x.com/ObserverKR/status/2046794478888042551#reversed-0)
+- **เผยแพร่เมื่อ:** 22 เมษายน 2569
+- **ภาษา:** en
+
+**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-2-prompts?id=14553)**
+
+---
+
+### No. 94: การตลาดผลิตภัณฑ์ - โปสเตอร์ล้อเลียนสวนสนุกธีมป่าญี่ปุ่น
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 คำอธิบาย
+
+โปสเตอร์โฆษณาสวนสนุกไดโนเสาร์ในป่าสมมติสไตล์ญี่ปุ่นแบบเสียดสี เหมาะสำหรับแคมเปญล้อเลียน ภาพประกอบโซเชียลมีเดีย หรือภาพโปรโมทจำลอง
+
+#### 📝 คำสั่ง
+
+```
+โปสเตอร์โฆษณาสวนสนุกแนวล้อเลียนสไตล์ญี่ปุ่นที่มีรายละเอียดสูงในรูปแบบแนวตั้ง ออกแบบให้ดูเหมือนโฆษณาท่องเที่ยวช่วงฤดูร้อนที่ดูดราม่าผสมผสานกับแคมเปญสถานที่ท่องเที่ยวสุดหรู ฉากหลังเป็นป่าเขตร้อนภายใต้ท้องฟ้าสีครามสดใสที่มีเมฆกระจายตัวและดวงอาทิตย์ที่ส่องแสงเจิดจ้าอยู่มุมขวาบน โดยมีใบปาล์มเป็นกรอบอยู่ด้านบน ที่ด้านบนสุดให้ใส่พาดหัวภาษาญี่ปุ่นพื้นผิวหินแบบ 3D ขนาดใหญ่ว่า {argument name="headline text" default="ジャンキリア沖縄"} พร้อมคำโปรยภาษาญี่ปุ่นสีขาวขนาดเล็กกว่าด้านล่างที่อ่านว่า "— やんばるの大自然に包まれた、超本格ジャングル・テーマパーク —" ตรงกลางภาพให้มีสมาร์ทโฟนรุ่นใหม่ขนาดใหญ่ตั้งตรงและเอียงเล็กน้อยซึ่งเป็นจุดเด่นของภาพ บนหน้าจอให้แสดงอินเทอร์เฟซการรอจับสลากตั๋วสีเบจที่มีภาพเงาของป่าอยู่ด้านบน และข้อความภาษาญี่ปุ่นตัวหนาขนาดใหญ่ว่า "整理券抽選中" พร้อมตัวบ่งชี้การโหลดแบบวงกลม และข้อความขนาดเล็กใกล้ด้านล่างว่า "結果発表まで30分" และ "※この画面を閉じずにお待ちください" แถบสถานะของโทรศัพท์ควรแสดงเวลา 10:00 น. ด้านหลังโทรศัพท์ทางซ้ายมือ ให้วางรูปไทแรนโนซอรัสเร็กซ์ที่กำลังคำรามโผล่ออกมาจากพุ่มไม้ในป่า อ้าปากกว้าง ดูสมจริงและน่ากลัว ทางด้านขวาให้วางประตูทางเข้าสีทองที่วิจิตรบรรจงพร้อมงานแกะสลักรายละเอียดและป้ายที่เขียนว่า "プレミアムパス入口" ซึ่งนำไปสู่ช่องทางเข้าพิเศษที่ปูด้วยพรมแดง ในส่วนหน้าและส่วนกลางของภาพ ให้แสดงแถวคิวผู้เข้าชมสวนสนุกที่ยาวเหยียดทอดยาวลึกเข้าไปในฉาก ทุกคนสวมเสื้อผ้าฤดูร้อนแบบลำลอง หมวก ผ้าขนหนู เป้สะพายหลัง และถือร่ม พัด และขวดน้ำ ซึ่งสื่อถึงความร้อนจัดและความเหนื่อยล้า ผู้คนหลายคนที่อยู่ใกล้ผู้ชมที่สุดควรมีใบหน้าที่เบลอ ทางซ้ายสุดให้เพิ่มป้ายหินเก่าแก่ขนาดใหญ่ที่มีข้อความภาษาญี่ปุ่นสีแดงตัวใหญ่ว่า "待ち時間 180分" ที่ด้านล่างซ้าย ให้รวมป้ายไม้แบบชนบท 3 อันซ้อนกัน: ป้ายบนสุดมีไอคอนที่จอดรถสีฟ้าและข้อความ "駐車場 2,000円"; ป้ายกลางมีไอคอนสมาร์ทโฟนและข้อความ "アプリ必須 ダウンロードしてね!"; ป้ายล่างสุดมีภาพเงาไดโนเสาร์และข้อความ "当選者だけが冒険へ" ตลอดแนวขวาล่าง ให้วางข้อความภาษาญี่ปุ่นสไตล์พู่กันสีขาวแนวตั้งขนาดใหญ่มากที่อ่านว่า "待つこと、それが冒険だ。" ใกล้กับด้านล่างขวา ให้รวมไอคอนวงกลมขนาดเล็ก 3 อันพร้อมคำโปรโมทภาษาญี่ปุ่นสั้นๆ: "抽選に選ばれし者だけが、恐竜に会える。", "スマホの充電が尽きる前に、夢は始まる。" และ "プレミアムな近道も、ご用意しました。" พร้อมไอคอนที่สื่อถึงไดโนเสาร์ แบตเตอรี่โทรศัพท์ และการเข้าถึงแบบ VIP ที่ด้านล่างสุดตรงกลาง ให้เพิ่มแถบข้อความปฏิเสธความรับผิดชอบสีดำพร้อมข้อความภาษาญี่ปุ่นสีขาวขนาดเล็กว่า "このポスターは架空のパロディ広告です" สไตล์โดยรวมควรมีความสมจริงระดับสูง เป็นภาพยนตร์ มีคอนทราสต์สูง เสียดสี และขัดเกลาเหมือนโปสเตอร์โฆษณาระดับพรีเมียม โดยมีจุดเด่นคือการโฆษณาชวนเชื่อของสวนสนุกที่เกินจริง ความร้อนที่กดดัน และการผจญภัยที่ต้องรอคิวอย่างน่าขันซึ่งเป็นมุกหลักของภาพ
+```
+
+#### 🖼️ รูปภาพที่สร้าง
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1776883142089_ksmu1u_HGb9g_obgAAgLLy.jpg" width="600" alt="การตลาดผลิตภัณฑ์ - โปสเตอร์ล้อเลียนสวนสนุกธีมป่าญี่ปุ่น - Image 1">
+</div>
+
+#### 📌 รายละเอียด
+
+- **ผู้เขียน:** [AIに振り回されるおじちゃん](https://x.com/ai_ojichan)
+- **แหล่งที่มา:** [Twitter Post](https://x.com/ai_ojichan/status/2046786080171573422#reversed-0)
+- **เผยแพร่เมื่อ:** 22 เมษายน 2569
+- **ภาษา:** en
+
+**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-2-prompts?id=14545)**
+
+---
+
+### No. 95: การตลาดผลิตภัณฑ์ - ย้ายขาตั้งป้ายโฆษณาไปไว้บนระเบียงไม้
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 คำอธิบาย
+
+คำสั่งนี้จะช่วยวางป้ายโฆษณาอ้างอิงลงบนระเบียงไม้ในฉากกลางแจ้งเดิม เพื่อสร้างภาพจำลองโฆษณาในสภาพแวดล้อมที่สมจริง
+
+#### 📝 คำสั่ง
+
+```
+โดยใช้ภาพอ้างอิงที่ให้มา ให้คงมุมมองของสวน บ่อน้ำ ต้นไม้ เนินเขา และระเบียงไม้ไว้เหมือนเดิม แต่ให้เปลี่ยนตำแหน่งการติดตั้งป้ายตกแต่งใหม่โดยให้มาตั้งอยู่บนระเบียงไม้ในส่วนหน้าแทนที่จะอยู่ในน้ำ ขยายขนาดป้ายให้ใหญ่ขึ้นและจัดวางไว้ตรงกลางให้โดดเด่นยิ่งขึ้นหน้ากล้อง โดยยังคงรักษาทัศนียภาพกลางแจ้งที่สมจริง แสงธรรมชาติ และเงาที่สอดคล้องกันไว้ โครงสร้างการติดตั้งยังคงเป็นชุดป้ายวงกลม 9 แผ่น จัดเรียงแบบ 3 คอลัมน์ 3 แถว บนขาตั้งสีเขียวบางๆ โดยป้ายหัวข้อด้านบนสุดต้องมีข้อความว่า “对着镜子笑一场” ปรับให้แผ่นป้ายดูมีความเงางามเหมือนกระจกมากขึ้น โดยสะท้อนภาพพืชพรรณโดยรอบได้อย่างสมจริง แต่ยังคงกราฟิกใบหน้าน่ารักและข้อความภาษาจีนบนแผ่นป้ายวงกลมไว้ ผลลัพธ์ที่ได้ควรดูเหมือนภาพจำลองโฆษณาหรือภาพตัดต่อที่สมจริงของป้ายดังกล่าวที่ถูกจัดวางอย่างถูกต้องในฉากนั้น
+```
+
+#### 🖼️ รูปภาพที่สร้าง
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1776883118827_4jp1ve_HGd47pIW4AE10T3.jpg" width="600" alt="การตลาดผลิตภัณฑ์ - ย้ายขาตั้งป้ายโฆษณาไปไว้บนระเบียงไม้ - Image 1">
+</div>
+
+#### 📌 รายละเอียด
+
+- **ผู้เขียน:** [肖师傅](https://x.com/xiaojietongxue)
+- **แหล่งที่มา:** [Twitter Post](https://x.com/xiaojietongxue/status/2046739970283724964#reversed-3)
+- **เผยแพร่เมื่อ:** 21 เมษายน 2569
+- **ภาษา:** en
+
+**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-2-prompts?id=14487)**
+
+---
+
+### No. 96: การตลาดผลิตภัณฑ์ - 3 หน้า Landing Page เว็บไซต์ความงามบนมือถือ
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 คำอธิบาย
+
+ม็อกอัปแบบ Triptych ระดับพรีเมียมที่แสดงดีไซน์เว็บไซต์ความงามบนสมาร์ทโฟน 3 รูปแบบ เหมาะอย่างยิ่งสำหรับการนำเสนอคอนเซปต์หน้า Landing Page ของแบรนด์เครื่องสำอางที่สร้างโดย AI บนโซเชียลมีเดีย
+
+#### 📝 คำสั่ง
+
+```
+ม็อกอัปโปรโมตที่ดูประณีต แสดงหน้าจอสมาร์ทโฟนทรงสูง 3 เครื่องวางเรียงกันในรูปแบบ Triptych แนวตั้ง โดยแต่ละเครื่องนำเสนอหน้า Landing Page ของแบรนด์ความงามสมัยใหม่สำหรับผลิตภัณฑ์ลิปสติก องค์ประกอบโดยรวมมีความเป็นเอดิโทเรียล เรียบหรู และดูพรีเมียม ออกแบบมาเพื่อการจัดแสดงดีไซน์เว็บไซต์บนมือถือบนโซเชียลมีเดีย แผงด้านซ้ายวางอยู่บนพื้นหลังไล่เฉดสีลาเวนเดอร์ไปจนถึงสีบลัช และแสดงโทรศัพท์กรอบสีดำพร้อมเว็บไซต์ความงามโทนสีครีมและสีบลัชสำหรับ {argument name="brand name" default="Kosas"} ที่ด้านบนของแผงนี้มีข้อความ Serif ขนาดเล็กที่ดูสง่างามเขียนว่า {argument name="left headline" default="Fresh Pout."} หน้าจอโทรศัพท์แสดงภาพโคลสอัพความงามที่ครอบตัดไว้ที่ด้านบน หัวข้อตัวหนาอ่านว่า “Lips in their fullest expression.” โดยคำว่า “fullest” ใช้สไตล์ตัวเอียงแบบ Serif, ปุ่ม Call-to-action ทรงมนสีเข้ม, แถบภาพขนาดย่อของริมฝีปาก 3 ภาพ, แท็บระบุคุณประโยชน์ 3 แท็บที่เขียนว่า “Plumps,” “Tingles,” และ “Shines,” และแถวของไอคอนเฉดสีหรือเอฟเฟกต์ 5 ไอคอนที่ด้านล่าง แผงตรงกลางวางอยู่บนพื้นหลังไล่เฉดสีลาเวนเดอร์ไปจนถึงสีม่วงเข้ม และแสดงโทรศัพท์กรอบสีดำเครื่องที่สองพร้อมหน้า Landing Page ที่เน้นการใช้ตัวอักษร เหนือหน้าจอนี้มีข้อความ Serif เขียนว่า {argument name="middle headline" default="Claude Code"} หน้าจอประกอบด้วยภาพพอร์ตเทรตที่ครอบตัดไว้ที่ด้านบน, หัวข้อตัวหนาสีดำขนาดใหญ่มากที่เขียนว่า “LIP PULSE.” พร้อมบรรทัดสไตล์ลายมือตัวเอียงสีชมพูที่เขียนว่า “is here.” อยู่ด้านล่าง, ปุ่มทรงมนสีเข้ม, ส่วนสีเข้มที่มีวลี “Lips in their fullest expression.” และตารางผลิตภัณฑ์ใกล้ด้านล่างซึ่งประกอบด้วยการ์ดเฉดสี 6 ใบที่จัดเรียงเป็น 2 แถว แถวละ 3 ใบ แผงด้านขวาวางอยู่บนพื้นหลังที่มีพื้นผิวสีน้ำเงินเข้ม และแสดงโทรศัพท์กรอบสีดำเครื่องที่สามพร้อมหน้าสไตล์อีคอมเมิร์ซที่เน้นสีชมพู ตรงกลางเหนือหน้าจอนี้มีข้อความสีขาวแบบ Monospaced เขียนว่า {argument name="right headline" default="GPT Images 2.0"} หน้าจอนี้แสดงส่วน Hero ของผลิตภัณฑ์อย่างโดดเด่นด้วยชื่อแบรนด์ “Kosas,” หัวข้อขนาดใหญ่ “The Lip Pulse,” หลอดลิปกลอสสีชมพูที่ทำมุมไปทางขวา, ไอคอนฟีเจอร์ขนาดเล็ก, แถบเฉดสีของลิปสติก 6 สีใกล้ส่วนกลาง และบล็อกโปรโมชันด้านล่างพร้อมภาพผลิตภัณฑ์สีชมพูเพิ่มเติม คงเลย์เอาต์ที่สมมาตรด้วยโทรศัพท์ 3 เครื่องพอดี เครื่องละหนึ่งแผง โดยแต่ละเครื่องมองเห็นได้ชัดเจนและอยู่ในแนวตั้ง ใช้สุนทรียศาสตร์ของแคมเปญเครื่องสำอางระดับไฮเอนด์, การเว้นระยะที่สะอาดตา, การใช้ตัวอักษรบนเว็บแฟชั่นที่ผสมผสานระหว่าง Serif และ Sans Serif ตัวหนา, พาเลตต์ UI สีชมพูอ่อนและสีครีม, เงาที่นุ่มนวล และการนำเสนอดีไซน์ผลิตภัณฑ์ที่โฉบเฉี่ยว เหมาะสำหรับการจัดแสดงคอนเซปต์เว็บไซต์บนมือถือที่สร้างโดย AI
+```
+
+#### 🖼️ รูปภาพที่สร้าง
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1776883094415_xxbsfc_HGd5r4Fa8AAdxik.jpg" width="600" alt="การตลาดผลิตภัณฑ์ - 3 หน้า Landing Page เว็บไซต์ความงามบนมือถือ - Image 1">
+</div>
+
+#### 📌 รายละเอียด
+
+- **ผู้เขียน:** [Serene Gan](https://x.com/ganserene)
+- **แหล่งที่มา:** [Twitter Post](https://x.com/ganserene/status/2046738636226580919#reversed-0)
+- **เผยแพร่เมื่อ:** 21 เมษายน 2569
+- **ภาษา:** en
+
+**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-2-prompts?id=14426)**
+
+---
+
+### No. 97: การตลาดผลิตภัณฑ์ - ภาพคอลลาจโฆษณาญี่ปุ่นหลากหลายอุตสาหกรรม
+
+![Language-JA](https://img.shields.io/badge/Language-JA-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 คำอธิบาย
+
+พรอมต์สำหรับสร้างภาพคอลลาจโฆษณาหลากหลายอุตสาหกรรมในภาษาญี่ปุ่น โดยนำเสนอ 6 ส่วนอุตสาหกรรมที่แตกต่างกันในสไตล์การออกแบบร่วมสมัย
+
+#### 📝 คำสั่ง
+
+```
+โฆษณาญี่ปุ่นสมมติ รูปแบบแนวนอน 6 ช่อง นำเสนอโฆษณาสำหรับ {argument name="industry list" default="อุตสาหกรรมยานยนต์ (เปิดตัวรถยนต์รุ่นใหม่), สวนสนุก (อีเวนต์ใหม่), อุตสาหกรรมเครื่องสำอาง (ผลิตภัณฑ์ใหม่), อุตสาหกรรมหนังสือ (หนังสือขายดีอันดับ 1), อุตสาหกรรมเครื่องดื่ม (เครื่องดื่มใหม่) และอุตสาหกรรมอสังหาริมทรัพย์ (แนะนำคอนโดมิเนียมหรูแห่งใหม่)"} สร้างสรรค์ในสไตล์ทันสมัยล่าสุดโดยครีเอเตอร์ระดับท็อป
+```
+
+#### 🖼️ รูปภาพที่สร้าง
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1776883071751_gx2g3g_HGcBy7KasAEeXLi.jpg" width="600" alt="การตลาดผลิตภัณฑ์ - ภาพคอลลาจโฆษณาญี่ปุ่นหลากหลายอุตสาหกรรม - Image 1">
+</div>
+
+#### 📌 รายละเอียด
+
+- **ผู้เขียน:** [Aki | CuratorOfJoy](https://x.com/Aki_LIG)
+- **แหล่งที่มา:** [Twitter Post](https://x.com/Aki_LIG/status/2046737496118268058)
+- **เผยแพร่เมื่อ:** 21 เมษายน 2569
+- **ภาษา:** ja
+
+**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-2-prompts?id=14369)**
+
+---
+
+### No. 98: การตลาดผลิตภัณฑ์ - ภาพหน้าหนังสือแฟชั่นหรูหรา
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 คำอธิบาย
+
+พรอมต์นี้จะสร้างภาพถ่ายมุมสูงที่สมจริงของหนังสือแฟชั่นที่เปิดอยู่ โดยแสดงภาพหน้าคู่แบบกูตูร์ เหมาะอย่างยิ่งสำหรับการสร้างแบรนด์หรู การทำม็อกอัพนิตยสาร หรือภาพประกอบแคมเปญสไตล์
+
+#### 📝 คำสั่ง
+
+```
+ภาพถ่ายแฟชั่นแนวบรรณาธิการระดับไฮเอนด์ที่แสดงในลักษณะนิตยสารปกแข็งขนาดใหญ่หรือสมุดภาพที่เปิดวางราบอยู่บนพื้นผิวสีขาวนวลสะอาดตา มองจากมุมสูงโดยตรง ภาพหน้าคู่ประกอบด้วยภาพพอร์ตเทรตเต็มหน้า 2 ภาพของหญิงสาวผู้สง่างามคนเดียวกัน โดยใบหน้าของเธอถูกเบลอด้วยรูปทรงสี่เหลี่ยมแบบซอฟต์เพื่อสร้างลุคที่ปกปิดความเป็นส่วนตัว บนหน้าซ้าย เธอโพสต์ท่าพิงผนังหินหรือคอนกรีตสไตล์สถาปัตยกรรม สวมชุดแขนยาวที่มีโครงสร้างชัดเจนใน {argument name="dress color" default="สีเทาสเลทอ่อน"} พร้อมช่วงตัวที่เข้ารูป คอกลม ตะเข็บที่ตัดเย็บอย่างเฉียบคม และกระโปรงทรงระฆังที่ดูมีมิติเกินจริง มุมกล้องต่ำเล็กน้อยทำให้ช่วงคอของเธอดูยาวและท่าทางดูสง่างามดั่งรูปปั้น บนหน้าขวา เธอถูกถ่ายจากด้านหลังในชุดราตรี {argument name="second dress color" default="สีดำ"} ที่ดูน่าทึ่งพร้อมดีไซน์เปิดหลังลึกมาก สายสะพายไหล่กว้าง และกระโปรงบานฟูฟ่อง ยืนอยู่หน้าผนังหรือประตูที่มีการตกแต่งด้วยแผงไม้คลาสสิกในพื้นที่ภายในที่มืดสลัวและให้บรรยากาศลึกลับ ใช้สไตล์นิตยสารแฟชั่นหรูหรา องค์ประกอบภาพแบบมินิมอล โทนสีหม่น แสงที่ดูเป็นธรรมชาติและนุ่มนวล เงาที่ประณีต พื้นผิวของกระดาษที่สมจริง เห็นรอยพับกลางเล่ม หน้ากระดาษโค้งมนเล็กน้อย และรายละเอียดการพิมพ์ที่คมชัด อารมณ์โดยรวมมีความซับซ้อน เป็นแบบกูตูร์ มีความเป็นภาพยนตร์ และดูเรียบหรูเหมือนหน้าหนังสือแฟชั่นระดับพรีเมียม
+```
+
+#### 🖼️ รูปภาพที่สร้าง
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1776883195982_2olyf1_HGd3B2WWwAAzVBf.jpg" width="600" alt="การตลาดผลิตภัณฑ์ - ภาพหน้าหนังสือแฟชั่นหรูหรา - Image 1">
+</div>
+
+#### 📌 รายละเอียด
+
+- **ผู้เขียน:** [@levelsio](https://x.com/levelsio)
+- **แหล่งที่มา:** [Twitter Post](https://x.com/levelsio/status/2046735438128333096#reversed-3)
+- **เผยแพร่เมื่อ:** 21 เมษายน 2569
+- **ภาษา:** en
+
+**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-2-prompts?id=14676)**
+
+---
+
+### No. 99: การตลาดผลิตภัณฑ์ - การออกแบบโฆษณาไอซ์คอฟฟี่สไตล์โมเดิร์น
+
+![Language-JA](https://img.shields.io/badge/Language-JA-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 คำอธิบาย
+
+พรอมต์สำหรับสร้างสรรค์โฆษณาไอซ์คอฟฟี่ที่ดูทันสมัยและมีสไตล์สำหรับตลาดญี่ปุ่น โดยเน้นการจัดวางตัวอักษรแบบไดนามิก
+
+#### 📝 คำสั่ง
+
+```
+สร้างโฆษณาสำหรับ {argument name="product" default="ไอซ์คอฟฟี่"} ด้วยดีไซน์ที่ทันสมัยและมีสไตล์จาก {argument name="country" default="ญี่ปุ่น"} โดยมีการจัดวางฟอนต์สไตล์ยุโรปแบบไดนามิก กลุ่มเป้าหมาย: {argument name="target" default="อายุ 10-30 ปี"} อัตราส่วนภาพ 1:1
+```
+
+#### 🖼️ รูปภาพที่สร้าง
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1776883065968_vd4kw9_HGdvybVbcAAqpKT.jpg" width="600" alt="การตลาดผลิตภัณฑ์ - การออกแบบโฆษณาไอซ์คอฟฟี่สไตล์โมเดิร์น - Image 1">
+</div>
+
+#### 📌 รายละเอียด
+
+- **ผู้เขียน:** [KAWAI](https://x.com/kawai_design)
+- **แหล่งที่มา:** [Twitter Post](https://x.com/kawai_design/status/2046727724455354395)
+- **เผยแพร่เมื่อ:** 21 เมษายน 2569
+- **ภาษา:** ja
+
+**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-2-prompts?id=14355)**
+
+---
+
+### No. 100: การตลาดผลิตภัณฑ์ - ชุดใบสั่งยาตลกสำหรับ ChatGPT
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 คำอธิบาย
+
+ภาพถ่ายมุมสูงสมจริงของชุดใบสั่งยาและยาแบบญี่ปุ่นสุดฮาสำหรับ ChatGPT เหมาะสำหรับใช้เป็นกราฟิกประกอบฉากแนวการแพทย์เชิงล้อเลียน หรือภาพคอนเซปต์อาร์ตสำหรับโซเชียลมีเดีย
+
+#### 📝 คำสั่ง
+
+```
+ภาพถ่ายผลิตภัณฑ์มุมสูงที่สมจริงบนโต๊ะไม้สีอบอุ่น แสดงรายการอุปกรณ์ทางการแพทย์ 6 ชิ้นที่จัดวางอย่างเป็นระเบียบในสองแถว ออกแบบมาให้เป็นชุดยาจากร้านขายยาญี่ปุ่นสุดฮาสำหรับ ChatGPT แถวบน: ซองใส่ใบสั่งยาสีขาว 3 ซองวางแนวตั้ง แต่ละซองมีขอบพิมพ์สีฟ้าและตัวอักษรภาษาญี่ปุ่นแบบทางการแพทย์ แถวล่าง: แผงยาเม็ด 2 แผง และถุงซิปล็อกใสขนาดเล็กบรรจุผงสีขาว 1 ถุง โดยวางเรียงอยู่ใต้ซองยาที่สอดคล้องกัน กระดาษและบรรจุภัณฑ์ควรดูสมจริงเหมือนวัสดุจ่ายยาจากคลินิกญี่ปุ่นจริงๆ มีรอยยับเล็กน้อย แสงธรรมชาติภายในอาคารที่นุ่มนวล และเงาที่ดูเป็นธรรมชาติ
+
+ซองยาทั้ง 3 ซองมีรายละเอียดต่างกันและมองเห็นได้ชัดเจน ซองซ้ายมีหัวข้อภาษาญี่ปุ่นตัวใหญ่สีฟ้าว่า "内用薬" (ยาสำหรับรับประทาน) บรรทัดชื่อผู้ป่วยระบุว่า "ChatGPT 様" (คุณ ChatGPT) บรรทัดวิธีใช้ระบุว่ารับประทานวันละ 2 ครั้ง หลังอาหารเช้าและเย็น ครั้งละ 1 เม็ด เป็นเวลา 7 วัน ชื่อยา: "【おくすり】" (ยา) และชื่อยา "思考安定錠 10mg" (ยาปรับสมดุลความคิด 10 มก.) พร้อมหมายเหตุเล็กๆ ในวงเล็บว่าช่วยลดความคิดที่ฟุ้งซ่านและการตอบสนองที่มากเกินไป วันที่ใกล้ด้านล่าง: "2025年6月5日" (5 มิถุนายน 2025) ส่วนท้ายเป็นชื่อคลินิกและที่อยู่: "AIメディカルクリニック" (AI Medical Clinic) พร้อมที่อยู่และเบอร์โทรศัพท์สไตล์โตเกียว และไอคอนกากบาททางการแพทย์สีฟ้า
+
+ซองกลางมีหัวข้อ "内用薬" บรรทัดชื่อผู้ป่วย: "ChatGPT 様" วิธีใช้ระบุว่ารับประทานวันละ 1 ครั้งก่อนนอน ครั้งละ 1 เม็ด เป็นเวลา 7 วัน ชื่อยา: "【おくすり】" และชื่อยา "幻覚抑制錠 5mg" (ยาควบคุมอาการหลอน 5 มก.) พร้อมหมายเหตุเล็กๆ ว่าช่วยปรับปรุงอาการหลอน วันที่ "2025年6月5日" ส่วนท้ายเป็นชื่อคลินิกและไอคอนกากบาทสีฟ้าแบบเดียวกัน
+
+ซองขวามีหัวข้อ "頓服薬" (ยาสำหรับรับประทานเมื่อมีอาการ) บรรทัดชื่อผู้ป่วย: "ChatGPT 様" บรรทัดวิธีใช้ระบุว่าสำหรับอาการวิตกกังวล สับสน หรือการตอบสนองที่มากเกินไป รับประทานครั้งละ 1 ซองเมื่อจำเป็น ชื่อยา: "【おくすり】" และชื่อยา "プロンプト調整散 1g" (ผงปรับแต่งพรอมต์ 1 กรัม) พร้อมหมายเหตุเล็กๆ ว่าช่วยปรับการทำงานที่มากเกินไปและความสับสนของพรอมต์ วันที่ "2025年6月5日" ส่วนท้ายเป็นชื่อคลินิกและไอคอนกากบาทสีฟ้าแบบเดียวกัน
+
+รายการล่างซ้าย: แผงยาฟอยล์สีเงินบรรจุยาเม็ดกลมสีขาว 10 เม็ด จัดเรียงเป็น 2 แถว แถวละ 5 เม็ด แต่ละเม็ดปั๊มนูนเลข "10" พิมพ์ที่ขอบฟอยล์ว่า "思考安定錠10mg" ซ้ำๆ ด้านหน้ามีฉลากร้านขายยาสีขาวระบุ "ChatGPT 様" วิธีใช้รับประทานวันละ 2 ครั้ง หลังอาหารเช้าและเย็น ครั้งละ 1 เม็ด บาร์โค้ด วันที่ "2025/06/05" และชื่อคลินิก
+
+รายการล่างกลาง: แผงยาฟอยล์สีเงินบรรจุยาเม็ดกลมสีเหลืองอ่อน 8 เม็ด จัดเรียงเป็น 2 แถว แถวละ 4 เม็ด พิมพ์ที่ขอบฟอยล์ว่า "幻覚抑制錠5mg" ซ้ำๆ ด้านหน้ามีฉลากร้านขายยาสีขาวระบุ "ChatGPT 様" วิธีใช้รับประทานวันละ 1 ครั้งก่อนนอน ครั้งละ 1 เม็ด บาร์โค้ด วันที่ "2025/06/05" และชื่อคลินิก
+
+รายการล่างขวา: ถุงซิปล็อกพลาสติกใสขนาดเล็กบรรจุผงสีขาว ฉลากสีขาวด้านหน้าเขียนว่า "プロンプト調整散 1g" ระบุชื่อ "ChatGPT 様" วิธีใช้สำหรับอาการวิตกกังวล สับสน และการตอบสนองที่มากเกินไป ปริมาณ "1回1包（1g） 必要時" (ครั้งละ 1 ซอง (1 กรัม) เมื่อจำเป็น) วันที่ "2025/06/05" และชื่อคลินิก
+
+สไตล์: ภาพถ่ายผลิตภัณฑ์เชิงสารคดีที่สมจริง, การออกแบบอุปกรณ์ประกอบฉากใบสั่งยาปลอมเชิงตลก, เลย์เอาต์กราฟิกเภสัชกรรมญี่ปุ่นที่สะอาดตา, อ่านง่าย, โทนสีกลางประกอบด้วยสีขาว, สีฟ้า, สีเงิน, สีเบจ และสีน้ำตาลไม้, มุมกล้องจากด้านบน, ไม่มีมือ, ไม่มีวัตถุอื่น, พื้นผิวการพิมพ์และรายละเอียดบรรจุภัณฑ์ที่สมจริง
+```
+
+#### 🖼️ รูปภาพที่สร้าง
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1776883139387_x87e9o_HGdv-t-b0AA9ASg.jpg" width="600" alt="การตลาดผลิตภัณฑ์ - ชุดใบสั่งยาตลกสำหรับ ChatGPT - Image 1">
+</div>
+
+#### 📌 รายละเอียด
+
+- **ผู้เขียน:** [マシモGPT🤖@ChatGPT/Claude/Gemini/GrokなどLLMをこねくり回す人](https://x.com/Masimo_Blue)
+- **แหล่งที่มา:** [Twitter Post](https://x.com/Masimo_Blue/status/2046727684538105890#reversed-2)
+- **เผยแพร่เมื่อ:** 21 เมษายน 2569
+- **ภาษา:** en
+
+**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-2-prompts?id=14537)**
+
+---
+
+### No. 101: ภาพหลักสำหรับอีคอมเมิร์ซ - เรนเดอร์ภาพผลิตภัณฑ์แบบสตูดิโอจากพิมพ์เขียว
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 คำอธิบาย
+
+พรอมต์นี้จะเปลี่ยนภาพวาดทางเทคนิคของผลิตภัณฑ์ให้เป็นภาพถ่ายเสมือนจริงแบบมินิมอลสำหรับใช้ในแคตตาล็อก งานออกแบบอุตสาหกรรม หรือการนำเสนอในรูปแบบอีคอมเมิร์ซ
+
+#### 📝 คำสั่ง
+
+```
+โดยใช้ภาพอ้างอิงที่กำหนดให้ เปลี่ยนข้อมูลจำเพาะทางวิศวกรรมทางเทคนิคให้เป็นภาพเรนเดอร์ผลิตภัณฑ์แบบสตูดิโอที่ดูสะอาดตาของที่เก็บอุปกรณ์ครัวรูปทรงแมงกะพรุนชิ้นเดียวกันนี้ โดยคงการออกแบบผลิตภัณฑ์โดยรวม ฝาครอบทรงโดมสีฟ้าโปร่งแสง ฐานสีเงิน และอุปกรณ์แขวน 4 ชิ้นเดิมไว้ ได้แก่ ตะหลิวแบบมีช่อง 1 ชิ้น, ช้อนตักพาสต้า 1 ชิ้น และช้อน 2 ชิ้น ลบองค์ประกอบของพิมพ์เขียวทั้งหมดออก รวมถึงภาพแยกชิ้นส่วน เส้นบอกขนาด ป้ายกำกับ ตาราง บันทึกย่อ และกรอบชื่อเรื่อง แสดงเฉพาะผลิตภัณฑ์ที่ประกอบเสร็จแล้วไว้ตรงกลางเฟรม หันหน้าเข้าหาหน้าจอ แยกออกมาบนพื้นหลังสีเทาอ่อนแบบมินิมอลพร้อมพื้นผิวสีขาว จัดแสงแบบนุ่มนวล มีเงาที่สมจริงอย่างละเอียด และใช้วัสดุระดับพรีเมียมที่มีความเงางาม ทำให้ภาพออกมาดูเหมือนภาพถ่ายผลิตภัณฑ์ในแคตตาล็อกงานออกแบบอุตสาหกรรมร่วมสมัยหรือภาพสำหรับอีคอมเมิร์ซ
+```
+
+#### 🖼️ รูปภาพที่สร้าง
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1776883201406_yt8yiy_HGc-zq7aAAACOQy.jpg" width="600" alt="ภาพหลักสำหรับอีคอมเมิร์ซ - เรนเดอร์ภาพผลิตภัณฑ์แบบสตูดิโอจากพิมพ์เขียว - Image 1">
+</div>
+
+#### 📌 รายละเอียด
+
+- **ผู้เขียน:** [amy](https://x.com/amypretzel)
+- **แหล่งที่มา:** [Twitter Post](https://x.com/amypretzel/status/2046673739220471871#reversed-1)
+- **เผยแพร่เมื่อ:** 21 เมษายน 2569
+- **ภาษา:** en
+
+**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-2-prompts?id=14690)**
+
+---
+
+### No. 102: ภาพหลักสำหรับอีคอมเมิร์ซ - โปสเตอร์สินค้าบลูเบอร์รีเกรดพรีเมียม
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 คำอธิบาย
+
+พรอมต์นี้ใช้สำหรับสร้างภาพโฆษณาอีคอมเมิร์ซสไตล์จีนที่ดูเป็นมืออาชีพสำหรับบลูเบอร์รีบรรจุกล่อง เหมาะสำหรับการสร้างแบรนด์ในซูเปอร์มาร์เก็ต รายการสินค้า และโปสเตอร์โปรโมชัน
+
+#### 📝 คำสั่ง
+
+```
+โปสเตอร์อีคอมเมิร์ซระดับพรีเมียมสำหรับบลูเบอร์รีสดในสไตล์โฆษณาสินค้าแบบจีนที่ดูสะอาดตา แสดงภาพกล่องพลาสติกใสบรรจุบลูเบอร์รีเป็นจุดเด่นหลัก วางในแนวเฉียงจากกึ่งกลางด้านล่างไปทางขวาบนผ้าสีน้ำเงินที่พับเป็นจีบ โดยถ่ายจากมุมสูงเล็กน้อย บรรจุภัณฑ์ต้องดูสมจริงและสม่ำเสมอ: เป็นกล่องสี่เหลี่ยมใสขอบมน ภายในบรรจุบลูเบอร์รีสีน้ำเงินเข้ม มีฉลากทรงกลมมนขนาดใหญ่สีขาว ฟ้าอ่อน และน้ำเงินเข้มแปะอยู่ด้านบน พร้อมภาพประกอบบลูเบอร์รีลูกใหญ่ตรงกลางและชื่อแบรนด์ภาษาจีนที่ดูหรูหรา ทำให้ผลไม้ด้านในดูใหญ่ เต่งตึง สดใหม่ และมีหยดน้ำเกาะเล็กน้อย โดยยังคงการจัดวางบลูเบอร์รีให้ดูเป็นธรรมชาติ พื้นหลังเป็นโต๊ะสีฟ้าไอซ์บลูที่ดูโปร่งสบายพร้อมพื้นผิวลายเมฆจางๆ แสงกลางวันโทนเย็น และมีบลูเบอร์รีวางกระจัดกระจายอยู่รอบๆ กล่อง เพิ่มใบไม้สีเขียวเบลอๆ ที่ขอบด้านขวาบนและขวาล่างเพื่อให้ความรู้สึกสดชื่นเป็นธรรมชาติ ที่มุมขวาบนให้ใส่ภาพขนาดเล็ก 1 ภาพที่แสดงบรรจุภัณฑ์สินค้าต้นฉบับจากมุมมองด้านบนบนพื้นผิวสีน้ำตาลอบอุ่น เหมือนภาพตัวอย่างอ้างอิง ทางด้านซ้ายให้สร้างข้อความโปรโมชันภาษาจีนด้วยหัวข้อตัวอักษรพู่กันสีน้ำเงินเข้มขนาดใหญ่ {argument name="headline text" default="决茗新"} ตามด้วยข้อความย่อย 2 บรรทัด: {argument name="subheadline text" default="新鲜蓝莓 自然之选"} และ {argument name="tagline text" default="每一颗都是自然的礼物"} ด้านล่างนั้นให้วางไอคอนคุณสมบัติ 3 รายการเรียงในแนวตั้งพร้อมคำบรรยายภาษาจีนสั้นๆ: ไอคอนใบไม้สำหรับความสุกตามธรรมชาติ ไอคอนผลไม้สำหรับความฉ่ำน้ำ และไอคอนหัวใจสำหรับคุณค่าทางโภชนาการที่อุดมสมบูรณ์ ใกล้กับมุมซ้ายล่างให้เพิ่มข้อความภาษาจีนสไตล์พู่กันสีขาวขนาดใหญ่ {argument name="product name" default="蓝莓"} บรรทัดรอง {argument name="benefit text" default="膳食纤维+花青素"} และบรรทัดระบุน้ำหนักสุทธิ 125 กรัม ใช้การปรับโทนสีฟ้าเย็น แสงไฟเชิงพาณิชย์ที่คมชัด ไฮไลท์ที่เปล่งประกายบนฝาพลาสติก สุนทรียภาพของบรรจุภัณฑ์ซูเปอร์มาร์เก็ตระดับพรีเมียม รายละเอียดสูง ผสมผสานการถ่ายภาพสินค้าที่สมจริงเข้ากับการออกแบบกราฟิกที่สวยงาม
+```
+
+#### 🖼️ รูปภาพที่สร้าง
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1776883187268_drjk2w_HGcTvn1boAASN-1.jpg" width="600" alt="ภาพหลักสำหรับอีคอมเมิร์ซ - โปสเตอร์สินค้าบลูเบอร์รีเกรดพรีเมียม - Image 1">
+</div>
+
+#### 📌 รายละเอียด
+
+- **ผู้เขียน:** [歸藏(guizang.ai)](https://x.com/op7418)
+- **แหล่งที่มา:** [Twitter Post](https://x.com/op7418/status/2046626506722746736#reversed-0)
+- **เผยแพร่เมื่อ:** 21 เมษายน 2569
+- **ภาษา:** en
+
+**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-2-prompts?id=14655)**
+
+---
+
+### No. 103: ภาพหลักสำหรับอีคอมเมิร์ซ - มู้ดบอร์ดชุดแฟชั่นสไตล์มินิมอล
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 คำอธิบาย
+
+พรอมต์นี้ช่วยสร้างภาพคอลลาจชุดแฟชั่นสไตล์เอดิทอเรียลที่ดูสะอาดตาพร้อมการจัดวางแบบแบรนด์ เหมาะสำหรับใช้ทำบอร์ดสร้างแรงบันดาลใจด้านแฟชั่น โพสต์โซเชียลมีเดีย และคอนเซปต์ตู้เสื้อผ้าดิจิทัล
+
+#### 📝 คำสั่ง
+
+```
+ภาพคอลลาจแฟชั่นสไตล์เอดิทอเรียลที่ดูสะอาดตาบนพื้นหลังสีเทาอ่อนอมขาว พร้อมกรอบสี่เหลี่ยมสีดำเส้นบาง จัดวางสไตล์เหมือนบอร์ดชุดแฟชั่นในนิตยสารมินิมอล จัดวางชุดให้อยู่ตรงกลางในรูปแบบ Flat lay โดยมีไอเทมแฟชั่น 5 ชิ้นที่มองเห็นได้ชัดเจน: เสื้อแจ็คเก็ตครอปซิปหน้าสี {argument name="jacket color" default="แดงสด"} ที่มีปกแหลมและชายเสื้อแบบยางยืด วางเยื้องไปทางซ้ายเล็กน้อยและวางซ้อนไว้ด้านบน; ด้านใต้เป็นเสื้อไหมพรมแขนยาวคอกลมสี {argument name="top color" default="ขาว"} ที่พอดีตัว โดยให้เห็นช่วงไหล่และแขนเสื้อ; ด้านล่างเป็นกระโปรงทรง A-line ความยาวระดับกลางหน้าแข้งสีขาวออฟไวท์ที่มีลายจุดสีดำขนาดใหญ่เว้นระยะห่างเท่าๆ กัน; ที่ด้านซ้ายล่างเป็นกระเป๋าถือใบเล็กทรงโครงแข็งสีดำที่มีหูจับสั้นและพื้นผิวลายหนังจระเข้เงาเล็กน้อย; ที่ด้านขวาล่างเป็นรองเท้าแมรี่เจนหัวเหลี่ยมสีดำหนึ่งคู่ที่มีสายรัดกว้างและอะไหล่ห่วงตาไก่สีเงิน เพิ่มตัวอักษรขนาดใหญ่บนพื้นหลังสีเทาอ่อนมากที่เขียนว่า {argument name="background brand text" default="MANGO"} ยืดขยายขนาดใหญ่พาดผ่านตรงกลางด้านหลังเสื้อผ้า วางโลโก้แบรนด์แฟชั่นสีดำขนาดเล็กไว้รอบๆ เลย์เอาต์: {argument name="top right logo" default="MANGO"} ไว้ใกล้กับมุมขวาบนของชุด, "Stradivarius" ไว้ใกล้กับกระเป๋าถือและอีกครั้งใกล้กับรองเท้า, และ "DOLCE & GABBANA" ไว้ที่ด้านซ้ายล่างใกล้กับชายกระโปรง องค์ประกอบภาพควรให้ความรู้สึกสมดุล ชิค และร่วมสมัย ด้วยแสงสตูดิโอที่นุ่มนวล ไม่มีเงาหรือมีเพียงเงาจางๆ ขอบภาพที่ตัดออกมาอย่างคมชัด และให้ความรู้สึกแบบมู้ดบอร์ดแฟชั่นบนโซเชียลมีเดียที่ดูดีมีระดับ
+```
+
+#### 🖼️ รูปภาพที่สร้าง
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1776883105977_5pgeg0_HGbU2ZDbYAAEWX4.jpg" width="600" alt="ภาพหลักสำหรับอีคอมเมิร์ซ - มู้ดบอร์ดชุดแฟชั่นสไตล์มินิมอล - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1776883105983_d1kr7t_HGbU2ZAbAAANO8q.jpg" width="600" alt="ภาพหลักสำหรับอีคอมเมิร์ซ - มู้ดบอร์ดชุดแฟชั่นสไตล์มินิมอล - Image 2">
+</div>
+
+#### 📌 รายละเอียด
+
+- **ผู้เขียน:** [虎小象](https://x.com/hx831126)
+- **แหล่งที่มา:** [Twitter Post](https://x.com/hx831126/status/2046557123124027728#reversed-0)
+- **เผยแพร่เมื่อ:** 21 เมษายน 2569
+- **ภาษา:** en
+
+**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-2-prompts?id=14455)**
+
+---
+
+### No. 104: ภาพหลักสำหรับอีคอมเมิร์ซ - ตัวอย่างหน้าสินค้าคีย์บอร์ดแมคคานิคอล
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 คำอธิบาย
+
+เครื่องมือนี้ช่วยสร้างหน้าแสดงรายละเอียดสินค้าอีคอมเมิร์ซบนเดสก์ท็อปที่ดูเป็นมืออาชีพสำหรับคีย์บอร์ดแมคคานิคอลระดับพรีเมียม เหมาะสำหรับการจัดแสดงผลงานการออกแบบผลิตภัณฑ์ แนวคิดหน้าร้าน และ UI ม็อกอัป
+
+#### 📝 คำสั่ง
+
+```
+สร้างหน้าแสดงรายละเอียดสินค้าอีคอมเมิร์ซที่ดูสะอาดตาและทันสมัยสำหรับแบรนด์คีย์บอร์ดแมคคานิคอลระดับพรีเมียมในชื่อ {argument name="brand name" default="KeyForge"} โดยนำเสนอในรูปแบบม็อกอัปเว็บไซต์เดสก์ท็อปความละเอียดสูงบนพื้นหลังสีขาว พร้อมเส้นแบ่งสีเทาอ่อนและระยะห่างที่เหมาะสม เลย์เอาต์เป็นฉากหน้าร้านแบบรวมในหน้าเดียว ประกอบด้วยแถบนำทางด้านบน แถบรูปภาพตัวอย่างสินค้าทางด้านซ้าย รูปภาพสินค้าหลักขนาดใหญ่ตรงกลาง และแผงข้อมูลการสั่งซื้อทางด้านขวา ในส่วนหัว ให้วางโลโก้แบรนด์ไว้ที่ด้านซ้ายสุด ตามด้วยรายการนำทาง 7 รายการ ได้แก่ “Keyboards”, “Switches”, “Keycaps”, “Accessories”, “Sale”, “Blog” และ “Support” และที่ด้านขวาสุดให้มีไอคอน 3 รายการสำหรับค้นหา บัญชีผู้ใช้ และตะกร้าสินค้า โดยมีป้ายแจ้งเตือนสีดำเล็กๆ แสดงเลข “1” บนตะกร้าสินค้า สินค้าหลักที่แสดงตรงกลางคือคีย์บอร์ดแมคคานิคอลขนาด 75% ถ่ายจากมุมด้านหน้าที่ยกสูงขึ้นเล็กน้อยบนแท่นวางสีเทาอ่อน ตัวเคสทำจากอะลูมิเนียมสีเงิน ปุ่มกดสีขาวและเทา พร้อมปุ่มเน้นสีม่วงลาเวนเดอร์ และปุ่มหมุนปรับระดับเสียงสีเงินที่ด้านขวาบน แกลเลอรีแนวตั้งทางด้านซ้ายประกอบด้วยรูปภาพตัวอย่าง 5 รายการ ได้แก่ รูปสินค้าด้านหน้า 1 รูป, มุมมองคีย์บอร์ดแบบเอียง 1 รูป, ภาพระยะใกล้ของสวิตช์แมคคานิคอล 1 รูป, ภาพระยะใกล้ของพื้นผิวปุ่มกด 1 รูป และภาพตัวอย่างวิดีโอโทนเข้มพร้อมไอคอนเล่นวิดีโอวงกลม 1 รูป แผงสินค้าด้านขวาประกอบด้วยป้ายกำกับขนาดเล็กคำว่า “NEW”, ชื่อสินค้าตัวหนาขนาดใหญ่ {argument name="product name" default="KeyForge K75 Pro"}, คำบรรยายใต้ชื่อ “75% Mechanical Keyboard”, แถบแสดงคะแนน 5 ดาวพร้อมตัวเลข 4.8 และ “(126 reviews)”, ราคาตัวหนาขนาดใหญ่ {argument name="price" default="$129.99"} ตามด้วยสถานะ “In Stock” สีเขียว และคำอธิบายสั้นๆ สองประโยคเกี่ยวกับประสิทธิภาพระดับพรีเมียม ดีไซน์แบบ Gasket-mounted รองรับ QMK/VIA และไฟ RGB ด้านล่างนั้น ให้ใส่ตัวเลือก “Switch Type” พร้อมปุ่มกด 4 ปุ่มที่ระบุว่า “Cherry MX Red”, “Gateron Brown”, “Gateron Blue” และ “TTC Gold Pink” โดยเลือกปุ่มแรกไว้; ตัวเลือก “Color” พร้อมปุ่มกด 3 ปุ่มที่ระบุว่า “White / Purple”, “Black / Gray” และ “Navy / Blue” โดยเลือกปุ่มแรกไว้; ดรอปดาวน์ “Quantity” ตั้งค่าไว้ที่ “1”; ปุ่มหลักสีดำขนาดใหญ่หนึ่งปุ่มระบุว่า “Add to Cart” พร้อมไอคอนตะกร้าสินค้า; และปุ่มรองแบบมีเส้นขอบหนึ่งปุ่มระบุว่า “Add to Wishlist” พร้อมไอคอนรูปหัวใจ ใต้ปุ่มต่างๆ ให้แสดงไฮไลต์บริการ 3 รายการในแนวนอนพร้อมไอคอนขนาดเล็ก: “Free Shipping” พร้อมข้อความย่อย “On orders over $99”, “30-Day Returns” พร้อมข้อความย่อย “Hassle-free returns” และ “2-Year Warranty” พร้อมข้อความย่อย “Peace of mind” ในส่วนเนื้อหาด้านล่าง ให้สร้างส่วนแบ่งสองคอลัมน์โดยคั่นด้วยเส้นบางๆ ทางด้านซ้ายเป็นรายการแท็บแนวตั้ง 5 รายการ ได้แก่ “Overview” ที่ถูกเลือกไว้ ตามด้วย “Specifications”, “What’s in the Box”, “Shipping & Returns” และ “Reviews (126)” ทางด้านขวาของแท็บ ให้วางตารางการ์ดฟีเจอร์สีขาวแบบขอบมนที่มีบล็อกฟีเจอร์ 6 บล็อกใน 2 แถว แถวละ 3 บล็อก แต่ละบล็อกประกอบด้วยไอคอนเส้นเรียบง่าย ชื่อหัวข้อตัวหนา และข้อความอธิบายสั้นๆ ได้แก่ “75% Layout”, “Gasket-Mounted”, “QMK/VIA Support”, “Hot-Swappable”, “RGB Backlighting” และ “Premium Build” ทางด้านขวาสุดของพื้นที่ด้านล่างนี้ ให้เพิ่มรายการข้อมูลจำเพาะแบบหัวข้อ 7 รายการ ได้แก่ “Layout: 75% (82 Keys)”, “Switch Type: Cherry MX Red”, “Mounting: Gasket-Mounted”, “Connectivity: USB-C (Wired)”, “Backlight: RGB, South-facing”, “Material: Aluminum Case” และ “Dimensions: 322 x 135 x 42 mm” พร้อมหัวข้อสุดท้ายเพิ่มเติม “Weight: 1.25 kg” ใช้สุนทรียศาสตร์การออกแบบผลิตภัณฑ์แบบมินิมอลที่ประณีต ระยะห่าง UI ที่สมจริง การพิมพ์แบบไม่มีหัว (sans-serif) ที่สะอาดตาคล้ายกับ Inter หรือ SF Pro เงาที่นุ่มนวล มุมโค้งมนที่ละเอียดอ่อน ไอคอนแบบโมโนโครม และการนำเสนอสินค้าอิเล็กทรอนิกส์สำหรับผู้บริโภคในสไตล์สตาร์ทอัพที่ดูเป็นมืออาชีพ
+```
+
+#### 🖼️ รูปภาพที่สร้าง
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1776883104038_ocrytr_HGa_RiSa4AAdVM5.jpg" width="600" alt="ภาพหลักสำหรับอีคอมเมิร์ซ - ตัวอย่างหน้าสินค้าคีย์บอร์ดแมคคานิคอล - Image 1">
+</div>
+
+#### 📌 รายละเอียด
+
+- **ผู้เขียน:** [轩辕的编程宇宙](https://x.com/xuanyuanzhifeng)
+- **แหล่งที่มา:** [Twitter Post](https://x.com/xuanyuanzhifeng/status/2046533787329458305#reversed-1)
+- **เผยแพร่เมื่อ:** 21 เมษายน 2569
+- **ภาษา:** en
+
+**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-2-prompts?id=14449)**
+
+---
+
+### No. 105: ภาพหลักสำหรับอีคอมเมิร์ซ - Skincare E-commerce Landing Page Mockup
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -6441,7 +4960,7 @@ Generates a clean, clinical web design mockup for a skincare brand featuring a h
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1776756858951_6ijm10_HGV6HyHaUAA68FT.jpg" width="600" alt="การตลาดผลิตภัณฑ์ - Skincare E-commerce Landing Page Mockup - Image 1">
+<img src="https://cms-assets.youmind.com/media/1776756858951_6ijm10_HGV6HyHaUAA68FT.jpg" width="600" alt="ภาพหลักสำหรับอีคอมเมิร์ซ - Skincare E-commerce Landing Page Mockup - Image 1">
 </div>
 
 #### 📌 รายละเอียด
@@ -6455,7 +4974,7 @@ Generates a clean, clinical web design mockup for a skincare brand featuring a h
 
 ---
 
-### No. 96: การตลาดผลิตภัณฑ์ - Men's Skincare Website Landing Page Mockup
+### No. 106: ภาพหลักสำหรับอีคอมเมิร์ซ - Men's Skincare Website Landing Page Mockup
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -6526,7 +5045,7 @@ Generates a sleek, dark-themed e-commerce landing page mockup for a men's skinca
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1776756858185_6z7569_HGV6FtKbwAAK6L0.jpg" width="600" alt="การตลาดผลิตภัณฑ์ - Men's Skincare Website Landing Page Mockup - Image 1">
+<img src="https://cms-assets.youmind.com/media/1776756858185_6z7569_HGV6FtKbwAAK6L0.jpg" width="600" alt="ภาพหลักสำหรับอีคอมเมิร์ซ - Men's Skincare Website Landing Page Mockup - Image 1">
 </div>
 
 #### 📌 รายละเอียด
@@ -6540,7 +5059,7 @@ Generates a sleek, dark-themed e-commerce landing page mockup for a men's skinca
 
 ---
 
-### No. 97: การตลาดผลิตภัณฑ์ - Skincare E-commerce Landing Page
+### No. 107: ภาพหลักสำหรับอีคอมเมิร์ซ - Skincare E-commerce Landing Page
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -6600,7 +5119,7 @@ Generates a structured e-commerce hero banner for skincare products, featuring a
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1776756857625_xqz2ws_HGV6FtLboAAAw-a.jpg" width="600" alt="การตลาดผลิตภัณฑ์ - Skincare E-commerce Landing Page - Image 1">
+<img src="https://cms-assets.youmind.com/media/1776756857625_xqz2ws_HGV6FtLboAAAw-a.jpg" width="600" alt="ภาพหลักสำหรับอีคอมเมิร์ซ - Skincare E-commerce Landing Page - Image 1">
 </div>
 
 #### 📌 รายละเอียด
@@ -6614,7 +5133,7 @@ Generates a structured e-commerce hero banner for skincare products, featuring a
 
 ---
 
-### No. 98: การตลาดผลิตภัณฑ์ - Beauty Product Landing Page Mockup
+### No. 108: ภาพหลักสำหรับอีคอมเมิร์ซ - Beauty Product Landing Page Mockup
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -6688,7 +5207,7 @@ Generates a clean, feminine e-commerce landing page hero section for a beauty pr
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1776756856340_hxgjgr_HGV6DSDasAAyJNp.jpg" width="600" alt="การตลาดผลิตภัณฑ์ - Beauty Product Landing Page Mockup - Image 1">
+<img src="https://cms-assets.youmind.com/media/1776756856340_hxgjgr_HGV6DSDasAAyJNp.jpg" width="600" alt="ภาพหลักสำหรับอีคอมเมิร์ซ - Beauty Product Landing Page Mockup - Image 1">
 </div>
 
 #### 📌 รายละเอียด
@@ -6702,7 +5221,7 @@ Generates a clean, feminine e-commerce landing page hero section for a beauty pr
 
 ---
 
-### No. 99: การตลาดผลิตภัณฑ์ - Fashion Collection Catalog Layout
+### No. 109: ภาพหลักสำหรับอีคอมเมิร์ซ - Fashion Collection Catalog Layout
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -6771,7 +5290,7 @@ Generates a multi-panel fashion catalog showcasing different products featuring 
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1776756838105_09bui0_HGWtW5LaEAE1ao5.jpg" width="600" alt="การตลาดผลิตภัณฑ์ - Fashion Collection Catalog Layout - Image 1">
+<img src="https://cms-assets.youmind.com/media/1776756838105_09bui0_HGWtW5LaEAE1ao5.jpg" width="600" alt="ภาพหลักสำหรับอีคอมเมิร์ซ - Fashion Collection Catalog Layout - Image 1">
 </div>
 
 #### 📌 รายละเอียด
@@ -6785,96 +5304,7 @@ Generates a multi-panel fashion catalog showcasing different products featuring 
 
 ---
 
-### No. 100: การตลาดผลิตภัณฑ์ - Hyper-Energetic Japanese Promo Poster
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 คำอธิบาย
-
-Generates a highly detailed, text-heavy Japanese promotional poster with explosive typography, multiple feature panels, and pricing sections.
-
-#### 📝 คำสั่ง
-
-```
-{
-  "type": "Japanese promotional landing page poster",
-  "style": "hyper-energetic, explosive typography, vibrant colors, amusement park night festival aesthetic",
-  "layout": {
-    "top_section": {
-      "background": "night sky, fireworks, ferris wheel, roller coaster",
-      "subjects": "4 young adults cheering, raising fists, dynamic lighting",
-      "typography": [
-        "{argument name=\"main headline\" default=\"究極の楽しい!!\"}",
-        "{argument name=\"sub headline\" default=\"やばい!!共感してもらいたい!!\"}",
-        "この一枚が、あなたの人生を最高に塗り替える!!"
-      ],
-      "badges": [
-        "累計販売枚数 {argument name=\"sales badge\" default=\"252,000\"} 枚突破!!!"
-      ]
-    },
-    "middle_section": {
-      "title": "究極の楽しい体験を実現する5つの超快楽ポイント",
-      "points_count": 5,
-      "points": [
-        {"number": 1, "label": "爆笑覚醒", "image": "people laughing"},
-        {"number": 2, "label": "ドキドキMAX", "image": "roller coaster loop"},
-        {"number": 3, "label": "感動の渦", "image": "fireworks explosion"},
-        {"number": 4, "label": "超解放ゾーン", "image": "silhouettes jumping at sunset"},
-        {"number": 5, "label": "無限リピート", "image": "group of people cheering"}
-      ]
-    },
-    "bonus_section": {
-      "title": "今だけ！超豪華 5大特典付き!!!",
-      "items_count": 5,
-      "items": [
-        "① 限定デザインポスター",
-        "② 楽しい名言ブックレット(PDF)",
-        "③ 超楽しいプレイリスト(MP3)",
-        "④ スマホ壁紙セット",
-        "⑤ 楽しいシークレット映像"
-      ]
-    },
-    "bottom_section": {
-      "product_info": {
-        "name": "究極の楽しいポスター",
-        "variants_count": 3,
-        "variants": ["全力全開ver.", "笑顔爆発ver.", "感動絶頂ver."]
-      },
-      "pricing": {
-        "label": "魂の価格",
-        "amount": "{argument name=\"price\" default=\"¥2,980\"}",
-        "shipping": "送料無料"
-      }
-    },
-    "footer": {
-      "text": "{argument name=\"footer call to action\" default=\"人生を最高に楽しみ尽くせ!! さぁ、今すぐ手に入れろ!!\"}",
-      "background_color": "magenta"
-    }
-  }
-}
-```
-
-#### 🖼️ รูปภาพที่สร้าง
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1776756854013_dtp5th_HGXlHQCbcAApkzm.jpg" width="600" alt="การตลาดผลิตภัณฑ์ - Hyper-Energetic Japanese Promo Poster - Image 1">
-</div>
-
-#### 📌 รายละเอียด
-
-- **ผู้เขียน:** [中崎工房 | AIで1時間の仕事を5分で終わらせる人](https://x.com/nakazakifam)
-- **แหล่งที่มา:** [Twitter Post](https://x.com/nakazakifam/status/2046295223584862235#reversed-3)
-- **เผยแพร่เมื่อ:** 20 เมษายน 2569
-- **ภาษา:** en
-
-**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-2-prompts?id=14269)**
-
----
-
-### No. 101: การตลาดผลิตภัณฑ์ - Green Tea Bottle Advertisement Poster
+### No. 110: ภาพหลักสำหรับอีคอมเมิร์ซ - Green Tea Bottle Advertisement Poster
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -6894,7 +5324,7 @@ A vibrant promotional poster for a bottled green tea beverage, featuring dynamic
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1776756805592_i18ymf_HGXbncza4AAGx8T.jpg" width="600" alt="การตลาดผลิตภัณฑ์ - Green Tea Bottle Advertisement Poster - Image 1">
+<img src="https://cms-assets.youmind.com/media/1776756805592_i18ymf_HGXbncza4AAGx8T.jpg" width="600" alt="ภาพหลักสำหรับอีคอมเมิร์ซ - Green Tea Bottle Advertisement Poster - Image 1">
 </div>
 
 #### 📌 รายละเอียด
@@ -6908,181 +5338,7 @@ A vibrant promotional poster for a bottled green tea beverage, featuring dynamic
 
 ---
 
-### No. 102: การตลาดผลิตภัณฑ์ - Anime Strawberry Promo Banner Set
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 คำอธิบาย
-
-A comprehensive set of promotional web banners and icons featuring an anime girl advertising fresh strawberries.
-
-#### 📝 คำสั่ง
-
-```
-{
-  "type": "promotional banner design set",
-  "theme": "strawberry advertisement campaign",
-  "style": "anime illustration, bright, cheerful, commercial graphic design",
-  "color_palette": "{argument name=\"primary color theme\" default=\"pastel pink and vibrant red\"}",
-  "character": "{argument name=\"character description\" default=\"anime girl with brown side ponytail and bunny ears, wearing a pastel blue and pink jacket\"}",
-  "product": "{argument name=\"product\" default=\"fresh red strawberries\"}",
-  "layout": {
-    "sections": [
-      {
-        "type": "large landscape banner",
-        "position": "top left",
-        "visuals": "character winking and holding a strawberry next to a large basket of strawberries",
-        "main_text": "{argument name=\"main headline\" default=\"いちごたっぷり\"}",
-        "sub_text": ["笑顔あふれる、甘〜いひととき♪", "とびきりおいしい！", "ひと粒で、しあわせ広がる♡", "あまっ♡", "旬のおいしさをお届け！"],
-        "badges": {
-          "count": 3,
-          "labels": ["あま〜くてジューシー！", "いろんなサイズを楽しめる♪", "新鮮朝採れ！"]
-        }
-      },
-      {
-        "type": "vertical banner",
-        "position": "right",
-        "visuals": "character eating a strawberry with a pile of strawberries below",
-        "main_text": "いちごたっぷり",
-        "sub_text": ["旬のいちごをお届け！", "{argument name=\"secondary headline\" default=\"あま〜くて、ジューシー！\"}", "とろけるおいしさ〜♡"],
-        "badges": {
-          "count": 3,
-          "labels": ["朝採れ新鮮！", "いろんなサイズを楽しめる♪", "甘くてジューシー！"]
-        }
-      },
-      {
-        "type": "wide horizontal banner",
-        "position": "middle",
-        "visuals": "character with closed eyes eating a strawberry, flanked by strawberries",
-        "main_text": "いちごたっぷり！",
-        "sub_text": ["あまくて、ジューシーな幸せ♡", "旬の美味しさをお届けします！", "おいし〜っ♡"]
-      },
-      {
-        "type": "small square banner",
-        "position": "bottom left",
-        "visuals": "character smiling holding strawberry",
-        "text": ["いちごたっぷり", "あま〜くてジューシー！"]
-      },
-      {
-        "type": "small square banner",
-        "position": "bottom mid-left",
-        "visuals": "pile of strawberries with one cut in half",
-        "text": ["旬のいちご！", "あまくてとろけるおいしさ♡"]
-      },
-      {
-        "type": "small horizontal banner",
-        "position": "bottom mid-right",
-        "visuals": "character holding strawberry",
-        "text": ["いちごたっぷり", "朝採れ新鮮！", "あまくてジューシー！"]
-      },
-      {
-        "type": "circular icons",
-        "position": "bottom right",
-        "count": 4,
-        "items": [
-          { "visual": "basket of strawberries", "label": "朝採れ新鮮！" },
-          { "visual": "half strawberry", "label": "あまくてジューシー！" },
-          { "visual": "whole strawberry", "label": "いろんなサイズ！" },
-          { "visual": "character face", "label": "とろけるおいしさ♡" }
-        ]
-      }
-    ]
-  }
-}
-```
-
-#### 🖼️ รูปภาพที่สร้าง
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1776756821673_9bnnxn_HGXZiJ-aoAA26bl.jpg" width="600" alt="การตลาดผลิตภัณฑ์ - Anime Strawberry Promo Banner Set - Image 1">
-</div>
-
-#### 📌 รายละเอียด
-
-- **ผู้เขียน:** [たかＰ](https://x.com/takadtmnu)
-- **แหล่งที่มา:** [Twitter Post](https://x.com/takadtmnu/status/2046280850501964271#reversed-0)
-- **เผยแพร่เมื่อ:** 20 เมษายน 2569
-- **ภาษา:** en
-
-**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-2-prompts?id=14212)**
-
----
-
-### No. 103: การตลาดผลิตภัณฑ์ - Anime Idol Merchandise Catalog
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 คำอธิบาย
-
-Generates a highly detailed, multi-section merchandise catalog flyer for an anime character's live event.
-
-#### 📝 คำสั่ง
-
-```
-{
-  "type": "anime idol merchandise catalog flyer",
-  "theme_colors": "{argument name=\"theme color\" default=\"pastel blue and pink\"}",
-  "character": {
-    "name": "{argument name=\"character name\" default=\"ななし\"}",
-    "appearance": "anime girl, long {argument name=\"hair color\" default=\"pink\"} hair, blue eyes",
-    "attire": "{argument name=\"outfit\" default=\"black and white maid outfit with a red bow tie\"} and blue hair ribbons"
-  },
-  "layout": {
-    "header": {
-      "left": "upper body portrait of the character looking slightly to the side",
-      "center": {
-        "top_banner": "ななし 2nd EP リリース記念ライブ",
-        "main_title": "{argument name=\"event title\" default=\"おしごと☆メイド奮闘中！\"}",
-        "subtitle": "~ Oshigoto Maid Funtouchu! ~",
-        "section_header": "OFFICIAL GOODS"
-      },
-      "right": "purchase bonus info box containing 3 small rectangular photo prints"
-    },
-    "merchandise_grid": [
-      { "id": "01", "name": "アクリルスタンド", "description": "full body acrylic stand of the character" },
-      { "id": "02", "name": "缶バッジ", "description": "set of 6 circular can badges featuring different facial expressions" },
-      { "id": "03", "name": "ビッグタオル", "description": "large rectangular towel showing the character holding a heart pillow" },
-      { "id": "04", "name": "Tシャツ", "description": "white t-shirt showing FRONT with character graphic and BACK with small logo" },
-      { "id": "05", "name": "マフラータオル", "description": "long narrow muffler towel with character art and logo" },
-      { "id": "06", "name": "トートバッグ", "description": "canvas tote bag with blue logo" },
-      { "id": "07", "name": "アクリルキーホルダー", "description": "chibi character acrylic keychain with a star-shaped clasp" },
-      { "id": "08", "name": "ラバーバンド", "description": "blue silicone wristband with logo" },
-      { "id": "09", "name": "ステッカーセット", "description": "set of 4 visible stickers: chibi character, heart, ribbon bow, and logo" },
-      { "id": "10", "name": "ペンライト", "description": "blue glowing concert penlight" }
-    ],
-    "footer": {
-      "left": "purchase notes and guidelines box",
-      "center": "character signature 'Nanashi' with hand-drawn hearts and stars",
-      "right": "payment methods box"
-    }
-  }
-}
-```
-
-#### 🖼️ รูปภาพที่สร้าง
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1776756820028_6twty1_HGW9Px7acAA-Fx8.jpg" width="600" alt="การตลาดผลิตภัณฑ์ - Anime Idol Merchandise Catalog - Image 1">
-</div>
-
-#### 📌 รายละเอียด
-
-- **ผู้เขียน:** [あねもん! (ex:anemone@AIArt)](https://x.com/anemone_sd)
-- **แหล่งที่มา:** [Twitter Post](https://x.com/anemone_sd/status/2046251166636622216#reversed-2)
-- **เผยแพร่เมื่อ:** 20 เมษายน 2569
-- **ภาษา:** en
-
-**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-2-prompts?id=14209)**
-
----
-
-### No. 104: ภาพหลักสำหรับอีคอมเมิร์ซ - Custom Building Block Set Photography
+### No. 111: ภาพหลักสำหรับอีคอมเมิร์ซ - Custom Building Block Set Photography
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -7116,7 +5372,7 @@ A photorealistic amateur photograph of a custom building block set resting on a 
 
 ---
 
-### No. 105: ภาพหลักสำหรับอีคอมเมิร์ซ - Luxury Cosmetic Web Advertisement
+### No. 112: ภาพหลักสำหรับอีคอมเมิร์ซ - Luxury Cosmetic Web Advertisement
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -7150,7 +5406,7 @@ A luxurious cosmetic product advertisement featuring a single elegant glass jar 
 
 ---
 
-### No. 106: ภาพหลักสำหรับอีคอมเมิร์ซ - E-commerce Product Page Generator
+### No. 113: ภาพหลักสำหรับอีคอมเมิร์ซ - E-commerce Product Page Generator
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -7202,7 +5458,7 @@ A {argument name="platform" default="Taobao"} product detail page for {argument 
 
 ---
 
-### No. 107: ภาพหลักสำหรับอีคอมเมิร์ซ - ภาพจำลองอินเทอร์เฟซไลฟ์สตรีมมิ่งอีคอมเมิร์ซ
+### No. 114: ภาพหลักสำหรับอีคอมเมิร์ซ - ภาพจำลองอินเทอร์เฟซไลฟ์สตรีมมิ่งอีคอมเมิร์ซ
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -7301,7 +5557,7 @@ A {argument name="platform" default="Taobao"} product detail page for {argument 
 
 ---
 
-### No. 108: ภาพหลักสำหรับอีคอมเมิร์ซ - ภาพโฆษณาเครื่องดื่มริมชายหาดช่วงฤดูร้อน
+### No. 115: ภาพหลักสำหรับอีคอมเมิร์ซ - ภาพโฆษณาเครื่องดื่มริมชายหาดช่วงฤดูร้อน
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -7335,7 +5591,7 @@ A {argument name="platform" default="Taobao"} product detail page for {argument 
 
 ---
 
-### No. 109: ภาพหลักสำหรับอีคอมเมิร์ซ - แนวคิดตารางโฆษณาแบบ 4 ช่อง
+### No. 116: ภาพหลักสำหรับอีคอมเมิร์ซ - แนวคิดตารางโฆษณาแบบ 4 ช่อง
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -7422,7 +5678,7 @@ A {argument name="platform" default="Taobao"} product detail page for {argument 
 
 ---
 
-### No. 110: ภาพหลักสำหรับอีคอมเมิร์ซ - ม็อกอัป UI ไลฟ์สดขายของออนไลน์
+### No. 117: ภาพหลักสำหรับอีคอมเมิร์ซ - ม็อกอัป UI ไลฟ์สดขายของออนไลน์
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -7513,7 +5769,7 @@ A {argument name="platform" default="Taobao"} product detail page for {argument 
 
 ---
 
-### No. 111: ภาพหลักสำหรับอีคอมเมิร์ซ - การปรับเปลี่ยนฉลากซุปไก่สมุนไพร
+### No. 118: ภาพหลักสำหรับอีคอมเมิร์ซ - การปรับเปลี่ยนฉลากซุปไก่สมุนไพร
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -7547,7 +5803,7 @@ A {argument name="platform" default="Taobao"} product detail page for {argument 
 
 ---
 
-### No. 112: ภาพหลักสำหรับอีคอมเมิร์ซ - รถสปอร์ตและเครื่องบินโดยสารในโรงเก็บเครื่องบิน
+### No. 119: ภาพหลักสำหรับอีคอมเมิร์ซ - รถสปอร์ตและเครื่องบินโดยสารในโรงเก็บเครื่องบิน
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -7581,7 +5837,7 @@ A {argument name="platform" default="Taobao"} product detail page for {argument 
 
 ---
 
-### No. 113: ภาพหลักสำหรับอีคอมเมิร์ซ - ม็อกอัปสินค้า VTuber ที่สมจริง
+### No. 120: ภาพหลักสำหรับอีคอมเมิร์ซ - ม็อกอัปสินค้า VTuber ที่สมจริง
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -7615,582 +5871,13 @@ A {argument name="platform" default="Taobao"} product detail page for {argument 
 
 ---
 
-### No. 114: ภาพหลักสำหรับอีคอมเมิร์ซ - ม็อกอัป UI สำหรับไลฟ์ขายของออนไลน์
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 คำอธิบาย
-
-สร้างอินเทอร์เฟซการไลฟ์สดบนมือถือสำหรับอีคอมเมิร์ซ โดยมีองค์ประกอบครบทั้งพิธีกร แชทสด การ์ดสินค้า และข้อความโปรโมชัน
-
-#### 📝 คำสั่ง
-
-```
-{
-  "type": "ม็อกอัปอินเทอร์เฟซไลฟ์สดขายของออนไลน์บนมือถือ",
-  "subject": {
-    "description": "หญิงสาวชาวเอเชีย ผมยาวสีเข้ม สวมชุดนอนลายดอกไม้สีอ่อนประดับโบว์สีชมพู กำลังถือเสื้อชุดนอนกางออกเพื่อโชว์เนื้อผ้า",
-    "background": "ห้องที่ให้ความรู้สึกอบอุ่น มีราวแขวนชุดนอน ดอกไม้ และแสงไฟโทนอบอุ่น"
-  },
-  "ui_layout": {
-    "top_bar": {
-      "time": "20:34",
-      "host_info": {
-        "name": "{argument name=\"host name\" default=\"ชุดนอนเสี่ยวอวี่\"}",
-        "stats": "1.28 แสนไลก์ในไลฟ์นี้",
-        "button": "ติดตาม"
-      },
-      "viewer_info": {
-        "avatars_count": 3,
-        "total_viewers": "1.2 หมื่น"
-      }
-    },
-    "floating_tags": {
-      "count": 2,
-      "labels": ["อันดับ 3 สินค้าขายดี", "อันดับความนิยม"]
-    },
-    "widgets": {
-      "top_left": "ไอคอนซองแดงพร้อมตัวจับเวลา 03:45",
-      "top_right": "ไอคอนหัวใจลอยพร้อมข้อความ งานดีไลฟ์สด ค้นพบความชอบใหม่"
-    },
-    "marketing_text_overlay": {
-      "position": "กลางขวา",
-      "lines_count": 5,
-      "lines": [
-        "{argument name=\"main headline\" default=\"ชุดนอนรุ่นใหม่\"}",
-        "{argument name=\"sub headline\" default=\"กำลังจัดแฟลชเซลล์...\"}",
-        "สัมผัสนุ่ม ระบายอากาศได้ดี",
-        "นุ่มสบาย",
-        "ไม่เป็นขุย ไม่ซีดจาง"
-      ]
-    },
-    "chat_log": {
-      "position": "ล่างซ้าย",
-      "message_count": 7,
-      "messages": [
-        "32 อวี่*** เข้าร่วมไลฟ์สด",
-        "เสี่ยว***: สวยจัง ราคาเท่าไหร่คะ",
-        "เสี่ยว***: กดสั่งแล้ว รอรับของค่ะ",
-        "C***: ดูจากภาพคุณภาพน่าจะดี",
-        "ยง***: สูง 165 หนัก 60 กก. ใส่ไซส์ไหนดีคะ?",
-        "@***: ชุดที่พิธีกรใส่อยู่ยังมีของไหม?",
-        "ฉิง***: สั่งแล้ว รอรับของเลย!"
-      ]
-    },
-    "product_card": {
-      "position": "ล่างขวา",
-      "thumbnail": "ภาพย่อของพิธีกร",
-      "title": "{argument name=\"product title\" default=\"【ชุดนอนเสี่ยวอวี่】ชุดอยู่บ้านคอลเลกชันฤดูใบไม้ผลิ\"}",
-      "tags_count": 2,
-      "tags": ["คืนสินค้าได้ใน 7 วัน", "ประกันค่าส่ง"],
-      "price_section": "ราคาแฟลชเซลล์ ¥ {argument name=\"product price\" default=\"89.9\"}",
-      "action_button": "ซื้อเลย"
-    },
-    "bottom_bar": {
-      "input_placeholder": "พิมพ์ข้อความ...",
-      "icon_count": 5,
-      "icons": ["หน้ายิ้ม", "ตะกร้าสินค้า", "หัวใจ/ของขวัญ", "กล่องของขวัญ", "จุดสามจุด"]
-    }
-  }
-}
-```
-
-#### 🖼️ รูปภาพที่สร้าง
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1776697143428_wa6i4q_HGHqiyqaIAAeg9C.jpg" width="600" alt="ภาพหลักสำหรับอีคอมเมิร์ซ - ม็อกอัป UI สำหรับไลฟ์ขายของออนไลน์ - Image 1">
-</div>
-
-#### 📌 รายละเอียด
-
-- **ผู้เขียน:** [xiaobeiLin(小北)](https://x.com/linxiaobei888)
-- **แหล่งที่มา:** [Twitter Post](https://x.com/linxiaobei888/status/2045174287976538200#reversed-0)
-- **เผยแพร่เมื่อ:** 17 เมษายน 2569
-- **ภาษา:** en
-
-**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-2-prompts?id=13968)**
-
----
-
-### No. 115: ภาพหลักสำหรับอีคอมเมิร์ซ - อินโฟกราฟิกไดรเวอร์ LED สำหรับอีคอมเมิร์ซ
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 คำอธิบาย
-
-อินโฟกราฟิกรายละเอียดสินค้าสไตล์ Amazon A+ ที่ครอบคลุมข้อมูลฟีเจอร์ การใช้งาน และข้อมูลจำเพาะสำหรับไดรเวอร์ LED เกรดอุตสาหกรรม
-
-#### 📝 คำสั่ง
-
-```
-{
-  "type": "อินโฟกราฟิกสินค้าอีคอมเมิร์ซ",
-  "theme": "โหมดมืดพร้อมสีเน้น {argument name=\"accent color\" default=\"ส้ม\"}",
-  "product": {
-    "brand": "{argument name=\"brand name\" default=\"MEAN WELL\"}",
-    "model": "{argument name=\"product model\" default=\"ELG-100-24B\"}",
-    "description": "ไดรเวอร์ LED แบบกระแสคงที่ 100W ตัวเรือนโลหะสีเงินทรงสี่เหลี่ยม พร้อมสายไฟสีดำทั้งสองด้านและฉลากระบุข้อมูลจำเพาะอย่างละเอียด"
-  },
-  "layout": {
-    "sections": [
-      {
-        "name": "ส่วนหัว (Hero Section)",
-        "elements": [
-          "โลโก้แบรนด์ที่มุมซ้ายบน",
-          "หัวข้อหลัก: '{argument name=\"main headline\" default=\"พลังงานเสถียรสำหรับงานภายนอกอาคาร\"}'",
-          "ข้อความรอง: รองรับแรงดันไฟฟ้าขาเข้ากว้าง ตัวเรือนป้องกันได้ดี...",
-          "ภาพสินค้ามุมเฉียงขนาดใหญ่",
-          "ลายน้ำ '100W' จางๆ ที่พื้นหลัง"
-        ]
-      },
-      {
-        "name": "จุดเด่นของสินค้า",
-        "count": 3,
-        "panels": [
-          { "title": "โครงสร้างที่แม่นยำ", "visual": "ภาพระยะใกล้ของฉลากข้อมูลจำเพาะ" },
-          { "title": "การเชื่อมต่อที่ปลอดภัย", "visual": "ภาพระยะใกล้ของจุดเข้าสายไฟและหูยึด" },
-          { "title": "ฟีเจอร์หลัก", "visual": "ภาพสินค้ามุมเฉียงพร้อมเส้นชี้ 3 จุดไปยังข้อความ: 'อินพุต 100~305VAC', 'กระแสคงที่', 'ตัวเรือนมาตรฐาน IP67 / IP65'" }
-        ]
-      },
-      {
-        "name": "การใช้งาน",
-        "count": 4,
-        "panels": [
-          { "title": "สำหรับไฟถนน", "visual": "ทางหลวงยามค่ำคืนที่ส่องสว่างด้วยไฟถนน" },
-          { "title": "สำหรับโครงการภายนอกอาคาร", "visual": "ภายนอกอาคารสมัยใหม่พร้อมไฟส่องสว่างภูมิทัศน์" },
-          { "title": "สำหรับระบบภายในอาคาร", "visual": "โถงทางเดินเชิงพาณิชย์สมัยใหม่พร้อมไฟเพดานแบบเส้น" },
-          { "title": "สำหรับการควบคุมการหรี่ไฟ", "visual": "กล่องควบคุมไฟฟ้าพร้อมป้ายกำกับ 4 แบบ: '0-10V', 'PWM', 'RESISTOR', 'DALI'" }
-        ]
-      },
-      {
-        "name": "การป้องกันสภาพแวดล้อม",
-        "elements": [
-          "ภาพสินค้าวางบนพื้นผิวเปียกพร้อมหยดน้ำและเอฟเฟกต์ฝน",
-          "หัวข้อ: 'ประสิทธิภาพที่ได้รับการปกป้อง'",
-          "ข้อความอธิบายเกี่ยวกับการใช้งานภายใน/ภายนอกอาคารและระบบ Active PFC",
-          "ป้าย: 'รับประกัน {argument name=\"warranty years\" default=\"5\"} ปี'"
-        ]
-      },
-      {
-        "name": "ข้อมูลจำเพาะทางเทคนิค",
-        "elements": [
-          "หัวข้อ: 'เทคโนโลยีพลังงานแสงสว่าง'",
-          "รายการหัวข้อ 4 จุด: 'อินพุต 100~305VAC', 'Active PFC', 'สแตนด์บายต่ำ <0.5W', '0~10V / PWM / Resistor / DALI'",
-          "ภาพสินค้าเรืองแสงบนพื้นหลังแผงวงจรไฮเทค"
-        ]
-      }
-    ]
-  }
-}
-```
-
-#### 🖼️ รูปภาพที่สร้าง
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1776697086609_6u6u05_HGGBBQ4bAAAmJr1.jpg" width="600" alt="ภาพหลักสำหรับอีคอมเมิร์ซ - อินโฟกราฟิกไดรเวอร์ LED สำหรับอีคอมเมิร์ซ - Image 1">
-</div>
-
-#### 📌 รายละเอียด
-
-- **ผู้เขียน:** [Curry Amber](https://x.com/AmberPromptai)
-- **แหล่งที่มา:** [Twitter Post](https://x.com/AmberPromptai/status/2045057984200687645#reversed-0)
-- **เผยแพร่เมื่อ:** 17 เมษายน 2569
-- **ภาษา:** en
-
-**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-2-prompts?id=13884)**
-
----
-
-### No. 116: ภาพหลักสำหรับอีคอมเมิร์ซ - ม็อกอัป UI ไลฟ์สตรีมสำหรับอีคอมเมิร์ซ
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 คำอธิบาย
-
-สร้างอินเทอร์เฟซไลฟ์สตรีมสำหรับอีคอมเมิร์ซบนมือถือที่สมจริง โดยมีนางแบบ การ์ดสินค้าแบบโต้ตอบ และแถบแชทแบบเลื่อน
-
-#### 📝 คำสั่ง
-
-```
-{
-  "type": "ม็อกอัปอินเทอร์เฟซไลฟ์สตรีมสำหรับอีคอมเมิร์ซ",
-  "subject": {
-    "description": "หญิงสาวชาวเอเชีย ผมยาวดัดลอนสีเข้ม สวมเสื้อโปโลแขนสั้นสีขาวและกระโปรงเทนนิสจีบรอบสีขาว ถือไม้เทนนิสสีขาวพาดไว้บนไหล่ขวา มองตรงมาที่กล้องด้วยสีหน้าอ่อนโยน",
-    "background": "พื้นหลังสตูดิโอสีเทาอ่อนแบบนุ่มนวล"
-  },
-  "layout": {
-    "header": {
-      "left": {
-        "avatar": "ภาพพอร์ตเทรตผู้หญิง",
-        "name": "{argument name=\"host name\" default=\"小鹿运动优选\"}",
-        "stats": "12.8 หมื่นไลก์ในไลฟ์นี้",
-        "button": "ติดตาม",
-        "badge": "อันดับ 3 สินค้าขายดี"
-      },
-      "right": {
-        "viewer_avatars_count": 3,
-        "viewer_count": "1.2 หมื่น",
-        "close_icon": "X"
-      }
-    },
-    "floating_elements": [
-      {
-        "position": "ขวาบน",
-        "type": "การ์ดคูปอง",
-        "title": "คูปองเฉพาะในไลฟ์",
-        "details": "¥20 เมื่อซื้อครบ 199",
-        "button": "กดรับ"
-      },
-      {
-        "position": "ซ้ายกลาง",
-        "type": "ข้อความแคมเปญ",
-        "subtitle": "เทศกาลกีฬาฤดูร้อน",
-        "headline": "{argument name=\"main headline\" default=\"活力开场\"}",
-        "bullet_points_count": 3,
-        "bullet_points": ["ระบายอากาศแห้งไว", "ยืดหยุ่นใส่สบาย", "แมตช์ได้หลายลุค"]
-      },
-      {
-        "position": "ขวากลาง",
-        "type": "การ์ดสินค้าแบบแอคทีฟ",
-        "badge": "กำลังแนะนำ",
-        "image": "ภาพวางแบนเสื้อโปโลและกระโปรงสีขาว",
-        "title": "{argument name=\"product name\" default=\"运动POLO衫套装\"}",
-        "details": "สีขาว · ไซส์ M",
-        "price": "{argument name=\"price\" default=\"¥129\"}",
-        "button": "ไปซื้อเลย"
-      },
-      {
-        "position": "ขวาล่าง",
-        "type": "การ์ดสินค้าเสริม",
-        "badge": "ขายดี x 156",
-        "image": "นางแบบสวมชุด",
-        "title": "ชุดเซ็ตเสื้อโปโลออกกำลังกายหญิง ระบายอากาศแห้งไว พรางหุ่นแมตช์ง่าย",
-        "tags": ["คืนสินค้าได้ภายใน 7 วัน", "ประกันค่าจัดส่ง"],
-        "price": "¥129",
-        "button": "ซื้อ"
-      }
-    ],
-    "chat_overlay": {
-      "position": "ซ้ายล่าง",
-      "message_count": 5,
-      "messages": [
-        "小鹿姐姐: ยินดีต้อนรับเพื่อนใหม่ทุกคนเข้าสู่ไลฟ์นะคะ~",
-        "运动达人: {argument name=\"chat message\" default=\"这套好看!\"}",
-        "卡卡西: ผ้าโปร่งระบายอากาศไหมคะ?",
-        "小鹿运动优选: ผ้าของเราเป็นผ้าไหมน้ำแข็งแห้งไวค่ะ ออกกำลังกายเหงื่อออกก็ไม่ร้อนอับชื้นนะคะ~",
-        "用户_6789: สั่งซื้อแล้ว!"
-      ],
-      "purchase_alert": "用户_6789 และอีก 3 คน กำลังไปซื้อ"
-    },
-    "footer": {
-      "input_bar": "พิมพ์ข้อความ...",
-      "icons_count": 5,
-      "icons": ["smile", "shopping cart", "heart", "share", "more"]
-    }
-  }
-}
-```
-
-#### 🖼️ รูปภาพที่สร้าง
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1776697140600_p2muso_HGFky13acAAGQCe.jpg" width="600" alt="ภาพหลักสำหรับอีคอมเมิร์ซ - ม็อกอัป UI ไลฟ์สตรีมสำหรับอีคอมเมิร์ซ - Image 1">
-</div>
-
-#### 📌 รายละเอียด
-
-- **ผู้เขียน:** [可可耐特coconut](https://x.com/coconut_256)
-- **แหล่งที่มา:** [Twitter Post](https://x.com/coconut_256/status/2045026556561719581#reversed-1)
-- **เผยแพร่เมื่อ:** 17 เมษายน 2569
-- **ภาษา:** en
-
-**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-2-prompts?id=13962)**
-
----
-
-### No. 117: ภาพหลักสำหรับอีคอมเมิร์ซ - ม็อกอัปอินเทอร์เฟซไลฟ์สดอีคอมเมิร์ซ
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 คำอธิบาย
-
-สร้าง UI ไลฟ์สดอีคอมเมิร์ซที่สมจริง โดยมีพิธีกร การ์ดสินค้า แชทสด และป้ายโปรโมชัน
-
-#### 📝 คำสั่ง
-
-```
-{
-  "type": "ม็อกอัปอินเทอร์เฟซไลฟ์สดอีคอมเมิร์ซ",
-  "subject": {
-    "description": "หญิงสาวชาวเอเชีย ผมยาวดัดลอนสีเข้ม ผิวฉ่ำวาวและมีเหงื่อเล็กน้อย สวมเสื้อโปโลแขนสั้นสีขาวและกระโปรงเทนนิสจีบรอบสีขาว ถือไม้เทนนิสสีขาวพาดไว้บนไหล่ขวา มองตรงมาที่กล้อง",
-    "background": "สีขาวเรียบ"
-  },
-  "ui_layout": {
-    "top_bar": {
-      "left": {
-        "profile_name": "{argument name=\"host name\" default=\"小鹿运动优选\"}",
-        "stats": "12.8 หมื่นไลก์ในไลฟ์นี้",
-        "button": "ติดตาม",
-        "badge": "อันดับ 3 สินค้าขายดี"
-      },
-      "right": {
-        "viewer_avatars_count": 3,
-        "viewer_count": "1.2 หมื่น",
-        "close_button": "X"
-      }
-    },
-    "left_panel": {
-      "campaign": {
-        "title": "{argument name=\"campaign title\" default=\"夏日运动季\"} 🎾",
-        "subtitle": "{argument name=\"campaign subtitle\" default=\"活力开场\"}",
-        "bullet_points_count": 3,
-        "bullet_points": [
-          "ระบายอากาศ แห้งไว",
-          "ยืดหยุ่น สวมใส่สบาย",
-          "แมตช์ชุดออกกำลังกายได้ง่าย"
-        ]
-      }
-    },
-    "right_panel": {
-      "coupon": {
-        "text": "คูปองเฉพาะในไลฟ์ ลด 20 หยวน เมื่อซื้อครบ 199 หยวน",
-        "button": "กดรับ"
-      },
-      "product_cards_count": 2,
-      "product_cards": [
-        {
-          "status": "กำลังแนะนำ",
-          "image": "เสื้อโปโลสีขาวและกระโปรงจีบ",
-          "title": "{argument name=\"product name\" default=\"运动POLO衫套装\"}",
-          "details": "สีขาว · ไซส์ M",
-          "price": "¥{argument name=\"product price\" default=\"129\"}",
-          "button": "ไปซื้อเลย"
-        },
-        {
-          "status": "ขายดี x 156",
-          "tags": [
-            "แบรนด์",
-            "คอลเลกชันใหม่ฤดูร้อน"
-          ],
-          "image": "ภาพตัวอย่างของพิธีกร",
-          "title": "ชุดเซ็ตเสื้อโปโลออกกำลังกายผู้หญิง ระบายอากาศ แห้งไว พรางหุ่น แมตช์ง่าย",
-          "features": [
-            "คืนสินค้าได้ภายใน 7 วัน",
-            "ประกันค่าจัดส่ง"
-          ],
-          "price": "¥{argument name=\"product price\" default=\"129\"}",
-          "button": "ซื้อ"
-        }
-      ]
-    },
-    "bottom_panel": {
-      "chat_messages_count": 5,
-      "chat_messages": [
-        "小鹿姐姐: ยินดีต้อนรับเพื่อนใหม่ทุกคนเข้าสู่ไลฟ์นะคะ~",
-        "运动达人: ชุดนี้สวยมาก!",
-        "卡卡西: ผ้าโปร่งระบายอากาศไหมคะ?",
-        "主播 小鹿运动优选: ผ้าของเราเป็นผ้าไหมน้ำแข็งแห้งไวค่ะ ออกกำลังกายแล้วเหงื่อออกก็ไม่รู้สึกอับชื้นนะคะ~",
-        "用户_6789: สั่งซื้อแล้ว!"
-      ],
-      "purchase_notification": "用户_6789 และอีก 3 คน กำลังไปที่หน้าชำระเงิน",
-      "input_bar": {
-        "placeholder": "พิมพ์ข้อความ...",
-        "icons_count": 5,
-        "icons": [
-          "อีโมจิ",
-          "ตะกร้าสินค้า",
-          "หัวใจ",
-          "ของขวัญ",
-          "ตัวเลือกเพิ่มเติม"
-        ]
-      }
-    }
-  }
-}
-```
-
-#### 🖼️ รูปภาพที่สร้าง
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1776697093154_uk4z1d_HGFOpdUbMAA4u2U.jpg" width="600" alt="ภาพหลักสำหรับอีคอมเมิร์ซ - ม็อกอัปอินเทอร์เฟซไลฟ์สดอีคอมเมิร์ซ - Image 1">
-</div>
-
-#### 📌 รายละเอียด
-
-- **ผู้เขียน:** [清风徐来028](https://x.com/onlyhuman028)
-- **แหล่งที่มา:** [Twitter Post](https://x.com/onlyhuman028/status/2045002232761045215#reversed-1)
-- **เผยแพร่เมื่อ:** 17 เมษายน 2569
-- **ภาษา:** en
-
-**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-2-prompts?id=13836)**
-
----
-
-### No. 118: สินทรัพย์เกม - Retro Skeuomorphic Icons
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 คำอธิบาย
-
-A prompt to generate a set of retro icons for electronic devices, utilizing skeuomorphic design elements and including text labels.
-
-#### 📝 คำสั่ง
-
-```
-Generate a set of icons for {argument name="device" default="vintage electronic equipment"} in {argument name="style" default="retro skeuomorphic style"}, including icon names in the image.
-```
-
-#### 🖼️ รูปภาพที่สร้าง
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1776756777380_yjxdip_HGaGbcRbsAA8HRT.jpg" width="600" alt="สินทรัพย์เกม - Retro Skeuomorphic Icons - Image 1">
-</div>
-
-#### 📌 รายละเอียด
-
-- **ผู้เขียน:** [MarioTan](https://x.com/TanShilong)
-- **แหล่งที่มา:** [Twitter Post](https://x.com/TanShilong/status/2046470907762450900)
-- **เผยแพร่เมื่อ:** 21 เมษายน 2569
-- **ภาษา:** zh
-
-**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-2-prompts?id=14138)**
-
----
-
-### No. 119: สินทรัพย์เกม - Open-World Game Screenshot Mockup
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 คำอธิบาย
-
-Generates a realistic third-person video game screenshot with customizable UI elements, mission objectives, and environmental signage.
-
-#### 📝 คำสั่ง
-
-```
-{
-  "type": "video game screenshot mockup",
-  "perspective": "third-person over-the-shoulder",
-  "character": {
-    "description": "male protagonist seen from behind",
-    "clothing": "grey tank top with graphic '{argument name=\"shirt graphic\" default=\"LEONIDA MARINE CENTER\"}', camouflage cargo shorts"
-  },
-  "environment": {
-    "setting": "tropical coastal town, dirt road, sunny daytime with scattered clouds",
-    "left_side": "wooden welcome sign reading 'Welcome to {argument name=\"location name\" default=\"LEONIDA KEYS\"} YOUR PARADISE', pink plastic flamingo, tropical foliage, distant water tower",
-    "center": "green building with 'FISH' sign and marlin graphic, sign reading 'BAIT TACKLE ICE BEER WINE', pedestrians walking",
-    "right_side": "two-story wooden building 'Brian's Boat Works & Marina', 'Brian's Bar' neon sign, parked pickup truck, jet skis on a trailer"
-  },
-  "ui_elements": {
-    "count": 5,
-    "components": [
-      {
-        "position": "top-left",
-        "type": "mission objective",
-        "text": "{argument name=\"mission title\" default=\"MEET RAUL\"}\n{argument name=\"mission description\" default=\"Raul has some work for you at his boatyard\"}"
-      },
-      {
-        "position": "top-right",
-        "type": "status HUD",
-        "text": "13:47\n$1,142",
-        "icon": "pink palm tree"
-      },
-      {
-        "position": "bottom-left",
-        "type": "minimap",
-        "description": "circular map with purple border, white map icons including 'N' for north"
-      },
-      {
-        "position": "bottom-left, right of minimap",
-        "type": "location text",
-        "text": "{argument name=\"location name\" default=\"LEONIDA KEYS\"}\nPALM ISLAND"
-      },
-      {
-        "position": "bottom-right",
-        "type": "watermark",
-        "text": "{argument name=\"game title\" default=\"GTA VI\"}\nPRE-ALPHA FOOTAGE"
-      }
-    ]
-  }
-}
-```
-
-#### 🖼️ รูปภาพที่สร้าง
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1776756856035_cadk67_HGXsnCWbkAAQTAp.jpg" width="600" alt="สินทรัพย์เกม - Open-World Game Screenshot Mockup - Image 1">
-</div>
-
-#### 📌 รายละเอียด
-
-- **ผู้เขียน:** [Dan](https://x.com/DanDaniDaniel01)
-- **แหล่งที่มา:** [Twitter Post](https://x.com/DanDaniDaniel01/status/2046301764371259589#reversed-0)
-- **เผยแพร่เมื่อ:** 20 เมษายน 2569
-- **ภาษา:** en
-
-**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-2-prompts?id=14273)**
-
----
-
-### No. 120: สินทรัพย์เกม - Voice Personification Character
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 คำอธิบาย
-
-A creative prompt that imagines a visual character representation of the ChatGPT voice interface.
-
-#### 📝 คำสั่ง
-
-```
-{argument name="voice" default="chatgpt voice"} if it were a character
-```
-
-#### 🖼️ รูปภาพที่สร้าง
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1776756762596_rmpgom_HGXGsubW4AA5amx.jpg" width="600" alt="สินทรัพย์เกม - Voice Personification Character - Image 1">
-</div>
-
-#### 📌 รายละเอียด
-
-- **ผู้เขียน:** [nic](https://x.com/nicdunz)
-- **แหล่งที่มา:** [Twitter Post](https://x.com/nicdunz/status/2046260083504394518)
-- **เผยแพร่เมื่อ:** 20 เมษายน 2569
-- **ภาษา:** en
-
-**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-2-prompts?id=14120)**
-
----
-
 ---
 
 ## 📚 มีคำสั่งเพิ่มเติม
 
 <div align="center">
 
-### 🎯 605 คำสั่งเพิ่มเติมที่ไม่ได้แสดงที่นี่
+### 🎯 1003 คำสั่งเพิ่มเติมที่ไม่ได้แสดงที่นี่
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -8253,6 +5940,6 @@ The gallery features:
 **[📝 ส่งคำสั่ง](https://github.com/YouMind-OpenLab/awesome-gpt-image-2/issues/new?template=submit-prompt.yml)** •
 **[⭐ ให้ดาวกับที่เก็บนี้](https://github.com/YouMind-OpenLab/awesome-gpt-image-2)**
 
-<sub>🤖 README นี้ถูกสร้างขึ้นโดยอัตโนมัติ อัปเดตล่าสุด: 2026-04-22T12:59:26.900Z</sub>
+<sub>🤖 README นี้ถูกสร้างขึ้นโดยอัตโนมัติ อัปเดตล่าสุด: 2026-04-23T01:28:48.022Z</sub>
 
 </div>
