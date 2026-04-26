@@ -3,7 +3,7 @@
   <img src="https://marketing-assets.youmind.com/campaigns/gpt-image-2/og-hq.png" alt="GPT Image 2 Prompts" width="100%" />
 </a>
 
-> 💡 🍌 也看看我们的 **Nano Banana Pro** 提示词库 — Google 旗舰生图模型，10000+ 精选提示词 👉 [awesome-nano-banana-pro-prompts](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)
+> 💡 🎬 进阶玩法：用 **Seedance 2** 把 GPT Image 2 生成的图变成炸裂 AI 视频，2000+ 提示词等你探索 👉 [awesome-seedance-2-prompts](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)
 # 🚀 GPT Image 2 提示词大全
 
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
@@ -141,7 +141,7 @@ by {argument name="author" default="Steve Jobs"}
 |--------|-------|
 | 📝 提示词总数 | **2168** |
 | ⭐ 精选 | **6** |
-| 🔄 最后更新 | **2026年4月26日星期日 UTC 01:30:39** |
+| 🔄 最后更新 | **2026年4月26日星期日 UTC 07:45:50** |
 
 </div>
 
@@ -5293,6 +5293,6 @@ The gallery features:
 **[📝 提交提示词](https://github.com/YouMind-OpenLab/awesome-gpt-image-2/issues/new?template=submit-prompt.yml)** •
 **[⭐ 给仓库点星](https://github.com/YouMind-OpenLab/awesome-gpt-image-2)**
 
-<sub>🤖 此 README 自动生成。最后更新： 2026-04-26T01:30:39.690Z</sub>
+<sub>🤖 此 README 自动生成。最后更新： 2026-04-26T07:45:50.891Z</sub>
 
 </div>

@@ -3,7 +3,7 @@
   <img src="https://marketing-assets.youmind.com/campaigns/gpt-image-2/og-hq.png" alt="GPT Image 2 Prompts" width="100%" />
 </a>
 
-> 💡 🍌 **Nano Banana Pro** プロンプト集もチェック — Google 旗艦モデル、10000+ 厳選プロンプト 👉 [awesome-nano-banana-pro-prompts](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)
+> 💡 🎬 **Seedance 2** プロンプト集もチェック — GPT Image 2 と組み合わせて圧巻の AI 動画、2000+ プロンプトを探索 👉 [awesome-seedance-2-prompts](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)
 # 🚀 GPT Image 2 プロンプト集
 
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
@@ -141,7 +141,7 @@ Raycast で使用すると、引数を動的に置き換えて迅速に反復で
 |--------|-------|
 | 📝 プロンプト総数 | **2168** |
 | ⭐ おすすめ | **6** |
-| 🔄 最終更新 | **2026年4月26日日曜日 1:30:45 UTC** |
+| 🔄 最終更新 | **2026年4月26日日曜日 7:45:58 UTC** |
 
 </div>
 
@@ -5293,6 +5293,6 @@ The gallery features:
 **[📝 プロンプトを提出](https://github.com/YouMind-OpenLab/awesome-gpt-image-2/issues/new?template=submit-prompt.yml)** •
 **[⭐ このリポジトリにスターを付ける](https://github.com/YouMind-OpenLab/awesome-gpt-image-2)**
 
-<sub>🤖 この README は自動生成されています。最終更新： 2026-04-26T01:30:45.296Z</sub>
+<sub>🤖 この README は自動生成されています。最終更新： 2026-04-26T07:45:58.411Z</sub>
 
 </div>
