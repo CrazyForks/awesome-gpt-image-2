@@ -141,7 +141,7 @@ Raycast'te kullanıldığında, hızlı yinelemeler için argümanları dinamik 
 |--------|-------|
 | 📝 Toplam İstem | **3828** |
 | ⭐ Öne Çıkan | **6** |
-| 🔄 Son Güncelleme | **2 Mayıs 2026 Cumartesi 12:44:49 UTC** |
+| 🔄 Son Güncelleme | **3 Mayıs 2026 Pazar 01:49:53 UTC** |
 
 </div>
 
@@ -5152,6 +5152,6 @@ Detaylı yönergeler için [CONTRIBUTING.md](docs/CONTRIBUTING.md) dosyasına ba
 **[📝 Bir İstem Gönder](https://github.com/YouMind-OpenLab/awesome-gpt-image-2/issues/new?template=submit-prompt.yml)** •
 **[⭐ Bu depoya yıldız verin](https://github.com/YouMind-OpenLab/awesome-gpt-image-2)**
 
-<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-05-02T12:44:49.641Z</sub>
+<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-05-03T01:49:53.261Z</sub>
 
 </div>
