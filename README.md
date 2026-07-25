@@ -139,9 +139,9 @@ When used in Raycast, you can dynamically replace the arguments for quick iterat
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **13663** |
+| 📝 Total Prompts | **13743** |
 | ⭐ Featured | **6** |
-| 🔄 Last Updated | **Saturday, July 25, 2026 at 1:30:05 AM UTC** |
+| 🔄 Last Updated | **Saturday, July 25, 2026 at 12:57:49 PM UTC** |
 
 </div>
 
@@ -525,7 +525,643 @@ Transforms a flat evolutionary timeline into a realistic 3D stone staircase info
 
 > 📝 Sorted by publish date (newest first)
 
-### No. 1: Profile / Avatar - Paris Balcony Selfie
+### No. 1: Profile / Avatar - Candid Nighttime Flash Photography Portrait
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Description
+
+A prompt for generating spontaneous, high-ISO flash photography with a Y2K digital camera aesthetic, featuring a subject in a moody urban setting.
+
+#### 📝 Prompt
+
+```
+A candid nighttime street portrait of a young woman with long black hair wearing oversized rectangular glasses and a dark brown oversized knit sweater. She raises her hand toward the camera, partially covering her face, creating a playful "no photos" pose. Shot with an iPhone flash, featuring strong motion blur, soft focus, cinematic low-light atmosphere, glossy white tiled wall on the side, dark urban street with distant streetlights, Y2K aesthetic, natural skin tones, moody, spontaneous, unedited, 35mm flash photography, high ISO, authentic nightlife vibes, vertical composition (9:16). A candid flash photo of a young woman at night wearing a blue-and-white striped puff-sleeve dress. She smiles subtly while covering part of her face with her hand, creating a playful and shy expression. Captured with direct iPhone flash and intentional motion blur, soft focus, glossy tiled wall beside her, dark city sidewalk with blurred streetlights in the background, nostalgic 2000s digital camera aesthetic, cinematic, natural lighting, realistic skin texture, casual street photography, dreamy nightlife mood, vertical composition (9:16). Candid nighttime flash photography, direct iPhone flash, motion blur, soft focus, playful hand covering the face, glossy tiled wall, dark city street, blurred streetlights, authentic street photography, Y2K digital camera aesthetic, nostalgic, cinematic, realistic, natural skin tones, shallow depth of field, unedited, spontaneous moment, high ISO, grainy, vertical 9:16.
+```
+
+#### 🖼️ Generated Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1784968563133_n925ew_HODv9OoaQAA_BGt.jpg" width="600" alt="Profile / Avatar - Candid Nighttime Flash Photography Portrait - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1784968563174_imwhi8_HODv9OdaoAAVteo.jpg" width="600" alt="Profile / Avatar - Candid Nighttime Flash Photography Portrait - Image 2">
+</div>
+
+#### 📌 Details
+
+- **Author:** [Sairah](https://x.com/Sairah_0)
+- **Source:** [Twitter Post](https://x.com/Sairah_0/status/2080926878039224803)
+- **Published:** July 25, 2026
+- **Languages:** en
+
+**[👉 Try it now →](https://youmind.com/gpt-image-2-prompts?id=29667)**
+
+---
+
+### No. 2: Profile / Avatar - Luxury Boutique Hotel Mirror Selfie
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Description
+
+A sophisticated prompt for generating a high-end fashion mirror selfie in a luxury boutique hotel elevator, featuring a Korean female idol in a denim romper.
+
+#### 📝 Prompt
+
+```
+Authentic luxury mirror selfie inside a {argument name="setting" default="contemporary boutique hotel elevator"} during a quiet afternoon. An exceptionally beautiful {argument name="subject" default="Korean female idol"} stands naturally in front of a brushed stainless-steel mirror wearing an {argument name="clothing" default="strapless light-wash denim corset romper"} with a sculpted waistline and structured tailoring, decorative flap pockets, taupe suede knee-high boots. Platinum-blonde hair with soft movement and delicate flyaway strands, hydrated skin with visible pores, minimal Korean editorial makeup, calm introspective expression. Boutique hotel elevator with brushed steel walls, smoked bronze mirror panels, walnut trim, stone flooring, brass accents, warm architectural LED lighting, subtle daylight entering through opening doors, quiet luxury atmosphere. Documentary-fashion hybrid inspired by Mark Borthwick, Mario Sorrenti, Cass Bird, Lachlan Bailey, and Vogue Korea. Hasselblad X2D, 50–55mm lens, f/1.2, shallow depth of field, creamy cinematic bokeh, Kodak Portra 400 and Kodak Vision3 250D color science, Boutique Hotel Neutral LUT, authentic optical rendering, urban travel fashion diary, lived-in elegance, captured rather than generated, 3:4 aspect ratio.
+```
+
+#### 🖼️ Generated Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1784968606437_h45dil_HODROe6bgAA3Z_a.jpg" width="600" alt="Profile / Avatar - Luxury Boutique Hotel Mirror Selfie - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1784968606434_vdbhd4_HODROfGbwAAiec3.jpg" width="600" alt="Profile / Avatar - Luxury Boutique Hotel Mirror Selfie - Image 2">
+</div>
+
+#### 📌 Details
+
+- **Author:** [Ciri](https://x.com/Ciri_ai)
+- **Source:** [Twitter Post](https://x.com/Ciri_ai/status/2080893088084664391)
+- **Published:** July 25, 2026
+- **Languages:** en
+
+**[👉 Try it now →](https://youmind.com/gpt-image-2-prompts?id=29709)**
+
+---
+
+### No. 3: Profile / Avatar - Car Interior Selfie Portrait Photography
+
+![Language-JA](https://img.shields.io/badge/Language-JA-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Description
+
+A comprehensive prompt for generating a high-quality smartphone-style selfie of a woman in a car interior, focusing on realistic skin texture, lighting, and natural depth of field.
+
+#### 📝 Prompt
+
+```
+Theme:
+{argument name="theme" default="heat through the lens"}
+
+Subject:
+{argument name="aspect ratio" default="portrait 3:4"}. In a bright daytime car interior, a woman sits sideways on the rear seat, extending one arm toward a smartphone to take a selfie. The person occupies a large portion of the screen from the center to the right, with the face and upper body as the main focus, while including part of the waist and thighs. Leave a wide space on the left for the black seat and the green outside the window.
+
+Character and Expression:
+{argument name="character profile" default="Bright ivory-beige skin with pale pink complexion and natural texture. Delicate highlights on cheeks, nose tip, shoulders, and collarbone. Rose pink blush, pink-brown eyeshadow, long thin eyelashes, natural eye bags, soft light brown eyebrows, and sheer pink-beige lip gloss. Tilting the head slightly to the left, looking at the camera through thin champagne-brown lenses. Lips slightly open, tip of the tongue slightly touching the lower bottom lip, a mature expression that isn't too provocative."} ...
+```
+
+#### 🖼️ Generated Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1784968587414_vlrzt1_HN6TYXGbUAEq48D.jpg" width="600" alt="Profile / Avatar - Car Interior Selfie Portrait Photography - Image 1">
+</div>
+
+#### 📌 Details
+
+- **Author:** [Prompt アトリエ｜AI画像プロンプト](https://x.com/CyberTotal2026)
+- **Source:** [Twitter Post](https://x.com/CyberTotal2026/status/2080883241376985190)
+- **Published:** July 25, 2026
+- **Languages:** ja
+
+**[👉 Try it now →](https://youmind.com/gpt-image-2-prompts?id=29692)**
+
+---
+
+### No. 4: Profile / Avatar - Urban Balcony Editorial Portrait
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Description
+
+An editorial fashion portrait of a young woman on a high-rise balcony with a cinematic city skyline backdrop.
+
+#### 📝 Prompt
+
+```
+Ultra-realistic portrait of a beautiful young {argument name="ethnicity" default="East Asian"} woman standing on a high-rise balcony overlooking a modern city skyline during soft daylight. She has long, slightly messy dark brown hair, natural makeup, and a calm expression while looking directly at the camera. She is wearing a {argument name="clothing" default="white ribbed crop top"}, light blue denim jeans with a visible Calvin Klein waistband, and an oversized white shirt draped off her shoulders. Cinematic lighting, shallow depth of field, soft gray tones, photorealistic skin texture, editorial fashion photography, {argument name="lens type" default="85mm"} lens, bokeh background, luxury magazine aesthetic, subtle sparkle effects around the subject, highly detailed, 8K, vertical composition (3:4).
+```
+
+#### 🖼️ Generated Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1784968582105_92c9jc_HOC7rlvaYAAHBwy.jpg" width="600" alt="Profile / Avatar - Urban Balcony Editorial Portrait - Image 1">
+</div>
+
+#### 📌 Details
+
+- **Author:** [lovimg_com](https://x.com/lovimg_com)
+- **Source:** [Twitter Post](https://x.com/lovimg_com/status/2080869393844589019)
+- **Published:** July 25, 2026
+- **Languages:** en
+
+**[👉 Try it now →](https://youmind.com/gpt-image-2-prompts?id=29686)**
+
+---
+
+### No. 5: Profile / Avatar - Cinematic Face Reference Portrait
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Description
+
+A high-detail cinematic portrait prompt designed to work with an uploaded face reference, emphasizing fabric textures and sunset lighting.
+
+#### 📝 Prompt
+
+```
+Use the uploaded face as the exact facial reference and preserve all facial features, skin tone, hairstyle, and identity. Create a cinematic low-angle portrait shot on a 50mm lens with a shallow depth of field and realistic lighting. The man is casually leaning against a weathered concrete railing with both elbows resting on it. He is wearing a {argument name="clothing material" default="premium black silk"} shalwar kameez with the sleeves rolled up, {argument name="accessory" default="dark rectangular sunglasses"}, a white wristwatch on his left wrist, and a stylish chain bracelet on his right wrist. He is looking upward toward the right with a calm, confident expression. The background features a {argument name="time of day" default="golden-yellow sunset"} with warm cinematic light, soft bokeh, and subtle lens flare. Ultra-realistic, highly detailed skin texture, natural color grading, HDR, professional photography, sharp focus on the face, 8K resolution, premium editorial portrait, dramatic composition.
+```
+
+#### 🖼️ Generated Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1784968584468_yfq9c0_HOCxejIWkAAxYiI.jpg" width="600" alt="Profile / Avatar - Cinematic Face Reference Portrait - Image 1">
+</div>
+
+#### 📌 Details
+
+- **Author:** [Muhammad Jamil](https://x.com/JamilAI55)
+- **Source:** [Twitter Post](https://x.com/JamilAI55/status/2080858190002921529)
+- **Published:** July 25, 2026
+- **Languages:** en
+
+**[👉 Try it now →](https://youmind.com/gpt-image-2-prompts?id=29688)**
+
+---
+
+### No. 6: Profile / Avatar - Sunglasses Interior Fashion Portrait
+
+![Language-JA](https://img.shields.io/badge/Language-JA-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Description
+
+A sophisticated prompt for an indoor fashion portrait of a woman wearing sunglasses, with a focus on lighting and material textures.
+
+#### 📝 Prompt
+
+```
+Theme:
+{argument name="theme" default="gaze through sunglasses"}
+
+Subject:
+Depict a mature woman relaxing in a bright indoor setting. A vertical fashion portrait showing the person from the top of the head to below the waist, positioned slightly to the right of center. A mature, well-proportioned figure with a slim waist and natural feminine curves.
+
+Character and Expression:
+{argument name="character profile" default="Dark brown short bob. Hair ends move naturally in and out below the chin, with thin see-through bangs over the forehead. Elegant Japanese-style makeup with brown eyeshadow, thin eyeliner, delicate lashes, pale coral pink blush, and matte pink-beige lips."} Tilting the head slightly left, staring straight at the camera from under brown lenses. A modest, confident smile on the lips.
+
+Clothing and Pose:
+{argument name="outfit" default="An ivory fine-ribbed knit camisole crop top. Deep V-line but the chest is naturally covered, clearly showing the stretch and seams of the soft knit."} The bottom is a matching room-wear style design. The person raises her right hand to the front of her face, lightly pushing down the bridge of the sunglasses with the tip of her index finger. The other fingers are naturally bent. The left arm is extended to the lower right, resting weight as if supporting the seat. The upper body is slightly tilted to the right, and the waist is gently twisted in the opposite direction.
+```
+
+#### 🖼️ Generated Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1784968587655_ji2om0_HN1Rc2la0AAYJv7.jpg" width="600" alt="Profile / Avatar - Sunglasses Interior Fashion Portrait - Image 1">
+</div>
+
+#### 📌 Details
+
+- **Author:** [Prompt アトリエ｜AI画像プロンプト](https://x.com/CyberTotal2026)
+- **Source:** [Twitter Post](https://x.com/CyberTotal2026/status/2080856062349959476)
+- **Published:** July 25, 2026
+- **Languages:** ja
+
+**[👉 Try it now →](https://youmind.com/gpt-image-2-prompts?id=29694)**
+
+---
+
+### No. 7: Profile / Avatar - Soft Japanese Lifestyle Portrait
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Description
+
+A photorealistic prompt for a gentle and minimalist indoor portrait of a woman, featuring soft natural lighting and realistic skin details in a Japanese lifestyle aesthetic.
+
+#### 📝 Prompt
+
+```
+{argument name="subject" default="A young adult East Asian woman"} sitting in {argument name="setting" default="a minimalist white interior space"}, medium close-up to half-body composition, centered slightly left. Body leaning slightly forward, shoulders naturally inward, arms forward, pose is quiet, relaxed, and slightly fragile. Head slightly tilted, facing the camera, gaze is calm, soft, and slightly detached, lips naturally parted, no obvious smile.
+
+Exquisite soft oval face, almond-shaped dark brown eyes, natural thin eyebrows, slender bridge of the nose, light nude pink lips. Very light makeup, only natural eyelashes, slight eyeliner, and soft blush. Fair warm skin tone, retaining real pores, fine peach fuzz, natural skin variations, soft highlights, and light shadows, no plastic smoothing.
+
+Deep dark brown long hair, naturally loose, voluminous with slight messy waves. Fluffy but real hair strands, with some wisps falling on forehead, eyes, cheeks, neck, and chest, creating a casual, unstyled home texture.
+
+She wears {argument name="clothing" default="a thin white loose shirt"}, buttons partially undone, fabric soft and slightly wrinkled with a light semi-transparent gauzy feel; collar and one shoulder naturally sliding off, revealing neck, collarbone, and a white spaghetti strap camisole underneath. Overall clothing is fresh, clean, and subtle, not overexposed.
+
+Background is a minimalist white or light gray wall, no clutter, quiet and clean space. Light is soft natural window light or high-key studio diffused light, coming from the front left, very shallow shadows, overall low saturation and low contrast, dominated by cream white, light gray, and natural skin tones. Photography style: 85mm portrait lens, f/1.8, shallow depth of field, eyes and face in focus, soft background blur, slight film grain, real photographic texture, Japanese soft lifestyle portrait, photorealistic.
+
+Avoid: Cartoon, CG, illustration, over-smoothing, heavy makeup, exaggerated expressions, exaggerated body, wrong fingers, deformed arms, messy background, strong HDR, over-sharpening, text, watermarks, logos.
+```
+
+#### 🖼️ Generated Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1784968594600_ntf3pl_HN86jS8XoAAkT8O.jpg" width="600" alt="Profile / Avatar - Soft Japanese Lifestyle Portrait - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1784968593904_c8pb8m_HN86jS6W8AA7foI.jpg" width="600" alt="Profile / Avatar - Soft Japanese Lifestyle Portrait - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1784968594938_6ck2o2_HN86jS6XwAAoR59.jpg" width="600" alt="Profile / Avatar - Soft Japanese Lifestyle Portrait - Image 3">
+</div>
+
+#### 📌 Details
+
+- **Author:** [ToroJushiAi](https://x.com/ToroJushiAi)
+- **Source:** [Twitter Post](https://x.com/ToroJushiAi/status/2080835426672357645)
+- **Published:** July 25, 2026
+- **Languages:** zh
+
+**[👉 Try it now →](https://youmind.com/gpt-image-2-prompts?id=29700)**
+
+---
+
+### No. 8: Profile / Avatar - Seaside Shoreline Portrait
+
+![Language-JA](https://img.shields.io/badge/Language-JA-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Description
+
+A highly descriptive prompt for a realistic portrait of a woman on a rocky beach, featuring intricate details of skin, water droplets, and natural lighting.
+
+#### 📝 Prompt
+
+```
+Theme:
+{argument name="theme" default="profile cloaked in the tide"}
+
+Subject:
+A realistic 3:4 portrait of a woman in her 20s standing on a rocky beach. The person is placed slightly to the right of the center, captured from the top of the head to the waist bone. The upper body occupies about 70% of the screen, with the arm and blue sea on the left, and a blurred rocky area on the lower right.
+
+Character and Expression:
+Bright ivory-beige skin with natural pale pink color. Realistic skin texture with small glints on cheeks, nose tip, shoulders, and collarbone, showing pores and fine texture. Pale rose blush, champagne beige and pink-brown eye makeup, long thin eyelashes, natural eye bags, soft light brown eyebrows, and sheer pink-beige lips. A neat profile facing right, chin slightly tucked, gaze cast diagonally downward. Mouth lightly closed with a quiet and calm expression.
+
+Clothing and Pose:
+{argument name="outfit" default="An ivory triangle bikini with a delicate woven pattern. Thin shoulder and side straps follow the skin naturally, with light tension and fine wrinkles in the fabric."} The body is twisted about 30 degrees to the right, with the left shoulder slightly forward. The left arm is lowered near the waist with the elbow loosely bent. The abdomen is naturally extended, and the center of gravity between the shoulders, ribcage, and hips is continuous.
+
+Environment and Light:
+{argument name="environment" default="A clear coastal day. The foreground is the person, the middle ground is the dark blue sea surface, and the background is an out-of-focus rocky reef and low coastline. Strong warm sunlight from the top left illuminates the forehead, bridge of the nose, shoulders, chest, and left side of the abdomen."} Soft blue reflections from the sky and sea are added on the opposite side, maintaining three-dimensionality without overly hard shadows. Fine water droplets are scattered on the skin and hair.
+```
+
+#### 🖼️ Generated Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1784968587473_ziy6ah_HN6S88PbwAARmL2.jpg" width="600" alt="Profile / Avatar - Seaside Shoreline Portrait - Image 1">
+</div>
+
+#### 📌 Details
+
+- **Author:** [Prompt アトリエ｜AI画像プロンプト](https://x.com/CyberTotal2026)
+- **Source:** [Twitter Post](https://x.com/CyberTotal2026/status/2080824353457844621)
+- **Published:** July 25, 2026
+- **Languages:** ja
+
+**[👉 Try it now →](https://youmind.com/gpt-image-2-prompts?id=29693)**
+
+---
+
+### No. 9: Profile / Avatar - Rooftop Sheer Blouse Portrait
+
+![Language-JA](https://img.shields.io/badge/Language-JA-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Description
+
+A high-end fashion photography prompt for a woman in a sheer blouse on a city rooftop, featuring backlighting and a bright blue sky background.
+
+#### 📝 Prompt
+
+```
+Theme:
+{argument name="theme" default="white cloaked in the sky"}
+
+Subject:
+A mature woman standing on a rooftop in a sunny city. The person is placed slightly to the right of center, captured from the top of the head to the thighs. The body occupies about 70% of the screen, looking quietly down at the low-positioned camera.
+
+Character and Expression:
+Bright skin with a natural complexion, sophisticated facial features. Sophisticated Japanese-style makeup with pink-beige lips, pale rose blush, thin brown eyeliner, and eyelashes that emphasize length without being overdone. Dark brown shoulder-length bob with thin bangs and layers around the face, hair ends and loose hairs swaying in the wind. Chin slightly tucked, looking at the lens with a calm, mature gaze, lips slightly open.
+
+Clothing and Pose:
+{argument name="outfit" default="A lightly sheer ivory white blouse. Soft, not-too-deep V-neck, loose long sleeves, thin cuffs. Paired with a simple skin-toned beige camisole underneath, with just enough transparency for the chest and body silhouette to look elegant."} Bottom is a pale ecru high-waisted pleated mini skirt. Upper body slightly tilted forward, shoulders relaxed, arms naturally lowered at sides. The thin fabric of the blouse and skirt hem sway gently in the wind, creating natural folds and shadows around the waist.
+
+Environment and Light:
+{argument name="environment" default="A rooftop of an urban apartment building. Metal fence at waist height, low-rise residential and apartment buildings in the distance, no text or logos. Most of the background is a vivid blue sky and three-dimensional white cumulus clouds. Warm backlighting from the low sun at the bottom left edges the hair, cheeks, neck, and thin blouse fabric in gold."} Soft reflected light from the sky and rooftop floor fills the face. One small circular lens flare is left near the waist.
+```
+
+#### 🖼️ Generated Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1784968588873_w894dx_HN1QZTvbEAAKu1l.jpg" width="600" alt="Profile / Avatar - Rooftop Sheer Blouse Portrait - Image 1">
+</div>
+
+#### 📌 Details
+
+- **Author:** [Prompt アトリエ｜AI画像プロンプト](https://x.com/CyberTotal2026)
+- **Source:** [Twitter Post](https://x.com/CyberTotal2026/status/2080793902664351924)
+- **Published:** July 24, 2026
+- **Languages:** ja
+
+**[👉 Try it now →](https://youmind.com/gpt-image-2-prompts?id=29695)**
+
+---
+
+### No. 10: Profile / Avatar - Window Lit East Asian Portrait
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Description
+
+A realistic vertical portrait prompt for creating an intimate indoor window-lit photo of a young woman with natural hair and soft expression.
+
+#### 📝 Prompt
+
+```
+Create a photorealistic vertical 3:4 portrait of a young East Asian woman with {argument name="hair color" default="natural deep brown"} long hair, slightly messy loose strands, and realistic airy texture. She sits indoors beside a bright window on the left, leaning slightly forward with one forearm resting across the lower frame and her other hand lifted near her hair in a delicate relaxed gesture. She looks directly at the viewer with calm, subtly alluring eyes, a soft neutral expression, natural makeup, smooth fair skin, softly defined brows, small nose, and slightly parted rosy lips. She wears a fitted {argument name="top color" default="black"} short-sleeve low scoop-neck top and a white lace choker with a small cross pendant. Use warm natural window light from the left, soft shadows on the right side of her face, gentle highlights in the hair, shallow depth of field, realistic skin texture, and a muted beige-gray wall background with a visible window ledge. Frame from upper torso to head, centered slightly right, intimate editorial portrait style, high-resolution DSLR realism, no hat, no glasses, no text, no watermark, no extra people.
+```
+
+#### 🖼️ Generated Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1784968625253_8irfjk_HOA31IoaYAApZSB.jpg" width="600" alt="Profile / Avatar - Window Lit East Asian Portrait - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1784968625150_eqr5pg_HOA31IrbwAAbgJk.jpg" width="600" alt="Profile / Avatar - Window Lit East Asian Portrait - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1784968626193_fodyn2_HOA31IobYAA0jYV.jpg" width="600" alt="Profile / Avatar - Window Lit East Asian Portrait - Image 3">
+</div>
+
+##### Image 4
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1784968626160_352ba1_HOA31IlawAA8E4_.jpg" width="600" alt="Profile / Avatar - Window Lit East Asian Portrait - Image 4">
+</div>
+
+#### 📌 Details
+
+- **Author:** [serein ｜买美股上币安](https://x.com/you1873118)
+- **Source:** [Twitter Post](https://x.com/you1873118/status/2080724428133224484#reversed-0)
+- **Published:** July 24, 2026
+- **Languages:** en
+
+**[👉 Try it now →](https://youmind.com/gpt-image-2-prompts?id=29730)**
+
+---
+
+### No. 11: Profile / Avatar - Profile Portrait with Red Candy
+
+![Language-JA](https://img.shields.io/badge/Language-JA-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Description
+
+A mood-driven prompt for an indoor portrait of a woman sitting on a bed, holding a red lollipop, emphasizing soft natural light and a doll-like aesthetic.
+
+#### 📝 Prompt
+
+```
+Subject:
+{argument name="subject" default="Profile through a candy"}
+
+Main Character:
+{argument name="main character" default="Vertical 3:4. An adult woman sitting on a bed in a bedroom with soft natural light"}, placed large in the center-right of the screen. Medium-close view from the top of the head to below the thighs. The person occupies most of the frame, showing both legs in the foreground, depicting the moment she silently looks to the side with a red lollipop on her stick against her lips.
+
+Person/Expression:
+Bright ivory-beige skin with a smooth texture containing a hint of pink flush. Delicate highlights on the cheeks, nose tip, shoulders, collarbones, and legs. Makeup is elegant doll-like Japanese style, with pale rose pink blush, champagne beige and pink brown eyeshadow, long thin eyelashes, natural tear bags, light brown soft eyebrows, and glossy pink-beige lips. Small, clear catchlights in the eyes. Face is slightly toward the front, with only the eyes drifting to the left, showing a calm, contemplative expression. Hair is bright milk tea ash brown medium-long. Thin see-through bangs, layers along the face, ends curled loosely inward, with natural bundles and fine stray hairs, meticulously drawing soft gloss.
+
+Clothing/Pose:
+A room dress with thin shoulder straps and small floral patterns scattered on a pale ivory background. The chest has a shallow V-line with fine lace trim, gathers in the center, and a small ribbon, naturally reconstructed as a different design with a similar vibe. Without overemphasizing exposure, it depicts the soft drape of the fabric and natural wrinkles along the body. The person sits on the bed with both legs out and slightly bent. She holds the white stick of the candy with her own right hand, and the red candy is lightly touching the center of her lower bottom lip. Her left hand is on the bed by her side, slightly supporting her upper body. Shoulders are relaxed, and the overall physique is supple and mature.
+
+Background/Light:
+A white window frame and windowsill shelf on the left of the screen, with a transparent glass vase on top holding pale pink and white small flowers. The bed has pale floral patterned sheets and pillows. The background is a beige wall with few unnecessary items, creating a quiet and lived-in interior. The main light source is soft morning-to-midday natural light coming from the top-left window. Warm light hits the left cheek, shoulder, arm, hair surface, and legs, with shadows falling gently on the right and inside the body. The overall tone is based on cream, beige, and pale pink, with the red candy as a small focal point of color.
+
+Composition/Camera:
+Vertical 3:4. Camera is at an almost eye-level position, slightly higher than the person's chest. Face is placed in the upper center, with legs largely in the foreground to create depth. The window and vase are tucked into the left edge, leaving some margin in the direction her gaze is headed. Natural perspective around 50mm, with sharp focus on the face, eyes, candy, and fingertips, while the background is softly blurred.
+
+Texture/Style:
+Natural and high-quality indoor portrait photography. Soft film-like atmosphere, low contrast, warm color temperature, and delicate skin texture depiction. Meticulously expresses each strand of hair, fine patterns on the floral fabric, reflections on the glass vase, and the transparent gloss of the candy surface. Avoids excessive skin correction, resulting in a quiet and intimate finish like a magazine room portrait.
+
+Negative:
+Young-looking face, unnatural gaze, extra fingers, missing fingers, fused fingers, broken limbs or joints, poor contact between candy and lips/fingers, unnatural gravity, incorrect perspective, shadows inconsistent with the light source, overexposure, excessive skin correction, plastic-like skin, garbled text, logo, watermark.
+```
+
+#### 🖼️ Generated Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1784968590375_p3s281_HN1hiCka4AA2ecB.jpg" width="600" alt="Profile / Avatar - Profile Portrait with Red Candy - Image 1">
+</div>
+
+#### 📌 Details
+
+- **Author:** [Prompt アトリエ｜AI画像プロンプト](https://x.com/CyberTotal2026)
+- **Source:** [Twitter Post](https://x.com/CyberTotal2026/status/2080641650146038035)
+- **Published:** July 24, 2026
+- **Languages:** ja
+
+**[👉 Try it now →](https://youmind.com/gpt-image-2-prompts?id=29697)**
+
+---
+
+### No. 12: Profile / Avatar - Shh Finger on Lips Beauty Portrait
+
+![Language-JA](https://img.shields.io/badge/Language-JA-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Description
+
+A minimalist beauty portrait prompt featuring a woman making a 'quiet' gesture, emphasizing soft lighting, ivory tones, and high-end photographic quality.
+
+#### 📝 Prompt
+
+```
+Subject:
+{argument name="subject" default="Finger touching lips"}
+
+Main Character:
+{argument name="main character" default="A photorealistic vertical 3:4 portrait of a single woman sitting on the floor in a bright room"}. The person is placed center-right, captured from the top of the head to the thighs. The upper body occupies about two-thirds of the frame, with the face, fingertips, and chest naturally drawing the eye.
+
+Person/Expression:
+A natural and realistic individual with a calm, mature femininity. Hair is a short milk tea brown bob ending at the chin, with thin clumped bangs and fine stray hairs along the cheeks. Pale rose blush, pink-brown eye makeup, delicate long eyelashes, and sheer pink-beige lips. Head is slightly tilted to the left, looking at the camera with a quiet and somewhat suggestive expression.
+
+Clothing/Pose:
+A halter-neck dress with small ivory pleats, tied at the neck. Shoulders and arms are exposed, showing a silhouette with a naturally full, mature feminine bust line and soft body curves. No gloves. A 'shh' gesture where she bends her right elbow and stands her right index finger vertically to lightly touch the center of her lips. Other fingers are relaxed and naturally bent. The left arm is extended from the front of the body toward the knees in a stable sitting posture with one knee slightly raised. Accurately depicts the contact between finger and lip, and the overlapping of shoulders, arms, and chest.
+
+Background/Light:
+A minimal interior unified in white and pale beige. A large window in the back left, and a white vase with blurred small plants in the back right. The background is bright and organized, with no text or logos. Soft midday natural light enters from the top-left window, creating faint highlights on the forehead, bridge of the nose, cheeks, shoulders, collarbones, and arms. Shadows fall thinly to the bottom right, with shadows also lifted gently by reflections from the white floor.
+
+Composition/Camera:
+Vertical 3:4. A light low-angle shot from slightly below chest height, with the natural compression of an 85mm portrait lens. Face is in the upper center, fingertips right in front of the face, and the chest in the lower center. Narrow margin above the head, leaving a bright space for the window on the left. Focus on the eyes and lips, with the background largely and softly blurred. Avoid excessive wide-angle distortion.
+
+Texture/Style:
+A clean, high-brightness Japanese beauty photo. Soft gradations, low contrast, and a color palette centered on ivory and pale pink. Skin is not made too uniform, naturally leaving fine pores, vellus hair, cheek flush, and lip moisture. Meticulously expresses each strand of hair, the thinness of the pleated fabric, and the delicacy of fingertips and nails.
+
+Negative:
+Young-looking face, unnatural facial features, unnatural gaze, excessively exaggerated physique, extra fingers, missing fingers, fused fingers, poor contact between lips and fingers, broken joints, confusion of left and right arms, incorrect perspective, shadows inconsistent with the light source, plastic-like skin, excessive skin correction, garbled text, logo, watermark.
+```
+
+#### 🖼️ Generated Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1784968591278_lifbtd_HN6bR5LaQAA6Gzb.jpg" width="600" alt="Profile / Avatar - Shh Finger on Lips Beauty Portrait - Image 1">
+</div>
+
+#### 📌 Details
+
+- **Author:** [Prompt アトリエ｜AI画像プロンプト](https://x.com/CyberTotal2026)
+- **Source:** [Twitter Post](https://x.com/CyberTotal2026/status/2080629066814689515)
+- **Published:** July 24, 2026
+- **Languages:** ja
+
+**[👉 Try it now →](https://youmind.com/gpt-image-2-prompts?id=29698)**
+
+---
+
+### No. 13: Profile / Avatar - Chibi Purple Space Girl
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Description
+
+Generates a cute chibi anime girl sitting on a purple planet against a mostly empty black cosmic background, suitable for avatars or hidden-reveal visuals.
+
+#### 📝 Prompt
+
+```
+Create a vertical 9:16 anime illustration with a vast nearly pure black empty sky occupying most of the canvas and a tiny cute chibi girl placed near the bottom center. The character is {argument name="character type" default="a small anime-style female avatar"} with oversized sparkling purple eyes, a surprised open-mouth expression, soft blush, and long fluffy {argument name="hair color" default="lavender-purple hair with peach-pink highlights"} that curls around her shoulders. She wears a dark purple space-inspired hoodie or dress with subtle orange trim, white socks, and purple shoes, and has a small rounded purple hair clip with little star sparkles on one side. She sits on the curved edge of a large purple-orange planet at the very bottom of the image, hugging {argument name="plush toy" default="a cute purple teddy-bear-like plush with black bead eyes and a small orange-purple triangular nose"}. Add exactly two small yellow star-shaped cushions or star charms on the planet, one to the left of the girl and one to the right. Use a dreamy kawaii chibi style, soft glossy shading, pastel violet and warm peach highlights, delicate rim light, crisp clean edges, and a transparent-feeling black cosmic background with no visible text, no logo, no border, and no extra characters. Keep the girl small in scale with abundant empty space above her, centered horizontally and positioned in the lower fifth of the canvas.
+```
+
+#### 🖼️ Generated Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1784968627688_i84bb3_HN_Skl3aUAA-6gI.png" width="600" alt="Profile / Avatar - Chibi Purple Space Girl - Image 1">
+</div>
+
+#### 📌 Details
+
+- **Author:** [PixVerse](https://x.com/PixVerse_)
+- **Source:** [Twitter Post](https://x.com/PixVerse_/status/2080615070313427002#reversed-0)
+- **Published:** July 24, 2026
+- **Languages:** en
+
+**[👉 Try it now →](https://youmind.com/gpt-image-2-prompts?id=29731)**
+
+---
+
+### No. 14: Profile / Avatar - Sunlight Contours Indoor Portrait
+
+![Language-JA](https://img.shields.io/badge/Language-JA-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Description
+
+A highly detailed cinematic prompt for a 2:3 vertical indoor portrait featuring a young woman by a summer window at sunset, focusing on lighting, shadows, and realistic textures.
+
+#### 📝 Prompt
+
+```
+Theme:
+{argument name="theme" default="Contours of Sunlight"}
+
+Subject:
+A vertical 2:3 indoor portrait. A young adult woman sits quietly by a summer window in the center of the frame. Capture from the face down to the chest, arms, and one bent knee, with the person occupying about 80% of the screen. Focus on her gaze and face while clearly showing the streaks of light falling on her shoulders and arms.
+
+Person/Expression:
+Fair ivory-beige skin with a pale pink flush and natural texture. Delicate highlights on cheeks, tip of nose, lips, shoulders, and collarbone. Pale rose pink blush, champagne beige and pink brown eyeshadow, long slender eyelashes, natural tear troughs, soft light brown eyebrows, and sheer pink beige gloss lips. Lips are slightly parted, head tilted slightly to the right, looking at the camera with calm eyes. Small, clear catchlights in the eyes.
+
+Clothing/Pose:
+{argument name="clothing" default="Layer an ivory lace camisole with thin straps under a thin, sheer gown"}. The gown falls naturally from both shoulders, creating soft drapes on the outside of the arms. Lean the upper body slightly forward and bring both arms toward the front of the body. Include one bent knee in the lower left of the frame, showing natural tension and fine wrinkles in the thin fabric of the clothing. Dainty gold necklace and long dangling earrings.
+
+Background/Light:
+A quiet interior with a wooden-framed window in a blend of Japanese and Western styles. In the background, place wooden furniture, glass bottles, and small houseplants out of focus. Strong evening sunlight shines through the window at the top left at a low angle, casting long narrow window frame shadows diagonally across her forehead, cheeks, neck, shoulders, and arms. The light is a deep amber; lit areas are bright and glossy, while the shadow side sinks into deep brown. Add golden rim lighting to the silhouette of the hair and leave warm reflected light in the background.
+
+Composition/Camera:
+Vertical 2:3, medium close-up leaning toward bust-up. Place the face slightly above the center of the frame, with a small margin at the top of the head and the chest and one knee at the bottom. The camera looks down gently from a position slightly higher than eye level. 85mm equivalent portrait lens, shallow depth of field. Focus on both eyes and lips, softening the background. Vividly depict the three-dimensionality of the face, window shadows, and the flow of hair.
+
+Texture/Style:
+Realistic fashion portrait. Cinematic color grading centered on warm tones. Skin is not overly uniform, naturally retaining pores and fine peach fuzz. Hair is {argument name="hair color" default="bright milk tea ash brown"}, with thin see-through bangs, face-framing layers, and medium-long length below the shoulders. Ends are loosely curled inward, with fine highlights, a soft sheen, and naturally rendered stray hairs. Clearly differentiate the material textures of delicate lace, thin fabric, and metal accessories.
+
+Negative:
+Unnatural face, unnatural gaze, asymmetrical eyes, extra fingers, missing fingers, fused limbs, broken joints, unnatural contact between clothing and body, floating accessories, incorrect perspective, shadows inconsistent with the light source, excessive skin correction, plastic-like skin, text, logos, watermarks.
+```
+
+#### 🖼️ Generated Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1784968589423_qi1mpo_HN1Wvf1a4AAHibc.jpg" width="600" alt="Profile / Avatar - Sunlight Contours Indoor Portrait - Image 1">
+</div>
+
+#### 📌 Details
+
+- **Author:** [Prompt アトリエ｜AI画像プロンプト](https://x.com/CyberTotal2026)
+- **Source:** [Twitter Post](https://x.com/CyberTotal2026/status/2080582761480601769)
+- **Published:** July 24, 2026
+- **Languages:** ja
+
+**[👉 Try it now →](https://youmind.com/gpt-image-2-prompts?id=29696)**
+
+---
+
+### No. 15: Profile / Avatar - Paris Balcony Selfie
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -565,7 +1201,7 @@ Create a photorealistic wide-angle selfie on a Parisian apartment balcony in war
 
 ---
 
-### No. 2: Profile / Avatar - Minimal Hand-Drawn Sketch Watercolor Portrait
+### No. 16: Profile / Avatar - Minimal Hand-Drawn Sketch Watercolor Portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -605,345 +1241,41 @@ A complex structured prompt for a museum-quality hybrid of pencil illustration a
 
 ---
 
-### No. 3: Profile / Avatar - Realistic Japanese Woman Badminton Selfie
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Description
-
-A detailed prompt for generating a candid, smartphone-style selfie of a Japanese woman on a badminton court, focusing on natural textures and realistic mobile photography aesthetics.
-
-#### 📝 Prompt
-
-```
-Ultra-realistic smartphone selfie of a beautiful young {argument name="ethnicity" default="Japanese"} woman with smooth porcelain skin, soft natural facial features, large warm brown eyes, glossy pink lips, and a {argument name="hairstyle" default="sleek short black bob haircut"}, wearing a white athletic headband. She is standing on an indoor {argument name="sport" default="badminton"} court while holding a pink-and-black {argument name="sport" default="badminton"} racket in one hand and taking a selfie with the other from a high overhead angle. She wears a black-and-white sports jersey, matching athletic shorts, and bright yellow {argument name="sport" default="badminton"} shoes, smiling softly at the camera with a relaxed, cheerful expression. The background features a realistic indoor sports hall with green {argument name="sport" default="badminton"} courts, gray flooring, court lines, and bright overhead lights. The image looks exactly like it was casually captured using a modern flagship smartphone, featuring natural indoor lighting, authentic skin texture, subtle HDR, slight front-camera wide-angle distortion, realistic sensor noise, mild handheld imperfections, balanced exposure, and soft computational photography. No DSLR look, no studio lighting, no heavy beauty filters, no artificial bokeh, and no AI-perfect sharpness—just a genuine candid mobile phone selfie with a realistic social media aesthetic.
-```
-
-#### 🖼️ Generated Images
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1784882696127_cwqw7r_HN9t_Ika8AAmjWU.jpg" width="600" alt="Profile / Avatar - Realistic Japanese Woman Badminton Selfie - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1784882696132_bg2en2_HN9t_2cbgAAYpSu.jpg" width="600" alt="Profile / Avatar - Realistic Japanese Woman Badminton Selfie - Image 2">
-</div>
-
-#### 📌 Details
-
-- **Author:** [𝗦𝗮𝗻𝗶𝗮](https://x.com/saniaspeaks_)
-- **Source:** [Twitter Post](https://x.com/saniaspeaks_/status/2080502507843838205)
-- **Published:** July 24, 2026
-- **Languages:** en
-
-**[👉 Try it now →](https://youmind.com/gpt-image-2-prompts?id=29583)**
-
----
-
-### No. 4: Profile / Avatar - Woman with Giant Cat Studio Portrait
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Description
-
-An editorial-style studio portrait prompt designed to maintain facial identity from a reference image while posing with a large pet cat and a bunny.
-
-#### 📝 Prompt
-
-```
-Use the provided reference image. Preserve {argument name="person name" default="Main Ingrid"}'s exact facial identity, warm Filipina features, long wavy black hair, natural smile, and medium natural body proportions. She is wearing an oversized black T-shirt, beige cargo pants, and white sneakers, standing beside her beloved {argument name="pet description" default="giant fluffy orange tabby cat Oyen"} with one arm resting affectionately around his neck. {argument name="pet name" default="Oyen"} has luxurious orange striped fur, expressive amber eyes, a playful tongue-out smile, oversized fluffy paws, a thick curled tail, and a leather collar with a large golden bell. A small adorable light-brown bunny sits calmly beside {argument name="pet name" default="Oyen"}'s front paws, looking curiously at the camera, completing the cozy family portrait. Clean beige seamless studio background, soft diffused studio lighting, photorealistic skin, ultra-detailed fur, shallow depth of field, luxury pet photography, cinematic composition, warm wholesome atmosphere, 8K, highly detailed, heartwarming friendship portrait.
-```
-
-#### 🖼️ Generated Images
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1784882696187_5hnwyf_HN9lp1lbYAA9Hzl.jpg" width="600" alt="Profile / Avatar - Woman with Giant Cat Studio Portrait - Image 1">
-</div>
-
-#### 📌 Details
-
-- **Author:** [Arina Ai](https://x.com/Arina_hoqe)
-- **Source:** [Twitter Post](https://x.com/Arina_hoqe/status/2080493338730594559)
-- **Published:** July 24, 2026
-- **Languages:** en
-
-**[👉 Try it now →](https://youmind.com/gpt-image-2-prompts?id=29584)**
-
----
-
-### No. 5: Profile / Avatar - Geometric Android Girl Portrait
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Description
-
-A bright futuristic anime portrait featuring a white-haired android girl with spiral lens eyes and floating crystalline geometric shards.
-
-#### 📝 Prompt
-
-```
-Create a luminous vertical anime portrait of {argument name="character name" default="a mysterious android girl"} in an ultra-detailed geometric illustration style. The composition is a close-up bust portrait, slightly tilted, with the face filling most of the frame against a bright white cyan-pink abstract background. She has {argument name="hair color" default="short fluffy white hair with pale pink and ice-blue iridescent highlights"}, soft porcelain skin, a tiny neutral mouth, and two mismatched hypnotic eyes: the left eye is a glossy black circular lens with concentric blue rings, and the right eye is a glowing pale pink spiral lens partly covered by translucent fractured glass. Add delicate blush, fine eyelashes, thin anime linework, and a calm expression. She wears {argument name="outfit" default="a loose translucent white shirt or jacket with a low collar"}. Surround her with exactly 12 prominent floating geometric shards: 5 cyan transparent glass shards around the face and shoulders, 4 black triangular prism shards near the edges and neck, and 3 small gold-edged triangular pieces near the hair and collar. Include thin circular orbit lines, prism refractions, cyan light streaks, soft pink rim light, glassy highlights, and chromatic aberration. The overall mood should be ethereal, futuristic, clean, and high-fashion, with very bright exposure, pastel cyan and pink color grading, sharp facial detail, and a dreamy crystalline glow. Use a vertical {argument name="aspect ratio" default="9:16"} canvas, no text, no watermark, no extra characters.
-```
-
-#### 🖼️ Generated Images
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1784882739702_q5av9k_HN9gH0za8AA_kGL.jpg" width="600" alt="Profile / Avatar - Geometric Android Girl Portrait - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1784882739753_jwdf0b_HN9gJfbawAA7uVa.jpg" width="600" alt="Profile / Avatar - Geometric Android Girl Portrait - Image 2">
-</div>
-
-#### 📌 Details
-
-- **Author:** [あいぼりー](https://x.com/HetareIvory)
-- **Source:** [Twitter Post](https://x.com/HetareIvory/status/2080488387715502296#reversed-0)
-- **Published:** July 24, 2026
-- **Languages:** en
-
-**[👉 Try it now →](https://youmind.com/gpt-image-2-prompts?id=29632)**
-
----
-
-### No. 6: Profile / Avatar - Morning Selfie With Tabby Cat
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Description
-
-A photorealistic square smartphone-style indoor portrait of a young woman leaning close to the camera with one tabby cat standing behind her in morning light.
-
-#### 📝 Prompt
-
-```
-Create a photorealistic square indoor selfie-style image shot with a wide-angle smartphone camera in warm morning sunlight. In the extreme foreground on the right side, show a young adult Japanese woman with {argument name="hair color" default="short dark brown hair"}, slightly messy bangs, natural makeup, soft brown eyes, and a calm neutral expression, leaning very close toward the camera so only the right half of her face, shoulder, upper torso, and bent legs are visible. She wears a {argument name="top" default="white ribbed tank top"} and {argument name="bottoms" default="dark gray shorts"}. Behind her on the left, show exactly 1 domestic short-haired tabby cat standing on a wooden floor, facing the camera with alert green eyes and a serious expression, positioned like a companion or parent cat watching over her. The room is a bright apartment interior with a large window and pale curtains in the background, soft city buildings outside, a low beige cabinet on the left, warm sun patches and long shadows across the wood floor, and shallow depth of field that keeps both the woman and cat fairly sharp while the background is softly blurred. Use natural skin texture, realistic cat fur, cinematic daylight, intimate casual composition, no extra people or animals. Add a subtle semi-transparent white watermark reading {argument name="watermark text" default="Alconia"} in the lower-left corner.
-```
-
-#### 🖼️ Generated Images
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1784882746290_qfcaxx_HN85pdxaYAA5ZzL.jpg" width="600" alt="Profile / Avatar - Morning Selfie With Tabby Cat - Image 1">
-</div>
-
-#### 📌 Details
-
-- **Author:** [AIconia | アイコニア](https://x.com/AiPhotorealGirl)
-- **Source:** [Twitter Post](https://x.com/AiPhotorealGirl/status/2080444968402088446#reversed-0)
-- **Published:** July 24, 2026
-- **Languages:** en
-
-**[👉 Try it now →](https://youmind.com/gpt-image-2-prompts?id=29643)**
-
----
-
-### No. 7: Profile / Avatar - Minimal Studio Fashion Portrait
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Description
-
-A realistic vertical fashion portrait prompt for generating a young woman in a leather jacket, silver crop top, and pleated skirt against a clean studio wall.
-
-#### 📝 Prompt
-
-```
-Create a realistic full-body studio fashion portrait of {argument name="character description" default="a young East Asian woman with fair skin, long wavy dark brown hair, and straight wispy bangs"} standing against a plain off-white wall. She faces the camera with a calm, slightly serious expression, hands tucked into her skirt pockets, one leg crossed casually in front of the other. The styling has exactly 7 visible fashion/accessory elements: a cropped black leather biker jacket with silver snaps and zippers, a shiny silver twisted-knot crop top exposing the midriff, a high-waisted gray pleated mini skirt, black lace-up ankle boots, layered silver necklaces including a choker, long dangling earrings, and subtle natural makeup. Use soft daylight from the upper left, clean minimal background, gentle wall shadow to her right, realistic skin texture, sharp focus, vertical 3:4 composition, fashion editorial look, no text, no watermark.
-```
-
-#### 🖼️ Generated Images
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1784882745370_0mwevq_HN8ePFlaoAA5LFt.jpg" width="600" alt="Profile / Avatar - Minimal Studio Fashion Portrait - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1784882745339_2r07aw_HN8eQytb0AEjLFu.jpg" width="600" alt="Profile / Avatar - Minimal Studio Fashion Portrait - Image 2">
-</div>
-
-#### 📌 Details
-
-- **Author:** [susumu_Mind](https://x.com/SusumuMind)
-- **Source:** [Twitter Post](https://x.com/SusumuMind/status/2080415382880608317#reversed-0)
-- **Published:** July 23, 2026
-- **Languages:** en
-
-**[👉 Try it now →](https://youmind.com/gpt-image-2-prompts?id=29641)**
-
----
-
-### No. 8: Profile / Avatar - Monochromatic Blue Ballpoint Pen Portrait
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Description
-
-A unique prompt for creating hand-drawn style portraits using blue ink ballpoint pen textures, emphasizing depth and emotion.
-
-#### 📝 Prompt
-
-```
-Use the uploaded image as the ONLY identity reference. The subject must match the same person with 100% facial accuracy — preserve exact facial structure, proportions, eye shape, nose, lips, jawline, and overall identity. Do not beautify, stylize, or alter facial features.
-
-Fix and refine the hairstyle only — keep the same length and type, but make it naturally arranged, clean, and well-defined (no messy or poorly generated hair).
-Create an ultra-detailed monochromatic {argument name="ink color" default="blue"} ballpoint pen (biro art) portrait that looks completely hand-drawn using a single blue ink pen. Use fine linework, smooth layering, hatching, and cross-hatching to achieve realistic depth and tonal variation.
-Composition & Pose:
-
-Full body visible. The woman is sitting on the floor beside a window, leaning slightly back against the wall for support. One knee drawn upward with arms gently resting over it, the other leg folded naturally along the floor. The pose should feel relaxed, natural, and slightly introspective.
-Head Direction & Expression (VERY IMPORTANT):
-
-She is looking outside the window (not at the camera). Expression is neutral to slightly emotional — deep in thought, introspective, calm, and quietly reflective. The image must strongly convey a “thinking moment” or inner emotion, not a posed portrait.
-Eyes (CRITICAL DETAIL):
-
-Eyes must be highly detailed even in side gaze — soft focus toward outside, subtle light reflection, clean eyelid structure. Expression should feel alive and emotionally connected to the scene.
-Clothing:
-
-Subject is wearing full lower-body clothing (e.g., {argument name="clothing" default="jeans"}), naturally folded with realistic fabric flow.
-
-Upper clothing is a light-colored top/sweater with soft, breathable texture (not heavy or bulky).
-Environment:
-
-Old-style {argument name="era" default="90s"} home interior (not modern). Window on the left positioned above floor level. Simple frame, slightly worn surfaces, vintage feel.
-Lighting & Shading:
-
-Strong natural light from the window (left side).
-
-Left side: soft highlights, near-white paper
-
-Right side: deep shadows with dense cross-hatching
-
-Smooth gradients, no blotchy ink
-Material Rendering:
-
-Hair: fine flowing pen strokes, natural volume
-
-Skin: ultra-smooth tonal blending
-
-Fabric: soft, light texture
-
-Hands & feet: natural relaxed anatomy
-Edge Treatment / Blending (IMPORTANT):
-
-Entire artwork softly fades into the paper from all sides. No hard borders.
-Style & Quality:
-
-Hyper-realistic, museum-quality biro illustration. Must look like real pen-on-paper, not digital.
-Framing:
-
-Vertical 4:5 aspect ratio, full-body composition, balanced with window visible.
-Output Tags:
-
-ultra detailed, photorealistic drawing, blue ink only, fine linework, smooth shading, soft fade edges, high precision
-```
-
-#### 🖼️ Generated Images
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1784882692886_vgrt8i_HN7BlrkbIAAFewB.jpg" width="600" alt="Profile / Avatar - Monochromatic Blue Ballpoint Pen Portrait - Image 1">
-</div>
-
-#### 📌 Details
-
-- **Author:** [Mr. Tariq](https://x.com/AiWithTariq)
-- **Source:** [Twitter Post](https://x.com/AiWithTariq/status/2080312959855923687)
-- **Published:** July 23, 2026
-- **Languages:** en
-
-**[👉 Try it now →](https://youmind.com/gpt-image-2-prompts?id=29578)**
-
----
-
-### No. 9: Profile / Avatar - Whimsical Doodle Art Selfie
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Description
-
-A creative prompt that combines a realistic low-angle selfie with playful hand-drawn doodle art and a Studio Ghibli aesthetic.
-
-#### 📝 Prompt
-
-```
-Dreamy low-angle selfie portrait of a young woman with long flowing {argument name="hair color" default="chestnut-brown"} hair and soft wispy bangs, wearing a cozy oversized {argument name="sweater color" default="cream"} knit sweater, looking gently into the camera with a calm expression. Captured outdoors beneath a deep {argument name="sky color" default="cobalt-blue"} sky filled with dramatic fluffy cumulus clouds. The scene blends photorealism with whimsical hand-drawn doodle art: the clouds are transformed into playful cartoon illustrations with smiling sun, cute stars, fluffy outlined clouds, tiny hearts, sparkles, and colorful manga-style doodles seamlessly integrated into the sky. Bright natural daylight, soft breeze moving the hair, vibrant yet pastel color palette, joyful and nostalgic aesthetic, Studio Ghibli × modern kawaii illustration, watercolor marker textures mixed with clean black ink outlines, minimal composition, cozy slice-of-life mood, ultra-detailed face, natural lighting, premium editorial illustration, highly detailed, whimsical storytelling, 8K, masterpiece.
-```
-
-#### 🖼️ Generated Images
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1784882693418_gqoepn_HN64wMuagAA_fDi.jpg" width="600" alt="Profile / Avatar - Whimsical Doodle Art Selfie - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1784882693438_cqxp0t_HN64zT1aIAEelFe.jpg" width="600" alt="Profile / Avatar - Whimsical Doodle Art Selfie - Image 2">
-</div>
-
-#### 📌 Details
-
-- **Author:** [Taaruk](https://x.com/Taaruk_)
-- **Source:** [Twitter Post](https://x.com/Taaruk_/status/2080303309739675712)
-- **Published:** July 23, 2026
-- **Languages:** en
-
-**[👉 Try it now →](https://youmind.com/gpt-image-2-prompts?id=29579)**
-
----
-
-### No. 10: Profile / Avatar - Luxury Hotel Bathroom Mirror Selfie
+### No. 17: Profile / Avatar - Sunny Beach Portrait of a Smiling Woman
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Description
 
-Generates a realistic mirror selfie of a woman in a luxury hotel bathroom, featuring details like wet hair, plush towels, and marble surfaces.
+A comprehensive prompt for generating a photorealistic portrait of a young woman at the beach, focusing on natural textures, summer lighting, and a friendly expression.
 
 #### 📝 Prompt
 
 ```
-Subject: Post-Bath Mirror Time
+Subject:
+{argument name="subject" default="Smile at the water's edge"}
 
-Main Subject: 3:4 portrait. In front of a large mirror in a {argument name="location" default="luxurious bathroom"}, a woman is taking a selfie with a smartphone. The person stands slightly to the right of the center, captured from the top of the head to the lower thighs, occupying about 75% of the frame.
+Main Character:
+{argument name="main character" default="A vertical portrait of a woman in her 20s standing on a sunny beach, captured from the top of her head to her upper thighs"}. The person is placed large in the center of the frame, with her upper body occupying about two-thirds of the screen. Set against a background of clear blue sea, white waves, and a bright sandy beach, she is turning a friendly smile toward the camera.
 
-Person/Expression: A natural, realistic woman. Bright, smooth skin with fine water droplets and a natural post-bath flush. Dark brown hair tied in a messy high bun, with thin see-through bangs and a few strands of wet hair trailing along the cheeks. Pale pink-beige eye makeup, fine lashes, soft eyebrows, and transparent rose lips. Head tilted slightly, gaze quietly directed at the smartphone screen, with a calm expression and lips slightly pursed.
+Person/Expression:
+Bright ivory-beige fair skin with a subtle pink natural flush. Delicate highlights on the cheeks, tip of the nose, shoulders, and collarbones, with a realistic skin texture that leaves slight pores and texture. Pale rose pink blush, champagne beige and pink-brown eye makeup, long slender eyelashes, natural tear bags, soft brown eyebrows, and sheer pink-beige gloss lips. Small, clear catchlights in the eyes. A bright and healthy smile with the mouth naturally open, looking directly at the camera.
 
-Clothing/Pose: {argument name="outfit" default="A design with a thick white pile bath towel wrapped tightly around the body from the chest"}. Features small light pink frills on the chest, front overlap, and short hem, with subtle floral embroidery and ribbons. Length goes to the upper thigh, with a natural wrap where the front overlap is diagonal. Holding a dark blue smartphone vertically with the left hand raised, fingers naturally following the side of the device. The opposite arm crosses under the chest, supporting the elbow of the raised arm from below. Hips slightly shifted to one side, standing naturally with legs together. The overlap, tension, and folds of the towel follow the body's movements.
+Clothing/Pose:
+An ivory-white halter-neck bikini without decorations. The top has modest gathers and thin shoulder straps, while the bottoms have side ribbon ties at both hips. The person places her own right hand near her ear, lightly adjusting her hair with her fingertips. Her left arm is naturally down by her side, and her upper body is slightly tilted forward. A natural standing posture with relaxed shoulders and a light twist in the hips. Wet stray hairs follow her cheeks and neck.
 
-Background/Lighting: A modern bathroom reminiscent of a high-end hotel. Features a large mirror with a thin gold frame, dark brown marble walls, a white sink, folded towels, and on the left, a transparent glass shower booth and a round magnifying mirror. Soft warm lighting from the front ceiling creates smooth highlights on the forehead, cheeks, shoulders, collarbones, and arms. Weak cool reflected light from the left side naturally separates the subject's silhouette from the background. Shadows fall lightly downwards and to the right, leaving subtle reflections on the marble and mirror.
+Background/Light:
+The foreground is a pale sandy beach reflecting sunlight. In the middle ground, white waves wash up diagonally, and in the background, a turquoise blue to light blue sea surface stretches out. Warm summer sunlight enters from the top left of the screen, brightly illuminating the face, shoulders, collarbones, and upper surfaces of the arms. Soft shadows are cast under the chin, chest, and inside the arms, with a pale blue reflection from the sea surface added thin to the shadow side of the skin.
 
-Composition/Camera: 3:4 portrait, mirror shot from slightly below eye level. The subject's face is in the top center, and the smartphone is toward the upper left. Narrow margin above the head, bathroom fixtures visible on the sides, and a natural crop at the mid-thigh at the bottom. Natural perspective similar to a standard lens. Precise focus on the face and upper body, with the background gently blurred to show silhouettes.
+Composition/Camera:
+Vertical 9:16. A light high-angle shot looking down from a slightly high position. The person's face is in the upper center, the torso in the center, and the thighs at the bottom. Very little head space, with soft margins for the sea and sand on the sides. Natural perspective equivalent to 35-50mm. Focus accurately on the eyes and face, softly blurring the waves and sea surface in the background. A bright and open beach portrait.
 
-Texture/Style: Realistic photographic expression. Precisely depicts the clumping of damp hair, fine water droplets on the skin, soft pile of the towel, thinness of the frills, and three-dimensional embroidery thread. Avoids excessive skin retouching, leaving natural skin texture and a subtle glow. An elegant hotel photo finish harmonizing warm tones with dark brown, white, pale pink, and gold.
+Texture/Style:
+A live-action photograph. Meticulously describes natural fine skin texture, moisture-laden hair clumps, fine vellus hair, and thin wrinkles in the fabric. Avoids excessive skin beautification, maintaining a bright high-key tone while suppressing overexposure. Transparent summer colors, soft contrast, and photo-book quality with a sense of cleanliness.
 
-Negative: Person appearing underage, unnatural face, unnatural gaze, extra fingers, missing fingers, fused fingers, broken joints, deformed smartphone, mirror image contradictions, floating towel, unnatural gravity, incorrect perspective, shadows inconsistent with light source, excessive skin retouching, plastic-like skin, garbled text, logos, watermarks.
+Negative:
+Young-looking face, unnatural smile, unnatural gaze, extra fingers, missing fingers, fused fingers, confusion of left and right hands, broken joints, unnatural body shape, clothing digging in, poor fabric connection, floating strings, incorrect perspective, shadows inconsistent with the light source, plastic-like skin, excessive skin correction, text, logo, watermark.
 ```
 
 #### 🖼️ Generated Images
@@ -951,511 +1283,7 @@ Negative: Person appearing underage, unnatural face, unnatural gaze, extra finge
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1784882715630_5thy2g_HNwBKFZaQAAYoE3.jpg" width="600" alt="Profile / Avatar - Luxury Hotel Bathroom Mirror Selfie - Image 1">
-</div>
-
-#### 📌 Details
-
-- **Author:** [Prompt アトリエ｜AI画像プロンプト](https://x.com/CyberTotal2026)
-- **Source:** [Twitter Post](https://x.com/CyberTotal2026/status/2080278506588791073)
-- **Published:** July 23, 2026
-- **Languages:** ja
-
-**[👉 Try it now →](https://youmind.com/gpt-image-2-prompts?id=29604)**
-
----
-
-### No. 11: Profile / Avatar - Playful Interior Selfie Portrait
-
-![Language-JA](https://img.shields.io/badge/Language-JA-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Description
-
-A prompt focused on capturing a playful facial expression in a close-up selfie, with emphasis on skin texture, delicate clothing lace, and soft interior lighting.
-
-#### 📝 Prompt
-
-```
-Subject: Fingertip Mischief
-
-Main Subject: 3:4 vertical indoor selfie. A single woman in her 20s, positioned large in the center-left, showing from the top of the head to the chest. The face and upper body occupy about 75% of the frame, with a raised hand in the upper right and the flow of hair and shoulders in the lower left.
-
-Person/Expression: Bright ivory-beige fair skin with a very pale pink flush. Natural highlights on the cheeks, nose, shoulders, and collarbones, with a smooth texture that preserves skin grain. Pale rose pink blush, champagne beige and pink-brown eyeshadow, long thin lashes, natural tear bags, and soft light brown eyebrows. Transparent pink-beige gloss lips. A small, clear catchlight in the eyes. Head tilted slightly to the left, looking straight at the camera. Lips slightly open, with a {argument name="expression" default="playful yet elegant look, with just the tip of the tongue peeking out from the center of the lower lip"}.
-
-Clothing/Pose: {argument name="outfit" default="A camisole layered with white dot tulle and fine lace"}. Delicate frills on the shoulder straps and chest, with a small satin ribbon in the center. A small silver flower motif pendant at the neck. The subject's right arm is raised to the side of the head, with the index finger extended horizontally toward the hairline. Other fingers are naturally curled, with no extra tension in the shoulders or arms.
-
-Background/Lighting: A quiet indoor background consisting only of a beige wall and a diagonal dark gray band. The background is slightly blurred, with no everyday objects or text. Soft warm lighting enters from the upper left, creating thin highlights on the hair surface, forehead, bridge of the nose, cheeks, collarbones, and shoulders. Shadows from the hand and arm fall naturally to the lower right, with faint reflected light on the chest.
-
-Composition/Camera: Close-up selfie taken with a smartphone held slightly higher than the face. Slight high-angle, natural perspective equivalent to 35-45mm. Focus on both eyes and lips, with the hair ends and background gently blurred. Narrow margin at the top, and a small amount of margin outside the right hand, with the face, fingertips, and pendant arranged in a triangle.
-
-Texture/Style: Bright milk-tea ash brown medium-long hair. Thin see-through bangs, layers along the face, and ends curled slightly inward. Delicate depiction of individual hair strands, fine highlights, soft shine, and a few stray hairs. Elegant Japanese beauty selfie photography. Maintains a moderate sharpness and natural smartphone photography feel, avoiding excessive blurring or artificial skin retouching.
-
-Negative: Unnatural face, tongue deformation, tooth collapse, unnatural gaze, extra fingers, missing fingers, fused fingers, broken wrists or joints, hair and finger fusion, distorted accessories, shadows inconsistent with light source, plastic-like skin, excessive skin retouching, text, logos, watermarks.
-```
-
-#### 🖼️ Generated Images
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1784882716230_hvwaru_HN6V0bxaQAATfF_.jpg" width="600" alt="Profile / Avatar - Playful Interior Selfie Portrait - Image 1">
-</div>
-
-#### 📌 Details
-
-- **Author:** [Prompt アトリエ｜AI画像プロンプト](https://x.com/CyberTotal2026)
-- **Source:** [Twitter Post](https://x.com/CyberTotal2026/status/2080265058731663863)
-- **Published:** July 23, 2026
-- **Languages:** ja
-
-**[👉 Try it now →](https://youmind.com/gpt-image-2-prompts?id=29605)**
-
----
-
-### No. 12: Profile / Avatar - Neon Cosmic Anime Portrait
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Description
-
-Generates a dramatic painterly anime-realism portrait of a woman surrounded by red and blue cosmic light, ideal for expressive AI art posts.
-
-#### 📝 Prompt
-
-```
-Create a vertical 2:3 digital painting portrait of a young woman with {argument name="hair color" default="long messy black hair"}, turning her bare shoulder toward the viewer while looking back over it with a soft, melancholic expression. Her face is close to the camera, delicate and luminous, with flushed cheeks, parted glossy lips, fine eyelashes, and large reflective eyes containing tiny star-like multicolor highlights. Strands of windblown hair cross her face and eyes, creating an intimate, slightly chaotic composition. The background is an abstract cosmic darkness filled with energetic paint splashes, glowing particles, and nebula-like strokes, split between fiery red-orange light on the left and deep electric blue-violet light on the right. Use dramatic rim lighting: warm red highlights catching the left side of her hair and skin, cool blue highlights along the right side and shoulder, with painterly brush texture, high contrast, rich saturated color, and a dreamy cinematic anime-realism style. Her clothing is mostly hidden, suggesting a simple black sleeveless top or dress. Add a small elegant artist mark in the bottom-right corner with the date {argument name="date text" default="July 23, 2026"} and a handwritten signature {argument name="signature text" default="Oyagi"}. No other text, no frame, no watermark beyond the small signature.
-```
-
-#### 🖼️ Generated Images
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1784882744905_6ovgud_HN58NYjbAAAUKbY.jpg" width="600" alt="Profile / Avatar - Neon Cosmic Anime Portrait - Image 1">
-</div>
-
-#### 📌 Details
-
-- **Author:** [おやぎ](https://x.com/bikurin59)
-- **Source:** [Twitter Post](https://x.com/bikurin59/status/2080236653680202030#reversed-0)
-- **Published:** July 23, 2026
-- **Languages:** en
-
-**[👉 Try it now →](https://youmind.com/gpt-image-2-prompts?id=29640)**
-
----
-
-### No. 13: Profile / Avatar - Casual East Asian Mirror Selfie
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Description
-
-A highly detailed prompt for a realistic social media-style mirror selfie featuring an East Asian woman in athletic wear.
-
-#### 📝 Prompt
-
-```
-Create a photorealistic 9:16 casual mirror selfie of an exceptionally beautiful adult East Asian woman in her mid-20s, standing inside the glass entrance of a modern building during daytime.
-
-She has a refined oval face, fair natural skin, softly arched eyebrows, dark almond-shaped eyes, subtle eyeliner, a small straight nose and softly parted natural pink lips. Her expression is calm, slightly curious and effortlessly confident as she looks at her phone screen rather than directly into the mirror.
-
-She has very long {argument name="hair color" default="honey-blonde"} hair tied into a low side ponytail falling over one shoulder, with a deep side part and soft face-framing strands. She has a fit, naturally curvy hourglass figure with a full bust, narrow waist, rounded hips and long shapely legs.
-
-She wears a fitted pale {argument name="jacket color" default="butter-yellow"} lightweight zip-up athletic jacket with long sleeves, a structured collar and the zipper lowered slightly at the neckline. Pair it with high-waisted light-gray fitted flared yoga pants. A large black quilted leather shoulder bag with a gold chain strap hangs from one shoulder. Add a simple gold bangle and natural pale manicure.
-
-Recreate the pose: she stands facing the mirror with her weight shifted onto one leg. One hand holds a silver smartphone vertically beside her face, while the other hand rests casually inside the jacket pocket. Frame her from the top of her head to near her ankles.
-
-Behind the glass is an outdoor parking area with several parked cars, gray pavement, tall vertical metal flagpoles and dense green trees covering a hillside. Add a large cute cream-colored {argument name="sticker type" default="pixel-art bear"} sticker with pink ears floating over part of the background, clearly appearing as a digital sticker rather than a real object.
-
-Cool natural daylight from outside mixes with the dimmer interior light, leaving her face and body slightly shaded while the outdoor background remains brighter. Realistic phone-camera exposure, subtle glass reflections, mild cool color cast, slight wide-angle perspective and authentic social-media mirror-selfie quality.
-
-No anime rendering, no plastic skin, no excessively exaggerated anatomy, no distorted phone, no malformed hands, no extra fingers, no duplicated body, no random text, logo or watermark.
-```
-
-#### 🖼️ Generated Images
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1784882693484_poak37_HN5godqXIAAUM0p.jpg" width="600" alt="Profile / Avatar - Casual East Asian Mirror Selfie - Image 1">
-</div>
-
-#### 📌 Details
-
-- **Author:** [John](https://x.com/johnAGI168)
-- **Source:** [Twitter Post](https://x.com/johnAGI168/status/2080206396851691995)
-- **Published:** July 23, 2026
-- **Languages:** en
-
-**[👉 Try it now →](https://youmind.com/gpt-image-2-prompts?id=29487)**
-
----
-
-### No. 14: Profile / Avatar - Urban Supermarket Candid Photography
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Description
-
-A detailed prompt for generating clean, candid lifestyle photos in a supermarket setting with a cool CCD film aesthetic using GPT Image 2.
-
-#### 📝 Prompt
-
-```
-Photography Style: Cool white clear CCD lifestyle style
-Portrait Direction: Urban daily life photography
-Scene Direction: {argument name="scene" default="large supermarket refrigerated area / white freezer / bright shelves / cool white ceiling lights"}
-Clothing Direction: {argument name="clothing" default="mint white U-neck tight short-sleeved top + slim skirt"}
-Temperament Tags: {argument name="temperament" default="pure, bright, daily, natural, slightly seductive"}
-Facial Direction: Real clear natural face, fresh and clean, not influencer-style
-Facial Details: Soft oval face, naturally elegant contour; bright apricot eyes, clean and quiet gaze; smooth small nose; soft restrained lips, light nude pink lip color; overall fresh, real, and pleasant to look at
-Hairstyle Direction: Black long hair flowing naturally, smooth strands, a few stray hairs on the forehead
-Body Direction: Light and slender, naturally full bust
-Line Emphasis: Strong
-Camera Direction: Mid-shot to thighs
-Posture: Standing in front of the freezer, body slightly turned, one hand holding a shopping basket, the other hanging naturally
-Lighting Atmosphere: Freezer cool white light + top high color temperature lighting + very weak soft flash
-Filter Effect: Cool white highlights + blue-white clear CCD colors + light grain + light digital noise
-Aspect Ratio: 9:16
-Additional Requirements: The U-neck top emphasizes the neck, collarbone, bust, and waistline; the image looks like a frame captured by a CCD in a daily supermarket, clean and transparent, without looking overly posed.
-```
-
-#### 🖼️ Generated Images
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1784796554238_92bxui_HN5Yh4wawAAALLA.jpg" width="600" alt="Profile / Avatar - Urban Supermarket Candid Photography - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1784796554152_wbcqj3_HN5Yh4XawAAQf1z.jpg" width="600" alt="Profile / Avatar - Urban Supermarket Candid Photography - Image 2">
-</div>
-
-#### 📌 Details
-
-- **Author:** [李岳](https://x.com/liyue_ai)
-- **Source:** [Twitter Post](https://x.com/liyue_ai/status/2080200910379373039)
-- **Published:** July 23, 2026
-- **Languages:** zh
-
-**[👉 Try it now →](https://youmind.com/gpt-image-2-prompts?id=29492)**
-
----
-
-### No. 15: Profile / Avatar - Industrial Coffee Shop Portrait
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Description
-
-A highly detailed prompt for creating realistic lifestyle photography with preserved facial identity, set in a modern industrial coffee shop atmosphere.
-
-#### 📝 Prompt
-
-```
-Use the reference photo as the primary facial identity. Preserve the face as closely as possible to the reference, including the face shape, eye proportions, nose, lips, jawline, eyebrows, natural expression, freckles, septum piercing, thin-frame glasses, and the overall facial characteristics. Do not alter the person’s facial identity. Do not make the face look AI-generated, doll-like, overly perfect, or like a fashion editorial model.
-
-A young woman is sitting casually at a {argument name="setting" default="semi-outdoor industrial-style coffee shop"}, typical of popular Gen Z hangout spots in Indonesia. The interior features wooden tables, black metal chairs, lush green plants, warm hanging pendant lights, exposed concrete flooring, and a faintly visible motorcycle parking area in the distance. A few casually dressed customers appear softly blurred in the background, creating a lively atmosphere while keeping the focus on the subject.
-
-Outfit
-•{argument name="outfit" default="Oversized white vintage graphic T-shirt with casually rolled sleeves, loose-fit olive green cargo pants, and white sneakers"}.
-•White ankle socks.
-•A cream canvas tote bag placed beside the chair.
-•Simple black digital wristwatch.
-•Small brown beaded choker necklace.
-
-Hair
-
-Maintain the {argument name="hair style" default="long, naturally wavy hairstyle"} from the reference photo, with realistic volume and natural flow. The hair should be neatly arranged while preserving its authentic texture and movement.
-
-Pose
-
-She is sitting comfortably, leaning slightly against the chair back. One hand is holding a glass of iced coffee with milk resting on the table, while the other hand rests naturally on her thigh. Her shoulders are relaxed, legs comfortably apart, and she looks directly at the camera with a calm, neutral expression, as if a friend casually took the photo rather than posing for a professional photoshoot.
-
-Composition
-
-Full-body portrait in a vertical 4:5 aspect ratio. The camera is positioned approximately 1.5 meters from the subject using a standard smartphone rear camera. The angle is slightly below eye level with a subtle tilt, creating the natural feel of an everyday snapshot taken by a friend.
-
-Lighting
-
-Natural daylight around 4:30–5:00 PM. Soft late-afternoon sunlight enters from the side, producing gentle shadows without dramatic lighting.
-
-Camera Quality
-
-The image should genuinely resemble a photo captured with a regular Android phone or iPhone, not a professional camera. Details should be reasonably sharp but not overly clean, with slight natural image noise, normal dynamic range, subtle motion blur on people in the background, warm white balance typical of Indonesia’s afternoon light, and absolutely no excessive HDR processing.
-
-Color Grading
-
-Warm, natural tones dominated by beige, olive green, gray, and brown. Colors are slightly faded with low contrast and mild saturation, resembling an everyday photo that has received little or no editing.
-
-Atmosphere
-
-Authentic and relaxed, capturing the
-```
-
-#### 🖼️ Generated Images
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1784882687051_rafnyu_HN4oOGdaAAEC44t.jpg" width="600" alt="Profile / Avatar - Industrial Coffee Shop Portrait - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1784882687048_x0id04_HN4oOGRbMAA2b8c.jpg" width="600" alt="Profile / Avatar - Industrial Coffee Shop Portrait - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1784882687079_lbnmuy_HN4oOGabUAAiAtU.jpg" width="600" alt="Profile / Avatar - Industrial Coffee Shop Portrait - Image 3">
-</div>
-
-##### Image 4
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1784882687832_9yufx3_HN4oOGbbAAAesC1.jpg" width="600" alt="Profile / Avatar - Industrial Coffee Shop Portrait - Image 4">
-</div>
-
-#### 📌 Details
-
-- **Author:** [Sairah](https://x.com/Sairah_0)
-- **Source:** [Twitter Post](https://x.com/Sairah_0/status/2080144337481208037)
-- **Published:** July 23, 2026
-- **Languages:** en
-
-**[👉 Try it now →](https://youmind.com/gpt-image-2-prompts?id=29509)**
-
----
-
-### No. 16: Profile / Avatar - Cinematic Male Portrait with Blue Lenses
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Description
-
-A high-contrast black and white studio portrait featuring a man in a suit with selectively colorized vibrant blue sunglasses.
-
-#### 📝 Prompt
-
-```
-A striking, cinematic, and professional-looking portrait of a handsome man in his {argument name="age" default="late 20s or early 30s"}. He is wearing a sharp, modern black suit and a crisp white dress shirt. The man has neatly styled, dark, wavy hair and a well-groomed short beard/stubble. He is wearing thin, wire-rimmed round sunglasses with {argument name="lens color" default="vibrant blue-tinted"} lenses, creating a stark contrast against the black and white aesthetic.The image uses a high-contrast, black-and-white (monochromatic) color scheme, with the only exception being the vivid, electric blue color of the sunglass lenses, which are selectively colorized. He is looking off to the side with a serious, confident, and mysterious expression. The background is a simple, uniform, {argument name="background" default="medium-grey wall"}, providing a clean, minimalist backdrop. Studio lighting, dramatic, high-quality photograph, 8K resolution.
-```
-
-#### 🖼️ Generated Images
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1784882690463_osjvv2_HN4iCOAaIAAFZoF.jpg" width="600" alt="Profile / Avatar - Cinematic Male Portrait with Blue Lenses - Image 1">
-</div>
-
-#### 📌 Details
-
-- **Author:** [Aijaz](https://x.com/iamsofiaijaz)
-- **Source:** [Twitter Post](https://x.com/iamsofiaijaz/status/2080137507174535514)
-- **Published:** July 23, 2026
-- **Languages:** en
-
-**[👉 Try it now →](https://youmind.com/gpt-image-2-prompts?id=29471)**
-
----
-
-### No. 17: Profile / Avatar - Streetwear Fashion Mirror Selfie
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Description
-
-A realistic mirror selfie prompt for a Gen Z streetwear look, set in a modern clothing store fitting room.
-
-#### 📝 Prompt
-
-```
-Ultra-realistic fashion mirror selfie of a stylish young woman in a {argument name="location" default="modern clothing store fitting room"}, wearing a {argument name="outfit" default="white fitted crop tank top, oversized blue denim jacket draped off the shoulders, relaxed blue jeans, and a blue baseball cap"}. Long wavy {argument name="hair color" default="dark brown"} hair cascading over her shoulders, soft natural makeup, glossy lips, confident expression. Holding a smartphone with flash on, creating sparkling light reflections on the mirror. Industrial perforated metal wall background with trendy blue decorative elements, casual streetwear aesthetic, Gen Z fashion vibe, cool-toned lighting, candid social media photography, realistic skin texture, detailed fabric folds, shallow depth of field, fashion editorial style, photorealistic, DSLR quality, 35mm lens, ultra-detailed, high contrast, Instagram influencer look, 8k masterpiece.
-Negative Prompt:
-low quality, blurry, pixelated, overexposed, underexposed, bad anatomy, extra fingers, distorted hands, duplicate person, unrealistic face, plastic skin, cartoon, anime, CGI, watermark, text, logo, noise, grain, motion blur, messy background, unnatural proportions, oversaturated colors, cropped body, poor lighting.
-```
-
-#### 🖼️ Generated Images
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1784882690602_ymbh50_HN4ZOj0aYAArHaw.jpg" width="600" alt="Profile / Avatar - Streetwear Fashion Mirror Selfie - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1784882690598_96p098_HN4ZPnJbkAAi-48.jpg" width="600" alt="Profile / Avatar - Streetwear Fashion Mirror Selfie - Image 2">
-</div>
-
-#### 📌 Details
-
-- **Author:** [Aqsa](https://x.com/Aqsahere_)
-- **Source:** [Twitter Post](https://x.com/Aqsahere_/status/2080127852486508567)
-- **Published:** July 23, 2026
-- **Languages:** en
-
-**[👉 Try it now →](https://youmind.com/gpt-image-2-prompts?id=29472)**
-
----
-
-### No. 18: Profile / Avatar - Cinematic Rooftop Urban Portrait
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Description
-
-A moody, high-fidelity prompt for a photorealistic medium shot of a man on a city rooftop, featuring dramatic dual-tone lighting and shallow depth of field.
-
-#### 📝 Prompt
-
-```
-A cinematic low-angle medium shot captures a {argument name="subject" default="stylish man"} with uploaded face as reference leaning casually back against a concrete rooftop ledge at night, wearing a {argument name="outfit" default="sharp black suit"}, unbuttoned white dress shirt, loosened black tie, and dark sunglasses, with his head tilted upward. The scene utilizes {argument name="lighting" default="dramatic dual-tone lighting"}, blending vibrant emerald green ambient city glow with warm tungsten orange key light that highlights the texture of the clothing and skin. The background features a heavily blurred urban skyline with circular bokeh from skyscraper lights, shot on an 85mm lens at f/1.8 for shallow depth of field, emphasizing high-fidelity textures, raytraced lighting, and a moody, photorealistic 8k aesthetic.
-```
-
-#### 🖼️ Generated Images
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1784882687101_1yqblu_HN4QXWwWQAAqco5.jpg" width="600" alt="Profile / Avatar - Cinematic Rooftop Urban Portrait - Image 1">
-</div>
-
-#### 📌 Details
-
-- **Author:** [Muhammad Jamil](https://x.com/JamilAI55)
-- **Source:** [Twitter Post](https://x.com/JamilAI55/status/2080118081729290688)
-- **Published:** July 23, 2026
-- **Languages:** en
-
-**[👉 Try it now →](https://youmind.com/gpt-image-2-prompts?id=29513)**
-
----
-
-### No. 19: Profile / Avatar - Moody Fine Art Editorial Portrait
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Description
-
-A professional editorial photography prompt for GPT Image 2 creating a moody, painterly portrait of a woman with a book.
-
-#### 📝 Prompt
-
-```
-Ultra realistic fine art portrait of a woman with a calm, intense expression, making direct eye contact with the camera. Soft natural freckles, {argument name="eye color" default="light green eyes"}, minimal makeup, and slightly textured natural skin. {argument name="hair style" default="Dark wavy hair loosely pulled back with soft strands framing the face"}. She wears a {argument name="outfit" default="vintage inspired floral dress with a deep neckline and a delicate crescent moon pendant necklace"}. She holds an old worn book partially visible in the lower frame, adding a quiet literary mood.
-
-Moody low key lighting with soft diffused illumination from the front left, creating gentle shadows and subtle depth across the face. Dark muted blue gray studio background with a smooth creamy blur. Cinematic, intimate, painterly portrait look with a shallow depth of field, sharp eyes, softly blurred edges, and rich tonal contrast.
-
-Shot as a close up editorial portrait, chest-up framing, subject centered, symmetrical composition, soft bokeh, full-frame camera, 85mm lens, f/1.8, ISO 200, 1/160s. Fine art photography, emotional realism, quiet mysterious atmosphere, natural skin texture, soft color grading, subtle filmic tones, elegant portrait photography, magazine quality, highly detailed, photorealistic.
-```
-
-#### 🖼️ Generated Images
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1784796559600_b6gst8_HN3YPPWaAAABzH1.jpg" width="600" alt="Profile / Avatar - Moody Fine Art Editorial Portrait - Image 1">
-</div>
-
-#### 📌 Details
-
-- **Author:** [BMX](https://x.com/bmx_ai13)
-- **Source:** [Twitter Post](https://x.com/bmx_ai13/status/2080056369387119047)
-- **Published:** July 22, 2026
-- **Languages:** en
-
-**[👉 Try it now →](https://youmind.com/gpt-image-2-prompts?id=29497)**
-
----
-
-### No. 20: Profile / Avatar - Premium X Branding Portrait
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Description
-
-A realistic high-end social media portrait of a person leaning through a giant illuminated X logo for Twitter/X branding visuals.
-
-#### 📝 Prompt
-
-```
-Create a premium X/Twitter branding portrait featuring {argument name="subject description" default="a young Black man with short black hair, smooth medium-dark skin, clean-shaven face, and a calm confident expression"} emerging from inside a giant three-dimensional X logo cut through a sleek matte light-gray wall. The X should dominate the frame, tilted diagonally and rendered as a deep recessed architectural cutout with beveled metallic gray edges, dark navy-blue interior surfaces, and subtle electric-blue accent lighting along the inner bevels. The subject leans out from the left-center opening of the X, looking directly at the camera, wearing {argument name="shirt color" default="a plain white oversized T-shirt"}; show his head, shoulders, upper torso, and exactly two visible hands gripping the left edge of the cutout, one near shoulder height and one near lower chest height. Use a square 1:1 composition, cinematic shallow depth of field, premium social-media profile aesthetic, realistic studio photography, crisp facial detail, soft directional lighting from the upper left, gentle shadows on the wall, cool blue highlights inside the logo, and a polished high-end tech-brand mood. Keep the background minimal with no text, no watermark, no extra objects, and no additional logos beyond the single giant X shape.
-```
-
-#### 🖼️ Generated Images
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1784796585305_xthpvr_HN2_I0VWoAAvdAF.jpg" width="600" alt="Profile / Avatar - Premium X Branding Portrait - Image 1">
-</div>
-
-#### 📌 Details
-
-- **Author:** [Abkr Sadiq](https://x.com/abs_uiux)
-- **Source:** [Twitter Post](https://x.com/abs_uiux/status/2080028773521428738#reversed-0)
-- **Published:** July 22, 2026
-- **Languages:** en
-
-**[👉 Try it now →](https://youmind.com/gpt-image-2-prompts?id=29522)**
-
----
-
-### No. 21: Social Media Post - Sunny Beach Summer Portrait
-
-![Language-JA](https://img.shields.io/badge/Language-JA-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Description
-
-A bright, high-key summer portrait prompt for a woman at the beach, emphasizing sun-kissed skin, clear turquoise water, and a joyful expression.
-
-#### 📝 Prompt
-
-```
-Subject: Smile at the Water's Edge
-
-Main Subject: Vertical portrait of a woman in her 20s standing on a sunny beach, captured from the top of the head to the upper thighs. The subject is positioned large in the center, with the upper body occupying about two-thirds of the frame. Against a background of transparent blue sea, white waves, and bright sandy beach, she directs a friendly smile at the camera.
-
-Person/Expression: Bright ivory-beige fair skin with a subtle natural pink flush. Delicate highlights on the cheeks, nose, shoulders, and collarbones, with a realistic skin texture that slightly reveals pores and grain. Pale rose pink blush, champagne beige and pink-brown eye makeup, long thin lashes, natural tear bags, soft brown eyebrows, and transparent pink-beige gloss lips. A small, clear catchlight in the eyes. A bright, healthy smile with the mouth naturally open, looking straight at the camera.
-
-Clothing/Pose: {argument name="swimwear" default="Plain ivory-white halter neck bikini"}. The top has subtle gathers and thin shoulder straps, and the bottom features side ribbons tied at both hips. The subject's right hand is placed by the ear, lightly tidying the hair with the fingertips. The left arm is lowered naturally at the side, and the upper body is leaned forward slightly. Shoulders relaxed, standing naturally with a slight twist at the waist. Damp stray hairs trail along the cheeks and neck.
-
-Background/Lighting: The foreground is a pale sandy beach reflecting sunlight. In the midground, white waves wash in diagonally, and the background features a {argument name="sea color" default="sea surface changing from turquoise blue to pale light blue"}. Warm summer sunlight enters from the upper left, brightly illuminating the face, shoulders, collarbones, and upper arms. Soft shadows fall under the chin, on the chest, and the inside of the arms, with a faint pale blue reflection from the sea added to the shadowed side of the skin.
-
-Composition/Camera: Vertical 9:16. Light high-angle shot from a slightly high position. The face is in the top center, the torso in the center, and the thighs at the bottom. Minimal margin above the head, with soft margins for the sea and sand on the sides. Natural perspective equivalent to 35-50mm. Precise focus on the eyes and face, with the waves and sea in the background gently blurred. A bright and open beach portrait.
-
-Texture/Style: Live-action photo. Carefully depicts the fine texture of natural skin, the clumping of damp hair, fine vellus hair, and thin wrinkles in the fabric. Avoids excessive skin processing, maintaining a bright high-key tone while suppressing blown-out highlights. Transparent summer colors, soft contrast, and photo-book quality cleanliness.
-
-Negative: Face appearing young, unnatural smile, unnatural gaze, extra fingers, missing fingers, fused fingers, confusion between left and right hands, broken joints, unnatural body shape, clothing clipping, poor fabric connection, floating strings, incorrect perspective, shadows inconsistent with light source, plastic-like skin, excessive skin retouching, text, logos, watermarks.
-```
-
-#### 🖼️ Generated Images
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1784882717017_yomlpl_HNwC3llawAA45-o.jpg" width="600" alt="Social Media Post - Sunny Beach Summer Portrait - Image 1">
+<img src="https://cms-assets.youmind.com/media/1784968589631_6w1hkn_HNwC3llawAA45-o.jpg" width="600" alt="Profile / Avatar - Sunny Beach Portrait of a Smiling Woman - Image 1">
 </div>
 
 #### 📌 Details
@@ -1469,33 +1297,19 @@ Negative: Face appearing young, unnatural smile, unnatural gaze, extra fingers, 
 
 ---
 
-### No. 22: Social Media Post - Cinematic Japanese Urban Lifestyle Photography
+### No. 18: Profile / Avatar - Mirror Selfie in Urban Store
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Description
 
-A vibrant prompt for a cinematic street scene in Japan featuring a woman on an electric scooter and a man on a skateboard, emphasizing youthful energy and urban fashion.
+A candid full-body mirror selfie prompt of a stylish woman in a retail environment, using a reference image for her outfit.
 
 #### 📝 Prompt
 
 ```
-A vibrant cinematic street lifestyle photograph captured from a dramatic low angle on a sunny afternoon in a modern {argument name="location" default="Japanese shopping district"}. A cheerful {argument name="subject" default="young Asian woman"} rides a sleek {argument name="scooter color" default="yellow and black"} electric scooter through a clean urban street. She has long flowing black hair blowing naturally in the wind, a genuine smile, and wears stylish silver and yellow over ear headphones. Her outfit consists of an oversized beige graphic streetwear T shirt with bold vertical typography, loose red athletic shorts, white crew socks, white and yellow sneakers, and a delicate gold necklace.
-
-Behind her, a young Asian man casually follows on a skateboard, wearing a black bomber jacket over a white T shirt, loose khaki cargo pants, black skate shoes, and layered silver necklaces. He smiles while looking toward the woman, adding a natural candid feeling.
-
-In the foreground, a black and white tuxedo cat confidently walks across the street beside the scooter, perfectly in focus, adding charm and storytelling.
-
-The background features modern Japanese storefronts with large bold red signage reading "INNER FLOW", Japanese typography on surrounding buildings, glass doors, minimalist architecture, and subtle urban details. The scene feels energetic, youthful, and fashionable.
-
-Bright natural daylight with soft warm sunlight, realistic shadows, high dynamic range, cinematic color grading, ultra realistic skin textures, authentic fabric details, crisp hair strands moving in the breeze, shallow depth of field with a softly blurred background, subtle motion in the hair while keeping the subjects sharp.
-
-Editorial fashion photography, urban lifestyle campaign, premium streetwear advertisement, candid moment, dynamic composition, low angle perspective, 35mm lens, f/2.8, ISO 100, ultra sharp focus, photorealistic, HDR, 8K resolution, highly detailed, natural colors, premium commercial photography, magazine quality, realistic proportions, clean composition.
-
-Negative Prompt:
-
-low quality, blurry, noisy, oversaturated colors, bad anatomy, deformed hands, extra fingers, duplicate people, extra limbs, distorted face, unrealistic skin, floating objects, cropped feet, text artifacts, watermark, logo, frame, motion blur, overexposed highlights, underexposed shadows, cartoon, anime, CGI, plastic skin, low resolution.
+A candid, full-body mirror selfie captures a stylish young woman with {argument name="hair style" default="wavy, dark hair"} and {argument name="sunglasses style" default="trendy sunglasses"}. She is posing in an urban clothing store, wearing a outfit from second image. She is taking the photo with her phone . The background shows retail displays, racks with T-shirts (one featuring a Stussy logo), a mannequin wearing a cap, and an industrial-style ceiling with track lighting.
 ```
 
 #### 🖼️ Generated Images
@@ -1503,45 +1317,378 @@ low quality, blurry, noisy, oversaturated colors, bad anatomy, deformed hands, e
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1784882700410_e62l0h_HN-FnUfa8AABT-0.jpg" width="600" alt="Social Media Post - Cinematic Japanese Urban Lifestyle Photography - Image 1">
+<img src="https://cms-assets.youmind.com/media/1784968601509_q5z07t_HN-EW3wbsAAPXnd.jpg" width="600" alt="Profile / Avatar - Mirror Selfie in Urban Store - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1784882700404_gq7wuh_HN-FoSxagAAlt3R.jpg" width="600" alt="Social Media Post - Cinematic Japanese Urban Lifestyle Photography - Image 2">
+<img src="https://cms-assets.youmind.com/media/1784968601398_vindi0_HN-EW3wbAAAvX9d.jpg" width="600" alt="Profile / Avatar - Mirror Selfie in Urban Store - Image 2">
+</div>
+
+#### 📌 Details
+
+- **Author:** [K](https://x.com/ChillaiKalan__)
+- **Source:** [Twitter Post](https://x.com/ChillaiKalan__/status/2080527104849195152)
+- **Published:** July 24, 2026
+- **Languages:** en
+
+**[👉 Try it now →](https://youmind.com/gpt-image-2-prompts?id=29705)**
+
+---
+
+### No. 19: Profile / Avatar - Realistic Japanese Badminton Selfie
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Description
+
+Generates a highly authentic smartphone-style selfie of a young Japanese woman on an indoor badminton court, emphasizing natural lighting and candid aesthetics.
+
+#### 📝 Prompt
+
+```
+Ultra-realistic smartphone selfie of a beautiful {argument name="subject" default="young Japanese woman"} with smooth porcelain skin, soft natural facial features, large warm brown eyes, glossy pink lips, and a sleek {argument name="hairstyle" default="short black bob haircut"}, wearing a {argument name="headband" default="white athletic headband"}. She is standing on an indoor badminton court while holding a pink-and-black badminton racket in one hand and taking a selfie with the other from a high overhead angle. She wears a black-and-white sports jersey, matching athletic shorts, and bright yellow badminton shoes, smiling softly at the camera with a relaxed, cheerful expression. The background features a realistic indoor sports hall with green badminton courts, gray flooring, court lines, and bright overhead lights. The image looks exactly like it was casually captured using a modern flagship smartphone, featuring natural indoor lighting, authentic skin texture, subtle HDR, slight front-camera wide-angle distortion, realistic sensor noise, mild handheld imperfections, balanced exposure, and soft computational photography. No DSLR look, no studio lighting, no heavy beauty filters, no artificial bokeh, and no AI-perfect sharpness—just a genuine candid mobile phone selfie with a realistic social media aesthetic.
+```
+
+#### 🖼️ Generated Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1784968563325_cpnhph_HN9t_Ika8AAmjWU.jpg" width="600" alt="Profile / Avatar - Realistic Japanese Badminton Selfie - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1784968563082_vdbbxz_HN9t_2cbgAAYpSu.jpg" width="600" alt="Profile / Avatar - Realistic Japanese Badminton Selfie - Image 2">
+</div>
+
+#### 📌 Details
+
+- **Author:** [𝗦𝗮𝗻𝗶𝗮](https://x.com/saniaspeaks_)
+- **Source:** [Twitter Post](https://x.com/saniaspeaks_/status/2080502507843838205)
+- **Published:** July 24, 2026
+- **Languages:** en
+
+**[👉 Try it now →](https://youmind.com/gpt-image-2-prompts?id=29583)**
+
+---
+
+### No. 20: Profile / Avatar - Crystalline Cybernetic Anime Girl
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Description
+
+Generates a luminous geometric anime close-up of a cybernetic girl surrounded by glass shards and pastel prismatic light.
+
+#### 📝 Prompt
+
+```
+Create a luminous vertical anime portrait of {argument name="character name" default="a mysterious cybernetic girl"} in an elegant geometric illustration style. The composition is an extreme close-up from the shoulders up, slightly tilted, with the face centered and cropped tightly by the top and sides. She has soft short wavy {argument name="hair color" default="silvery white hair with pale pink and cyan reflections"}, long wispy bangs covering part of her forehead, a delicate pale face, a tiny neutral mouth, and an expression that feels calm, doll-like, and unsettling. Her left eye is a large glossy black mechanical eye with concentric blue rings, while her right eye glows pale pink with a hypnotic spiral iris; add fine eyelashes and subtle blush around both eyes. She wears a loose translucent white shirt or robe with a low neckline, rendered with iridescent cyan, pink, and lavender highlights. Surround her with exactly 18 visible floating geometric fragments: 6 translucent cyan glass shards, 5 black triangular prism shards, 4 white angular polygon shards, and 3 small gold-edged triangular pieces. Some shards overlap her hair and cheek like fractured crystal plates, including one translucent shard crossing the right eye and cheek. Add thin circular orbit lines and faint technical arcs in the background, plus scattered prismatic light streaks and sparkles. Use a high-key white background flooded with overexposed light, pastel cyan and pink rim lighting, glossy glass refractions, chromatic aberration, soft bloom, and very clean detailed anime linework. The mood should be futuristic, ethereal, fragile, and crystalline, with no text, no watermark, and no extra characters.
+```
+
+#### 🖼️ Generated Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1784968632741_vodwj3_HN9gH0za8AA_kGL.jpg" width="600" alt="Profile / Avatar - Crystalline Cybernetic Anime Girl - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1784968633028_rdyjrj_HN9gJfbawAA7uVa.jpg" width="600" alt="Profile / Avatar - Crystalline Cybernetic Anime Girl - Image 2">
+</div>
+
+#### 📌 Details
+
+- **Author:** [あいぼりー](https://x.com/HetareIvory)
+- **Source:** [Twitter Post](https://x.com/HetareIvory/status/2080488387715502296#reversed-0)
+- **Published:** July 24, 2026
+- **Languages:** en
+
+**[👉 Try it now →](https://youmind.com/gpt-image-2-prompts?id=29632)**
+
+---
+
+### No. 21: Social Media Post - Photo to Anime Transformation
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Description
+
+A versatile prompt to transform a real-life photo into two distinct anime styles: Urban Pop and Dreamy Fantasy, while maintaining identity.
+
+#### 📝 Prompt
+
+```
+Create TWO completely different anime illustrations from the uploaded everyday photo while preserving the same person's identity. Keep the facial shape, facial feature proportions, recognizable hairstyle, age impression, and overall personality consistent, but fully transform the image into a vibrant, high-quality anime style. Both images should be unmistakably animated rather than photorealistic, with expressive linework, clean cel shading, bold graphic shadows, vivid high-saturation colours, crisp facial detail, and a polished poster-quality finish. IMAGE 1 — {argument name="style one" default="Urban Pop Anime"} A playful, energetic anime poster with a dynamic wide-angle perspective and dynamic pose. The character has an expressive smile, lively hand gesture, and confident body language. Reimagine the background as a colourful anime city filled with neon signs, floating hearts, sparkling stars, comic speech bubbles, motion lines, kawaii stickers, tiny mascots, hand-drawn doodles, colourful geometric graphics, and fun sound effects. The composition should feel youthful, exciting, bold, and instantly eye-catching, with excellent visual hierarchy and strong social-media appeal. IMAGE 2 — {argument name="style two" default="Dreamy Fantasy Anime"} Create a completely different composition with a magical fantasy atmosphere. Use a {argument name="perspective" default="cinematic low-angle perspective"} and graceful, expressive pose with flowing movement. Replace the original background with a whimsical fantasy world featuring glowing skies, floating islands, oversized flowers, magical sparkles, butterflies, glowing stars, cute fantasy creatures, ribbons, clouds, colourful gradients, decorative frames, and elegant anime-inspired graphic elements. The mood should feel charming, emotional, imaginative, and visually rich while maintaining a clean silhouette, expressive face, polished illustration quality, and a vibrant, premium anime aesthetic suitable for viral social-media artwork.
+```
+
+#### 🖼️ Generated Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1784968567074_yjf62y_HODwIh0WsAAO8y_.jpg" width="600" alt="Social Media Post - Photo to Anime Transformation - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1784968566934_rczdsc_HODwJnWWIAA4ENS.jpg" width="600" alt="Social Media Post - Photo to Anime Transformation - Image 2">
+</div>
+
+#### 📌 Details
+
+- **Author:** [Simply Ray](https://x.com/kingofdairyque)
+- **Source:** [Twitter Post](https://x.com/kingofdairyque/status/2080927092829765933)
+- **Published:** July 25, 2026
+- **Languages:** en
+
+**[👉 Try it now →](https://youmind.com/gpt-image-2-prompts?id=29672)**
+
+---
+
+### No. 22: Social Media Post - Modern Interior Apartment Portrait
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Description
+
+A high-detail portrait prompt for a serene lifestyle scene in a modern apartment, focusing on natural lighting and realistic skin textures.
+
+#### 📝 Prompt
+
+```
+A young adult East Asian woman standing in a modern apartment dining/living area, half-body to upper-body composition, centered slightly to the right. She leans back naturally, arms extended behind her with hands resting on the edge of a {argument name="furniture" default="dark wooden dining table"}, creating a smooth curve. Her head is slightly tilted back and to the left, facing the camera with a calm, confident, slightly lazy gaze and lips naturally parted.
+
+She has a soft, delicate oval face, almond-shaped dark brown eyes, natural thin eyebrows, light nude pink lips, and light makeup. Fair, warm skin retaining real pores, fine vellus hair, natural skin tone variations, and soft highlights—no plastic airbrushing. Long dark black-brown hair flows naturally, soft and slightly voluminous, with some strands falling on her shoulders and chest.
+
+Wearing a {argument name="top" default="white slim-fit long-sleeve crop top"} knotted at the chest, soft and form-fitting fabric revealing the midriff; paired with {argument name="trousers" default="white loose lounge pants"} with a high elastic waist; a thin silver waist chain or pearl-like decoration at the waist. Overall refreshing, clean, and lifestyle-oriented.
+
+Background is a modern residential interior: curtains and soft window light on the left, a dark door frame behind; transparent shoe boxes stacked on the back right with a white helmet on top, next to a TV and dark furniture; wooden dining table and chairs in the foreground. Clean but with a real lived-in feel.
+
+Lighting is natural daylight from the left, soft side-lighting, low saturation and contrast overall, with a real photographic texture. Style: 85mm portrait lens, f/2, shallow depth of field, sharp subject, slight background blur, subtle film grain, photorealistic.
+
+Avoid: Cartoon, CG feel, excessive airbrushing, exaggerated body proportions, incorrect fingers, deformed limbs, heavy makeup, cluttered background, strong HDR, over-sharpening, text, watermarks, logos.
+```
+
+#### 🖼️ Generated Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1784968613930_932d5n_HOCEc2SWQAA0GYQ.jpg" width="600" alt="Social Media Post - Modern Interior Apartment Portrait - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1784968613850_fmpnc8_HOCEc2WXQAAoDFQ.jpg" width="600" alt="Social Media Post - Modern Interior Apartment Portrait - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1784882700391_on580x_HN-FpLbbYAAVa3x.jpg" width="600" alt="Social Media Post - Cinematic Japanese Urban Lifestyle Photography - Image 3">
+<img src="https://cms-assets.youmind.com/media/1784968613758_5l43qp_HOCEc2WWoAAV4Xy.jpg" width="600" alt="Social Media Post - Modern Interior Apartment Portrait - Image 3">
+</div>
+
+##### Image 4
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1784968615509_lfyu1g_HOCEc2VW8AAB1QG.jpg" width="600" alt="Social Media Post - Modern Interior Apartment Portrait - Image 4">
+</div>
+
+#### 📌 Details
+
+- **Author:** [ToroJushiAi](https://x.com/ToroJushiAi)
+- **Source:** [Twitter Post](https://x.com/ToroJushiAi/status/2080926031817433213)
+- **Published:** July 25, 2026
+- **Languages:** zh
+
+**[👉 Try it now →](https://youmind.com/gpt-image-2-prompts?id=29717)**
+
+---
+
+### No. 23: Social Media Post - Realistic Mountain Valley Travel Portrait
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Description
+
+Generates a breathtaking cinematic travel photo of a woman in a European alpine setting, emphasizing natural lighting and autumn aesthetics.
+
+#### 📝 Prompt
+
+```
+Ultra-realistic cinematic travel photograph of a young woman standing peacefully behind a rustic weathered wooden fence, facing the camera with her front fully visible while maintaining a calm, serene expression. She gently rests one hand on the wooden fence and naturally gazes toward the camera, creating a timeless editorial travel portrait. She wears a {argument name="sweater" default="cozy oversized moss-green fuzzy knit sweater"} layered over a {argument name="skirt" default="flowing ivory-white skirt"}, creating a soft autumn aesthetic. Her dark brown hair is neatly tied into a low bun with a delicate yellow floral scrunchie, subtly illuminated by warm golden-hour sunlight.
+In front of her stretches a {argument name="scenery" default="picturesque European mountain valley"} filled with rolling emerald-green meadows, winding country roads, scattered traditional alpine farmhouses, and a charming white church with a tall pointed steeple nestled in the village below. Golden autumn trees are scattered across the hillsides, adding vibrant seasonal contrast.
+The dramatic background features towering jagged snow-capped mountain peaks rising sharply beneath a vast blue sky filled with soft layered clouds. Warm sunlight breaks across the valley, creating beautiful highlights on the grass while deep mountain shadows add depth and atmosphere. The composition emphasizes scale, tranquility, and wanderlust, with the woman positioned in the foreground as the focal point against the magnificent alpine scenery.
+Shot in a premium travel-photography style with natural lighting, ultra-realistic textures, crisp mountain details, HDR dynamic range, vibrant yet true-to-life colors, cinematic depth, atmospheric perspective, sharp focus throughout, subtle bokeh, National Geographic quality, luxury travel magazine aesthetic, peaceful mood, breathtaking scenery, 8K ultra-high resolution, photorealistic, vertical composition (3:4 aspect ratio).
+```
+
+#### 🖼️ Generated Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1784968611692_4gh37a_HODi2c2bQAAn3b_.jpg" width="600" alt="Social Media Post - Realistic Mountain Valley Travel Portrait - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1784968611677_ypyl6v_HODi3xeaAAASF9_.jpg" width="600" alt="Social Media Post - Realistic Mountain Valley Travel Portrait - Image 2">
+</div>
+
+#### 📌 Details
+
+- **Author:** [Jahan Zaib](https://x.com/jzaib4269)
+- **Source:** [Twitter Post](https://x.com/jzaib4269/status/2080912496278585614)
+- **Published:** July 25, 2026
+- **Languages:** en
+
+**[👉 Try it now →](https://youmind.com/gpt-image-2-prompts?id=29714)**
+
+---
+
+### No. 24: Social Media Post - High-End Fashion Editorial Portrait
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Description
+
+A premium studio portrait of a stylish African man, preserving identity from an uploaded image with a minimalist baby-blue aesthetic.
+
+#### 📝 Prompt
+
+```
+Use the uploaded image as the facial identity reference for the subject. Preserve his natural facial structure, skin tone, hairstyle, facial proportions, and overall identity accurately. Create an ultra-realistic, high-end fashion editorial portrait of a {argument name="subject" default="stylish young African man"} seated confidently on a clean studio floor in a relaxed, sophisticated pose. He is wearing a {argument name="outfit" default="vibrant pink short-sleeve textured overshirt layered over a crisp white long-sleeve shirt, paired with relaxed-fit light blue denim jeans, clean white socks, and premium tan leather lace-up boots"}. He wears sleek black rectangular sunglasses and a subtle premium gold wristwatch, adding a refined contemporary touch. His pose is natural and confident, with one arm casually raised near his head while the other supports his relaxed seated position. Maintain a tasteful, modest, polished appearance with no excessive exposure. Set the scene against a {argument name="background" default="minimalist bright baby-blue studio background with a matching seamless floor"}, soft diffused professional lighting, subtle natural shadows, and a clean luxury fashion campaign aesthetic. The composition should feel youthful, stylish, confident, modern, and premium, with balanced colours and excellent visual harmony. Capture the subject in sharp focus with realistic skin texture, natural facial features, accurate body proportions, detailed fabric and denim textures, photorealistic materials, cinematic yet soft lighting, and professional high-end fashion photography quality. Full-body composition, vertical portrait, editorial magazine style, luxury fashion campaign, ultra-detailed, photorealistic, 4K resolution, realistic anatomy, natural pose, premium studio photography, clean composition.
+```
+
+#### 🖼️ Generated Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1784968566870_gmlc1k_HODhgztXwAAlBon.jpg" width="600" alt="Social Media Post - High-End Fashion Editorial Portrait - Image 1">
+</div>
+
+#### 📌 Details
+
+- **Author:** [Abkr Sadiq](https://x.com/abs_uiux)
+- **Source:** [Twitter Post](https://x.com/abs_uiux/status/2080911006067278109)
+- **Published:** July 25, 2026
+- **Languages:** en
+
+**[👉 Try it now →](https://youmind.com/gpt-image-2-prompts?id=29673)**
+
+---
+
+### No. 25: Social Media Post - 1970s Monochrome Windswept Portrait
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Description
+
+A vintage-style black-and-white close-up portrait with film grain, high contrast, and a windswept outdoor aesthetic.
+
+#### 📝 Prompt
+
+```
+Create a 1970s black-and-white close-up portrait in a {argument name="setting" default="windswept outdoor setting"}, black and white noise . Camera/look: eye-level, front ¾ view (~30° off-axis); 85–105 mm portrait perspective; vertical 2:3, tight head-and-shoulders crop; shallow DoF f/2.8–f/4; subject centered . Lighting: hard natural sunlight from upper camera-left with minimal fill; crisp shadows; subtle rim on hair; sky as bright mid-tone background; no blown highlights.Pose & expression: subject faces camera, chin slightly down, {argument name="pose" default="lips parted with a cigarette held between them"}; gaze relaxed/half-lidded; hair blown across the face by wind, partially covering one eye.Wardrobe & styling: dark collared shirt with open neck; thin black neck scarf tied loosely; no logos/jewelry.Grade: {argument name="film style" default="high-contrast monochrome with rich blacks"}, bright highlights, medium–heavy film grain (Tri-X/HP5 vibe), slight halation, faint vignette; keep skin texture natural (no plastic smoothing).Composition: simple sky background, no extra props; clean verticals; ensure sharp focus on near eye and cigarette.Output: high-resolution, editorial/classic cinema mood; no text or watermarks.
+```
+
+#### 🖼️ Generated Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1784968570042_x4rf3c_HODKksnaIAABWI1.jpg" width="600" alt="Social Media Post - 1970s Monochrome Windswept Portrait - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1784968569885_64byew_HODKkr1bsAAFMVB.jpg" width="600" alt="Social Media Post - 1970s Monochrome Windswept Portrait - Image 2">
+</div>
+
+#### 📌 Details
+
+- **Author:** [K](https://x.com/ChillaiKalan__)
+- **Source:** [Twitter Post](https://x.com/ChillaiKalan__/status/2080886064290615601)
+- **Published:** July 25, 2026
+- **Languages:** en
+
+**[👉 Try it now →](https://youmind.com/gpt-image-2-prompts?id=29676)**
+
+---
+
+### No. 26: Social Media Post - Streetwear Portrait Fisheye Lens
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Description
+
+A high-fashion streetwear portrait of a young man captured with a wide-angle fisheye lens in a studio setting, emphasizing a modern Gen Z aesthetic.
+
+#### 📝 Prompt
+
+```
+Ultra realistic high fashion streetwear portrait of a young man photographed in a clean white studio using an ultra wide fisheye lens from a high overhead angle. The subject is looking directly into the camera with a confident, slightly serious expression while lightly holding the brim of his {argument name="headwear" default="trucker cap"} with one hand and keeping the other hand inside his hoodie pocket. He wears an {argument name="clothing" default="oversized charcoal black hoodie layered over a white T shirt"}, loose faded gray baggy jeans with a silver wallet chain, black and white sneakers, a thin silver chain necklace with a small star pendant, a silver bracelet, and a small hoop earring. The trucker cap has a royal blue front panel, bright yellow curved brim, light gray mesh back, and a small embroidered patch logo on the front. Messy medium length dark brown hair peeks out naturally from beneath the cap, framing the face. The lighting is {argument name="lighting" default="soft, diffused studio lighting"} with subtle shadows, producing natural skin tones and gentle contrast. Minimalist seamless white backdrop with no props. Strong perspective distortion from the fisheye lens emphasizes the cap and upper body while slightly shrinking the legs and feet. The image features a circular fisheye vignette with dark edges surrounding the frame, giving an immersive lens effect. Editorial fashion photography, modern Gen Z streetwear aesthetic, premium clothing campaign, authentic pose, crisp textures, realistic fabric folds, detailed skin, sharp eyes, cinematic color grading, shallow depth of field, ultra detailed, 8K resolution, DSLR quality, commercial fashion shoot, natural proportions, photorealistic. Camera: 8mm fisheye lens, high angle, top down perspective, f/2.8, ISO 100, 1/200s, centered composition, ultra sharp focus, subtle filmic contrast, clean studio environment.
+```
+
+#### 🖼️ Generated Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1784968564922_el881d_HODIHo9a8AAnEK6.jpg" width="600" alt="Social Media Post - Streetwear Portrait Fisheye Lens - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1784968564974_z2ihsc_HODIIffboAA0NHs.jpg" width="600" alt="Social Media Post - Streetwear Portrait Fisheye Lens - Image 2">
 </div>
 
 #### 📌 Details
 
 - **Author:** [Harboris](https://x.com/harboriis)
-- **Source:** [Twitter Post](https://x.com/harboriis/status/2080528507256627351)
-- **Published:** July 24, 2026
+- **Source:** [Twitter Post](https://x.com/harboriis/status/2080883089715454405)
+- **Published:** July 25, 2026
 - **Languages:** en
 
-**[👉 Try it now →](https://youmind.com/gpt-image-2-prompts?id=29588)**
+**[👉 Try it now →](https://youmind.com/gpt-image-2-prompts?id=29670)**
 
 ---
 
-### No. 23: Social Media Post - Cinematic Urban Fashion Portrait
+### No. 27: Social Media Post - Minimalist Studio Lifestyle Portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Description
 
-A hyperrealistic street fashion prompt featuring a subject in three distinct poses on wet neon-lit city streets.
+A professional photography prompt for creating a photorealistic lifestyle portrait of a woman in a minimalist studio, featuring soft lighting and an artistic gallery aesthetic.
 
 #### 📝 Prompt
 
 ```
-Ultra-detailed, hyperrealistic 8k cinematic fashion portrait of a {argument name="subject" default="stylish young man in his late 20s with a neatly groomed black beard"}, shown in 3 poses on {argument name="environment" default="glossy rain-washed streets"}. In the first, he sits casually on a low barrier, leaning back with cool composure, neon reflections glowing in puddles. In the second, he walks with effortless swagger across wet pavement, his silhouette mirrored in the glossy surface. In the third, he crouches low with elbows on knees, exuding relaxed urban confidence. He wears {argument name="outfit" default="an oversized black graphic t-shirt, baggy joggers, and crisp white sneakers"}, radiating streetwear minimalism. The cinematic city glows with neon lights, graffiti walls, and dynamic bokeh. Shot on an 85mm f/1.4 lens with shallow depth, soft diffused lighting, and rim highlights, the moody palette makes his outfit blaze vividly against the atmospheric backdrop.
+A photorealistic lifestyle portrait of a {argument name="subject" default="beautiful young woman"} sitting cross-legged on a smooth floor in a modern minimalist studio, smiling softly at the camera. She has long light brown hair styled in a loose side braid with soft face-framing strands, natural glowing skin, subtle makeup, defined brows, warm hazel eyes, and a gentle, confident expression. She wears a {argument name="outfit" default="fitted black ribbed long-sleeve top"}, high-waisted light gray cuffed trousers, and chunky white sneakers. One elbow rests on her knee while her hand lightly touches her head, creating a relaxed editorial pose. Behind her is a {argument name="background" default="large monochrome black-and-white portrait of herself"}, softly blurred, adding depth and an artistic gallery aesthetic. Soft diffused studio lighting, neutral gray tones, shallow depth of field, creamy bokeh, cinematic color grading, luxury fashion editorial, ultra-realistic skin texture, balanced composition, 85mm lens, f/1.8, HDR, 8K, premium magazine photography.
 ```
 
 #### 🖼️ Generated Images
@@ -1549,55 +1696,289 @@ Ultra-detailed, hyperrealistic 8k cinematic fashion portrait of a {argument name
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1784882694995_nt0uq6_HN9lxLWaMAA60jI.jpg" width="600" alt="Social Media Post - Cinematic Urban Fashion Portrait - Image 1">
+<img src="https://cms-assets.youmind.com/media/1784968580785_mp2j4e_HOC7isaaMAEl1IQ.jpg" width="600" alt="Social Media Post - Minimalist Studio Lifestyle Portrait - Image 1">
 </div>
 
 #### 📌 Details
 
-- **Author:** [Duet | AI](https://x.com/Sheldon056)
-- **Source:** [Twitter Post](https://x.com/Sheldon056/status/2080493460348694784)
+- **Author:** [lovimg_com](https://x.com/lovimg_com)
+- **Source:** [Twitter Post](https://x.com/lovimg_com/status/2080869240782078055)
+- **Published:** July 25, 2026
+- **Languages:** en
+
+**[👉 Try it now →](https://youmind.com/gpt-image-2-prompts?id=29684)**
+
+---
+
+### No. 28: Social Media Post - Pastel Manga Selfie Collage
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Description
+
+Generates a six-panel pastel anime manga page of a pink-haired girl taking selfies on a sunny seaside cafe terrace.
+
+#### 📝 Prompt
+
+```
+Goal: Create a bright shoujo manga-style one-page collage showing a cheerful teen idol girl filming social-media selfies on a sunny seaside cafe terrace.
+
+Canvas: Vertical A4 manga page, full color, soft pastel palette, no black panel borders; use six irregular rounded panels separated by thick white gutters, with cute sticker doodles in the margins. High-detail anime illustration, sparkling highlights, airy summer atmosphere, blue sky and ocean visible beyond balcony railings.
+
+Main character: A cute anime girl with {argument name="hair color" default="cotton-candy pink"} twin-tail hair, large pink eyes, small flower hair clips, expressive rosy cheeks, and a lively idol-like personality. She wears a translucent lavender sailor-collar blouse with puffy sleeves, a purple bow at the collar, a layered ruffled short skirt, and a large pale-blue waist ribbon tied in a bow. Keep the same character design consistent in every panel.
+
+Layout: Include exactly 6 panels. Panel 1, large upper-left: close-up selfie angle, the girl holds a pink smartphone decorated with white cherry blossoms toward the viewer, smiling with mouth open on a balcony under a blue sky; sun doodle and small sparkles nearby. Panel 2, upper-right: full-body pose, she stands on one leg and winks while holding a selfie stick with the same phone attached, terrace tables and plants behind her, heart and music-note doodles. Panel 3, middle-left: side view at a small cafe table, she leans forward adjusting or checking the phone on a small tabletop tripod; include a lemon drink with straw; add a speech bubble reading {argument name="speech bubble 1" default="よしっ"}. Panel 4, middle-right: she stands thoughtfully by the balcony with hands near chest, ocean and potted plants behind; add a thought bubble reading {argument name="thought bubble" default="うーん..."} and a small countdown bubble reading {argument name="countdown text" default="3... 2... 1..."}. Panel 5, lower-left: close-up three-quarter view, she smiles and holds the phone while raising one finger as if announcing another take; add a red handwritten speech bubble reading {argument name="speech bubble 2" default="もう一枚!"}, plus tiny beach/palm doodles. Panel 6, lower-right: she sits on the terrace floor or low seat near a table with the lemon drink, winking and making a playful finger pose, ocean view in the background, hearts, flowers, sparkles, and tiny wing doodles.
+
+Visible repeated elements: exactly 6 appearances of the same girl, exactly 3 visible pink smartphone setups or phones held prominently in panels 1, 2, 3, and 5 if partially repeated as the same device; exactly 3 text bubbles with Japanese text plus 1 countdown bubble; include cute doodles such as 3 hearts, 4 flowers, 1 sun, 1 palm tree, 1 music note, 1 winged icon, and small sparkle marks.
+
+Visual style: Highly polished Japanese AI manga illustration, soft watercolor-like lighting, clean line art, pastel lavender and pink color harmony, glossy eyes, delicate fabric transparency and ruffles, warm sunlight, depth of field, cheerful influencer-vlog mood. Avoid realism, avoid dark shadows, avoid extra characters, avoid logos or watermarks.
+```
+
+#### 🖼️ Generated Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1784968637674_sii8q0_HOC5gpEa4AAiQcF.jpg" width="600" alt="Social Media Post - Pastel Manga Selfie Collage - Image 1">
+</div>
+
+#### 📌 Details
+
+- **Author:** [あけび](https://x.com/akebi_mh)
+- **Source:** [Twitter Post](https://x.com/akebi_mh/status/2080867002936447087#reversed-0)
+- **Published:** July 25, 2026
+- **Languages:** en
+
+**[👉 Try it now →](https://youmind.com/gpt-image-2-prompts?id=29744)**
+
+---
+
+### No. 29: Social Media Post - Japanese Night Street Candid Portrait
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Description
+
+A moody, nostalgic candid portrait prompt of a woman on a quiet Japanese city street at night with authentic iPhone-style low-light photography.
+
+#### 📝 Prompt
+
+```
+A candid cinematic night street portrait of a {argument name="subject" default="young woman walking along a quiet urban sidewalk in Japan"}, captured on {argument name="camera" default="an iPhone"}. She has long, wavy dark brown hair with a single thin braid framing one side of her face, soft natural makeup, and a subtle smile while glancing back at the camera. She wears a {argument name="outfit" default="fitted gray sleeveless tank top, light-wash loose straight-leg jeans, and carries a black leather shoulder bag"}. In one shot she playfully raises her hand toward the lens, creating natural foreground motion blur; in another she crouches against a white glossy subway-tiled wall with her chin resting on her hand; in another she looks back over her shoulder while walking. The setting features a dimly lit Japanese city street with tiled walls, crosswalks, utility poles, distant traffic lights, glowing shop signs, apartment buildings, and soft streetlights. {argument name="lighting" default="Warm ambient lighting mixed with cool city lights"} creates a moody, nostalgic atmosphere. Natural skin tones, subtle reflections on the tiled wall, shallow depth of field, realistic shadows, slight digital grain, soft bokeh, authentic smartphone low-light photography, spontaneous lifestyle aesthetic, minimal color grading, quiet midnight city vibe, documentary style, ultra-realistic, 35mm equivalent lens, vertical 9:16 composition.
+```
+
+#### 🖼️ Generated Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1784968571854_uvbcy8_HOC1zupbgAApv-a.jpg" width="600" alt="Social Media Post - Japanese Night Street Candid Portrait - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1784968573895_xw25xg_HOC1zuza8AApcFT.jpg" width="600" alt="Social Media Post - Japanese Night Street Candid Portrait - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1784968572008_9ajmsl_HOC1zucaoAEkA47.jpg" width="600" alt="Social Media Post - Japanese Night Street Candid Portrait - Image 3">
+</div>
+
+#### 📌 Details
+
+- **Author:** [Sairah](https://x.com/Sairah_0)
+- **Source:** [Twitter Post](https://x.com/Sairah_0/status/2080862938160595021)
+- **Published:** July 25, 2026
+- **Languages:** en
+
+**[👉 Try it now →](https://youmind.com/gpt-image-2-prompts?id=29680)**
+
+---
+
+### No. 30: Social Media Post - Photorealistic Person with Ink-Twin Doodle
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Description
+
+A creative prompt generating a photorealistic person standing beside their chaotic charcoal sketch silhouette on a minimal wall.
+
+#### 📝 Prompt
+
+```
+Use the uploaded photo as the exact identity reference. Keep the face, skin tone, hairstyle, accessories, and outfit exactly the same. Create a vertical full-body image of the real person standing beside their {argument name="twin type" default="ink-twin doodle"}. The real person should look photorealistic with a {argument name="expression" default="playful, slightly embarrassed expression"} and a natural pose. The ink twin should be a {argument name="sketch style" default="rough black charcoal sketch"} on a clean white or light gray wall, matching the person's hairstyle, outfit, and pose only as a silhouette, but with exaggerated, chaotic energy. Add a few simple doodle effects like motion lines, stars, or hearts. Use soft natural daylight with a clean minimal background. Do not change the person's appearance or outfit. Do not make the twin a real person, colored cartoon, or flat shadow. Avoid repeated poses, bad hands, extra limbs, clutter, text, or watermarks.
+```
+
+#### 🖼️ Generated Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1784968568873_y5t7xx_HOCyVGCWMAAfg1q.jpg" width="600" alt="Social Media Post - Photorealistic Person with Ink-Twin Doodle - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1784968569416_51mp9c_HOCyVzWXIAAFi16.jpg" width="600" alt="Social Media Post - Photorealistic Person with Ink-Twin Doodle - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1784968568892_0j6mce_HOCyWaCXYAAxn7g.jpg" width="600" alt="Social Media Post - Photorealistic Person with Ink-Twin Doodle - Image 3">
+</div>
+
+##### Image 4
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1784968570118_rd75im_HOCyXBJWwAAGtjP.jpg" width="600" alt="Social Media Post - Photorealistic Person with Ink-Twin Doodle - Image 4">
+</div>
+
+#### 📌 Details
+
+- **Author:** [𝗦𝗮𝗻𝗶𝗮](https://x.com/saniaspeaks_)
+- **Source:** [Twitter Post](https://x.com/saniaspeaks_/status/2080859150620279165)
+- **Published:** July 25, 2026
+- **Languages:** en
+
+**[👉 Try it now →](https://youmind.com/gpt-image-2-prompts?id=29677)**
+
+---
+
+### No. 31: Social Media Post - Monochrome Surreal Obsidian Monolith
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Description
+
+A surreal monochrome editorial portrait with floating obsidian elements and impossible spatial distortion.
+
+#### 📝 Prompt
+
+```
+A striking monochrome editorial portrait suspended inside a massive floating {argument name="monolith material" default="obsidian"} monolith with impossible spatial distortion. The rectangular frame appears sliced into multiple layers drifting independently while remaining physically connected in impossible ways. Tiny floating dust particles catch {argument name="lighting" default="cinematic studio lighting"}. Deep matte textures, brutalist luxury aesthetic, dramatic contrast, premium fashion magazine cover style, perfectly centered composition, ultra-realistic skin pores, {argument name="lens type" default="85mm"} portrait lens, impossible dimensional illusion, surreal architecture meets fine art photography.
+```
+
+#### 🖼️ Generated Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1784968584555_dr03og_HOCyTaebwAAyVko.jpg" width="600" alt="Social Media Post - Monochrome Surreal Obsidian Monolith - Image 1">
+</div>
+
+#### 📌 Details
+
+- **Author:** [lovimg_com](https://x.com/lovimg_com)
+- **Source:** [Twitter Post](https://x.com/lovimg_com/status/2080859082387530085)
+- **Published:** July 25, 2026
+- **Languages:** en
+
+**[👉 Try it now →](https://youmind.com/gpt-image-2-prompts?id=29689)**
+
+---
+
+### No. 32: Infographic / Edu Visual - Nested Picture-in-Picture Software UI
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Description
+
+A complex prompt used to test the rendering depth and detail of GPT Image 2, featuring a software editor nested within a chat app and artwork.
+
+#### 📝 Prompt
+
+```
+Generate a 'picture-in-picture' image with visual depth. The outermost layer is a realistic {argument name="programming interface" default="VSCode programming interface"}, nested with a {argument name="app name" default="Qwen App"} chat interface. In the chat, I am sending a message saying: '{argument name="request content" default="help me generate a hand-brewed coffee poster"}'. The app replies with an exquisite coffee poster, which is also clearly displayed in the chat interface. Each UI layer must maintain realistic style and detail, with clear micro-details like time digits and button text.
+```
+
+#### 🖼️ Generated Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1784968585723_khtl4f_HN-ydubbcAAPs_n.png" width="600" alt="Infographic / Edu Visual - Nested Picture-in-Picture Software UI - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1784968585713_69f1jf_HN-yelfakAAjQN9.png" width="600" alt="Infographic / Edu Visual - Nested Picture-in-Picture Software UI - Image 2">
+</div>
+
+#### 📌 Details
+
+- **Author:** [比特小师妹｜KiKi](https://x.com/bit_sister)
+- **Source:** [Twitter Post](https://x.com/bit_sister/status/2080577815376957798)
+- **Published:** July 24, 2026
+- **Languages:** zh
+
+**[👉 Try it now →](https://youmind.com/gpt-image-2-prompts?id=29690)**
+
+---
+
+### No. 33: Infographic / Edu Visual - AI Model Routing Comparison Infographic
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Description
+
+A square social media infographic comparing chaotic all-GPT usage with smart task-based AI model routing.
+
+#### 📝 Prompt
+
+```
+Create a square 1:1 dark futuristic tech infographic for social media comparing two AI workflow approaches. Canvas: 768x768 or similar, deep navy-to-black background with subtle dotted grid texture and a vertical split down the center. At the top, place a huge bold uppercase headline: “STOP USING GPT FOR {argument name="headline word" default="EVERYTHING"}.” The words “STOP USING GPT FOR” are white, and the final word is a left-to-right gradient from lime green to cyan-blue, with a cyan period. Use a clean heavy sans-serif font, high contrast, crisp vector-like rendering.
+
+Layout: two side-by-side columns. Left column is labeled as the bad workflow, right column as the improved workflow. The left side has a red/pink theme with a pill label reading “THE OLD WAY,” a small subtitle “WASTE MONEY,” and a central rounded-square GPT/OpenAI-style knot icon. Around it are exactly 5 smaller rounded-square task icons connected by messy red dashed routing lines: 1 video clapper/play icon at upper center, 2 design pen-nib/Bezier icon at left, 3 microphone icon at right, 4 image/photo icon at lower left, 5 code brackets icon at lower right. The messy dashed lines loop and cross, showing chaos.
+
+Right column has a teal/blue theme with a pill label reading “THE SMART WAY,” a small subtitle “ROUTE TO THE BEST MODEL,” and a central rounded-square robot router icon. Connect it with clean glowing solid lines to exactly 5 model cards: 1 top card with OpenAI knot icon labeled “GPT 5.6” and “DESIGN,” 2 left purple card with code brackets labeled “{argument name="coding model" default="FABLE"}” and “CODE (HARD),” 3 right blue card with clapper/play icon labeled “{argument name="video model" default="SEEDANCE 2.0"}” and “VIDEO,” 4 bottom-left gold card with image icon labeled “{argument name="image model" default="GPT 2.0"}” and “IMAGE,” 5 bottom-right blue card with microphone icon labeled “{argument name="voice model" default="HUME"}” and “VOICE.” Use rounded glassmorphism cards with neon outlines and soft glow.
+
+Bottom callouts: under the left column, place a red outlined rounded status bar with a red X icon and text “EXPENSIVE. CHAOTIC. INEFFICIENT.” Under the right column, place a teal/green outlined rounded status bar with a green check icon and text “SMARTER. CHEAPER. BETTER RESULTS.” Keep all text legible, centered, and aligned. Use strong contrast, modern SaaS marketing style, subtle gradients, neon highlights, no extra logos, no watermark, no additional text beyond the specified labels.
+```
+
+#### 🖼️ Generated Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1784968621801_6us4oy_HN-G6P2aIAA3uDd.jpg" width="600" alt="Infographic / Edu Visual - AI Model Routing Comparison Infographic - Image 1">
+</div>
+
+#### 📌 Details
+
+- **Author:** [codemarch](https://x.com/codemarch)
+- **Source:** [Twitter Post](https://x.com/codemarch/status/2080529891733504505#reversed-0)
 - **Published:** July 24, 2026
 - **Languages:** en
 
-**[👉 Try it now →](https://youmind.com/gpt-image-2-prompts?id=29582)**
+**[👉 Try it now →](https://youmind.com/gpt-image-2-prompts?id=29725)**
 
 ---
 
-### No. 24: Social Media Post - White Street Fashion on Concrete Stairs
+### No. 34: Infographic / Edu Visual - Footballer Then vs Now Transformation
 
-![Language-JA](https://img.shields.io/badge/Language-JA-blue)
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Description
 
-A detailed fashion portrait prompt for a woman in white attire standing on urban concrete stairs under a bright blue sky, emphasizing realistic textures and low-angle composition.
+A split-screen prompt that generates a nostalgic childhood portrait and a modern adult version of the same person, showing the passage of time.
 
 #### 📝 Prompt
 
 ```
-Subject Theme:
-{argument name="theme" default="Gaze Clad in White"}
-
-Subject:
-A full-body fashion portrait of a mature woman standing in the center of {argument name="background" default="concrete stairs of an urban facility under a blue sky"}. The figure occupies about 80% of the screen, standing in a dignified pose with legs wide apart, quietly looking down at a low-positioned camera.
-
-Person/Expression:
-Natural and realistic features. Mature, soft body lines and balanced proportions. Dark brown medium-long hair with thin see-through bangs and light layers around the face. Ends and a few stray hairs blow to the right. Elegant Japanese-style makeup based on coral beige. Delicate eyeliner, natural tear bags, and sheer pink-beige lips. Chin slightly raised, gaze calm with eyelids slightly lowered.
-
-Clothing/Pose:
-{argument name="clothing" default="White thin-strap V-neck ribbed camisole"}. Natural depth at the chest with a clean silhouette that follows the body. An ultra-thin translucent white blouson is lightly draped over the shoulders, sleeves billowing in the wind. Bottoms are high-waisted white shorts with small ruffles and thin drawcords. Paired with white loose socks and platform sneakers. Right leg placed in the front-left, left leg in the back-right, with a slight twist of the waist and weight on the back leg. Shoulders relaxed, arms down naturally.
-
-Background/Lighting:
-Outdoor passage reminiscent of a modern public facility or multi-story parking lot. High exposed concrete wall on the right, metal fence, streetlamp, and low passage entrance on the left. Signboard text is blurred. Deep blue cloudless sky. Strong direct sunlight from the upper left creates bright highlights on the face, shoulders, chest, thighs, and shins. Crisp shadows of the figure and streetlamp fall to the lower right of the wall, with weak gray reflected light from the concrete filling the inner legs.
-
-Composition/Camera:
-Vertical 3:4. Bold low-angle view from near the bottom of the stairs. 24-28mm wide-angle feel emphasizing long legs while keeping head and toes in frame. Face at upper center, waist at center, sneakers near bottom. Large wall area on the right, geometric composition with blue sky and gray architecture intersecting diagonally. Precise focus on eyes and face, background slightly softened.
-
-Texture/Style:
-Realistic outdoor photo like those in summer fashion magazines. Carefully depicts skin with natural pores and texture, transparency of thin nylon, fine ridges of ribbed fabric, and dry concrete texture. High-contrast color scheme centered on blue, white, and light gray. Sharp outlines avoiding excessive HDR or skin blurring, conveying strong sunlight and air clarity.
-
-Negative:
-Underage-looking person, unnatural face, unnatural body shape, extra fingers, missing fingers, fused limbs, broken joints, mismatched shoes, clothing clipping, incorrect perspective, inconsistent shadows, readable text, logos, watermarks, over-processed skin, plastic-like skin.
+Create a realistic vertical split-screen "Then vs Now" transformation featuring the same famous {argument name="athlete" default="football player"}. The composition is divided into two stacked sections. Top panel: a warm nostalgic childhood portrait set in the player's family home during their birth year (display the year in clean white text on the left, e.g. "{argument name="birth year" default="1985"}"). The child sits naturally facing the camera wearing a simple white T-shirt, soft golden sunlight streaming through a nearby window, authentic 90s/80s home interior, subtle film grain, warm Kodak color grading, emotional and cinematic. Bottom panel: the same person recreated as their present-day adult self in 2026, maintaining recognizable facial structure and identity, wearing a plain white oversized T-shirt inside a modern café with warm ambient lighting and shallow depth of field. Place a small rounded-corner reference portrait of the player in their national team jersey at the bottom-right corner. Match the pose, eye direction, framing, and expression between the child and adult versions to emphasize the passage of time. Hyper-realistic skin, natural facial evolution, consistent identity, cinematic photography, editorial quality, soft depth of field, 85mm lens, ultra-detailed, photorealistic, 8K, masterpiece.
 ```
 
 #### 🖼️ Generated Images
@@ -1605,151 +1986,57 @@ Underage-looking person, unnatural face, unnatural body shape, extra fingers, mi
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1784882706814_ryec20_HNwBodXaIAA1IqH.jpg" width="600" alt="Social Media Post - White Street Fashion on Concrete Stairs - Image 1">
-</div>
-
-#### 📌 Details
-
-- **Author:** [Prompt アトリエ｜AI画像プロンプト](https://x.com/CyberTotal2026)
-- **Source:** [Twitter Post](https://x.com/CyberTotal2026/status/2080490402994425864)
-- **Published:** July 24, 2026
-- **Languages:** ja
-
-**[👉 Try it now →](https://youmind.com/gpt-image-2-prompts?id=29592)**
-
----
-
-### No. 25: Social Media Post - Summer Uniform Portrait on Pedestrian Bridge
-
-![Language-JA](https://img.shields.io/badge/Language-JA-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Description
-
-A comprehensive Japanese prompt for a realistic summer portrait of a woman in a school uniform leaning on a bridge railing, with detailed lighting and texture instructions.
-
-#### 📝 Prompt
-
-```
-Subject:
-{argument name="title" default="Waiting for the Summer Sound"}
-
-Main Subject:
-3:4 vertical. In a residential summer street on a pedestrian bridge, a {argument name="age" default="20-something woman"} stands with a guitar case beside her, positioned slightly right of center. The person occupies about 70% of the screen, with a black soft guitar case leaning from the bottom left toward the center.
-
-Character & Expression:
-A natural and realistic woman. Long dark brown straight hair with light see-through bangs and thin layers around the face. The hair flows below the chest, falling naturally over the front of the right shoulder. Light rose-toned makeup, natural tear bags, delicate eyelashes, and pale pink-beige lips. The face is tilted slightly to the left, leaning forward as she gazes quietly at the camera. The expression is calm, but with a hint of softness at the corners of the mouth.
-
-Clothing & Pose:
-{argument name="clothing style" default="A light Japanese summer school style"}. The white short-sleeved shirt is made of thin cotton with a natural texture that isn't too sheer. A small navy ribbon at the chest. Fine grey and navy checkered pleated skirt, white rib socks, and black loafers. The left hand reaches back to lightly grip the top of a metal railing. The body leans forward from shoulder to waist, with weight on the right leg. The opposite leg is bent deeply at the knee, with toes lifted behind toward the inside of the axis leg. The flow of waist, knee, and ankle connects naturally, with the skirt pleats spreading slightly along the pose.
-
-Background & Light:
-A pedestrian bridge in a summer Japanese residential area. In the foreground, white-painted metal railings and a black guitar case placed at the bottom left. Mid-ground shows a narrow local road, low-rise housing, utility poles, shrubbery, and a bicycle parking area. Background features pale grey apartment buildings and a summer blue sky. Signboards and displays are blurred in the distance with illegible text. The main light source is summer sunlight from the upper left. Bright outlines appear on the person's hair, shoulders, arms, and outer legs, with weak reflected light from the railing onto the shirt and legs. Shadows fall toward the lower right, with dappled sunlight creating irregular patterns on the sidewalk.
-
-Composition & Camera:
-3:4 vertical full-body portrait. Camera position is roughly eye-level from slightly below waist height. The subject is slightly right of center, with the guitar case extending vertically from the bottom left, mirroring the diagonal line of the body. A bit of blue sky margin is left above the head, capturing the feet completely. Depth is created using the horizontal lines and vertical grids of the railing, with the background road narrowing toward the center. Focus is on the subject's eyes and face, with the background softly blurred using a natural shallow depth of field. Natural compression equivalent to a 50mm lens.
-
-Texture & Style:
-High-definition realistic photography. Maintaining the dry summer air and strong sunlight, the skin is not excessively whitened, leaving natural complexion and fine texture. Meticulous depiction of each hair strand, the weave of the thin shirt, the folds of the pleats, the nylon material of the guitar case, and reflections on the metal railing. The overall tone is bright and transparent, avoiding blown-out highlights while settling the contrast between green and navy. Finished like a summer school uniform snap in a magazine.
-
-Negative:
-Looking underage, unnatural face, unnatural gaze, extra fingers, missing fingers, fused limbs, joint failure, incorrect bent leg direction, poor contact with railing, floating guitar case, unnatural skirt deformation, incorrect perspective, shadows inconsistent with light source, excessive transparency, excessive skin retouching, plastic-like skin, garbled text, logos, watermarks.
-```
-
-#### 🖼️ Generated Images
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1784882713054_9e1nu0_HNwBEkLawAEr5xC.jpg" width="600" alt="Social Media Post - Summer Uniform Portrait on Pedestrian Bridge - Image 1">
-</div>
-
-#### 📌 Details
-
-- **Author:** [Prompt アトリエ｜AI画像プロンプト](https://x.com/CyberTotal2026)
-- **Source:** [Twitter Post](https://x.com/CyberTotal2026/status/2080461713707585600)
-- **Published:** July 24, 2026
-- **Languages:** ja
-
-**[👉 Try it now →](https://youmind.com/gpt-image-2-prompts?id=29601)**
-
----
-
-### No. 26: Social Media Post - East Asian Woman in Modern Kitchen Portrait
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Description
-
-A highly detailed portrait prompt for generating a photorealistic East Asian woman in a bright, modern kitchen setting, emphasizing natural textures and soft lighting.
-
-#### 📝 Prompt
-
-```
-A young adult {argument name="ethnicity" default="East Asian woman"} standing in a bright {argument name="setting" default="modern kitchen"}, half-length to three-quarter composition, centered, body slightly turned to the left, leaning against a white kitchen counter. One hand rests naturally on the edge, the other arm is relaxed, shoulders down, facing the camera with a gentle natural smile, looking kind, relaxed, and quiet. She has a soft and delicate oval face, almond-shaped dark brown eyes, natural thin eyebrows, a slender nose, and light coral pink lips. Minimal makeup, only natural eyelashes, slight eyeliner, and soft blush. Fair and warm skin tone, retaining real pores, fine vellus hair, natural color variations, and soft highlights—no plastic airbrushing. She has medium-length dark brown slightly curly hair, fluffy and natural, with strands falling lightly near her face, shoulders, and collarbone, including a few messy stray hairs. Wearing small earrings and a simple thin necklace. Clothing is a {argument name="clothing" default="white loungewear camisole top"}, thin straps, soft cotton or elastic fabric, V-neck, tight but natural; bottom is white high-waisted home shorts with a light yellow edge. Layered with a thin white shirt or blouse loosely draped over her arms and shoulders, the fabric has slight wrinkles and a breathable feel, overall refreshing, clean, and lifestyle-oriented. The background is a bright and warm family kitchen with a large window and soft window light on the left, small potted plants on the windowsill; yellow flowers, olives or fruit bowls, and glass bottles on the counter; white cabinets, light-colored tiles, stove, cookware, and a few kitchen supplies visible behind. Clean environment with a lived-in feel but not cluttered. Lighting is natural window sunlight softly entering from the left, creating a bright high-key, low-saturation, low-contrast effect. Overall color palette is dominated by cream white, warm beige, light wood, soft yellow, and natural skin tones. Photography style: 85mm portrait lens, f/1.8, shallow depth of field, clear eyes and face, naturally blurred background, real photographic texture, slight film grain, Japanese lifestyle editorial, photorealistic. Avoid: Cartoon, CG, excessive skin smoothing, exaggerated body proportions, incorrect fingers, deformed arms, overexposure, strong HDR, over-sharpening, cluttered kitchen, text, watermarks, Logos.
-```
-
-#### 🖼️ Generated Images
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1784882698651_b1yf17_HN8pDgcWYAAcEKy.png" width="600" alt="Social Media Post - East Asian Woman in Modern Kitchen Portrait - Image 1">
+<img src="https://cms-assets.youmind.com/media/1784968608599_9mwebb_HN9c4OcawAAaAke.jpg" width="600" alt="Infographic / Edu Visual - Footballer Then vs Now Transformation - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1784882698661_hjg58p_HN8pDgKXIAAODA5.png" width="600" alt="Social Media Post - East Asian Woman in Modern Kitchen Portrait - Image 2">
+<img src="https://cms-assets.youmind.com/media/1784968608558_unl7wa_HN9c5JNaIAA3bXx.jpg" width="600" alt="Infographic / Edu Visual - Footballer Then vs Now Transformation - Image 2">
 </div>
 
 #### 📌 Details
 
-- **Author:** [ToroJushiAi](https://x.com/ToroJushiAi)
-- **Source:** [Twitter Post](https://x.com/ToroJushiAi/status/2080457938523857134)
+- **Author:** [Taaruk](https://x.com/Taaruk_)
+- **Source:** [Twitter Post](https://x.com/Taaruk_/status/2080483701486714957)
 - **Published:** July 24, 2026
-- **Languages:** zh
+- **Languages:** en
 
-**[👉 Try it now →](https://youmind.com/gpt-image-2-prompts?id=29587)**
+**[👉 Try it now →](https://youmind.com/gpt-image-2-prompts?id=29712)**
 
 ---
 
-### No. 27: Social Media Post - Summer Fashion with Strawberry Popsicle
+### No. 35: Infographic / Edu Visual - Japanese Pediatric Disease Infographic
 
-![Language-JA](https://img.shields.io/badge/Language-JA-blue)
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Description
 
-A vibrant summer fashion portrait prompt of a woman holding an ice cream popsicle in a sunny flower field under a blue sky.
+A cute Japanese clinic flyer explaining hand-foot-and-mouth disease and herpangina for parents.
 
 #### 📝 Prompt
 
 ```
-Subject:
-{argument name="title" default="A Bite in the Flower Field"}
+Goal: Create a friendly Japanese medical explanation infographic for parents about {argument name="topic title" default="手足口病とヘルパンギーナ"}, suitable for use in a pediatric clinic consultation room.
 
-Main Subject:
-A full-body fashion portrait of a {argument name="age" default="20-something woman"} leaning forward slightly left of center, holding a {argument name="item" default="pink popsicle"} in a small flower field under a blue sky. The person occupies about 70% of the screen, with wide empty sky remaining on the right and top.
+Canvas: Vertical portrait flyer, warm off-white paper background, soft hand-drawn watercolor style, rounded corners, pastel colors, clear black handwritten Japanese text. Add small decorative confetti marks around the title. Overall look should be cute, reassuring, and easy to understand.
 
-Character & Expression:
-Natural female impression. Glossy black hair reaching to the waist, with bangs and thin strands around the face lightly touching the cheeks. Transparent natural makeup, thin eyeliner, pale coral blush, and natural glossy lips. Turning her face to the right while returning her gaze to the camera with a slightly relaxed, playful expression. A neat and healthy adult model physique.
+Layout: Use exactly 5 stacked rounded rectangular information panels, each with a large numbered circle on the left. Panel 1 has a pink border, panel 2 blue, panel 3 yellow-orange, panel 4 green, panel 5 orange with a scalloped decorative border. Keep generous margins and make all text large and legible.
 
-Clothing & Pose:
-A halter neck top in a light knit material with a textured feel, mixing pink and pale orange. Faded light blue denim shorts, white rib socks, white low-top sneakers, small silver earrings, and a thin necklace. Leaning the upper body forward, naturally bending at the waist and knees. Holding the popsicle stick with her right hand, bringing it near her mouth. The left arm extends downward, resting her left hand lightly near her left knee. Weight is shifted to one leg, expressing natural gravity in the clothing wrinkles and hair fall.
+Title: At the top, write 「手足口病とヘルパンギーナ」 in large dark brown handwritten lettering with a pink wavy underline.
 
-Background & Light:
-In the foreground, pink and white cosmos flowers are heavily blurred; mid-ground shows green grassland and small flowers; background features a low, blurred cityscape. About two-thirds of the background is occupied by a bright blue sky and large white cumulus clouds. Soft daylight shines from the upper right, brightly illuminating the right side of the face, shoulders, arms, and legs. Subtle shadows remain on the left, with slight green reflected light from the grass and flowers on the lower legs.
+Panel 1, number 1, pink: Write 「手・足・口に小さな水疱、おしりにも」. Include exactly 4 medical illustrations in a row: an open palm with small red blisters, a sole of a foot with small red blisters, an open mouth/throat with red spots, and a diapered bottom/thigh area with red spots. At the bottom add a small sun icon and the note 「夏〜秋に小さい子に多い」.
 
-Composition & Camera:
-3:4 vertical orientation. A slight low-angle shot from a position close to the ground. A wide-angle feel equivalent to 24-28mm captures everything from feet to sky. The head is at the top center, feet near the bottom edge, with the body's diagonal line flowing from bottom left to top right. Focus is on the subject's eyes and the popsicle, with foreground flowers and distant buildings softly blurred.
+Panel 2, number 2, blue: Write 「原因はコクサッキーウイルス」 and smaller text 「ありふれたかぜのウイルス」. On the right draw exactly 1 cute round blue virus mascot with tiny spikes, eyes, a smiling mouth, and small motion lines.
 
-Texture & Style:
-Bright and clean summer fashion photography. Leaves natural skin texture, avoiding excessive retouching. Faint film grain, slightly blown-out highlights, and transparent blue and pink tones. A light and realistic finish, somewhere between a magazine snap and a compact digital camera photo.
+Panel 3, number 3, yellow-orange: Show a simple Venn diagram with exactly 2 overlapping large translucent circles: left circle pink, right circle light blue, overlap pale green. Left circle text: 「のどの奥に白い水疱→ヘルパンギーナ」. Right circle text: 「手のひら・足のうらに発疹→手足口病」. Under the circles write: 「原因ではなく『どこに出たか』でつけた病名。ヘルパンギーナでも全身に発疹が出ることがあり、厳密には区別できない」.
 
-Negative:
-Looking underage, unnatural face, unnatural gaze, extra fingers, missing fingers, fused limbs, joint failure, poor contact with ice cream, unnatural gravity, extreme body deformation, exposed underwear, shadows inconsistent with light source, garbled text, logos, watermarks, excessive skin retouching, plastic-like skin.
+Panel 4, number 4, green: Write 「特効薬なし・対症療法」 and smaller text 「約1週間で治る」. Include exactly 4 supportive-care illustrations: a glass of water, a sleeping child tucked in bed, a digital thermometer showing 36.6°C, and a smiling child in a green striped shirt raising one fist.
+
+Panel 5, number 5, orange: Headline in large orange text: 「登園の目安」. List exactly 2 numbered conditions: 「① 熱がない」 and 「② 普通にご飯が食べられる」. Add a large emphasized orange message: 「発疹が残っていても 普通の生活・登園OK」. Smaller explanatory text at the bottom: 「ウイルスは治った後も長く出続けるので、発疹が消えるまで待つ意味はありません」. On the right draw a cheerful preschool child wearing a yellow hat, blue backpack, striped shirt, blue shorts, and sneakers, running or waving toward a small school building with flowers.
+
+Constraints: Use exactly 5 numbered panels and the exact Japanese text above. Do not add extra sections, extra medical claims, logos, watermarks, QR codes, or English translations. Keep the illustration soft, pediatric, non-scary, and clinically clear.
 ```
 
 #### 🖼️ Generated Images
@@ -1757,234 +2044,21 @@ Looking underage, unnatural face, unnatural gaze, extra fingers, missing fingers
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1784882714055_s3jssh_HN6VCeia4AAHrYC.jpg" width="600" alt="Social Media Post - Summer Fashion with Strawberry Popsicle - Image 1">
+<img src="https://cms-assets.youmind.com/media/1784968627734_0qz5xi_HN8obTgbsAAu4dF.jpg" width="600" alt="Infographic / Edu Visual - Japanese Pediatric Disease Infographic - Image 1">
 </div>
 
 #### 📌 Details
 
-- **Author:** [Prompt アトリエ｜AI画像プロンプト](https://x.com/CyberTotal2026)
-- **Source:** [Twitter Post](https://x.com/CyberTotal2026/status/2080445103932649638)
-- **Published:** July 24, 2026
-- **Languages:** ja
-
-**[👉 Try it now →](https://youmind.com/gpt-image-2-prompts?id=29603)**
-
----
-
-### No. 28: Social Media Post - East Asian Woman Seaside Portrait
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Description
-
-A high-end editorial portrait prompt for an East Asian woman at the seaside, focusing on natural wind-blown hair, soft backlighting, and realistic skin texture.
-
-#### 📝 Prompt
-
-```
-A young adult {argument name="ethnicity" default="East Asian woman"} standing at the {argument name="seaside" default="beach"}, close-up to half-length portrait, subject slightly right of center, head slightly turned left, eyes looking into the upper left distance, not directly at the camera, showing a natural gentle smile with teeth slightly visible, look refreshing, bright, and relaxed. She has a soft delicate oval face, almond-shaped dark brown eyes, natural thin eyebrows, a slender nose, and light coral pink lips. Makeup is very light, only natural lashes, slight eyeliner, and soft blush. Fair warm skin tone, retaining real pores, fine vellus hair, natural color variations, and soft highlights—no plastic airbrushing. She has deep black long hair, naturally loose, voluminous with slight waves. A sea breeze blows from the left, lifting strands of hair, some across her cheeks, forehead, and shoulders, maintaining a sense of real weight and random disorder. She wears a {argument name="top" default="white thin embroidered gauze top or blouse"}, V-shaped overlapping neckline, semi-transparent but modest, soft and flowy fabric, loose sleeves, with delicate white floral embroidery texture. Wearing a short white pearl necklace, right hand lightly resting near the neck or necklace, with a small pearl bracelet on the wrist. Accessories are delicate but not exaggerated. Background is a bright seaside, with softly blurred waves, sea surface reflections, and distant mountains or coastline. Sky is a light grey-blue, sunlight bright but soft, overall high-key exposure, low saturation, low contrast, colors dominated by white, light blue-grey, seawater silver-grey, and natural skin tones. Lighting is natural seaside sunlight, with slight backlighting and side lighting, creating soft highlights on hair edges, facial contours, shoulders, and the white gauze dress. Photography style: 85mm portrait lens, f/1.8, shallow depth of field, clear eyes and face, softly blurred background, realistic seaside lifestyle photography, slight film grain, photorealistic, ultra realistic, natural skin texture. Avoid: Cartoon, CG, illustration, excessive skin smoothing, heavy makeup, exaggerated smiles, incorrect fingers, deformed arms, overexposure to the point of losing detail, strong HDR, over-sharpening, cluttered background, text, watermarks, Logos.
-```
-
-#### 🖼️ Generated Images
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1784882699524_8857az_HN8O-7pWYAA9V8o.jpg" width="600" alt="Social Media Post - East Asian Woman Seaside Portrait - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1784882699539_vsv5q7_HN8O-7hXAAAaDQR.jpg" width="600" alt="Social Media Post - East Asian Woman Seaside Portrait - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1784882699559_wswm6v_HN8O-9VXQAAPMFk.jpg" width="600" alt="Social Media Post - East Asian Woman Seaside Portrait - Image 3">
-</div>
-
-##### Image 4
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1784882701042_59sl1s_HN8O-9WWUAApv6Z.jpg" width="600" alt="Social Media Post - East Asian Woman Seaside Portrait - Image 4">
-</div>
-
-#### 📌 Details
-
-- **Author:** [ToroJushiAi](https://x.com/ToroJushiAi)
-- **Source:** [Twitter Post](https://x.com/ToroJushiAi/status/2080442843135365262)
-- **Published:** July 24, 2026
-- **Languages:** zh
-
-**[👉 Try it now →](https://youmind.com/gpt-image-2-prompts?id=29593)**
-
----
-
-### No. 29: Social Media Post - Realistic Seawater Portrait Photography
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Description
-
-A detailed prompt for creating a realistic lifestyle photograph of a young woman in shallow seawater, focusing on natural skin textures, water droplets, and soft daylight lighting.
-
-#### 📝 Prompt
-
-```
-A young adult {argument name="ethnicity" default="East Asian woman"} standing in shallow seawater, half-body close-up composition, centered in the frame, facing the camera with relaxed shoulders and arms submerged in water up to the upper abdomen or lower chest. She has a calm, natural, and confident expression, looking slightly at the camera with lips naturally closed. She has a slender, well-proportioned figure, and long, slightly wet {argument name="hair color" default="deep black hair"} flowing naturally, with some strands clinging to her neck and collarbone. Delicate facial features, light makeup, fair and warm skin tone, retaining real pores, fine texture, water droplets, wet highlights, and natural skin variations, without artificial skin smoothing.
-She is wearing a {argument name="swimwear style" default="white one-piece swimsuit"} with a deep V-neckline, thin black straps, and black edging. The fabric is form-fitting but natural, with clear water droplets on her chest and upper body. She wears a thin necklace with a small pendant.
-The background is a softly blurred sea surface with small ripples, a high horizon line, and a bright grayish-blue sky with no strong colors. The overall lighting is natural daylight, low saturation, low contrast, with slight film grain, reflecting authentic seaside lifestyle photography.
-Avoid: Cartoon, CG feel, exaggerated body proportions, incorrect fingers, over-smoothed skin, heavy makeup, strong HDR, overly vivid seawater, cluttered background, text, watermarks, or logos.
-```
-
-#### 🖼️ Generated Images
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1784882710769_mpbsnb_HN8N3umXEAAmx8v.png" width="600" alt="Social Media Post - Realistic Seawater Portrait Photography - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1784882710766_mmud6m_HN8N3uvXgAAPX7D.png" width="600" alt="Social Media Post - Realistic Seawater Portrait Photography - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1784882710774_n2lqxq_HN8N3u0WoAI5fQM.png" width="600" alt="Social Media Post - Realistic Seawater Portrait Photography - Image 3">
-</div>
-
-##### Image 4
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1784882711863_dm9pjr_HN8N3vqX0AE89Uo.png" width="600" alt="Social Media Post - Realistic Seawater Portrait Photography - Image 4">
-</div>
-
-#### 📌 Details
-
-- **Author:** [ToroJushiAi](https://x.com/ToroJushiAi)
-- **Source:** [Twitter Post](https://x.com/ToroJushiAi/status/2080427743787839769)
+- **Author:** [りりぃ🌸 小児科医 × Webコーダー](https://x.com/lilychaco)
+- **Source:** [Twitter Post](https://x.com/lilychaco/status/2080426338159403074#reversed-0)
 - **Published:** July 23, 2026
-- **Languages:** zh
+- **Languages:** en
 
-**[👉 Try it now →](https://youmind.com/gpt-image-2-prompts?id=29599)**
-
----
-
-### No. 30: Social Media Post - Cinematic East Asian Woman Lifestyle Portrait
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Description
-
-A detailed prompt for generating a natural lifestyle portrait of a young East Asian woman on a bridge, focusing on realistic textures, lighting, and cinematic camera composition.
-
-#### 📝 Prompt
-
-```
-A young adult {argument name="gender" default="East Asian woman"} standing in front of an outdoor small bridge or river railing, with almost her full body in the frame. The subject is centered, body slightly turned, with a relaxed and natural posture: legs naturally crossed, leaning slightly against the railing; one hand hanging naturally by her side, the other gently raised to her neck or playing with her hair. Head tilted slightly, facing the camera with a gentle and natural smile, appearing friendly, quiet, and relaxed.
-
-She has a slender and elegant figure, with long straight black hair falling naturally over her shoulders and back, smooth with a touch of natural volume. Delicate features, light makeup, fair warm skin tone, preserving real pores, fine textures, and natural highlights, avoiding any plastic smoothing. Wearing a small, simple necklace.
-
-Her outfit consists of a {argument name="clothing" default="white cropped camisole top"} with thin straps, lace trim at the neckline, a small floral print, a drawstring or tie in the center front, and a ruffled hem; paired with light blue slim-fit flared jeans or fitted trousers with a low waist; wearing white flip-flop sandals.
-
-The background is a {argument name="background" default="quiet river or canal"}, with black metal railings in the foreground. In the distance are green trees, pink flowers, riverbanks, low-rise residences or villas, under an overcast grey-blue sky. The overall color tone is low saturation and low contrast, with soft natural light and no harsh shadows. Photography style is a daily lifestyle portrait, 85mm lens, shallow depth of field, sharp subject with moderately blurred background, authentic photographic quality, and slight film grain.
-
-Avoid: Cartoon, CG feel, excessive skin smoothing, exaggerated body proportions, incorrect fingers, deformed limbs, strong HDR, over-sharpening, cluttered backgrounds, text, watermarks, or logos.
-```
-
-#### 🖼️ Generated Images
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1784882720921_rhd52i_HN7pfZwXEAAAz7y.jpg" width="600" alt="Social Media Post - Cinematic East Asian Woman Lifestyle Portrait - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1784882720924_9rfrhh_HN7pfZxWMAA0lcq.jpg" width="600" alt="Social Media Post - Cinematic East Asian Woman Lifestyle Portrait - Image 2">
-</div>
-
-#### 📌 Details
-
-- **Author:** [ToroJushiAi](https://x.com/ToroJushiAi)
-- **Source:** [Twitter Post](https://x.com/ToroJushiAi/status/2080412641567354917)
-- **Published:** July 23, 2026
-- **Languages:** zh
-
-**[👉 Try it now →](https://youmind.com/gpt-image-2-prompts?id=29613)**
+**[👉 Try it now →](https://youmind.com/gpt-image-2-prompts?id=29642)**
 
 ---
 
-### No. 31: Social Media Post - Symmetrical Urban Fashion Editorial
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Description
-
-A high-fashion editorial prompt featuring a model in a symmetrical urban plaza setting with architectural depth and cold, minimalist tones.
-
-#### 📝 Prompt
-
-```
-A {argument name="subject" default="young adult female model"} standing in the center of a {argument name="setting" default="modern urban architectural plaza"}, facing the camera, with a nearly full-body shot and a strictly symmetrical axial composition. She stands on a dark wooden walkway wet from rain, with visible reflections of the ground and buildings. Tall modern glass buildings flank the sides, while a cluster of rectangular high-rise towers stands in the distant center, featuring cold, minimalist, and futuristic lines. The sky is heavily overcast with grayish-blue clouds and no sunlight, creating an overall cold, low-saturation, and low-contrast tone.
-
-The model is tall and slender with a restrained posture, arms hanging naturally at her sides, and a calm, detached, high-fashion expression. Her hair is styled in a sleek low bun or swept back, with delicate facial features and minimal makeup. She wears a set of {argument name="clothing style" default="high-end white fashion"}: a high-neck asymmetrical top or a cape-style long shawl trailing from the left shoulder; paired with high-waisted wide-leg trousers featuring complex jacquard or embroidered textures and a sculptural skirt structure, resembling a blend of haute couture and modern minimalism. The fabric has fine textures and a subtle sheen, maintaining a restrained palette of pure and cold white layers.
-
-Photography style: Full-body fashion editorial with a strong sense of architectural space, shot with an 85mm or slightly longer lens, eye-level perspective, deep to medium depth of field. Both the person and buildings are sharp with realistic optical perspective. Emphasizes the post-rain atmosphere, moist wood textures, glass curtain wall reflections, sky layering, the garment's train, and ground reflections. Photorealistic, authentic skin texture, and slight film grain.
-
-Avoid: Cartoon, CG feel, over-smoothed skin, warm sunset, cluttered crowds, exaggerated poses, colored clothing, deformed limbs, architectural distortion, text, watermarks, or logos.
-```
-
-#### 🖼️ Generated Images
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1784882711545_ojj6oq_HN7ivZWWgAAKjA3.jpg" width="600" alt="Social Media Post - Symmetrical Urban Fashion Editorial - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1784882712194_7wngyc_HN7ivZXXgAANLo7.jpg" width="600" alt="Social Media Post - Symmetrical Urban Fashion Editorial - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1784882711498_1l38xe_HN7ivZbWQAAz3px.jpg" width="600" alt="Social Media Post - Symmetrical Urban Fashion Editorial - Image 3">
-</div>
-
-##### Image 4
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1784882712127_xk8yp7_HN7ivZVWUAA53Ul.jpg" width="600" alt="Social Media Post - Symmetrical Urban Fashion Editorial - Image 4">
-</div>
-
-#### 📌 Details
-
-- **Author:** [ToroJushiAi](https://x.com/ToroJushiAi)
-- **Source:** [Twitter Post](https://x.com/ToroJushiAi/status/2080382446294429842)
-- **Published:** July 23, 2026
-- **Languages:** zh
-
-**[👉 Try it now →](https://youmind.com/gpt-image-2-prompts?id=29602)**
-
----
-
-### No. 32: Social Media Post - City Aesthetic Morning Poster Collage
+### No. 36: Infographic / Edu Visual - City Aesthetic Morning Poster Collage
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2004,25 +2078,25 @@ Theme: {argument name="city characteristics" default="City characteristic cultur
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1784882705327_cjw4n7_HN778YxbUAAuGhw.jpg" width="600" alt="Social Media Post - City Aesthetic Morning Poster Collage - Image 1">
+<img src="https://cms-assets.youmind.com/media/1784882705327_cjw4n7_HN778YxbUAAuGhw.jpg" width="600" alt="Infographic / Edu Visual - City Aesthetic Morning Poster Collage - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1784882705328_l2yzct_HN78ABra8AEKTEo.jpg" width="600" alt="Social Media Post - City Aesthetic Morning Poster Collage - Image 2">
+<img src="https://cms-assets.youmind.com/media/1784882705328_l2yzct_HN78ABra8AEKTEo.jpg" width="600" alt="Infographic / Edu Visual - City Aesthetic Morning Poster Collage - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1784882705279_t9umpm_HN78WDRboAAfrml.jpg" width="600" alt="Social Media Post - City Aesthetic Morning Poster Collage - Image 3">
+<img src="https://cms-assets.youmind.com/media/1784882705279_t9umpm_HN78WDRboAAfrml.jpg" width="600" alt="Infographic / Edu Visual - City Aesthetic Morning Poster Collage - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1784882705787_48t520_HN78HZCaIAAToGA.jpg" width="600" alt="Social Media Post - City Aesthetic Morning Poster Collage - Image 4">
+<img src="https://cms-assets.youmind.com/media/1784882705787_48t520_HN78HZCaIAAToGA.jpg" width="600" alt="Infographic / Edu Visual - City Aesthetic Morning Poster Collage - Image 4">
 </div>
 
 #### 📌 Details
@@ -2033,178 +2107,6 @@ Theme: {argument name="city characteristics" default="City characteristic cultur
 - **Languages:** zh
 
 **[👉 Try it now →](https://youmind.com/gpt-image-2-prompts?id=29591)**
-
----
-
-### No. 33: Social Media Post - Character Consistent Korean Fashion Lookbook
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Description
-
-A detailed prompt for gpt-image-2 designed to create a professional fashion lookbook while maintaining the same facial identity across multiple outfits and poses.
-
-#### 📝 Prompt
-
-```
-Use Figure 1 as the sole primary facial identity and hairstyle reference, and display the exact same {argument name="subject" default="Asian woman"} in all four panels with strict identity preservation. Create the final image in a vertical 2:3 aspect ratio. The woman is a young adult Asian woman with a narrow soft oval face, a refined gently tapered V-shaped jawline, subtly defined cheekbones, a balanced forehead, large elongated almond-shaped dark brown eyes with slightly upturned outer corners, natural narrow double eyelids, straight softly arched brows, a slim straight nose with a delicate tip and narrow nostrils, naturally full muted rose-pink lips with a defined Cupid’s bow, and fair cool-neutral skin with subtle natural blush and fine realistic skin texture. She has a calm, cool, self-possessed personality, direct eye contact, and a relaxed expression with slightly parted lips. Her hair is a shoulder-length blunt bob in very dark brown-black with a subtle burgundy-purple undertone, a slightly off-center part, long wispy face-framing fringe, softly tousled outward-moving ends, and a few loose strands naturally crossing the face. Keep identical facial structure, eye shape, nose, lips, jawline, cheekbones, forehead, age, ethnicity, hairstyle characteristics, body proportions, and overall personality across every look. Create a premium {argument name="style" default="Korean-style luxury fashion"} lookbook in a strict two-column by two-row (2×2) grid with four equal full-body panels, clear spacing, identical model scale, and clean editorial symmetry. Top-center luxury serif typography: “{argument name="title" default="LOOKBOOK"}” “The Edit • Vol. 01” Place the typography inside a separate warm ivory title band across the full width at the top of the image, visually distinct from the four model panels. Outfit 1: Beige oversized blazer, white top, wide-leg trousers, heels. Outfit 2: Black fitted evening dress with elegant accessories. Outfit 3: White oversized shirt and denim shorts. Outfit 4: Cream knit sweater with pleated midi skirt. Each panel features a different natural standing pose, subtle expression variation, and luxury campaign body language. Do not copy the choker, necklace, or other accessories from Figure 1. Treat them only as temporary styling elements in the reference image, not as part of the woman’s identity. Background: seamless warm ivory-beige cyclorama studio with no props. Soft diffused Vogue Korea-style studio lighting, realistic shadows, natural skin texture, visible pores, ultra-detailed fabrics, HDR, 8K photorealistic commercial fashion photography. Priority: same face in all four panels, strict two-column by two-row (2×2) layout, full-body visibility, clear panel separation, identical scale, accurate title typography, luxury department-store catalog presentation. Negative prompt: different face, identity change, face swap, generic Asian fashion model, copied choker, black necklace
-```
-
-#### 🖼️ Generated Images
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1784882697802_ucnr0u_HN7b-jJbYAAqjfg.jpg" width="600" alt="Social Media Post - Character Consistent Korean Fashion Lookbook - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1784882697798_5zepj9_HN7b-jHbIAAP2Xg.jpg" width="600" alt="Social Media Post - Character Consistent Korean Fashion Lookbook - Image 2">
-</div>
-
-#### 📌 Details
-
-- **Author:** [WILDCORE](https://x.com/wildcore_stuido)
-- **Source:** [Twitter Post](https://x.com/wildcore_stuido/status/2080341982006927391)
-- **Published:** July 23, 2026
-- **Languages:** en
-
-**[👉 Try it now →](https://youmind.com/gpt-image-2-prompts?id=29586)**
-
----
-
-### No. 34: Social Media Post - Fashion Editorial Rooftop Portrait
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Description
-
-A high-end fashion editorial prompt for a woman in a powder-blue blazer and pencil skirt on a minimalist white rooftop with strong architectural shadows.
-
-#### 📝 Prompt
-
-```
-A full-body fashion editorial photograph of a young woman with {argument name="hair style" default="straight dark auburn hair parted to the side"}, wearing light blue tinted round sunglasses and small pearl drop earrings. She wears a {argument name="outfit color" default="powder-blue"} cropped blazer with structured shoulders over a white satin camisole, paired with a matching powder-blue high-waisted midi pencil skirt with a front slit, and light blue pointed-toe stiletto heels. She stands on a {argument name="terrace style" default="minimalist white modern rooftop terrace"} with geometric architectural walls and railings, one arm resting casually on a white ledge, legs crossed at the ankle in a relaxed contrapposto pose. The setting is bright daylight with a clear blue sky, strong directional sunlight casting sharp architectural shadows across the white tile floor. The photography style is high-end fashion catalog/editorial, clean and airy, shot with a shallow depth of field, soft diffused skin tones, crisp fabric detail, color palette dominated by soft blues and whites, symmetrical minimalist composition, professional studio-quality lighting despite being outdoors, 4k, ultra-realistic, commercial fashion photography.
-```
-
-#### 🖼️ Generated Images
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1784882721217_3r75z5_HN7ZVBWbQAAI9VE.jpg" width="600" alt="Social Media Post - Fashion Editorial Rooftop Portrait - Image 1">
-</div>
-
-#### 📌 Details
-
-- **Author:** [Hania Ai](https://x.com/HaniaAi12)
-- **Source:** [Twitter Post](https://x.com/HaniaAi12/status/2080339054449885368)
-- **Published:** July 23, 2026
-- **Languages:** en
-
-**[👉 Try it now →](https://youmind.com/gpt-image-2-prompts?id=29614)**
-
----
-
-### No. 35: Social Media Post - Anime Mall Fashion Portrait
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Description
-
-Generates a high-detail anime fashion portrait of a shy young woman leaning toward the viewer in a sunlit shopping mall.
-
-#### 📝 Prompt
-
-```
-Create a polished anime-style vertical portrait of a young woman in a bright modern indoor shopping mall, viewed from a slightly high, close-up perspective with subtle wide-angle distortion so her head and upper body feel near the camera. The character has a petite build, fair skin, soft blush, large brown eyes, a small neutral pouting mouth, and glossy dark brown bobbed hair with straight bangs and one side gathered into a high looped ponytail tied with a small blue band. She leans forward toward the viewer, shoulders slightly hunched in a shy pose, holding the edge of an off-shoulder white lace-trimmed blouse with her right hand; underneath, a turquoise floral camisole is visible. She wears a high-waisted denim skirt and carries a small white quilted shoulder bag with gold hardware on her left side. Include exactly 3 visible accessories on her: a silver ring, a pink beaded bracelet, and the white shoulder bag. The mall background should show a glass arched skylight ceiling, glossy reflective tile floor, storefronts, and softly blurred shoppers walking behind her; include readable but fictional store signs such as {argument name="store sign text" default="Lunessa"} and another partially visible boutique sign. Use warm sunlight streaming through the ceiling, bright highlights on the floor, soft rim lighting on hair and shoulders, detailed linework, delicate lace texture, glossy hair highlights, shallow depth of field, and a clean high-resolution anime illustration style. Character customization: {argument name="hair color" default="dark brown"}, {argument name="eye color" default="brown"}, {argument name="outfit top" default="off-shoulder white lace-trimmed blouse over a turquoise floral camisole"}, {argument name="bottom garment" default="high-waisted denim skirt"}. Avoid nudity, keep the pose fashionable and non-explicit, no watermark, no extra text beyond store signage.
-```
-
-#### 🖼️ Generated Images
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1784882742103_rxojqc_HN7M11qbEAAvocZ.jpg" width="600" alt="Social Media Post - Anime Mall Fashion Portrait - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1784882742085_x4wpf1_HN7MYN2akAAttwl.jpg" width="600" alt="Social Media Post - Anime Mall Fashion Portrait - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1784882742113_mwiu5n_HN7MaU3bMAAHtLx.jpg" width="600" alt="Social Media Post - Anime Mall Fashion Portrait - Image 3">
-</div>
-
-#### 📌 Details
-
-- **Author:** [かえりみちのつづき](https://x.com/kaerimichinotzk)
-- **Source:** [Twitter Post](https://x.com/kaerimichinotzk/status/2080325692210991464#reversed-0)
-- **Published:** July 23, 2026
-- **Languages:** en
-
-**[👉 Try it now →](https://youmind.com/gpt-image-2-prompts?id=29636)**
-
----
-
-### No. 36: Infographic / Edu Visual - Japanese Pediatric Disease Infographic
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Description
-
-A friendly Japanese clinic poster explaining hand, foot and mouth disease, herpangina, symptoms, treatment, and daycare attendance guidance.
-
-#### 📝 Prompt
-
-```
-Goal: Create a warm, child-friendly Japanese medical explanation infographic for a clinic exam room, explaining the difference between hand, foot and mouth disease and herpangina, including daycare attendance guidance.
-
-Canvas: Vertical poster, portrait orientation, cream paper background, soft pastel palette, rounded hand-drawn style, pediatric clinic friendly. Use thick dark-brown handwritten Japanese typography, watercolor-like medical illustrations, and colored rounded rectangles. Overall title at top: 「手足口病とヘルパンギーナ」 with small decorative confetti marks and a pink wavy underline.
-
-Layout: Stack exactly 5 numbered sections from top to bottom, each inside a rounded rectangular card with a different accent color. Use large circular number badges on the left: 1 pink, 2 blue, 3 orange, 4 green, 5 orange. Keep the design clear enough for parents to read quickly.
-
-Section 1: Pink-bordered card. Heading text: 「手・足・口に小さな水疱、おしりにも」. Show exactly 4 medical illustrations in a row: an open palm with small red blister spots, the sole of a foot with red spots, an open mouth/throat with sores, and a diapered baby bottom/thighs with spots. Add a small sun icon and text below: 「夏〜秋に小さい子に多い」.
-
-Section 2: Blue-bordered card. Heading text: 「原因はコクサッキーウイルス」. Smaller text: 「ありふれたかぜのウイルス」. On the right, draw one cute round blue virus character with small protrusions, smiling face, and blue accent marks.
-
-Section 3: Yellow-bordered card. Create a Venn diagram with exactly 2 overlapping translucent circles: left circle pink, right circle blue, overlap pale green. Left circle text: 「のどの奥に 白い水疱 →ヘルパンギーナ」. Right circle text: 「手のひら・足のうらに発疹 →手足口病」. Under the diagram, add explanatory text: 「原因ではなく『どこに出たか』でつけた病名。ヘルパンギーナでも全身に発疹が出ることがあり、厳密には区別できない」.
-
-Section 4: Green-bordered card. Heading text: 「特効薬なし・対症療法」. Smaller text: 「約1週間で治る」. Include exactly 4 supportive-care illustrations: a glass of water, a sleeping child under a blue blanket with moon and stars, a digital thermometer reading about 36.6°C, and a cheerful recovered child in a green striped shirt raising a fist.
-
-Section 5: Orange scalloped-border card. Large heading text: 「登園の目安」. Include exactly 2 checklist conditions: 「① 熱がない」 and 「② 普通にご飯が食べられる」. Add a large emphasized orange message: 「発疹が残っていても 普通の生活・登園OK」. Add smaller note: 「ウイルスは治った後も長く出続けるので、発疹が消えるまで待つ意味はありません」. On the right, draw a happy young boy wearing a yellow hat, striped shirt, shorts, and blue backpack, walking toward daycare; include a small school building with clock and simple flowers.
-
-Visual style: Cute Japanese nursery-health handout, soft watercolor shading, rounded corners, clean spacing, pastel pink/blue/yellow/green/orange accents, no harsh realism, no scary symptoms. Make all text legible and spelled correctly.
-
-Customizable text slots: Use the title {argument name="poster title" default="手足口病とヘルパンギーナ"}, main disease name {argument name="main disease" default="手足口病"}, comparison disease name {argument name="comparison disease" default="ヘルパンギーナ"}, virus name {argument name="virus name" default="コクサッキーウイルス"}, and attendance headline {argument name="attendance headline" default="登園の目安"}.
-```
-
-#### 🖼️ Generated Images
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1784882745657_1upwyf_HN8obTgbsAAu4dF.jpg" width="600" alt="Infographic / Edu Visual - Japanese Pediatric Disease Infographic - Image 1">
-</div>
-
-#### 📌 Details
-
-- **Author:** [りりぃ🌸 小児科医 × Webコーダー](https://x.com/lilychaco)
-- **Source:** [Twitter Post](https://x.com/lilychaco/status/2080426338159403074#reversed-0)
-- **Published:** July 23, 2026
-- **Languages:** en
-
-**[👉 Try it now →](https://youmind.com/gpt-image-2-prompts?id=29642)**
 
 ---
 
@@ -2729,31 +2631,21 @@ Footer: Add a tiny gray Japanese note at bottom left beginning with “総括方
 
 ---
 
-### No. 48: Infographic / Edu Visual - Kawaii Bunny Kigurumi Magazine Cover
+### No. 48: YouTube Thumbnail - Asian Digital Influencer Portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Description
 
-Generates a pastel Japanese kawaii magazine-style infographic featuring a young woman in a fluffy bunny kigurumi surrounded by cute bathroom self-care annotations.
+Generates hyper-realistic, consistent portraits of a fictional digital influencer in a geeky creator room with neon lighting.
 
 #### 📝 Prompt
 
 ```
-Goal: Create a kawaii Japanese magazine-cover style infographic about a young woman enjoying a pink bunny kigurumi lifestyle in a dreamy bathroom. Main headline text should be {argument name="headline text" default="着ぐるみさんの日常"}, with the small English phrase “Enjoy Kigurumi Life!” above it and the subheading “可愛いは栄養素” with tiny hearts.
-
-Canvas: Vertical 4:5 poster, soft pastel pink border, glossy lifestyle-magazine layout, highly detailed photorealistic subject blended with cute graphic annotations. Overall palette is white, baby pink, rose pink, cream, and gold, with many small hearts, bows, dotted frames, and hand-drawn arrows.
-
-Main subject: Center a cute young Japanese woman, about early 20s, petite, soft expression, looking at the camera, wearing a fluffy white bunny kigurumi onesie with pink accents. She has {argument name="hair color" default="dark brown twin-tails"}, straight bangs, pink ribbon hair ties, and a gentle doll-like makeup look. The hood has long floppy bunny ears lined in pale pink; the outfit has a large pink bow at the neck, pink buttons, pink paw-print pockets, fluffy cuffs, and a plush rounded silhouette. Pose: she stands in the bathtub area or bathroom floor, one arm raised in a cute paw pose, one leg bent up behind her, showing a pink slipper sole.
-
-Setting: A pink-and-white feminine bathroom filled with cozy cute objects. Include a white bathtub with ornate gold faucet hardware on the left, pink bath petals or foam, sheer pink curtains, pale tile walls, a heart-shaped fluffy pink mirror on the right wall, a gold shelf with pastel bottles, pink towels, a bunny plush, pink round rugs, and soft romantic lighting. Make the environment feel fluffy, warm, and scented, like a “kawaii self-care room.”
-
-Layout and text elements: Use exactly 8 visible annotation callout boxes with rounded white or pale-pink frames, pink Japanese headings, small black Japanese body text, and curved pink arrows pointing to objects. The 8 callouts are: 1) “ハートミラー” pointing to the heart mirror, 2) “ゴールド水栓” pointing to the gold faucet, 3) “ピンクタオル” pointing to folded/hanging pink towels, 4) “ふわふわ小物” pointing to small fluffy decor and plush items, 5) “うさぎマット” pointing to the bunny/pink floor mat, 6) “うさぎのぬいぐるみ” pointing to a bunny plush, 7) “猫脚バスタブ” pointing to the clawfoot bathtub, 8) a bottom-right mood card headed “Today’s Mood” with “可愛いは最高の魔法！” and a short diary-like note. Add 1 round badge in the top-right reading “今日も可愛いをチャージ♡”. Add 1 bottom-left “KAWAII POINT” badge with 3 checklist lines beneath it. Add a short Japanese intro paragraph on the left side under the headline. Add tiny footer text like a magazine issue: “Kigurumi Life Magazine  vol.28” and a small slogan along the bottom.
-
-Visual style: Photorealistic fashion/lifestyle photography with Japanese kawaii magazine graphics overlaid; soft focus, bright high-key lighting, gentle bloom, delicate shadows, pastel UI labels, cute stickers, hand-drawn hearts, lace-like circular badge decoration, bow icons, and a polished editorial composition.
-
-Constraints: Keep all visible typography in Japanese except the small English decorative phrases. The subject must remain the central focus and be unobstructed by labels. Use exactly one person, exactly one main bunny kigurumi outfit, exactly 8 annotation callouts, exactly 1 top-right circular badge, and exactly 1 bottom-left kawaii point badge. Avoid dark colors, harsh contrast, horror, cluttered unreadable text, extra people, or unrelated animals.
+Create one standalone hyper-realistic portrait per output. Generate four independent image files of the same fictional {argument name="ethnicity" default="Asian"} digital influencer, around {argument name="age" default="28"} years old, with the same face, shoulder-length black hair with subtle blue highlights and {argument name="outfit style" default="black futuristic streetwear"} across the batch.
+She is broadcasting from a sophisticated, slightly geeky creator room. Chest-up portrait, direct eye contact, confident friendly expression, professional microphone, headphones, blurred dual monitors, small sci-fi collectibles and tasteful cyan, violet and magenta neon lights. Soft warm key light on her face, realistic skin pores, natural eyes, detailed hair, shallow depth of field and premium 50mm portrait photography.
+Vary only her expression, head angle, subtle hand gesture and neon balance between outputs. One woman and one portrait in each image. No grid, collage, contact sheet, split screen, multiple panels, text, logos, watermark, duplicate person, anime or CGI appearance.
 ```
 
 #### 🖼️ Generated Images
@@ -2761,135 +2653,87 @@ Constraints: Keep all visible typography in Japanese except the small English de
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1784537351372_pawjiw_HNjHbBYaoAAQq_G.jpg" width="600" alt="Infographic / Edu Visual - Kawaii Bunny Kigurumi Magazine Cover - Image 1">
-</div>
-
-#### 📌 Details
-
-- **Author:** [iX｜AIART/AIMOVIE【2nd】](https://x.com/iX00AI2)
-- **Source:** [Twitter Post](https://x.com/iX00AI2/status/2078630500525310450#reversed-0)
-- **Published:** July 18, 2026
-- **Languages:** en
-
-**[👉 Try it now →](https://youmind.com/gpt-image-2-prompts?id=29126)**
-
----
-
-### No. 49: Infographic / Edu Visual - SenseNova U1 Pro Landing Page
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Description
-
-Creates a polished AI product landing-page screenshot featuring an 8K output section and a 24-panel Chinese solar terms artwork preview.
-
-#### 📝 Prompt
-
-```
-Goal: Create a clean landing-page screenshot for an AI image model announcement, styled like a polished corporate technology blog page.
-
-Canvas: Wide 16:9 webpage capture, approximately 1200×675 px, with lots of white space. Use a pale white and lavender background with subtle diagonal glossy light streaks in the top hero area.
-
-Layout: Top hero section occupies the upper third. Place a large dark navy serif headline at top left reading {argument name="product name" default="SenseNova U1 Pro"}. Under it, add a small gray sans-serif paragraph: {argument name="intro paragraph" default="Flagship image creation model that uses interleaved text-image chain of thought to create accurate, well-designed, production-ready visual assets, delivering global-leading overall performance"}. Leave the right side mostly empty with soft abstract light beams.
-
-Main section: Below a horizontal transition into a light gray-white content area, place a large sans-serif heading on the left reading {argument name="section heading" default="Ultra-High-Resolution Output"}. Directly underneath, show one blue highlighted text strip like selected webpage text, reading {argument name="highlight sentence" default="Supports up to native 8K resolution and specialized aspect ratios for production-grade precision and detail"}.
-
-Feature image: Beneath the highlighted strip, insert a centered framed horizontal artwork preview with a thin beige border and cream background. The artwork is a traditional Chinese watercolor calendar titled in black calligraphy at the top center: {argument name="calendar title" default="二十四节气"}. It contains exactly 24 tall vertical painted panels arranged left to right, each representing one Chinese solar term with delicate ink-and-watercolor landscapes, flowers, birds, fields, snow, and seasonal plants. Count and label the 24 panels at the bottom in Chinese, in this exact order: 1 立春, 2 雨水, 3 惊蛰, 4 春分, 5 清明, 6 谷雨, 7 立夏, 8 小满, 9 芒种, 10 夏至, 11 小暑, 12 大暑, 13 立秋, 14 处暑, 15 白露, 16 秋分, 17 寒露, 18 霜降, 19 立冬, 20 小雪, 21 大雪, 22 冬至, 23 小寒, 24 大寒. Add tiny date ranges under each label, but keep them small and secondary.
-
-Visual style: Minimal modern web design, high-end AI product branding, crisp typography, large serif hero title, clean sans-serif body text, subdued gray text, navy accents, soft luminous abstract background, realistic screenshot-like composition.
-
-Constraints: Preserve the exact visible text hierarchy and the 24-panel count. Do not add extra navigation bars, logos, buttons, people, browser chrome, watermarks, or unrelated interface elements.
-```
-
-#### 🖼️ Generated Images
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1784537361299_qrmx8l_HNg9PluWIAAmkUR.jpg" width="600" alt="Infographic / Edu Visual - SenseNova U1 Pro Landing Page - Image 1">
-</div>
-
-#### 📌 Details
-
-- **Author:** [Lentils](https://x.com/Lentils80)
-- **Source:** [Twitter Post](https://x.com/Lentils80/status/2078480576202346900#reversed-0)
-- **Published:** July 18, 2026
-- **Languages:** en
-
-**[👉 Try it now →](https://youmind.com/gpt-image-2-prompts?id=29109)**
-
----
-
-### No. 50: Infographic / Edu Visual - Three Kingdoms Pop-Up Book Scene
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Description
-
-Generates a cinematic paper-craft pop-up book illustration of Romance of the Three Kingdoms for epic literary posters or cover art.
-
-#### 📝 Prompt
-
-```
-Goal: Create a cinematic paper-craft pop-up book illustration for {argument name="classic novel title" default="三國演義"}, presenting Romance of the Three Kingdoms as an epic Chinese classical literature scene.
-
-Canvas: Wide 16:9 landscape composition, dark theatrical lighting, high-detail 3D layered paper diorama emerging from an open antique book on a wooden table. The book fills the bottom foreground with visible printed Chinese-style text, aged pages, a red-brown cover, and a central spine crease.
-
-Layout: The open book forms a pop-up battlefield and river panorama. Place the heroic character group on the left-center foreground, the burning naval battle on the right, mountains and fortress cities in the background, and large title typography in the upper-right sky.
-
-Subject details: Include exactly 4 main historical figures in layered paper-cut style: 1 stern armored warrior on the far left holding a spear beside a red banner marked 「張」, 1 elegant strategist in white robes at center front holding a sheathed or folded object and wearing ornate trim, 1 green-robed bearded general at center-right holding a tall curved guandao, and 1 elevated scholar-strategist behind them in pale robes holding a feather fan. Their costumes should be ornate Han-era fantasy armor and robes with gold embroidery, expressive faces, theatrical poses, and crisp cut-paper edges.
-
-Scene elements: Include exactly 6 prominent foreground props around the book scene: 1 standing war drum, 1 rack of upright spears, 1 rolled scroll, 1 open handwritten manuscript, 1 vertical stone marker labeled 「隆中對」, and 1 small fortress gate labeled 「荊」. In the right-side river battle, include exactly 5 large visible warships with black sails, red flags, and firelit silhouettes, plus smaller implied boats only as background texture. Add layered paper waves, smoke plumes, orange flames, fortress walls, banners, and troops in miniature scale.
-
-Background: Create a moonlit mountainous Chinese landscape with pagodas, cliffside fortresses, blue-black night sky, and a bright full moon on the upper left. The right background should glow with red-orange fire and smoke, contrasting against cool blue mountains on the left.
-
-Text content: In the upper right, write the large gold brush-calligraphy title 「三國演義」 with rough metallic texture. Below it, add the English subtitle “Romance of the Three Kingdoms”. Under the subtitle, add two smaller Chinese lines: 「作者：羅貫中」 and 「成書：約十四世紀」. Add a decorative plaque reading 「群雄逐鹿，智謀定天下」. Preserve the Chinese text exactly as visible.
-
-Visual style: Ultra-detailed cinematic paper art, dimensional pop-up book construction, layered cut-paper silhouettes, embossed gold calligraphy, dramatic rim light, volumetric smoke, miniature stage design, ornate historical fantasy realism, sharp focus, rich contrast, deep navy blues and fiery reds, museum-quality craftsmanship.
-
-Constraints: Keep the scene as a single coherent pop-up book spread, not a flat poster. Do not add modern objects, watermarks, logos, or extra main characters. Maintain readable typography and a premium cinematic book-cover feel.
-```
-
-#### 🖼️ Generated Images
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1784363364938_b6mbf8_HNcw60DaMAAA3z9.jpg" width="600" alt="Infographic / Edu Visual - Three Kingdoms Pop-Up Book Scene - Image 1">
+<img src="https://cms-assets.youmind.com/media/1784968608115_t1p9ev_HOBKdMZW8AAbJnD.jpg" width="600" alt="YouTube Thumbnail - Asian Digital Influencer Portrait - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1784363365307_62ovef_HNcw9eYbwAA09ID.jpg" width="600" alt="Infographic / Edu Visual - Three Kingdoms Pop-Up Book Scene - Image 2">
+<img src="https://cms-assets.youmind.com/media/1784968608144_b9fm1u_HOBKdZzWIAELMTa.jpg" width="600" alt="YouTube Thumbnail - Asian Digital Influencer Portrait - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1784363365169_f3of3n_HNcw_6uasAEwOT5.jpg" width="600" alt="Infographic / Edu Visual - Three Kingdoms Pop-Up Book Scene - Image 3">
+<img src="https://cms-assets.youmind.com/media/1784968608142_nsci65_HOBKdk4XMAAWECv.jpg" width="600" alt="YouTube Thumbnail - Asian Digital Influencer Portrait - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1784363365582_hdmvdt_HNcz03RbIAA-o8-.jpg" width="600" alt="Infographic / Edu Visual - Three Kingdoms Pop-Up Book Scene - Image 4">
+<img src="https://cms-assets.youmind.com/media/1784968609718_56v676_HOBKdxeXUAAKhF3.jpg" width="600" alt="YouTube Thumbnail - Asian Digital Influencer Portrait - Image 4">
 </div>
 
 #### 📌 Details
 
-- **Author:** [TWnese](https://x.com/TWnese)
-- **Source:** [Twitter Post](https://x.com/TWnese/status/2078186990097555916#reversed-0)
-- **Published:** July 17, 2026
+- **Author:** [PSS](https://x.com/PromptSin)
+- **Source:** [Twitter Post](https://x.com/PromptSin/status/2080744907069632859)
+- **Published:** July 24, 2026
 - **Languages:** en
 
-**[👉 Try it now →](https://youmind.com/gpt-image-2-prompts?id=29028)**
+**[👉 Try it now →](https://youmind.com/gpt-image-2-prompts?id=29711)**
 
 ---
 
-### No. 51: YouTube Thumbnail - Cyber Blue Qwen Tech Review Poster
+### No. 49: YouTube Thumbnail - Cyberpunk Flova AI Agent Poster
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Description
+
+Generates a dense cyberpunk anime promotional banner for an AI agent video-production workflow campaign.
+
+#### 📝 Prompt
+
+```
+Goal: Create a high-energy cyberpunk promotional poster for {argument name="brand name" default="Flova"}, advertising an AI agent that helps produce a sci-fi series from planning to finished video.
+
+Canvas: Wide 16:9 YouTube-thumbnail style banner, dark futuristic Tokyo at night, packed with neon light trails, motion blur, glowing HUD panels, sparks, and cinematic contrast. Use a black, electric-blue, purple, orange, and yellow palette with intense bloom and speed-line effects.
+
+Main layout: On the left-center, place a large rainbow gradient triangular play-button logo, followed by an enormous bold white italic wordmark “Flova” dominating the center. Across the top, add a large Japanese headline: “AIと一緒に、世界を創る時代へ。” with the “AI” portion extra-large and white, and a smaller subtitle below it: “企画から映像完成まで、すべてAI Agentがサポート!” On the top-right, add a glowing purple rounded rectangle sign reading “AI Agent” and beneath it “Create the Future with AI”.
+
+Hero character: On the right half, show one dynamic anime-style cyberpunk female agent flying or diving forward toward the viewer above a futuristic city. She has intense golden eyes, short light-brown hair swept by motion, a glossy armored gold-and-black helmet with cat-ear-like mechanical protrusions and a small white flower emblem on the front, black tactical cyber armor, exposed mechanical details, and one gloved hand reaching dramatically toward the camera. Make her foreshortened, sharp, and cinematic, with sparks and city lights streaking behind her.
+
+Text content: Under the logo, add a large line: “2029 IF TOKYO Episode4”, with “Episode4” in purple. Add a small yellow tag: “[ ARCHIVE 004 ]”. Add a bold central Japanese title: “複数のSUZUNE反応”, with “SUZUNE” in large yellow distressed lettering, and a smaller subtitle beneath: “地下鉄駅で発生した、謎の複数シグナルの真相とはー”. In the lower-right, add a huge yellow callout: “シリーズ制作を 最強に加速させる!”
+
+Left feature panel: Add one glowing cyan boxed checklist titled “Flovaでできること”. It must contain exactly 6 checked items: “プロンプト作成”, “Storyboard編集”, “GPT Image 2選択”, “Seedance 2.0生成”, “修正＆再生成”, “Skills保存＆再利用”. Beneath this panel, show exactly 4 small square app icons with labels: “Project”, “Chat”, “History”, and “Skills”.
+
+Bottom offer cards: Along the lower center, add exactly 2 neon credit cards separated by a large white multiplication symbol. The first purple card reads “新規登録で” above a huge “100” and “Free Credits”. The second blue card reads “お友達招待で” above a huge “200” and “Credits”.
+
+Visual style: Ultra-detailed anime key visual mixed with glossy tech advertising design, bold Japanese typography, distressed cinematic title lettering, bright rim lighting, holographic UI overlays, lens flares, fast diagonal composition, and an intense action-poster feel. Keep the design dense but readable, with all listed text clearly placed and no extra logos or watermarks beyond the specified brand elements.
+```
+
+#### 🖼️ Generated Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1784968629425_b4lizq_HN-BZBPaMAAFKPF.jpg" width="600" alt="YouTube Thumbnail - Cyberpunk Flova AI Agent Poster - Image 1">
+</div>
+
+#### 📌 Details
+
+- **Author:** [SZOU☆WEB3チャンネル | ISC | TRONglobalfriends](https://x.com/szounft)
+- **Source:** [Twitter Post](https://x.com/szounft/status/2080523827071549934#reversed-0)
+- **Published:** July 24, 2026
+- **Languages:** en
+
+**[👉 Try it now →](https://youmind.com/gpt-image-2-prompts?id=29734)**
+
+---
+
+### No. 50: YouTube Thumbnail - Cyber Blue Qwen Tech Review Poster
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2923,7 +2767,7 @@ Create a dramatic vertical 4:5 tech influencer poster in a glossy cyber-blue sty
 
 ---
 
-### No. 52: YouTube Thumbnail - Premium Men's Skincare Thumbnail
+### No. 51: YouTube Thumbnail - Premium Men's Skincare Thumbnail
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2973,7 +2817,7 @@ Constraints: Keep the composition uncluttered, ensure all Japanese text is large
 
 ---
 
-### No. 53: YouTube Thumbnail - Japanese Pricing Comparison Thumbnail
+### No. 52: YouTube Thumbnail - Japanese Pricing Comparison Thumbnail
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3017,7 +2861,7 @@ Visual style: High-impact Japanese social media thumbnail, glossy 3D accents, st
 
 ---
 
-### No. 54: YouTube Thumbnail - Japanese AI Telop Thumbnail
+### No. 53: YouTube Thumbnail - Japanese AI Telop Thumbnail
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3067,7 +2911,7 @@ Discrete elements to include: exactly 1 top headline, exactly 1 speech bubble, e
 
 ---
 
-### No. 55: YouTube Thumbnail - Consistent Social Media Cover Agent Skill
+### No. 54: YouTube Thumbnail - Consistent Social Media Cover Agent Skill
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -3118,7 +2962,7 @@ Input an article, go through three rounds of Q&A, and it directly outputs cover 
 
 ---
 
-### No. 56: YouTube Thumbnail - Retro 2.5D Anime CRT Girl
+### No. 55: YouTube Thumbnail - Retro 2.5D Anime CRT Girl
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3152,7 +2996,7 @@ Create a retro 2.5D anime thumbnail in a cinematic 16:9 frame, showing a close-u
 
 ---
 
-### No. 57: YouTube Thumbnail - Cute Travel Vlog Thumbnail
+### No. 56: YouTube Thumbnail - Cute Travel Vlog Thumbnail
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3210,7 +3054,7 @@ Constraints: Keep all text legible and in English, preserve the exact 6 main tex
 
 ---
 
-### No. 58: YouTube Thumbnail - Roblox Block Tower Thumbnail
+### No. 57: YouTube Thumbnail - Roblox Block Tower Thumbnail
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3262,7 +3106,7 @@ Constraints: Keep all visible text in Japanese exactly as specified, make the he
 
 ---
 
-### No. 59: YouTube Thumbnail - Low-Cost AI Video Thumbnail
+### No. 58: YouTube Thumbnail - Low-Cost AI Video Thumbnail
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3310,7 +3154,7 @@ Constraints: Keep all visible text in Japanese exactly as specified, avoid missp
 
 ---
 
-### No. 60: YouTube Thumbnail - Cinematic Analog Portrait Transformation
+### No. 59: YouTube Thumbnail - Cinematic Analog Portrait Transformation
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3344,7 +3188,7 @@ Create a cinematic portrait from the attached image. The scene has a pronounced 
 
 ---
 
-### No. 61: YouTube Thumbnail - Pop Idol Typography Cover Art
+### No. 60: YouTube Thumbnail - Pop Idol Typography Cover Art
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3432,7 +3276,7 @@ Requirements: Bold, clean, modern, and design-oriented. Generate only one high-q
 
 ---
 
-### No. 62: YouTube Thumbnail - Algorithm Fog City Movie Poster
+### No. 61: YouTube Thumbnail - Algorithm Fog City Movie Poster
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3466,7 +3310,7 @@ Create an international-quality cinematic movie poster for a film titled "{argum
 
 ---
 
-### No. 63: YouTube Thumbnail - Luxury Lifestyle Villa Photography
+### No. 62: YouTube Thumbnail - Luxury Lifestyle Villa Photography
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3505,7 +3349,7 @@ Ultra-realistic lifestyle photography of a confident young man standing outside 
 
 ---
 
-### No. 64: YouTube Thumbnail - Anime VTuber Gaming Thumbnail
+### No. 63: YouTube Thumbnail - Anime VTuber Gaming Thumbnail
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3547,7 +3391,7 @@ Use exaggerated clickworthy thumbnail aesthetics throughout: ultra-saturated col
 
 ---
 
-### No. 65: YouTube Thumbnail - Heroic Cat RPG Cut-In Banner
+### No. 64: YouTube Thumbnail - Heroic Cat RPG Cut-In Banner
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3587,7 +3431,7 @@ Create an ultra-wide cinematic mobile game cut-in banner in a dramatic fantasy a
 
 ---
 
-### No. 66: YouTube Thumbnail - Gabriel Fauré Requiem Essay Thumbnail
+### No. 65: YouTube Thumbnail - Gabriel Fauré Requiem Essay Thumbnail
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3621,7 +3465,7 @@ Create a 16:9 editorial YouTube thumbnail about classical music, with a dignifie
 
 ---
 
-### No. 67: YouTube Thumbnail - Armored Warrior with Black Panther
+### No. 66: YouTube Thumbnail - Armored Warrior with Black Panther
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3655,7 +3499,7 @@ Create a cinematic dark fantasy portrait of {argument name="character name" defa
 
 ---
 
-### No. 68: YouTube Thumbnail - Shocked Dragon Opens Chirashi Sushi
+### No. 67: YouTube Thumbnail - Shocked Dragon Opens Chirashi Sushi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3695,37 +3539,31 @@ Create a cinematic, highly detailed fantasy-realistic image of {argument name="c
 
 ---
 
-### No. 69: YouTube Thumbnail - Flashy AI Appearance Consulting Sales Banner
+### No. 68: Comic / Storyboard - Rooftop Gekiga Idol Sniper Scene
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Description
 
-A high-impact Japanese promotional banner for selling an AI appearance-consulting prompt package on social media.
+Generates a wide anime manga rooftop scene with three idol characters, Japanese speech bubbles, and a dramatic hardboiled sniper parody composition.
 
 #### 📝 Prompt
 
 ```
-Goal: Create a flashy Japanese social-media sales banner advertising an AI appearance-consulting prompt package, designed like a high-converting X/Twitter promo thumbnail.
+Goal: Create a wide single-panel anime manga scene on a high-rise rooftop, mixing cute chibi idol characters with a dramatic hardboiled gekiga facial style for the main foreground character.
 
-Canvas: Wide horizontal 16:9 banner, ultra-saturated, glossy, cinematic ad design. Background is an explosive gold-and-magenta money burst with flying yen coins, banknotes, spark trails, confetti, and intense lens flares.
+Canvas: 16:9 landscape composition, bright daytime city skyline in the background, clean detailed anime rendering with crisp line art, soft cel shading, and slight manga-comic exaggeration.
 
-Layout: Left third features a cute mascot character in a white hoodie and white pants, running or leaning forward with both hands extended toward the viewer. The character has a round white helmet-like head, black X-shaped eyes, and a big smiling black mouth, similar to a friendly faceless mascot. Above the mascot is one white speech bubble reading 「今日から」 and a large red exclamation mark pair nearby. Bottom-left has a black-and-gold laurel badge reading 「累計 5億」.
+Setting: A concrete rooftop terrace on top of a tall urban building, with metal safety railings, a chain-link fence along the back edge, exposed silver pipes, an outdoor air-conditioning unit on the right, and many skyscrapers fading into a blue hazy distance under a pale sky.
 
-Center: The main focal point is huge 3D metallic-gold typography with dramatic bevels, shadows, and glowing highlights. At the top center, place a purple ribbon label reading 「1件あたり」. Below it, show the main price stack: 「¥10,000〜」 on the first line and 「¥20,000」 on the second line, extremely large and gold. Under the price, add a gold ribbon reading 「今日から売れる」.
+Layout: Place exactly 3 female idol-like characters on the rooftop. The main character stands in the right foreground near the railing, turned partly away from the viewer but looking back over her shoulder with an intense dramatic expression. Two smaller chibi girls stand in the mid-background on the left and center, facing her.
 
-Product elements: Include exactly 3 boxed product/package mockups around the center: 1) a dark red box near the left-center labeled 「提案資料 一式」 with a small document preview, 2) a smaller dark red box lower-left of center labeled 「プロンプト集」 with a chat bubble icon, and 3) a dark red box on the right labeled 「Before/After 画像」 showing two female profile photos side by side with small English labels “BEFORE” and “AFTER”.
+Characters: 1) Right foreground: a blonde short-haired girl with a black military-style beret, orange-and-black tactical idol outfit, thigh straps, boots, gloves, and a long scoped sniper rifle held horizontally across the railing. Her face is rendered in exaggerated hardboiled manga style: thick eyebrows, sharp eyes, heavy shadows, stern mouth, and a gritty dramatic expression. 2) Left background: a small chibi girl with light brown wavy hair, red-and-black idol outfit, tiny hat or hair accessories, calm unimpressed expression. 3) Center background: a small chibi girl with pale lavender bobbed hair, round glasses, a white-and-blue sailor-inspired idol outfit and small hat, neutral surprised expression.
 
-Right side: Add a tilted red rubber-stamp graphic in the upper-right that says “SOLD OUT” in English, with a transparent white stamp background and distressed texture.
+Speech bubbles: Include exactly 3 white speech bubbles with black Japanese text. Bubble 1 above the left chibi girl says {argument name="left speech text" default="後ろめたいアイドルね"}. Bubble 2 above the center chibi girl says {argument name="center speech text" default="後ろ指さされる元アイドルですね"}. Bubble 3, tall vertical bubble near the right edge beside the foreground girl, says {argument name="right speech text" default="あたしの後ろに立つな"}. Use clean manga lettering and keep the bubbles readable.
 
-Bottom typography: Across the bottom, use enormous red-to-gold 3D Japanese lettering with white highlights and dark drop shadows reading 「1〜2万円／今日から売れる」. Just above that, on a white-and-gold banner, place purple text reading 「AI 外見コンサル完全プロンプト」.
-
-Visual style: Maximum-impact Japanese internet marketing thumbnail, luxury gold, red, purple, and magenta palette, high contrast, exaggerated 3D text, glowing outlines, sparkle effects, dynamic motion, dense composition, celebratory “money explosion” atmosphere.
-
-Text customization: Use the exact visible Japanese copy unless changed: {argument name="main price text" default="¥10,000〜 ¥20,000"}, {argument name="bottom headline" default="1〜2万円／今日から売れる"}, {argument name="product name" default="AI 外見コンサル完全プロンプト"}, {argument name="top ribbon text" default="1件あたり"}, {argument name="stamp text" default="SOLD OUT"}.
-
-Constraints: Keep all text crisp and readable, preserve the exact count of 3 product boxes, 1 mascot, 1 speech bubble, 1 badge, and 1 sold-out stamp. Do not add extra logos, watermarks, or unrelated characters.
+Style: Cute idol anime proportions for the background girls, chibi proportions overall, but make the foreground girl's face unusually intense and gekiga-inspired. Detailed rooftop perspective with strong depth, railings leading diagonally toward the city. Color palette: cool blue-gray rooftop and skyline contrasted with orange-black tactical clothing. No gore, no muzzle flash, no watermark, no extra characters, no extra text.
 ```
 
 #### 🖼️ Generated Images
@@ -3733,33 +3571,51 @@ Constraints: Keep all text crisp and readable, preserve the exact count of 3 pro
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1782549966906_jkxgbi_HLtnEoeawAAi9XI.jpg" width="600" alt="YouTube Thumbnail - Flashy AI Appearance Consulting Sales Banner - Image 1">
+<img src="https://cms-assets.youmind.com/media/1784968628457_o9trg0_HOBTCwDaQAAlfoX.jpg" width="600" alt="Comic / Storyboard - Rooftop Gekiga Idol Sniper Scene - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1784968628445_4136pa_HOBTDNJaMAAE5Jz.jpg" width="600" alt="Comic / Storyboard - Rooftop Gekiga Idol Sniper Scene - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1784968628469_hpi82y_HOBTDlEa8AAekSt.jpg" width="600" alt="Comic / Storyboard - Rooftop Gekiga Idol Sniper Scene - Image 3">
+</div>
+
+##### Image 4
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1784968628969_xat3qf_HOBTEO0aMAATtEk.jpg" width="600" alt="Comic / Storyboard - Rooftop Gekiga Idol Sniper Scene - Image 4">
 </div>
 
 #### 📌 Details
 
-- **Author:** [まるお｜AIエージェント×コンテンツマーケ｜AI特許取得｜慶應AI卒｜元日テレAI責任者｜1年で2億](https://x.com/Maruo_0314)
-- **Source:** [Twitter Post](https://x.com/Maruo_0314/status/2070361902182699210#reversed-0)
-- **Published:** June 26, 2026
+- **Author:** [まるるん＠NIKKE好き](https://x.com/TachMaru)
+- **Source:** [Twitter Post](https://x.com/TachMaru/status/2080754379775525201#reversed-0)
+- **Published:** July 24, 2026
 - **Languages:** en
 
-**[👉 Try it now →](https://youmind.com/gpt-image-2-prompts?id=26911)**
+**[👉 Try it now →](https://youmind.com/gpt-image-2-prompts?id=29732)**
 
 ---
 
-### No. 70: YouTube Thumbnail - Cinematic Suburban Chase Scene
+### No. 69: Comic / Storyboard - Colossal Ocean Titan and Messenger
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Description
 
-An intense and comedic chase scene captured with cinematic precision in a suburban neighborhood.
+A cinematic dark-fantasy prompt for generating an epic sea titan confrontation with a lone messenger in a stormy mythic ocean scene.
 
 #### 📝 Prompt
 
 ```
-Cinematic ultra-realistic close pursuit scene, camera positioned less than one meter in front of the fleeing husband, extreme close-up perspective, {argument name="man expression" default="terrified"} man dominating 80% of the frame, sweat on skin, visible pores, bloodshot eyes, veins bulging in neck, mouth wide open screaming in pure panic, messy hair blown backward from sprinting, wrinkled dark pajama shirt, one slipper missing. Behind him, slightly out of focus but still clearly visible, furious woman exploding out of the front door wearing a {argument name="wife outfit" default="bathrobe and fluffy slippers"}, wielding a heavy cast iron frying pan raised above her head, face twisted with uncontrollable rage, hair flying wildly in every direction. Breakfast chaos erupting through the air between them, shattered coffee mugs, flying toast, scrambled eggs, orange juice droplets frozen in motion, tiny debris particles catching sunlight. Real suburban house entrance, concrete walkway, front lawn, authentic residential neighborhood. Shot on {argument name="camera model" default="Arri Alexa 35"}, Zeiss Supreme Prime 35mm T1.5, camera operator running backwards directly in front of the husband, cinematic chase photography, realistic motion blur only on limbs and background, sharp focus locked on the husband's terrified face. Golden hour morning sunlight from side angle, physically accurate skin rendering, subsurface scattering, natural shadows, realistic reflections in eyes, documentary-style realism, Hollywood comedy movie frame, practical lighting, Kodak Vision3 film emulation, subtle film grain, hyperrealistic, ultra detailed, RAW photo quality, photorealistic, no CGI, no cartoon, no AI look, no overprocessed HDR, 8K, masterpiece, award-winning cinematic photography, dynamic Dutch angle, extreme sense of speed and urgency, vertical composition --ar 9:16 --style raw --v 8
+Create a dramatic widescreen dark-fantasy illustration of {argument name="character name" default="The Colossal Ocean Titan and Messenger"}: an immense ancient ocean titan rising from a stormy sea, facing a tiny hooded messenger standing on a jagged cliff at the lower left. The titan is a gigantic muscular humanoid sea god made of weathered stone and scale-like armor plates, with a stern bearded face, glowing eyes, horned or coral-like crown ridges, spines along the shoulders and back, and intricate glowing gold runic/celestial patterns across the chest, shoulders, arms, belt, and wrists. Streams of seawater pour from the titan’s shoulders, arms, beard, and torso while violent white-capped waves crash around his waist and hands. The messenger is a small black-cloaked silhouette with long windblown hair and cape, holding up a bright circular golden staff or beacon toward the titan. Set the scene amid ancient ruined coastal temples and broken columns on the far left, with a dark teal-black thunderstorm sky, dense layered clouds, diagonal rain streaks, bright lightning bolts on the right, and a dramatic opening in the clouds on the upper left where golden sun rays break through. Include exactly 15 visible birds or gull silhouettes scattered across the sky. Use a cinematic 16:9 composition, low-angle epic scale, high contrast chiaroscuro, deep navy and teal shadows, warm gold highlights, foaming turquoise waves, ornate linework, graphic-novel fantasy concept art style, highly detailed but painterly, no text, no watermark.
 ```
 
 #### 🖼️ Generated Images
@@ -3767,33 +3623,33 @@ Cinematic ultra-realistic close pursuit scene, camera positioned less than one m
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1782464840246_ygfu0u_HLpPwl3bwAAuGgT.jpg" width="600" alt="YouTube Thumbnail - Cinematic Suburban Chase Scene - Image 1">
+<img src="https://cms-assets.youmind.com/media/1784968625565_gc87az_HOAuO6zbcAAYqCA.jpg" width="600" alt="Comic / Storyboard - Colossal Ocean Titan and Messenger - Image 1">
 </div>
 
 #### 📌 Details
 
-- **Author:** [Karlos](https://x.com/de_mon010)
-- **Source:** [Twitter Post](https://x.com/de_mon010/status/2070054733797290240)
-- **Published:** June 25, 2026
+- **Author:** [TWnese](https://x.com/TWnese)
+- **Source:** [Twitter Post](https://x.com/TWnese/status/2080714109960786234#reversed-0)
+- **Published:** July 24, 2026
 - **Languages:** en
 
-**[👉 Try it now →](https://youmind.com/gpt-image-2-prompts?id=26758)**
+**[👉 Try it now →](https://youmind.com/gpt-image-2-prompts?id=29729)**
 
 ---
 
-### No. 71: Comic / Storyboard - T-Rex Jungle Chase Cinematic Still
+### No. 70: Comic / Storyboard - Mecha Cockpit Pilot Scene
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Description
 
-A dramatic, photorealistic cinematic scene of a woman being pursued through a misty jungle by a Tyrannosaurus rex.
+A cinematic photorealistic image of a female pilot inside a giant robot cockpit overlooking a futuristic city, useful for sci-fi concept art.
 
 #### 📝 Prompt
 
 ```
-Photorealistic cinematic still of a terrified {argument name="character" default="young woman"} with {argument name="hairstyle" default="short blonde bob wavy hair and bangs"}, wearing a short {argument name="outfit color" default="magenta-pink"} dress, barefoot and running in panic through a dense misty jungle, pursued by a massive roaring Tyrannosaurus rex with open jaws
+Create a cinematic photorealistic science-fiction cockpit scene from inside a giant robot or advanced mecha, showing {argument name="pilot description" default="a young East Asian woman with long black hair and thin glasses"} seated in profile in a heavy armored pilot chair. She wears {argument name="pilot outfit" default="a beige futuristic flight suit with subtle harness straps"}, sitting calmly with hands on low cockpit controls, looking out through a large panoramic window. The cockpit is dark, metallic, industrial, and densely detailed, with thick black-gray structural frames, worn mechanical panels, bolts, rails, embedded control consoles, and blue glowing holographic HUD overlays floating across the windshield and ceiling. Include exactly 5 visible major HUD/interface areas: 1 large translucent blue diagnostic panel along the upper left ceiling, 1 narrow data column near the top center, 1 broad transparent navigation overlay across the main window, 1 dense blue data panel on the left side wall, and 1 illuminated console screen at the lower right. Outside the window is {argument name="outside view" default="a bright daytime futuristic city skyline with tall towers, distant mountains, blue sky, and scattered white clouds"}. Use a strong contrast between the shadowy cockpit interior and bright daylight outside, with realistic reflections on glass, atmospheric haze, volumetric light, shallow depth of field, and slight motion blur or radial blur around the edges as if the viewer is looking through a curved cockpit frame. Composition is horizontal-to-square cinematic framing, pilot centered slightly left, window view filling the right half, ultra-detailed, high realism, dramatic scale, no extra characters, no logos, no readable brand text.
 ```
 
 #### 🖼️ Generated Images
@@ -3801,7 +3657,75 @@ Photorealistic cinematic still of a terrified {argument name="character" default
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1784882728047_uowpd6_HN-PXD0bwAA61av.jpg" width="600" alt="Comic / Storyboard - T-Rex Jungle Chase Cinematic Still - Image 1">
+<img src="https://cms-assets.youmind.com/media/1784968632939_3uk96r_HN_bgambcAA7vJf.jpg" width="600" alt="Comic / Storyboard - Mecha Cockpit Pilot Scene - Image 1">
+</div>
+
+#### 📌 Details
+
+- **Author:** [カーブミラー](https://x.com/kabumira862571)
+- **Source:** [Twitter Post](https://x.com/kabumira862571/status/2080622909383676271#reversed-0)
+- **Published:** July 24, 2026
+- **Languages:** en
+
+**[👉 Try it now →](https://youmind.com/gpt-image-2-prompts?id=29738)**
+
+---
+
+### No. 71: Comic / Storyboard - Equestrian Pitch Deck Storyboard
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Description
+
+A high-end equestrian storyboard in a 12-frame grid featuring an elegant Hermès-inspired aesthetic with saddle tan and hunter green tones.
+
+#### 📝 Prompt
+
+```
+Create a high-end 4:3 equestrian pitch deck storyboard in 3x4 grid (12 frames), editorial layout, {argument name="brand style" default="Hermès Equestrian/Cavalleria Toscana style"}, {argument name="color palette" default="saddle tan + deep hunter green palette"}. Structured flow: stable → groom → saddle → ride → field
+```
+
+#### 🖼️ Generated Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1784968617648_w8aebv_HN-1VgnawAAqsz9.jpg" width="600" alt="Comic / Storyboard - Equestrian Pitch Deck Storyboard - Image 1">
+</div>
+
+#### 📌 Details
+
+- **Author:** [𝐌](https://x.com/Strength04_X)
+- **Source:** [Twitter Post](https://x.com/Strength04_X/status/2080580958789779821)
+- **Published:** July 24, 2026
+- **Languages:** en
+
+**[👉 Try it now →](https://youmind.com/gpt-image-2-prompts?id=29721)**
+
+---
+
+### No. 72: Comic / Storyboard - Terrified Woman Pursued by T-Rex in Jungle
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Description
+
+A cinematic and photorealistic shot of a blonde woman in a magenta dress fleeing from a Tyrannosaurus rex in a misty jungle.
+
+#### 📝 Prompt
+
+```
+Photorealistic cinematic still of a terrified young woman with {argument name="hair style" default="short blonde bob wavy hair and bangs"}, wearing a {argument name="outfit" default="short magenta-pink dress"}, barefoot and running in panic through a {argument name="setting" default="dense misty jungle"}, pursued by a massive roaring Tyrannosaurus rex with open jaws
+```
+
+#### 🖼️ Generated Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1784968616535_jpwd6r_HN-PXD0bwAA61av.jpg" width="600" alt="Comic / Storyboard - Terrified Woman Pursued by T-Rex in Jungle - Image 1">
 </div>
 
 #### 📌 Details
@@ -3815,35 +3739,19 @@ Photorealistic cinematic still of a terrified {argument name="character" default
 
 ---
 
-### No. 72: Comic / Storyboard - Futuristic Immortal Knight Narrative
+### No. 73: Comic / Storyboard - Sci-Fi Knight of the Order
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Description
 
-A high-concept narrative prompt describing an immortal knight in the year 2226, featuring armor adorned with historical shrouds and a runic sword.
+A dark, atmospheric narrative prompt for GPT Image 2 describing a knight whose armor is composed of multiple burial shrouds from his past lives.
 
 #### 📝 Prompt
 
 ```
-Year {argument name="year" default="2226"}.
-
-The order still stands, 200 years after the consortium stopped funding it.
-
-This {argument name="protagonist" default="knight"} has died fourteen times.
-
-Each time, they copied his memory, printed a new body for him, and gave him back the same armor.
-
-Every time he dies, they sew a piece of the previous shroud onto his cape.
-
-What he drags along are fourteen shrouds sewn one on top of the other.
-
-On the sword, the {argument name="sword details" default="red runes"} are names.
-
-People he didn't reach in time.
-
-The cathedral where he stands guard has been without a priest for eighty years.
+year {argument name="year" default="2226"}. the order still stands, 200 years after the consortium stopped funding it. this knight has died {argument name="death count" default="fourteen"} times. all {argument name="death count" default="fourteen"} times they copied his memory, printed a new body, and gave him back the same armor. each time he dies they sew a piece of the previous shroud onto his cape. what he drags along are {argument name="death count" default="fourteen"} shrouds sewn one on top of the other. on the sword, the {argument name="rune color" default="red"} runes are names. people he did not reach in time. the cathedral where he stands guard has been without a priest for eighty years.
 ```
 
 #### 🖼️ Generated Images
@@ -3851,7 +3759,7 @@ The cathedral where he stands guard has been without a priest for eighty years.
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1784882718883_zs814t_HN98Lc2a4AAJq09.jpg" width="600" alt="Comic / Storyboard - Futuristic Immortal Knight Narrative - Image 1">
+<img src="https://cms-assets.youmind.com/media/1784968605459_yow7s4_HN98Lc2a4AAJq09.jpg" width="600" alt="Comic / Storyboard - Sci-Fi Knight of the Order - Image 1">
 </div>
 
 #### 📌 Details
@@ -3865,7 +3773,7 @@ The cathedral where he stands guard has been without a priest for eighty years.
 
 ---
 
-### No. 73: Comic / Storyboard - Monochrome Scribble Ink Sketch
+### No. 74: Comic / Storyboard - Monochrome Scribble Ink Sketch
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3917,71 +3825,52 @@ Monochrome scribble ink drawing on clean white paper featuring {argument name="s
 
 ---
 
-### No. 74: Comic / Storyboard - Anime Character Design Sheet Generator
+### No. 75: Comic / Storyboard - Anime Character Sheet Reference Prompt
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Description
 
-A comprehensive prompt for creating a standardized 2D anime character sheet from a reference image, including front, side, and back views with design guides.
+A complex, structural prompt for generating a multi-angle character sheet (front, side, back) in high-quality theatrical anime style, specifically designed to maintain character consistency from a reference image.
 
 #### 📝 Prompt
 
 ```
-Reference to use: {argument name="reference image" default="One full-body reference image attached with this instruction sheet"}. Compatible with both real people or character illustrations.
+Reference Use:
+One full-body reference image attached to this instruction. Supports both real photos and illustrations.
 
-Text: Use the attached full-body reference image as the sole person reference to create a simple 1:1 square character sheet for sharing and video reference. Ensure the sheet fixes the character's face, hair, age, body type, uniform, and color scheme while maintaining a look that can be published as a standalone image. Do not include different individuals; maintain all character displays as the same person as the reference. Do not create a storyboard.
+Text Content:
+Using the attached reference image as the sole subject reference, create a simplified character sheet in 1:1 square format for both social sharing and video reference. The sheet should be visually appealing as a standalone image, allowing for the verification of the subject's face, hair, age, body type, uniform, and color scheme. Maintain the subject as the same person across all views without adding different individuals. Do not create a storyboard.
 
-[Scope of Reference Image Application]
-For real-life references, convert to a high-quality theatrical anime style while maintaining the characteristics of the reference person. For anime or illustration references, finish in a high-quality theatrical anime style while maintaining character features. Inherit facial features, eyes, outline, bangs, hairstyle, hair color, age, skin impression, body type, head-to-body ratio, and overall proportions from the reference image. Maintain the state of hair tied/down, tie position, parting, hair length, and hair strands around the face exactly as in the reference. Do not inherit clothing, shoes, accessories, small items, clothing color scheme, background, or pose from the reference image. Do not leave the shape, material, decoration, or shoes of the reference clothing in the final image; completely change to the uniform in these instructions.
-
-Use a full-body image where the top of the head to the tips of the toes can be seen and most of the body is not hidden.
+[Reference Image Application Scope]
+If the reference is a real photo, convert it into a high-quality theatrical anime style while maintaining the subject's features. If the reference is an illustration, finish it in a high-quality theatrical anime style. Inherit facial features, eye shape, contours, bangs, hairstyle, hair color, perceived age, skin texture, body type, head-to-body ratio, and overall proportions. Maintain the hair state (tied/loose), tie position, parting, length, and hair tufts around the face exactly as in the reference. Do not inherit the costume, shoes, accessories, or background from the reference image. Completely change the attire to the uniform specified in this instruction.
 
 [Body Type Consistency]
-Maintain the reference image's head-to-body ratio, head size, neck length, shoulder width, chest, torso length, waist position and width, arm and leg length, knee position, thigh-to-lower-leg ratio, body slenderness and volume, and overall silhouette. Anime conversion is limited to lines, colors, shadows, and textures; do not redesign the skeleton, body dimensions, or body proportions. Do not make the face smaller, legs longer, shorten the torso, change shoulder width or waist position, emphasize the waist, exaggerate the chest or hips, thin the body, infantilize the body, or change to another model body type.
-Maintain the same head-to-body ratio, skeleton, body proportions, and body volume in 01 FRONT, 02 SIDE, 03 BACK, and 04 SPECIAL LOOK. Draw full-body displays with standard natural perspective and the same eye level. Do not use wide-angle perspective, strong perspective exaggeration, extreme high-angle, or low-angle shots.
+Maintain the reference image's proportions, head size, neck length, shoulder width, torso length, waist position/width, arm/leg length, knee position, and overall silhouette. Limit the anime conversion to line, color, shading, and texture; do not redesign the skeletal structure or body dimensions. Do not perform facial slimming, leg lengthening, or any anatomical exaggerations.
+Maintain consistent body volume across 01 FRONT, 02 SIDE, 03 BACK, and 04 SPECIAL LOOK. Use standard, natural perspective and eye-level height. Avoid wide-angle distortion or extreme camera angles.
 
 [Expression]
-High-quality theatrical anime style. Bright, clean, and organized with a sophisticated finish that conveys the character's charm even as a standalone image. Do not use cheap TV anime style, mass-produced NPC style, game sprite style, 3D CG style, or expressions that just apply a simple filter to a real-life photo.
+High-quality theatrical anime style. Clean and polished finish. Avoid cheap TV anime styles, generic NPC looks, or simple photo filters.
 
 [Specified Outfit]
-Regardless of the outfit in the reference image, change to {argument name="uniform style" default="a navy blazer, white shirt, thin red ribbon, gray pleated skirt, dark knee-high socks, and white-based sneakers"}.
-Maintain the same uniform, color scheme, length, and shoes across the four full-body displays (01-04). 04 SPECIAL LOOK should also not be an outfit change; it should be a 3/4 view in the same uniform. The blazer, white shirt, and red ribbon visible in 05 FACE must also have the same design and color scheme as the full-body displays. Do not change the subject's body type or proportions due to clothing. Do not include school emblems, brand logos, excessive frills, or idol-style decorations.
+Regardless of the reference outfit, change to {argument name="uniform" default="a navy blazer, white shirt, thin red ribbon, and grey pleated skirt"} with dark knee-high socks and {argument name="shoes" default="white-based sneakers"}.
 
 [Fixed Layout]
-The whole is a two-tier structure: top 58%, bottom 42%. The background is solid white to very light gray. Secure enough margin so characters and elements do not overlap. Do not change the basic tier structure, placement, order, or ratio.
+Two-tier structure: Top 58%, Bottom 42%. Background is plain white to very light grey. Provide sufficient margins.
 
-[Top Tier: Approx. 58%]
-Divide the top tier into 4 horizontal sections with these ratios:
-01 FRONT: 22%
-02 SIDE: 22%
-03 BACK: 22%
-04 SPECIAL LOOK: 34%
-01-03 must be full-body displays including the head to the toes. 01 is a full-body front view, 02 is a precise 90-degree side view, and 03 is a full-body back view. 01-03 must have the same height, proportions, body type, outfit, camera distance, and eye level. Use a natural upright posture with arms down at the sides, not hiding the body or uniform.
-04 is a larger 3/4 view. Wearing the same uniform, use a natural expression and a still pose with slight movement that conveys charm. Do not use action shots like running, jumping, or fighting. Only behind 04, a simple, sophisticated flat color or subtle geometric color plane chosen from the uniform's color palette may be placed. Do not include scenery, buildings, interiors, roads, story scenes, or time progression.
+Top Tier (58%):
+01 FRONT (22%): Full-body front view.
+02 SIDE (22%): Accurate 90-degree side view.
+03 BACK (22%): Full-body back view.
+04 SPECIAL LOOK (34%): Larger 3/4 view with a natural, charming pose.
 
-[Bottom Tier: Approx. 42%]
-Divide the bottom tier into 05 FACE (left 62%) and 06 DESIGN GUIDE (right 38%).
-
-[05 FACE]
-Place three face views (front, 3/4, side) in a horizontal row at the same size. Align with the same camera distance, face size, and head position. Use a natural normal expression that makes it easy to check features, eyes, outline, bangs, hairstyle, hair color, and age. Not for expression differences, but for checking the same face and hair from three directions.
-
-[06 DESIGN GUIDE]
-Divide into COLOR PALETTE (top 40%) and DETAIL FOCUS (bottom 60%).
-COLOR PALETTE: Arrange the 5 main colors (hair, skin, navy blazer, red ribbon, gray skirt) based on the reference and specified uniform as clean color swatches. Do not bring colors from the reference clothing into the palette. The white shirt and white sneakers are shown in DETAIL FOCUS.
-DETAIL FOCUS: Consists of 3 equal sections:
-Left: White shirt collar and red ribbon
-Center: Bangs and hairline
-Right: White-based sneakers
-All based on the specified uniform and character design; do not reproduce the reference image's clothing, shoes, or accessories.
+Bottom Tier (42%):
+05 FACE (62%): Three facial views (Front, 3/4, Side) at the same size and camera distance.
+06 DESIGN GUIDE (38%): Color palette and detail focus (shirt collar/ribbon, bangs, sneakers).
 
 [Headings]
-Use only these short English headings:
-01 FRONT, 02 SIDE, 03 BACK, 04 SPECIAL LOOK, 05 FACE, 06 DESIGN GUIDE, COLOR PALETTE, DETAIL FOCUS. Place each in the upper left of its area in a small, unified font and size. Do not overlap with faces, hair, bodies, or clothing. Headings and thin dividers may subtly use an accent color matching the red ribbon.
-
-[Prohibitions]
-Do not add character displays other than the specified 4 full-body, 3 face, and 3 detail focus views. Do not leave reference clothing/colors in the final image. Do not change features across displays. Do not add background, scenes, or events. Do not use thick frames, excessive decoration, long descriptions, dialogue, subtitles, logos, or watermarks.
+Use only short English headings: 01 FRONT, 02 SIDE, 03 BACK, 04 SPECIAL LOOK, 05 FACE, 06 DESIGN GUIDE, COLOR PALETTE, DETAIL FOCUS.
 ```
 
 #### 🖼️ Generated Images
@@ -3989,7 +3878,7 @@ Do not add character displays other than the specified 4 full-body, 3 face, and 
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1784882717384_fc5vp2_HN9m9mfakAEWB4M.jpg" width="600" alt="Comic / Storyboard - Anime Character Design Sheet Generator - Image 1">
+<img src="https://cms-assets.youmind.com/media/1784968591835_tr1a50_HN9m9mfakAEWB4M.jpg" width="600" alt="Comic / Storyboard - Anime Character Sheet Reference Prompt - Image 1">
 </div>
 
 #### 📌 Details
@@ -4003,7 +3892,49 @@ Do not add character displays other than the specified 4 full-body, 3 face, and 
 
 ---
 
-### No. 75: Comic / Storyboard - Moody Thriller Bedroom Laptop Scene
+### No. 76: Comic / Storyboard - Anime Summer Kimono Design
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Description
+
+Creates a full-body anime character wearing a translucent summer kimono outfit inspired by a reference research board.
+
+#### 📝 Prompt
+
+```
+Using REFERENCE_0 as the clothing research board, create a clean full-body anime character design sheet for {argument name="character name" default="a slender young man"} in a breathable Japanese summer outfit. Transform the referenced woven, translucent summer kimono/haori ideas into an elegant modern illustration rather than a screenshot or collage.
+
+Character: Draw one standing bishounen-style male figure with {argument name="hair color" default="messy white hair"}, pale skin, and a calm slightly shy expression, facing forward in a relaxed pose with one hand resting near the waist.
+
+Outfit: Include exactly 5 visible outfit elements: 1) a white lightweight summer kimono/yukata with a subtle small repeating woven pattern, 2) a dark navy obi, 3) a sheer black gauze haori with visible transparency and fine weave texture, 4) a simple decorative cord with a small red bead, and 5) traditional black geta sandals with dark red straps.
+
+Style: Delicate Japanese anime fashion concept art, soft pencil-and-watercolor linework, refined fabric texture, airy summer feeling, neutral white background, full body centered with generous margins.
+
+Constraints: Do not reproduce the phone UI, search result cards, website labels, or Japanese chat text from the reference. Use the reference only to infer the summer kimono material, transparency, and period-inspired mood. No extra props, no background scenery, no additional characters, no watermark.
+```
+
+#### 🖼️ Generated Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1784968634432_m8pv0z_HN9EW5AakAAJeBk.jpg" width="600" alt="Comic / Storyboard - Anime Summer Kimono Design - Image 1">
+</div>
+
+#### 📌 Details
+
+- **Author:** [🐹🐹](https://x.com/hmst_yyyy)
+- **Source:** [Twitter Post](https://x.com/hmst_yyyy/status/2080456738961228262#reversed-0)
+- **Published:** July 24, 2026
+- **Languages:** en
+
+**[👉 Try it now →](https://youmind.com/gpt-image-2-prompts?id=29739)**
+
+---
+
+### No. 77: Comic / Storyboard - Moody Thriller Bedroom Laptop Scene
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4037,7 +3968,7 @@ Create a moody cinematic film still in a dark, cluttered bedroom at night, shot 
 
 ---
 
-### No. 76: Comic / Storyboard - Monochrome Idol Manga Preview Poster
+### No. 78: Comic / Storyboard - Monochrome Idol Manga Preview Poster
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4101,7 +4032,7 @@ Visual style: Professional seinen/shoujo hybrid manga poster, ultra-detailed lin
 
 ---
 
-### No. 77: Comic / Storyboard - Cinematic Norway Story World Keyframe
+### No. 79: Comic / Storyboard - Cinematic Norway Story World Keyframe
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4135,7 +4066,7 @@ Create a native 16:9 cinematic keyframe for {argument name="story concept" defau
 
 ---
 
-### No. 78: Comic / Storyboard - Steampunk Shih Tzu Moonlit City
+### No. 80: Comic / Storyboard - Steampunk Shih Tzu Moonlit City
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4175,7 +4106,7 @@ Create a cinematic dark fantasy steampunk illustration in a wide 16:9 landscape 
 
 ---
 
-### No. 79: Comic / Storyboard - Mech Pilot Cockpit Over City
+### No. 81: Comic / Storyboard - Mech Pilot Cockpit Over City
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4209,7 +4140,7 @@ Create a cinematic photorealistic sci-fi cockpit scene from a rear-centered view
 
 ---
 
-### No. 80: Comic / Storyboard - Anime Lifestyle with Manga Shadows
+### No. 82: Comic / Storyboard - Anime Lifestyle with Manga Shadows
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4249,7 +4180,7 @@ Wholesome anime-inspired lifestyle portrait of a {argument name="character" defa
 
 ---
 
-### No. 81: Comic / Storyboard - Mischievous Doodle Shadow
+### No. 83: Comic / Storyboard - Mischievous Doodle Shadow
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4283,7 +4214,7 @@ A mischievous doodle shadow mimics the character with exaggerated funny poses wh
 
 ---
 
-### No. 82: Comic / Storyboard - Cinematic Red Noir Saree Portrait
+### No. 84: Comic / Storyboard - Cinematic Red Noir Saree Portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4317,7 +4248,7 @@ Create a cinematic vertical portrait of {argument name="character name" default=
 
 ---
 
-### No. 83: Comic / Storyboard - Monochrome Anime Hakama Character
+### No. 85: Comic / Storyboard - Monochrome Anime Hakama Character
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4351,31 +4282,18 @@ Create a full-body standing character design sheet of a slim young anime man nam
 
 ---
 
-### No. 84: Comic / Storyboard - Shaolin Monk Character Sheet
+### No. 86: Product Marketing - Luxury Sports Fashion Studio Editorial
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Description
 
-Generates a wide professional character reference sheet for a fierce golden-robed Shaolin monk with poses, silhouettes, expressions, and costume detail studies.
+A high-end editorial photography prompt for a luxury sports fashion campaign featuring minimalist composition and premium studio lighting.
 
 #### 📝 Prompt
 
 ```
-Goal: Create a high-end cinematic character design sheet for {argument name="character name" default="MEI LIAN"}, a fierce Shaolin monk character with a shaved head, golden robes, and an unbreakable presence, suitable as a reference sheet for animation or game production.
-
-Canvas: Wide horizontal white studio canvas, approximately 16:9, clean negative space, photorealistic concept-art presentation with soft studio lighting and faint contact shadows under the character. Use a warm ochre, saffron, cream, and weathered gold palette.
-
-Top-left text block: Large title “{argument name="character name" default="MEI LIAN"}” in bold condensed uppercase golden-brown lettering. Under it include three concise lines: “ROLE: Shaolin Monk”, “CORE MOOD: Fierce. Unyielding. Transcendent.”, and “VISUAL SIGNATURE: Shaved head. Golden robes. Unbreakable will.”
-
-Main subject details: The character is a plus-size bald female Shaolin monk with medium-brown skin, intense direct gaze, strong eyebrows, large gold hoop earrings, layered necklaces, bracelets, prayer beads, talismans, and weathered fabric accessories. She wears {argument name="robe color" default="saffron golden-yellow"} layered monk robes wrapped loosely across the shoulders and chest, exposing the belly, with voluminous off-white harem pants printed with subtle gold motifs, wrapped beige boots, and a long torn trailing sash. Her expression is commanding, serene, and intimidating.
-
-Layout and counted elements: Show exactly 15 character/reference elements total. Include 1 large central full-body front view dominating the middle of the sheet. Include 6 additional pose/view studies around it: 1 left side profile full-body view labeled “PROFILE”, 1 small rear full-body view labeled “BACK VIEW”, 1 upper-body forward leaning pose labeled “LEANING POSE”, 1 seated cross-legged pose labeled “SEATED POSE”, 1 low crouching pose labeled “CROUCHING POSE”, and 1 dramatic low-angle view labeled “LOW-ANGLE VIEW”. Include 1 top-down perspective pose in the upper-right labeled “TOP-DOWN ANGLE”. Include 3 black silhouette studies along the lower-left labeled “SILHOUETTE STUDY”: front silhouette with trailing sash, rear silhouette, and side/rear silhouette. Include 5 face expression thumbnails along the lower center labeled “EXPRESSION STUDY”: calm intense stare, shouting open mouth, stern neutral face, worried or tense face, and downward suspicious glare. Include 4 close-up detail thumbnails along the lower-right labeled “DETAIL STUDY”: eyes and earrings, layered chest robe and necklaces, hanging bead/talisman accessories, and wrapped boot.
-
-Visual style: Photorealistic fantasy costume concept sheet with subtle ink-like handwritten labels, realistic fabric texture, frayed robe edges, dusty boots, detailed jewelry, natural skin texture, and consistent studio lighting. The sheet should feel like a professional character reference board, not a comic page.
-
-Constraints: Keep all background areas plain white or very light gray. Do not add scenery, weapons, logos, watermark, UI elements, or extra characters. Maintain the exact counted pose groups and labels. Make the character visually consistent across all views, with the same shaved head, body shape, costume, jewelry, and golden monk identity.
+Ultra-realistic luxury sports fashion editorial, Cristiano Ronaldo seated casually on a minimalist chrome folding chair, wearing Portugal's pale mint-green national team kit with oversized wide-leg track pants, black loafers, confident expression looking off-camera, second miniature version of himself floating in the background in a dynamic football pose, clean white seamless studio backdrop, soft diffused lighting, premium fashion campaign aesthetic, subtle shadows, minimal composition with abundant negative space, captured on Hasselblad X2D 100C, 80mm f/2.8, ultra-detailed fabric texture, Vogue × Puma campaign style, photorealistic, HDR, 8K. High-end fashion editorial portrait of Cristiano Ronaldo wearing Portugal's mint-green football jersey and oversized wide-leg track pants, hands inside pockets, looking upward with a calm confident expression, futuristic black suspension cables sweeping across a white studio background with subtle sky-blue gradient lighting, luxury sportswear campaign, soft diffused daylight, crisp shadows, premium commercial photography, photographed on Sony A1, 85mm GM f/1.4, ultra-realistic skin texture, minimalist composition, premium Puma campaign aesthetic, photorealistic, 8K. Luxury commercial sports portrait of Cristiano Ronaldo standing behind a giant suspended brushed-metal Mercedes-Benz three-point star emblem, one hand resting on the logo while gazing upward, Portugal mint-green national team kit with oversized trousers and black loafers, industrial steel cables supporting the emblem, clean white seamless studio background, premium automotive × sports fashion campaign, ultra-soft studio lighting, sharp reflections on polished metal, Phase One XF IQ4, 80mm Schneider lens, editorial realism, hyper-detailed textures, luxury advertising photography, HDR, 8K. Premium minimalist sports fashion campaign, rear view of Cristiano Ronaldo wearing Portugal's mint-green jersey with "RONALDO 7" on the back, holding a massive suspended brushed-metal Mercedes-Benz logo with both hands, symmetrical composition, industrial suspension cables, soft white studio background with subtle blue gradient, clean luxury aesthetic, perfectly balanced framing, premium automotive collaboration, diffused softbox lighting, captured on Leica SL3, 75mm APO-Summicron, ultra-realistic commercial photography, crisp fabric detail, luxury editorial campaign, photorealistic, HDR, 8K.
 ```
 
 #### 🖼️ Generated Images
@@ -4383,114 +4301,51 @@ Constraints: Keep all background areas plain white or very light gray. Do not ad
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1784882736260_kgqa2j_HN4gJANaUAAEpzt.jpg" width="600" alt="Comic / Storyboard - Shaolin Monk Character Sheet - Image 1">
-</div>
-
-#### 📌 Details
-
-- **Author:** [lava ./](https://x.com/HaixiongS)
-- **Source:** [Twitter Post](https://x.com/HaixiongS/status/2080135478855213513#reversed-0)
-- **Published:** July 23, 2026
-- **Languages:** en
-
-**[👉 Try it now →](https://youmind.com/gpt-image-2-prompts?id=29625)**
-
----
-
-### No. 85: Comic / Storyboard - 3D Animated Commercial Storyboard
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Description
-
-Generates a professional 9-grid storyboard presentation board with a cinematic 3D animation style for pitch decks.
-
-#### 📝 Prompt
-
-```
-Create a premium director-style 9-grid storyboard presentation board for a short cinematic 3D animated commercial.
-
-The image should be a 16:9 horizontal creative pitch board with a professional black cinematic layout, a bold title area, a clean 3x3 grid of
-```
-
-#### 🖼️ Generated Images
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1784882725247_x24kuv_HN4av-rbQAAQJzq.jpg" width="600" alt="Comic / Storyboard - 3D Animated Commercial Storyboard - Image 1">
-</div>
-
-#### 📌 Details
-
-- **Author:** [𝐌](https://x.com/Strength04_X)
-- **Source:** [Twitter Post](https://x.com/Strength04_X/status/2080129617491611730)
-- **Published:** July 23, 2026
-- **Languages:** en
-
-**[👉 Try it now →](https://youmind.com/gpt-image-2-prompts?id=29616)**
-
----
-
-### No. 86: Comic / Storyboard - Lone Woman in Ruined Megastructure
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Description
-
-A cinematic sci-fi concept art prompt for generating a lone heroine inside a vast shattered futuristic ruin.
-
-#### 📝 Prompt
-
-```
-Create a widescreen cinematic science-fiction concept art scene in a bleak monochrome palette. The setting is the colossal interior wreckage of a destroyed futuristic megastructure or crashed spacecraft, viewed from a low ground-level perspective under an enormous dark ceiling slab that dominates the top two-thirds of the frame. Show one lone female figure standing slightly right of center in the distance, small against the architecture, with long black hair, pale skin, and a flowing dark-and-white layered outfit or coat, giving a quiet post-apocalyptic heroine mood. Surround her with shattered metal plates, collapsed floor debris, hanging cables, jagged beams, and broken hull fragments; include three massive curved structural ribs receding into the bright misty opening behind her. Strong backlight floods in from the left and rear, creating a white foggy exterior glow and deep silhouettes in the foreground. Use dramatic scale contrast, sharp angular sci-fi industrial forms, subtle dust haze, high detail, matte-painting realism, cold gray and black tones, no text, no watermark. Aspect ratio 16:9. Optional customization: the lone character is {argument name="character name" default="an unnamed dark-haired woman"}, the environment is {argument name="ruined structure type" default="a crashed alien megastructure"}, the mood is {argument name="cinematic mood" default="bleak post-apocalyptic solitude"}, the color palette is {argument name="color palette" default="cold monochrome gray and black"}, and the lighting is {argument name="lighting style" default="harsh white backlight through fog"}.
-```
-
-#### 🖼️ Generated Images
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1784882748266_h3wfbk_HN3XpuaasAAVefL.jpg" width="600" alt="Comic / Storyboard - Lone Woman in Ruined Megastructure - Image 1">
+<img src="https://cms-assets.youmind.com/media/1784968569990_tsb7l7_HOC5vyEbMAAmnj-.jpg" width="600" alt="Product Marketing - Luxury Sports Fashion Studio Editorial - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1784882748447_owd4h3_HN3XznnaQAAVCwy.jpg" width="600" alt="Comic / Storyboard - Lone Woman in Ruined Megastructure - Image 2">
+<img src="https://cms-assets.youmind.com/media/1784968569806_7nzt8w_HOC5wZnaEAAuvqo.jpg" width="600" alt="Product Marketing - Luxury Sports Fashion Studio Editorial - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1784882748641_bx4vqq_HN3Y44nbcAAP9Bf.jpg" width="600" alt="Comic / Storyboard - Lone Woman in Ruined Megastructure - Image 3">
+<img src="https://cms-assets.youmind.com/media/1784968569747_7mqfwo_HOC5xGFb0AAg4iP.jpg" width="600" alt="Product Marketing - Luxury Sports Fashion Studio Editorial - Image 3">
+</div>
+
+##### Image 4
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1784968571989_3gpbs6_HOC5xufaEAA-j09.jpg" width="600" alt="Product Marketing - Luxury Sports Fashion Studio Editorial - Image 4">
 </div>
 
 #### 📌 Details
 
-- **Author:** [Eighth.D](https://x.com/XingQi8_art)
-- **Source:** [Twitter Post](https://x.com/XingQi8_art/status/2080057141780697158#reversed-0)
-- **Published:** July 22, 2026
+- **Author:** [Taaruk](https://x.com/Taaruk_)
+- **Source:** [Twitter Post](https://x.com/Taaruk_/status/2080867301705080846)
+- **Published:** July 25, 2026
 - **Languages:** en
 
-**[👉 Try it now →](https://youmind.com/gpt-image-2-prompts?id=29535)**
+**[👉 Try it now →](https://youmind.com/gpt-image-2-prompts?id=29678)**
 
 ---
 
-### No. 87: Comic / Storyboard - Action Chase 2D Storyboard
+### No. 87: Product Marketing - Editorial Character Profile Spread
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Description
 
-Creates a clean 2D line-sketch storyboard for a cinematic rooftop chase scene involving a detective and a criminal.
+A modern editorial magazine layout featuring bold typography and a photorealistic character profile for a high-end character design concept.
 
 #### 📝 Prompt
 
 ```
-Using these {argument name="reference subjects" default="two characters"} as reference. I want you to create a {argument name="style" default="landscape clean 2D storyboard line-sketch sheet"} laying out a {argument name="scene description" default="cinematic, action oriented rooftop chase scene"} between the detective and the criminal
+Create a high-end editorial character profile spread layout split into two sections. LEFT SECTION → Large bold typography "{argument name="character name" default="ZION VALE"}" in heavy black uppercase font → Subtitle: "{argument name="subtitle" default="HE RUNS TOWARD THE FIRE"}" → Full body photorealistic image of a real {argument name="age" default="29-year-old"}
 ```
 
 #### 🖼️ Generated Images
@@ -4498,33 +4353,33 @@ Using these {argument name="reference subjects" default="two characters"} as ref
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1784882728154_35pwhb_HN3P_ToWAAAuL19.jpg" width="600" alt="Comic / Storyboard - Action Chase 2D Storyboard - Image 1">
+<img src="https://cms-assets.youmind.com/media/1784968617636_jy2cu3_HOCkwfOacAAGQ2X.jpg" width="600" alt="Product Marketing - Editorial Character Profile Spread - Image 1">
 </div>
 
 #### 📌 Details
 
-- **Author:** [LANDCÄSTER](https://x.com/LANDCASTER_92)
-- **Source:** [Twitter Post](https://x.com/LANDCASTER_92/status/2080047292996780139)
-- **Published:** July 22, 2026
+- **Author:** [𝐌](https://x.com/Strength04_X)
+- **Source:** [Twitter Post](https://x.com/Strength04_X/status/2080844202183889396)
+- **Published:** July 25, 2026
 - **Languages:** en
 
-**[👉 Try it now →](https://youmind.com/gpt-image-2-prompts?id=29518)**
+**[👉 Try it now →](https://youmind.com/gpt-image-2-prompts?id=29720)**
 
 ---
 
-### No. 88: Comic / Storyboard - Tokyo Noir Detective Rooftop
+### No. 88: Product Marketing - Outdoor Pizza Lifestyle Magazine Cover
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Description
 
-A cinematic prompt for generating a gritty Japanese detective portrait on a rain-soaked Tokyo rooftop at dramatic sunset.
+A vibrant magazine cover style prompt featuring an outdoor kitchen scene with a wood-fired pizza oven and a joyful atmosphere.
 
 #### 📝 Prompt
 
 ```
-Create a cinematic vertical portrait of a gritty Japanese noir detective on a rain-slick rooftop in Tokyo at sunset. The subject is {argument name="character description" default="a rugged middle-aged Japanese man with wet swept-back black hair, stubble, a stern tired expression, visible neck and chest tattoos"}, standing three-quarter frontal and looking slightly down at the viewer with a tough, brooding attitude. He wears {argument name="outfit" default="a dark pinstripe suit, black open-collar shirt, leather-like dark coat, belt, and loose trousers"}; one hand is in his pocket and the other holds a cigarette near his thigh. The environment is a dense urban Tokyo skyline with glowing windows, neon signs, and industrial rooftop details, all wet from rain with strong reflections on the floor. Include exactly 3 prominent signs: a large weathered rooftop billboard on the right reading 「東京探偵 事務所」, a vertical red neon hotel sign on the left reading 「ホテル ニュー東京」, and a smaller red sign in the mid-background reading 「ポンコ」. Use {argument name="time and sky" default="dramatic golden-orange sunset breaking through dark storm clouds"} as the main backlight, creating rim light around the character and high-contrast shadows on his face and suit. Style should be ultra-realistic cinematic photography, moody neo-noir crime drama, 35mm film look, shallow depth of field, wet textures, volumetric haze, rich amber highlights and deep black shadows, high detail skin texture, realistic fabric folds, no cartoon styling, no extra characters, no watermark.
+Ultra-realistic outdoor food lifestyle magazine cover featuring a joyful {argument name="subject nationality" default="Korean"} woman in a linen apron over a casual summer outfit, sliding a perfectly blistered {argument name="food item" default="Neapolitan pizza"} into an Ooni Koda 16 gas pizza oven on a stone outdoor kitchen, laughing naturally in the warm fire glow. Sun-kissed glowing skin, fresh no-makeup look, hair pulled back loosely. Background: {argument name="background setting" default="gorgeous Italian-style outdoor terrace"} — warm evening light, stone walls, blurred vineyard backdrop, fire glow dancing. "BON APPÉTIT" masthead in bold warm sans-serif with "FIRE & FEAST ISSUE" callout. 35mm lens, ultra-detailed pizza char texture and Ooni oven steel body, 8K photorealistic warm lifestyle.
 ```
 
 #### 🖼️ Generated Images
@@ -4532,33 +4387,58 @@ Create a cinematic vertical portrait of a gritty Japanese noir detective on a ra
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1784796611725_tcqmm7_HN3PYxGWIAE7ayu.jpg" width="600" alt="Comic / Storyboard - Tokyo Noir Detective Rooftop - Image 1">
+<img src="https://cms-assets.youmind.com/media/1784968583436_scql3m_HOCWeo4awAA3r1v.jpg" width="600" alt="Product Marketing - Outdoor Pizza Lifestyle Magazine Cover - Image 1">
 </div>
 
 #### 📌 Details
 
-- **Author:** [LANDCÄSTER](https://x.com/LANDCASTER_92)
-- **Source:** [Twitter Post](https://x.com/LANDCASTER_92/status/2080046630623908020#reversed-0)
-- **Published:** July 22, 2026
+- **Author:** [Zephyra Leigh](https://x.com/ZephyraLeigh)
+- **Source:** [Twitter Post](https://x.com/ZephyraLeigh/status/2080828491269025947)
+- **Published:** July 25, 2026
 - **Languages:** en
 
-**[👉 Try it now →](https://youmind.com/gpt-image-2-prompts?id=29556)**
+**[👉 Try it now →](https://youmind.com/gpt-image-2-prompts?id=29687)**
 
 ---
 
-### No. 89: Comic / Storyboard - Tokyo Noir Detective Rooftop Portrait
+### No. 89: Product Marketing - Luxury Railway Board Game Organizer Poster
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Description
 
-Generates a cinematic noir-style Japanese detective character portrait on a rainy Tokyo rooftop at sunset.
+Creates a premium product-presentation poster for a modular railway board-game organizer based on prototype reference photos.
 
 #### 📝 Prompt
 
 ```
-Create a cinematic vertical portrait of {argument name="character name" default="a brooding Tokyo private detective"} standing on a wet rooftop at sunset, framed from mid-thigh upward in a 9:16 composition. He is a Japanese man in his early-to-mid 30s with medium-length messy black hair, light stubble, tired intense eyes, and a serious noir expression, looking directly at the camera with both hands in his trouser pockets. Outfit: exactly 5 main visible clothing/accessory pieces — a wrinkled pale gray button-up dress shirt with sleeves rolled to the forearms, a loosened dark tie, black shoulder holster straps, brown high-waisted pleated trousers, and a dark belt. The setting is a gritty urban Tokyo skyline after rain, with reflective puddles on the rooftop floor, a metal guardrail, dense city buildings with lit windows and neon signs below, and exactly 1 large rooftop billboard on the right reading 「東京探偵事務所」. Use dramatic golden-orange sunset light breaking through dark storm clouds, strong rim lighting around the hair and shoulders, deep shadows on the face, moody high-contrast color grading, realistic film photography, subtle rain-slick textures, 35mm cinematic lens feel, shallow depth of field, detailed skin and fabric, no extra characters, no modern sci-fi elements, no watermark.
+Using REFERENCE_0 and REFERENCE_1 as the physical product reference, transform the modular white 3D-printed board-game organizer into a premium crowdfunding-style product presentation poster for {argument name="product name" default="RAILWAY PLAY STATION"}. Keep the same core concept: removable modular trays for separating personal money, company assets, cards, tokens, and train-related components, but redesign the visual style as a luxury dark leather-and-brass tabletop accessory rather than a plain white prototype.
+
+Canvas and style: Create a horizontal 16:9 product board on a warm dark tabletop, cinematic shallow depth of field, antique railway / executive desk atmosphere, black leather texture, gold trim, sepia lighting, high-end catalog design. Use elegant serif English headline typography and small Japanese explanatory copy.
+
+Main layout: Put a large hero render of the organizer across the left and center. Show it divided into exactly 4 labeled functional areas with thin callout lines:
+1. A stock certificate area — cards standing upright and easy to see.
+2. B personal funds area — neatly sorted paper money / securities.
+3. C company pod dock — removable company tray holding company cards, money, colored cubes, and tokens.
+4. D transaction harbor — a side holding area for temporary sales, distribution, payments, or transaction handling.
+
+Right column: Add exactly 3 stacked explanatory image panels with Japanese headings:
+1. Company pod, detachable style — show the removable pod full of cards, money, and tokens.
+2. How to use the transaction harbor — show temporary components placed in the curved side tray.
+3. Company pod handoff image — show hands passing the removable company pod.
+
+Bottom strip: Add a section titled in Japanese as a usage image area, containing exactly 4 small scenario thumbnails with captions:
+1. Start by organizing stocks and funds.
+2. Operate a company by docking the pod.
+3. Use the transaction harbor for sales.
+4. End-phase payments and distribution.
+
+Feature row: Beneath the hero product, include exactly 4 circular gold line icons with short Japanese benefits: easy to see, does not scatter, functional, comfortable to carry.
+
+Size panel: Add a beige specification box at lower right showing printable size information for {argument name="printer size" default="A2L"}, including approximate dimensions {argument name="main body dimensions" default="W322 × D166 × H18mm"} and company pod dimensions {argument name="company pod dimensions" default="W84 × D117 × H30mm"}. Include a simple side-profile silhouette of the organizer.
+
+Text: Use headline {argument name="headline text" default="RAILWAY PLAY STATION"}. Add Japanese subtitle copy meaning “Everything personal, beautifully and functionally,” and a small line indicating it is a dedicated tray tool for a railway board game. Keep the poster polished and realistic, with legible labels, no watermark, and no unrelated extra components.
 ```
 
 #### 🖼️ Generated Images
@@ -4566,33 +4446,41 @@ Create a cinematic vertical portrait of {argument name="character name" default=
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1784882750701_hzbr2v_HN3PNMHWwAARCWT.jpg" width="600" alt="Comic / Storyboard - Tokyo Noir Detective Rooftop Portrait - Image 1">
+<img src="https://cms-assets.youmind.com/media/1784968635512_1lv6z6_HOBm0QUaoAAuspA.jpg" width="600" alt="Product Marketing - Luxury Railway Board Game Organizer Poster - Image 1">
 </div>
 
 #### 📌 Details
 
-- **Author:** [LANDCÄSTER](https://x.com/LANDCASTER_92)
-- **Source:** [Twitter Post](https://x.com/LANDCASTER_92/status/2080046431356797268#reversed-0)
-- **Published:** July 22, 2026
+- **Author:** [放課後等デイサービスのトムソーヤ](https://x.com/houdeinotomsoya)
+- **Source:** [Twitter Post](https://x.com/houdeinotomsoya/status/2080776080743686414#reversed-2)
+- **Published:** July 24, 2026
 - **Languages:** en
 
-**[👉 Try it now →](https://youmind.com/gpt-image-2-prompts?id=29555)**
+**[👉 Try it now →](https://youmind.com/gpt-image-2-prompts?id=29740)**
 
 ---
 
-### No. 90: Product Marketing - Luxury Three-Portrait Gallery Wall
+### No. 90: Product Marketing - Futuristic High Fashion Editorial Portrait
 
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Description
 
-Creates a realistic upscale interior mockup with three framed portrait photos on a softly lit gallery wall.
+A cinematic, high-fashion prompt for a model in a futuristic architectural setting during golden hour, emphasizing realistic skin textures and architectural lines.
 
 #### 📝 Prompt
 
 ```
-Create an ultra-realistic modern gallery wall mockup in a luxury interior, vertical 4:5 composition. Show a smooth matte off-white wall with exactly three framed portrait photographs arranged horizontally in a straight row with equal spacing. Each frame is portrait-oriented, slim black metal or wood frame, white mat border, glass front with subtle reflections, and realistic shadows. The three framed photos show the same {argument name="portrait subject" default="young Black man"} in three different professional portrait styles: left frame shows a front-facing head-and-shoulders portrait wearing a {argument name="left outfit" default="blue and gold patterned African print shirt"}; center frame shows him looking downward while adjusting his cuff or watch, wearing a {argument name="center outfit" default="royal blue traditional-style shirt with glasses and a pocket square"}; right frame shows a formal front-facing business portrait wearing a {argument name="right outfit" default="navy suit, white shirt, navy tie, tie bar, and white pocket square"}. Place one long, thin black picture light centered above the frames, casting a warm soft glow across the wall and the top edges of the frames. Include a blurred green indoor plant in the lower left foreground, a dark modern wooden sideboard cabinet in the lower right, a simple white baseboard, and a gray stone or polished concrete floor. Lighting should be warm, high-end, calm, and gallery-like, with soft natural shadows and shallow depth of field in the foreground. No text, no logos, no watermark, no extra frames, keep exactly three portraits.
+{argument name="subject" default="A young adult East Asian female model"} walking in a modern landmark plaza, almost full-body shot. Low-angle shot from a very low position, person is centered slightly to the left, stepping forward with strong dynamic movement: front leg extended far forward, back leg supporting, purposeful stride. Upright torso, relaxed shoulders and neck, head slightly tilted up and turned to the upper left, looking into the distance, not at the camera, with a calm, confident, and aloof high-fashion expression.
+
+She is tall and slender, with deep black hair tied in a slightly messy low bun with stray strands. Exquisite facial features, light makeup, skin retains real pores, fine texture, and natural highlights, no plastic smoothing. She wears {argument name="clothing" default="a black haute couture gown"}: sleeveless slim-fit long dress, cinched waist, high slit and asymmetric wrap structure; upper body features exaggerated sculptural shawl/cape shoulder structure, creating a strong architectural silhouette; small metal decoration at the waist. Wearing black pointed-toe high heels, minimal rings, and delicate ankle jewelry.
+
+Background is {argument name="background" default="a grand futuristic white building"} with a giant central dome, diagonal white support structures and glass facades, overall axially symmetrical. Ground is an open stone plaza. Golden hour, warm sunset light from the left side outlining the figure and building surfaces, soft clouds in the sky. Overall low-saturation warm gold-gray tone, cinematic feel.
+
+Photography style: Full-body fashion editorial, 24mm-35mm wide-angle low-angle shot, realistic perspective, clear architectural lines, real skin and fabric textures, slight film grain, photorealistic.
+
+Avoid: Cartoon, CG feel, architectural distortion, exaggerated smoothing, incorrect limbs, incorrect heels, messy crowds, text, watermarks, logos.
 ```
 
 #### 🖼️ Generated Images
@@ -4600,21 +4488,458 @@ Create an ultra-realistic modern gallery wall mockup in a luxury interior, verti
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1784882729188_ay7yxw_HN-RjEiWgAAUIYS.jpg" width="600" alt="Product Marketing - Luxury Three-Portrait Gallery Wall - Image 1">
+<img src="https://cms-assets.youmind.com/media/1784968593746_wgjkui_HN7qtTyWoAAgr0V.jpg" width="600" alt="Product Marketing - Futuristic High Fashion Editorial Portrait - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1784968593983_78q4et_HN7qtTyWAAE9BtW.jpg" width="600" alt="Product Marketing - Futuristic High Fashion Editorial Portrait - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1784968594596_dn5zct_HN7qtTzWsAIsaNU.jpg" width="600" alt="Product Marketing - Futuristic High Fashion Editorial Portrait - Image 3">
+</div>
+
+##### Image 4
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1784968595421_jtm7hh_HN7qtT0WsAAjGeV.jpg" width="600" alt="Product Marketing - Futuristic High Fashion Editorial Portrait - Image 4">
+</div>
+
+#### 📌 Details
+
+- **Author:** [ToroJushiAi](https://x.com/ToroJushiAi)
+- **Source:** [Twitter Post](https://x.com/ToroJushiAi/status/2080775030368301215)
+- **Published:** July 24, 2026
+- **Languages:** zh
+
+**[👉 Try it now →](https://youmind.com/gpt-image-2-prompts?id=29699)**
+
+---
+
+### No. 91: Product Marketing - Cinematic Portrait of an East Asian Woman in a Dark Bedroom
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Description
+
+A highly detailed prompt for generating a realistic and moody portrait of a young East Asian woman in silk pajamas, sitting in a minimalist dark bedroom with soft window light.
+
+#### 📝 Prompt
+
+```
+A young adult East Asian {argument name="gender" default="female"} sits on the edge of a bed in a dark bedroom, captured in a mid-to-full-body composition, positioned slightly left of center. She sits sideways, leaning forward slightly with relaxed shoulders, her head bowed gently, looking down and avoiding the camera with a quiet, restrained, and contemplative expression. Her hands rest naturally in front of her legs, one hand lightly holding the other cuff in a modest and relaxed posture. She has a soft ovoid face, almond-shaped deep brown eyes, natural thin eyebrows, a slim nose, and pale nude pink lips. Her makeup is extremely light, retaining natural lashes, fine eyeliner, and a touch of blush. Her skin is fair with warm tones, preserving real pores, fine vellus hair, natural color variations, and soft highlights, without plastic-like smoothing. She has {argument name="hair color" default="deep black"} long straight hair, flowing naturally with rich volume, some strands falling across her face, shoulders, and chest with a slight messiness. Her attire is a {argument name="clothing" default="black silk or satin pajama set"}, with a long-sleeved short top and high-waisted pants, featuring fine white piping on the collar, placket, cuffs, and chest pocket, with clear white buttons. The fabric is soft and smooth with a light satin sheen. The background is a minimalist dark bedroom: heavy black curtains on the left, a bed with dark gray or black bedding on the right, and a dark gray-brown wall behind, creating a clean and quiet environment. Lighting is soft natural window light from the left, low contrast and low saturation, with delicate transitions on the face and fabric, presenting a quiet cinematic feel. Photography style: 85mm portrait lens, f/2, shallow depth of field, clear eyes and face, soft blurred background, real optical imaging, light film grain, dark editorial lifestyle portrait, photorealistic. Avoid: Cartoon, CG, excessive smoothing, heavy makeup, exaggerated expressions, incorrect fingers, deformed limbs, strong HDR, over-sharpening, cluttered background, text, watermarks, logos.
+```
+
+#### 🖼️ Generated Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1784968601821_jkwysg_HN874fQXAAAE7mE.jpg" width="600" alt="Product Marketing - Cinematic Portrait of an East Asian Woman in a Dark Bedroom - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1784968602961_dg3w8l_HN874fYWMAAhvu2.jpg" width="600" alt="Product Marketing - Cinematic Portrait of an East Asian Woman in a Dark Bedroom - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1784968601896_ck19k2_HN874ftXQAAPEtx.jpg" width="600" alt="Product Marketing - Cinematic Portrait of an East Asian Woman in a Dark Bedroom - Image 3">
+</div>
+
+##### Image 4
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1784968603131_hv6con_HN874fkWkAIBexb.jpg" width="600" alt="Product Marketing - Cinematic Portrait of an East Asian Woman in a Dark Bedroom - Image 4">
+</div>
+
+#### 📌 Details
+
+- **Author:** [ToroJushiAi](https://x.com/ToroJushiAi)
+- **Source:** [Twitter Post](https://x.com/ToroJushiAi/status/2080744829563384253)
+- **Published:** July 24, 2026
+- **Languages:** zh
+
+**[👉 Try it now →](https://youmind.com/gpt-image-2-prompts?id=29704)**
+
+---
+
+### No. 92: Product Marketing - Full-Body Studio Lifestyle Portrait
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Description
+
+Generates a realistic full-body studio fashion portrait of a casually dressed adult subject on a seamless gray background.
+
+#### 📝 Prompt
+
+```
+Create an ultra-realistic full-body premium lifestyle studio portrait of {argument name="subject" default="a young adult Black man"} standing centered against a seamless {argument name="background color" default="light gray"} studio backdrop. He faces the camera directly with a calm neutral expression, relaxed shoulders, and both hands tucked casually into the side pockets of his shorts. Use a natural confident stance with feet about shoulder-width apart. Outfit: an oversized plain {argument name="shirt color" default="black"} short-sleeve crewneck T-shirt with a tiny square logo patch on the left chest, {argument name="shorts color" default="cream beige"} knee-length casual shorts, and clean white low-top sneakers with white laces. Hair is short, neat, and closely cropped; no accessories, no eyewear, no facial hair. Lighting should be soft, even, high-end studio lighting with gentle shadows under the shoes and subtle falloff on the gray cyclorama floor. Composition is vertical, full body visible from head to shoes with generous negative space around the subject, realistic skin texture, accurate fabric folds, sharp focus, editorial clothing-catalog quality, minimal modern aesthetic, no text, no watermark.
+```
+
+#### 🖼️ Generated Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1784968619348_rrnalk_HOA7RC1W0AAce2d.jpg" width="600" alt="Product Marketing - Full-Body Studio Lifestyle Portrait - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1784968619263_v2i98g_HOA7RviWIAA9MgI.jpg" width="600" alt="Product Marketing - Full-Body Studio Lifestyle Portrait - Image 2">
 </div>
 
 #### 📌 Details
 
 - **Author:** [Abkr Sadiq](https://x.com/abs_uiux)
-- **Source:** [Twitter Post](https://x.com/abs_uiux/status/2080541602473246777#reversed-0)
+- **Source:** [Twitter Post](https://x.com/abs_uiux/status/2080728213823582589#reversed-0)
 - **Published:** July 24, 2026
 - **Languages:** en
 
-**[👉 Try it now →](https://youmind.com/gpt-image-2-prompts?id=29623)**
+**[👉 Try it now →](https://youmind.com/gpt-image-2-prompts?id=29722)**
 
 ---
 
-### No. 91: Product Marketing - Batch Product Poster Proposal Generator
+### No. 93: Product Marketing - Premium Skincare Campaign Poster Grid
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Description
+
+A professional skincare advertising prompt for creating a 2x2 grid of high-end product shots, each set in a distinct fantasy natural environment while maintaining brand consistency.
+
+#### 📝 Prompt
+
+```
+为海蓝之谜（La Mer）创建一个超高端的 2x2 四格护肤营销海报，保持绝对的品牌一致性，但呈现四个完全不同的梦幻自然环境。每个象限必须感觉像是一个独特的奇幻世界，拥有各自的生态特征、色彩氛围和电影感调性，同时这四个部分又必须明确归属于一个统一的 La Mer 视觉宇宙。产品在每个画格中必须是绝对的主角，并完美融入自然，仿佛生来如此。最终作品应呈现出世界级奢侈护肤品系列的高级感，以及像获奖电影画面般凝固的静态美学：超写实的产品摄影、精湛的环境叙事、优雅的自然互动、微妙的梦幻氛围以及收藏级的视觉打磨。采用精致的英文标题排版、含蓄的官方品牌标识，并在高级社论布局中使用极简的辅助文字。
+
+核心布局：
+采用严格的 2x2 四格构图，间距均衡，设计规范统一。每个画格必须包含一件 La Mer 核心产品，以视觉主导但环境融合的方式放置。产品绝不能感觉像是强行粘贴进去的，而必须通过光影、水分、反射、材质接触和构图互动，感觉完全沉浸在每个自然世界中。每个画格必须清晰地表达不同的环境身份，同时保持相同的奢华基调、产品比例逻辑和品牌连贯性。
+
+Milk Cloud Orbit + Cream Halo Transit 方向：
+进一步强化已确立的最强特质：增强四个不同自然世界之间的对比，精化海洋植物梦幻细节，并将整体视觉语言提升至电影级静物摄影的高度。保留同样的四环境骨架，但让每个画格感觉更像是一个获奖奇幻电影中完美定格的瞬间：更安静、更开阔、更有氛围感、更具情感共鸣。用更强大的电影化环境叙事、更好的深度分层、更自然的光线衰减以及产品周围更受控的视觉留白，取代任何通用的装饰性梦幻感。
+
+系列理念：
+四个画格应代表四个完全不同的迷人自然世界，每个都具有强烈的视觉对比和独特的生态特征，但所有画格都必须让人感到奢华、宁静、神奇，且带有鲜明的 La Mer 风格。每个环境必须独立讲述一个自然状态的故事：
+1. 潮湿的热带森林避风港；
+2. 清凉的海洋悬崖或潮池世界；
+3. 薄雾弥漫的月光苔藓森林；
+4. 晶莹剔透的海盐矿物植物世界。
+这四个世界在色彩、光影、纹理和氛围上必须各具特色，但都应传达出补水、修护、纯净和奢华的护肤语言。
+
+画格 1，热带森林避风港：
+将 La Mer 产品放置在温暖湿润的热带雨林林间空地的苔藓石块或天然底座上。周围环绕着优雅的热带叶片、过滤后的阳光、柔和的雾气、露水和郁郁葱葱的深绿色层次感。环境应感觉清新、湿润、阳光明媚，具有极高的自然丰富度。产品应通过柔和的水润光泽、叶片的构图环绕以及金绿色的反射光与环境互动。这个画格应感觉像是充满生机的热带雨林电影剧照中一个宁静的神圣时刻。
+
+画格 2，海洋悬崖或潮池世界：
+将 La Mer 产品放置在受潮池、海边悬崖、矿物岩石和海雾启发的清凉海洋环境中。产品可以放置在潮湿的海岩或升起的石块上，周围环绕着温和的海水、海霭、碎海玻璃、矿物水分和冷色调的蓝绿色反射。这个画格应感觉更具水感、通透、海风吹拂且富有电影感，就像清晨在偏远悬崖上捕捉到的画面。
+
+画格 3，月光苔藓森林：
+将 La Mer 产品放置在一个更黑暗、更神秘的梦幻苔藓森林中，背景为黄昏或月光下的薄暮。使用深绿黑色的苔藓、湿润的树皮、柔和发光的菌类装饰、微弱的漂浮颗粒、银蓝色的薄雾和宁静的阴影深度。产品应在较暗的环境中发出柔光，营造出一种夜间修护和秘密植物炼金术的感觉。这个画格应感觉像是奇幻故事片中一个隐秘的仪式场景。
+
+画格 4，晶莹剔透的海盐矿物植物世界：
+将 La Mer 产品放置在一个精致的梦幻环境中，海洋植物、半透明晶体、海盐矿物构造、湿润的花瓣和淡色发光的自然元素共同营造出一个更加空灵和珍贵的场景。产品应感觉像是从神圣的海洋植物祭坛中生长出来的。这个画格可能是四个画格中最崇高、最神奇的一个，带有微妙的珍珠、翡翠和海泡石色调，但它必须依然感觉优雅且富有电影感，而不是单纯的装饰。
+
+产品写实度：
+以极其执着的写实主义和奢侈材质保真度来呈现 La Mer 产品。展示准确的罐体或瓶身比例、精美的玻璃或面霜罐表面、抛光的瓶盖、极高清晰度的标签、洁净的反射和优雅的色调深度。在每个画格中，产品必须感觉纯净、昂贵且带有鲜明的 La Mer 品牌特征。它必须始终是每一格画面的色彩和构图中心。
+
+自然与产品的互动：
+在每个画格中，产品和环境必须积极地相互响应。利用石头上的水分、叶片的反射光、玻璃上捕捉到的海雾、触碰底座的苔藓、周围花瓣上的水珠、柔和的薄雾和微妙的自然构图框架。产品必须与周围的自然世界完全协调。这种关系必须感觉是电影般的、有机的，绝不是装饰性或人造的。
+
+水、雾和颗粒的真实感：
+以极端的写实感和优雅感呈现水、湿度、水滴、雾气和微粒。每个画格都应包含某种形式的大气水分或自然微粒，但要适应其自身的生态环境：雨林湿度、海浪喷溅、月光森林水汽、矿物薄雾或发光的水润微尘。效果必须感觉干净、高端且符合物理逻辑。保持它们的克制与电影感，仿佛在动作恢复前的静谧空气中暂停。
+
+光影：
+在所有四个画格中使用极其细腻、柔和的电影化照明，但要改变光线性质以匹配环境：
+1. 温暖的过滤雨林光线；
+2. 清凉的海洋日光薄霭；
+3. 昏暗的月光森林辉光；
+4. 淡雅的神圣矿物照明。
+所有照明必须保持奢华、柔和且高度受控。产品必须始终以极高的清晰度被照亮，而环境则支撑其氛围。每个画格应感觉像是精心构思的自然电影照明，而非影棚式的梦幻光效。
+
+电影级的深度与氛围：
+让每个画格感觉都像是获奖奇幻自然电影中的静态帧。使用更强的前景-中景-背景分离感、更自然的镜头焦深、受控的薄雾、大气的寂静感以及精心构图的留白区域。避免填满每个角
+```
+
+#### 🖼️ Generated Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1784968578766_h73rkw_HOAg40EakAAua5N.jpg" width="600" alt="Product Marketing - Premium Skincare Campaign Poster Grid - Image 1">
+</div>
+
+#### 📌 Details
+
+- **Author:** [Loriel.AI](https://x.com/ou_zhen599)
+- **Source:** [Twitter Post](https://x.com/ou_zhen599/status/2080699209632952468)
+- **Published:** July 24, 2026
+- **Languages:** en
+
+**[👉 Try it now →](https://youmind.com/gpt-image-2-prompts?id=29683)**
+
+---
+
+### No. 94: Product Marketing - Premium Lifestyle Studio Portrait
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Description
+
+A professional studio portrait prompt for a clean, commercial lifestyle aesthetic featuring an adult in smart-casual school-themed attire.
+
+#### 📝 Prompt
+
+```
+Create an ultra-realistic, premium lifestyle studio portrait of an {argument name="subject" default="adult"} standing in a relaxed, natural pose against a seamless {argument name="background color" default="warm gray"} studio background. The subject is smiling naturally while looking slightly upward and off-camera, conveying optimism, confidence, and approachability. The subject wears a layered casual-smart outfit consisting of an {argument name="clothing" default="olive green bomber jacket"} over a light beige hoodie, dark slim-fit jeans, and clean light gray high-top sneakers. A minimalist black backpack is worn over one shoulder, with one hand comfortably holding the shoulder strap while the other arm rests naturally by the side. Capture the subject from head to toe with balanced body proportions and realistic anatomy. Maintain a relaxed posture with feet comfortably apart and natural weight distribution. Use soft professional studio lighting with subtle shadows, producing even skin tones and gentle contrast. Preserve realistic skin texture, natural facial details, and authentic clothing fabric textures. The bomber jacket should have a matte finish, while the hoodie appears soft and slightly textured. Style the portrait like a premium commercial fashion campaign for a modern lifestyle or travel brand. Keep the composition clean and uncluttered with generous negative space around the subject. Photographed using a Sony A7R V with an 85mm f/1.8 lens, ultra-high resolution, HDR, shallow depth of field, razor-sharp focus, realistic color grading, magazine-quality editorial photography, 8K, highly detailed, photorealistic, professional commercial lighting. Aspect Ratio: 4:5 vertical.
+```
+
+#### 🖼️ Generated Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1784968561416_ksdr72_HOAdvz-XMAAjzw1.jpg" width="600" alt="Product Marketing - Premium Lifestyle Studio Portrait - Image 1">
+</div>
+
+#### 📌 Details
+
+- **Author:** [Abkr Sadiq](https://x.com/abs_uiux)
+- **Source:** [Twitter Post](https://x.com/abs_uiux/status/2080695759377149960)
+- **Published:** July 24, 2026
+- **Languages:** en
+
+**[👉 Try it now →](https://youmind.com/gpt-image-2-prompts?id=29666)**
+
+---
+
+### No. 95: Product Marketing - Minimalist Tonkotsu Ramen Commercial
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Description
+
+A professional commercial advertising prompt featuring a giant bowl of tonkotsu ramen and a fashionable subject against a clean, colorful background.
+
+#### 📝 Prompt
+
+```
+Minimalist commercial ad featuring an oversized premium {argument name="food item" default="Japanese ramen bowl"} with rich tonkotsu broth, handmade noodles, soft-boiled egg, chashu pork, green onions, nori seaweed, and sesame seeds, ultra-clean design. A fashionable young woman wearing an {argument name="outfit" default="elegant all-white outfit"} leans casually against the giant ramen bowl while holding chopsticks with noodles, relaxed confident pose, eyes closed. Soft {argument name="background" default="gradient deep orange background"} with large bold white “RAMEN” text behind. Glossy reflective floor, premium studio lighting, luxury food photography, ultra-realistic, 8K. Small top-right text “Designed by Mr Das”. Bottom center tagline in small white font: “Comfort served beautifully.”
+```
+
+#### 🖼️ Generated Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1784968613769_3mb41m_HOAVLrObcAAaDzl.jpg" width="600" alt="Product Marketing - Minimalist Tonkotsu Ramen Commercial - Image 1">
+</div>
+
+#### 📌 Details
+
+- **Author:** [Mr Das](https://x.com/MrDasOnX)
+- **Source:** [Twitter Post](https://x.com/MrDasOnX/status/2080686363628953804)
+- **Published:** July 24, 2026
+- **Languages:** en
+
+**[👉 Try it now →](https://youmind.com/gpt-image-2-prompts?id=29716)**
+
+---
+
+### No. 96: Product Marketing - Low-Angle Fashion Lookbook Style
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Description
+
+A stylish low-angle outdoor fashion portrait prompt for an East Asian woman, featuring golden hour lighting and an oversized blue shirt.
+
+#### 📝 Prompt
+
+```
+Low-angle fashion editorial shot of an {argument name="subject" default="East Asian woman"} with a {argument name="hairstyle" default="short black bob hairstyle"}, gazing upwards thoughtfully. She is wearing an oversized, loose {argument name="shirt color" default="light blue"} button-up shirt with an open collar. Warm golden hour sunlight creates soft shadows across her face and neck. Small gold hoop earrings. Minimalist modern architecture background under a clear sky. Cinematic photography, 35mm film grain, natural skin texture, depth of field, 8k resolution. Low-angle outdoor portrait of a stylish East Asian woman with a dark short bob, wearing an unbuttoned light blue cotton shirt, looking up toward the sky. Golden hour sunlight, subtle film grain, aesthetic fashion lookbook style, sharp focus. Make it in black and white and colour images
+```
+
+#### 🖼️ Generated Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1784968564841_28jrj1_HOAKIA5aAAAR8i1.jpg" width="600" alt="Product Marketing - Low-Angle Fashion Lookbook Style - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1784968564876_4ugtdk_HOAKIBNaYAAXyDt.jpg" width="600" alt="Product Marketing - Low-Angle Fashion Lookbook Style - Image 2">
+</div>
+
+#### 📌 Details
+
+- **Author:** [K](https://x.com/ChillaiKalan__)
+- **Source:** [Twitter Post](https://x.com/ChillaiKalan__/status/2080674173207322908)
+- **Published:** July 24, 2026
+- **Languages:** en
+
+**[👉 Try it now →](https://youmind.com/gpt-image-2-prompts?id=29669)**
+
+---
+
+### No. 97: Product Marketing - Premium Automotive Lifestyle Poster Layout
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Description
+
+A highly structured 6-panel layout prompt for the Chevrolet Camaro, designed to transform automotive products into a youthful lifestyle campaign with precise composition and realistic human-car interactions.
+
+#### 📝 Prompt
+
+```
+Create an ultra-premium 6-panel youth campaign poster for Chevrolet Camaro, fully preserving the exact editorial structure and youthful brand logic of a modern automotive lifestyle layout: a tall vertical poster with two large horizontal hero panels at the top and bottom, and four smaller lifestyle panels arranged in the middle section. The final artwork must feel energetic, stylish, youthful, premium, and globally campaign-ready, while keeping the Chevrolet Camaro as the absolute protagonist. The composition must combine hyper-real car photography, healthy athletic Western youth portraits, clean architectural space, and highly art-directed graphic balance. Use refined English title typography, subtle official-feeling Chevrolet branding, minimal English support text, and a consistent premium layout system across the whole poster.\n\nCore layout:\nUse a strict vertical 6-panel composition with:\n1. one large hero panel at the top,\n2. four smaller panels arranged in a clean 2x2 structure in the middle,\n3. one large hero panel at the bottom.\nThe whole poster must feel unified through one strong visual system: same color palette, same architectural location, same youthful fashion styling, same modern tone, and same brand language. The car must remain visually dominant throughout the entire composition, while the human figures add energy, scale, and youth culture presence.\n\nCritical realism constraints:\nHuman and car proportions must be fully correct in every panel. The people must have anatomically correct limbs, joints, torso length, head size, hand size, leg proportions, and natural standing or leaning balance. No body deformation, no broken anatomy, no warped perspective on the human figure. The Chevrolet Camaro must keep fully correct real-world proportions, body lines, wheel scale, roofline, hood length, glass shape, and stance. No distorted bodywork, no generic coupe shape, no wrong panel transitions. The people and the car must never intersect incorrectly: no body parts merging into doors, fenders, hood, wheels, windows, mirrors, or seats; no impossible leaning angles; no model clipping; no overlapping geometry errors; no character floating through the vehicle. Every human-car interaction must feel physically believable and spatially correct.\n\nMilk Cloud Orbit + Cream Halo Transit direction:\nPush the strongest established qualities further: make the Chevrolet Camaro more dominant in the top and bottom hero panels, and refine the middle four panels so they feel less repetitive and more editorial. Keep the exact 6-panel skeleton, but upgrade the internal rhythm: let two of the middle panels emphasize stylish cropped detail-and-attitude moments, while the other two retain more direct human-and-car interaction. The result should feel more layered, more premium, and more magazine-like, with the Camaro clearly acting as the central force of youth, style, and motion.\n\nCampaign concept:\nThe campaign should feel like a youth portrait of the Chevrolet Camaro lifestyle: freedom, confidence, energy, urban cool, style, and movement. The young people are not random models; they must feel like a coherent youthful cast linked by the same world. Their interactions with the car should feel natural, aspirational, stylish, and alive. The imagery should celebrate youth and the Camaro together, not treat the car as separate from the social energy around it.\n\nEnvironment:\nUse a clean modern architectural environment with strong graphic surfaces, large open urban space, steps, linear paving, bold walls, and geometric perspective lines. The location should feel contemporary, youthful, and premium, with enough visual structure to support the layout. The environment must stay clean and uncluttered, allowing the car and people to dominate. Strong color-blocked architectural planes are encouraged, especially with energetic but refined saturated tones.\n\nColor system:\nUse a youthful but premium color palette with bold saturated backgrounds and architectural surfaces, such as vivid red, magenta, electric coral, clean neutral stone, and metallic blue highlights. The Chevrolet Camaro itself should have a high-impact body color, such as electric blue, bright yellow, satin gray, or another bold performance color that works strongly against the environment. The entire poster must feel vibrant and youthful without becoming cheap or chaotic.\n\nTop hero panel:\nCreate a large top panel featuring the Chevrolet Camaro in a strong hero view with one stylish young person interacting directly with it. The car should feel more dominant and centered than before, sharply detailed and aspirational. The person may lean against the hood, sit casually near the front, or stand with relaxed confidence beside the car, but all body contact must be physically correct and anatomically believable. Add a bold English title and a short English support line in a refined promotional layout.\n\nMiddle four panels:\nCreate four smaller panels, each showing a different youth-and-Camaro interaction while preserving consistent styling and environment.\n- Panel A should focus on expressive youthful portraiture with part of the car visible.\n- Panel B should highlight a stylish body detail of the Camaro, such as headlights, side line, hood, or grille, with a figure interacting nearby.\n- Panel C should show a more social or playful relationship between young people and the vehicle, such as entering, leaning, walking past, or sharing a moment near the car.\n- Panel D should be more fashion-editorial, using a cropped part of the Camaro together with a strong youth pose, emphasizing attitude and design rhythm more than narrative.\nAll interactions must preserve correct scale and believable spatial separation between human and vehicle.\n\nBottom hero panel:\nCreate a large bottom panel that resolves the whole series with a wider lifestyle hero shot. Show the Chevrolet Camaro in a strong three-quarter or side-front view with one or two young people interacting around it in a relaxed, fashionable, confident way. The car must remain the center of gravity, while the youth presence reinforces energy and aspiration. Add another refined English campaign line and minimal branding placement in the same overall layout system. The bottom panel should feel slightly calmer and more conclusive, like the final statement of the series.\n\nPeople styling:\nUse healthy athletic Western young models with natural beauty, fashion-forward styling, and clean contemporary wardrobe choices. The styling should feel urban, elevated, and youthful without being overly luxury-runway. Avoid influencer stereotypes. The people must feel energetic, confident, modern, and naturally photogenic. Their gestures should feel candid yet art-directed.\n\nVehicle realism:\nRender the Chevrolet Camaro with extreme realism and premium automotive fidelity. Show accurate body proportions, paint depth, reflections, wheel detail, glass clarity, front-light signature, muscular surfaces, and strong coupe stance. The Camaro must feel unmistakable, powerful, modern, and aspirational. No generic sports coupe look.\n\nLighting:\nUse extremely delicate soft commercial lighting with cinematic polish. The lighting should be bright, youthful, and clean, with controlled reflections on the car paint and subtle sculpting on the people. Maintain the same lighting logic throughout the poster so the six panels feel like one unified campaign world. The light must feel premium and contemporary, ne
+```
+
+#### 🖼️ Generated Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1784968585861_1ic4x4_HOAH7PcboAAOHEw.jpg" width="600" alt="Product Marketing - Premium Automotive Lifestyle Poster Layout - Image 1">
+</div>
+
+#### 📌 Details
+
+- **Author:** [Loriel.AI](https://x.com/ou_zhen599)
+- **Source:** [Twitter Post](https://x.com/ou_zhen599/status/2080671762661212338)
+- **Published:** July 24, 2026
+- **Languages:** en
+
+**[👉 Try it now →](https://youmind.com/gpt-image-2-prompts?id=29691)**
+
+---
+
+### No. 98: Product Marketing - Cinematic Gothic Cathedral Portrait
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Description
+
+An ultra-realistic cinematic portrait of a subject in a dimly lit Gothic cathedral corridor with dramatic smoke and candlelight effects.
+
+#### 📝 Prompt
+
+```
+Create an ultra-realistic cinematic portrait using the uploaded image as the exact facial reference. Preserve the person’s identity with maximum accuracy, including facial features, face shape, hairstyle, beard, skin tone, eye structure, and natural expression. Do not alter the person’s age or recognizable appearance. The subject is standing in a {argument name="cathedral setting" default="dimly lit Gothic cathedral corridor with towering stone arches"}, ancient architecture, subtle blue ambient light entering through stained-glass windows, and warm candlelight illuminating the background. He is wearing a {argument name="outfit" default="premium black wool overcoat over a deep burgundy unbuttoned dress shirt"}, revealing a silver cross necklace. Grey tailored trousers, luxury wristwatch, black leather gloves, and a refined masculine appearance. The subject is looking downward while calmly {argument name="action" default="lighting a cigarette with a metal lighter"}. Natural smoke rises around the face, creating dramatic atmosphere. One hand holds the lighter close to the cigarette while the other rests naturally inside the coat pocket. Expression is serious, mysterious, confident, and emotionally restrained. Lighting is cinematic with soft Rembrandt lighting on the face, warm orange highlights from the flame contrasting with cool blue environmental light, volumetric light rays, realistic shadows, subtle rim lighting around the shoulders, premium movie-grade color grading, high dynamic range, realistic skin pores, sharp beard texture, detailed hair strands, photorealistic fabric textures, shallow depth of field, creamy bokeh, extremely realistic smoke simulation, luxury editorial fashion photography, dark moody aesthetic, 85mm lens, f/1.8, ultra-sharp focus, HDR, 8K, IMAX quality, hyper-realistic, masterpiece, award-winning photography.
+```
+
+#### 🖼️ Generated Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1784968568520_mkgeh4_HOABsvqa0AE5tEt.jpg" width="600" alt="Product Marketing - Cinematic Gothic Cathedral Portrait - Image 1">
+</div>
+
+#### 📌 Details
+
+- **Author:** [Aatif J](https://x.com/aatif_j)
+- **Source:** [Twitter Post](https://x.com/aatif_j/status/2080664904575451289)
+- **Published:** July 24, 2026
+- **Languages:** en
+
+**[👉 Try it now →](https://youmind.com/gpt-image-2-prompts?id=29675)**
+
+---
+
+### No. 99: Product Marketing - Premium KitKat UGC Advertisement Poster
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Description
+
+A comprehensive prompt for a high-converting, realistic Instagram-style UGC ad for KitKat, featuring an Indian creator in a modern home office.
+
+#### 📝 Prompt
+
+```
+KITKAT — PREMIUM UGC PRODUCT AD ROLE: Act as an award-winning UGC creative director, commercial food photographer, lifestyle cinematographer, FMCG brand strategist, and Meta performance advertising expert specializing in high-converting social media campaigns. ⸻ FORMAT 4:5 vertical Instagram advertisement hyper-realistic lifestyle photography premium UGC aesthetic native Instagram creator content luxury FMCG advertising 8K ultra-detail ⸻ CORE CONCEPT A genuine creator takes a well-earned break during a busy workday. The product isn’t being advertised. It’s naturally becoming part of the moment. The visual should instantly communicate relaxation, comfort, and indulgence. ⸻ SCENE Modern minimalist home office during golden hour. Warm sunlight streams through a large window onto a clean wooden desk. A partially open laptop, notebook, coffee mug, wireless earbuds, and a few everyday work essentials create a believable workspace. The creator has just paused work. One hand naturally reaches toward an opened KitKat while the other rests near the laptop. Several broken KitKat fingers lie casually beside the wrapper. Tiny chocolate crumbs reinforce realism. ⸻ SUBJECT Young Indian professional (22–30 years old) Natural expression. Small genuine smile. Comfortable relaxed posture. No eye contact with the camera. The moment should feel completely candid. ⸻ PRODUCT HERO Classic KitKat bar with perfectly readable packaging. Wrapper slightly opened. Chocolate texture crisp and detailed. Visible wafer layers on one broken finger. Subtle chocolate shine. Product remains the visual hero without looking artificially placed. ⸻ COMPOSITION Handheld creator perspective. Slightly imperfect framing. Foreground blur from coffee mug. Natural desk depth. Realistic layering. Balanced negative space for typography. ⸻ GRAPHIC DESIGN Premium creator-inspired overlays. Minimal rounded UI cards. Small “Coffee Break ☕” sticker. Tiny timestamp. Soft drop shadows. Clean Instagram-native design language. No excessive graphics. ⸻ TYPOGRAPHY Large headline: HAVE A BREAK. Supporting copy: Sometimes the best ideas start with five minutes away from your screen. CTA: Grab Your KitKat ⸻ COLOR PALETTE KitKat red Warm oak wood Cream whites Coffee browns Golden sunlight Natural skin tones Rich chocolate browns ⸻ LIGHTING Authentic golden-hour window light. Soft natural shadows. Warm indoor ambience. No studio flash. No artificial commercial lighting. Natural reflections on the chocolate. ⸻ CAMERA Shot as if captured on an iPhone 16 Pro. 26mm equivalent lens. Natural computational photography. Subtle depth of field. Realistic handheld perspective. Editorial food realism. ⸻ BRAND FEEL Official KitKat social campaign. Modern. Approachable. Comfort-first. Premium yet relatable. Feels like content shared by a lifestyle creator rather than a traditional advertisement. ⸻ NEGATIVE PROMPT Studio backdrop, product floating, fake splash effects, oversized chocolate pieces, plastic-looking food, unrealistic symmetry, excessive props, HDR look, AI-generated skin, cluttered workspace, exaggerated expressions, overdesigned graphics, stock-photo posing, unrealistic lighting, low-resolution textures, distorted packaging, unreadable logo.
+```
+
+#### 🖼️ Generated Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1784968601016_ti4bhj_HN_gvoFbcAE5Ppq.jpg" width="600" alt="Product Marketing - Premium KitKat UGC Advertisement Poster - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1784968601059_nggd1b_HN_gvoBbwAAAHV5.jpg" width="600" alt="Product Marketing - Premium KitKat UGC Advertisement Poster - Image 2">
+</div>
+
+#### 📌 Details
+
+- **Author:** [ᴍᴜʀᴘʜʏ](https://x.com/Diplomeme)
+- **Source:** [Twitter Post](https://x.com/Diplomeme/status/2080628672084705340)
+- **Published:** July 24, 2026
+- **Languages:** en
+
+**[👉 Try it now →](https://youmind.com/gpt-image-2-prompts?id=29703)**
+
+---
+
+### No. 100: Product Marketing - Cinematic Easthies Cosplay Portrait
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Description
+
+A photorealistic fantasy cosplay action portrait of Easthies-inspired witch knight attire above a sunset medieval city.
+
+#### 📝 Prompt
+
+```
+Create a cinematic live-action cosplay portrait of {argument name="character name" default="Easthies, vice-captain of the Knights Moralis from Witch Hat Atelier"} in a dramatic midair action pose above a sprawling medieval fantasy city at golden sunset. The character is an androgynous young adult with pale skin, sharp serious eyes, and long {argument name="hair color" default="black"} hair blown violently by the wind. They wear an ornate black military-style robe and fitted trousers under a flowing deep {argument name="cloak color" default="crimson red"} cloak with long ribbon-like tails, silver chest armor, layered shoulder plates, belts and straps, polished bracers, black boots, and a tall pointed red witch hat decorated with silver geometric panels and white wing-like ornaments. They grip a long vertical {argument name="staff type" default="golden staff"} with one hand raised high and the other low, as if descending or leaping into battle. Around them, add large sweeping white cloth ribbons forming elegant arcs and loops, plus loose red cape fabric streaming in multiple directions. The background shows rooftops, stone towers, and a distant cathedral-like structure in warm orange light, with mountains and glowing clouds near the horizon. Use a photorealistic high-fashion cosplay editorial style, dynamic low-angle composition, detailed costume craftsmanship, wind-swept fabric, dramatic rim lighting, shallow depth of field, rich warm color grading, and epic fantasy atmosphere. No text, no watermark, no extra characters.
+```
+
+#### 🖼️ Generated Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1784968630740_q665yc_HN_fezHaAAAZABR.jpg" width="600" alt="Product Marketing - Cinematic Easthies Cosplay Portrait - Image 1">
+</div>
+
+#### 📌 Details
+
+- **Author:** [カーブミラー](https://x.com/kabumira862571)
+- **Source:** [Twitter Post](https://x.com/kabumira862571/status/2080627281865687365#reversed-0)
+- **Published:** July 24, 2026
+- **Languages:** en
+
+**[👉 Try it now →](https://youmind.com/gpt-image-2-prompts?id=29736)**
+
+---
+
+### No. 101: E-commerce Main Image - Batch Product Poster Proposal Generator
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4634,19 +4959,19 @@ Please generate 8 different product poster schemes based on this product image. 
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1784882707415_lh6qhc_HN9ZlBCawAAg6PO.jpg" width="600" alt="Product Marketing - Batch Product Poster Proposal Generator - Image 1">
+<img src="https://cms-assets.youmind.com/media/1784882707415_lh6qhc_HN9ZlBCawAAg6PO.jpg" width="600" alt="E-commerce Main Image - Batch Product Poster Proposal Generator - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1784882706498_5l87tx_HN9ZlBDagAAU3pb.jpg" width="600" alt="Product Marketing - Batch Product Poster Proposal Generator - Image 2">
+<img src="https://cms-assets.youmind.com/media/1784882706498_5l87tx_HN9ZlBDagAAU3pb.jpg" width="600" alt="E-commerce Main Image - Batch Product Poster Proposal Generator - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1784882706464_vzylza_HN9ZlBCboAMDNLd.jpg" width="600" alt="Product Marketing - Batch Product Poster Proposal Generator - Image 3">
+<img src="https://cms-assets.youmind.com/media/1784882706464_vzylza_HN9ZlBCboAMDNLd.jpg" width="600" alt="E-commerce Main Image - Batch Product Poster Proposal Generator - Image 3">
 </div>
 
 #### 📌 Details
@@ -4660,249 +4985,7 @@ Please generate 8 different product poster schemes based on this product image. 
 
 ---
 
-### No. 92: Product Marketing - Fine Art Editorial Portrait Illustration
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Description
-
-A sophisticated prompt for generating high-fashion editorial portraits blending realism with abstract geometric sketches and fine art elements.
-
-#### 📝 Prompt
-
-```
-Create an ultra-realistic fine art editorial portrait of the same woman sitting gracefully on a minimalist chair in a peaceful pose with her eyes gently open. She wears a luxurious monochrome {argument name="outfit color" default="ivory-white"} outfit consisting of an oversized hooded jacket, relaxed jogger pants, and elegant white combat boots. Her hair is styled in a soft messy bun with a few delicate strands framing her face naturally.
-Behind and around her, create a large translucent artistic double-exposure silhouette of the same woman, appearing as if she is sketching or designing with a pencil. Blend the silhouette seamlessly with flowing hand-drawn graphite lines, {argument name="background elements" default="geometric construction sketches, architectural blueprints"}, crystalline glass shards, translucent polygons, floating fragments, and delicate teal-blue abstract shapes.
-The artwork should feel like imagination becoming reality, where thoughts transform into elegant geometric structures. Add subtle gold accents, ink splashes, fine pencil strokes, transparent glass textures, and floating particles. The background should remain clean matte white with abundant negative space, creating a premium museum-quality contemporary art aesthetic.
-Soft diffused daylight, high-key lighting, ultra-realistic skin texture, dreamy atmosphere, cinematic depth of field, luxury editorial fashion photography, abstract mixed-media illustration, crystal-inspired composition, masterpiece, award-winning contemporary art, 8K HDR, hyper-detailed, elegant color palette of white, soft teal, pale gray, and subtle gold, vertical {argument name="aspect ratio" default="9:16"}.
-Negative Prompt: altered face, different hairstyle, different expression, cartoon, anime, CGI, extra limbs, duplicate person, low quality, blurry, oversaturated colors, watermark, text, logo, bad anatomy, deformed hands, cropped body, dark background, unrealistic proportions.
-```
-
-#### 🖼️ Generated Images
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1784882691734_x9dv8h_HN8Qtj1bAAAc4vG.jpg" width="600" alt="Product Marketing - Fine Art Editorial Portrait Illustration - Image 1">
-</div>
-
-#### 📌 Details
-
-- **Author:** [Aatif J](https://x.com/aatif_j)
-- **Source:** [Twitter Post](https://x.com/aatif_j/status/2080399938278801700)
-- **Published:** July 23, 2026
-- **Languages:** en
-
-**[👉 Try it now →](https://youmind.com/gpt-image-2-prompts?id=29576)**
-
----
-
-### No. 93: Product Marketing - Premium Black and White Editorial Poster
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Description
-
-A high-contrast monochrome magazine cover prompt that preserves facial identity from a reference image with bold typography.
-
-#### 📝 Prompt
-
-```
-Create a premium black and white editorial poster using the uploaded image as the exact facial reference. Preserve the person’s identity, facial features, hairstyle, skin tone, and face shape accurately. Position the subject in a confident three-quarter side profile, looking slightly left, wearing {argument name="accessories" default="round black sunglasses"}, a {argument name="outerwear" default="black denim jacket"} over a plain white crew-neck T-shirt, with a calm, confident expression. The background is a deep matte black studio backdrop featuring the giant word “{argument name="background text" default="SNOW"}” in massive bold condensed white typography spanning nearly the entire canvas behind the subject. The letters should be partially hidden by the person’s head and shoulders to create depth and a premium magazine-cover aesthetic. Place the smaller text “SNOW” centered at the top in clean uppercase white typography with quotation marks. High-contrast monochrome grading, dramatic studio lighting, sharp jawline highlights, crisp hair texture, luxury fashion campaign style, minimalist composition, ultra-realistic skin details, subtle film grain, razor-sharp focus, shallow depth of field, premium typography layout, modern streetwear editorial, Vogue meets GQ aesthetic, cinematic 8K, IMAX quality, photorealistic, square 1:1 composition.
-```
-
-#### 🖼️ Generated Images
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1784882694555_lrr3na_HN8O5ylaQAEBkrn.jpg" width="600" alt="Product Marketing - Premium Black and White Editorial Poster - Image 1">
-</div>
-
-#### 📌 Details
-
-- **Author:** [Aatif J](https://x.com/aatif_j)
-- **Source:** [Twitter Post](https://x.com/aatif_j/status/2080397946550358078)
-- **Published:** July 23, 2026
-- **Languages:** en
-
-**[👉 Try it now →](https://youmind.com/gpt-image-2-prompts?id=29581)**
-
----
-
-### No. 94: Product Marketing - Luxury Studio Fashion Editorial
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Description
-
-A detailed prompt for generating high-fashion studio portraits of a couple with elegant styling and professional lighting.
-
-#### 📝 Prompt
-
-```
-Ultra-photorealistic high-fashion studio editorial featuring a stunning young woman and a handsome young man posing together in a luxury photography studio. They stand side by side with effortless chemistry, projecting confidence, elegance, and modern sophistication.
-The woman has long, voluminous {argument name="hair color" default="dark brown"} wavy hair, glowing skin, captivating hazel-green eyes, and wears subtle luxury editorial makeup. She is dressed in a perfectly tailored closed black blazer with matching high-waisted tailored trousers, complemented by bold round gold statement earrings, a refined gold bracelet, and sleek black pointed heels.
-The man has thick, styled dark hair, defined facial features, warm hazel-brown eyes, and light stubble. He wears a matching closed black tailored blazer with a black dress shirt underneath, tailored black trousers, polished black leather dress shoes, and a premium stainless-steel wristwatch.
-Their poses feel natural and editorial: the man stands slightly behind and beside the woman with one hand in his pocket while the woman confidently crosses one leg in front of the other with relaxed shoulders. Both look directly into the camera with calm, confident expressions, creating the feel of a luxury fashion campaign.
-Shot inside a premium photography studio with a seamless {argument name="backdrop color" default="charcoal-gray"} backdrop, dramatic yet soft key lighting, subtle rim lighting for separation, soft shadows, and flawless skin tones. Minimalist composition with no props, keeping the focus entirely on the models. Captured on a full-frame DSLR with an {argument name="lens" default="85mm"} lens, f/1.8, shallow depth of field, razor-sharp focus on both faces, cinematic color grading, premium Vogue editorial aesthetic, ultra-detailed textures, realistic fabric folds, natural skin pores, and 8K ultra-photorealistic quality.
-```
-
-#### 🖼️ Generated Images
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1784882692383_kbyc6u_HN7eTi1akAAco65.jpg" width="600" alt="Product Marketing - Luxury Studio Fashion Editorial - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1784882692354_efv6wy_HN7eU6baMAApvLF.jpg" width="600" alt="Product Marketing - Luxury Studio Fashion Editorial - Image 2">
-</div>
-
-#### 📌 Details
-
-- **Author:** [Johnn](https://x.com/john_my07)
-- **Source:** [Twitter Post](https://x.com/john_my07/status/2080344542885335240)
-- **Published:** July 23, 2026
-- **Languages:** en
-
-**[👉 Try it now →](https://youmind.com/gpt-image-2-prompts?id=29577)**
-
----
-
-### No. 95: Product Marketing - Luxury Silk and Gemstones
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Description
-
-An evocative prompt describing a vibrant explosion of colors where luxury fabric meets sparkling gemstones.
-
-#### 📝 Prompt
-
-```
-An explosion of colors, where royal {argument name="fabric" default="silk"} meets a cascade of {argument name="details" default="gemstones"}. Every thread whispers luxury, every sparkle tells a story.
-```
-
-#### 🖼️ Generated Images
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1784882722972_3v2f02_HN7M6VGakAAZl25.jpg" width="600" alt="Product Marketing - Luxury Silk and Gemstones - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1784882722925_oxhhk1_HN7MznZasAA2w5K.jpg" width="600" alt="Product Marketing - Luxury Silk and Gemstones - Image 2">
-</div>
-
-#### 📌 Details
-
-- **Author:** [AI Angel Neha](https://x.com/AIAngelNeha)
-- **Source:** [Twitter Post](https://x.com/AIAngelNeha/status/2080325407786860642)
-- **Published:** July 23, 2026
-- **Languages:** en
-
-**[👉 Try it now →](https://youmind.com/gpt-image-2-prompts?id=29615)**
-
----
-
-### No. 96: Product Marketing - Dark Glitch Romance Beauty Portrait
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Description
-
-Generates a moody vertical fashion magazine portrait of an East Asian woman receiving makeup in a dark retro editorial setting.
-
-#### 📝 Prompt
-
-```
-Create a vertical dark retro fashion magazine portrait of {argument name="character description" default="an adult East Asian woman with long straight black hair, wispy bangs, a few loose strands on her cheeks, delicate facial features, realistic skin texture, calm lazy slightly detached eyes"}. She is seated in a dim studio against a mottled charcoal-gray textured backdrop, framed from upper thighs to head, slightly right of center. Style the scene as a moody editorial beauty shoot with cinematic low-key lighting, soft shadows, muted colors, subtle film grain, and a gothic romantic atmosphere. She wears an oversized black blazer slipped off one shoulder over a black lace camisole with thin straps and a short black skirt; show collarbones and one bare shoulder tastefully. Her pose is quiet and composed: one hand holds a deep red lipstick near her parted lips, her gaze looks off to the side rather than into camera, expression neutral and serene. Include exactly 2 assistant hands entering the frame: one hand from the right applying blush to her cheek with a makeup brush, and one hand from the lower left holding an open round compact mirror or powder case in dark red. Add refined magazine typography overlays: large distressed serif title text {argument name="main title" default="GLITCH"} at upper left, widely spaced subtitle {argument name="subtitle" default="ROMANCE"} below it, a small barcode above the title, tiny text at upper right reading {argument name="upper right text" default="digital dissonance in a analog world ///"}, tiny text at lower left reading "when beauty breaks the algorithm", and lower right caption reading {argument name="lower right caption" default="// MORE THAN A PRETTY FACE"} with a faint glitch underline. Keep all typography subtle, ivory-gray, and integrated into the poster design. Photorealistic, high fashion, shallow depth of field, natural makeup, glossy red lips, no smile, no extra people or faces, no bright colors, no watermark.
-```
-
-#### 🖼️ Generated Images
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1784882731241_kz4g8v_HN6sM2TbUAAihBU.jpg" width="600" alt="Product Marketing - Dark Glitch Romance Beauty Portrait - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1784882731170_nzcwmr_HN6sM2TbgAAEglw.jpg" width="600" alt="Product Marketing - Dark Glitch Romance Beauty Portrait - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1784882731227_0r5irs_HN6sM2MaoAAXxpO.jpg" width="600" alt="Product Marketing - Dark Glitch Romance Beauty Portrait - Image 3">
-</div>
-
-##### Image 4
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1784882732237_vmi5yg_HN6sM2LbYAEbFt6.jpg" width="600" alt="Product Marketing - Dark Glitch Romance Beauty Portrait - Image 4">
-</div>
-
-#### 📌 Details
-
-- **Author:** [serein ｜买美股上币安](https://x.com/you1873118)
-- **Source:** [Twitter Post](https://x.com/you1873118/status/2080289427004526602#reversed-0)
-- **Published:** July 23, 2026
-- **Languages:** en
-
-**[👉 Try it now →](https://youmind.com/gpt-image-2-prompts?id=29620)**
-
----
-
-### No. 97: Product Marketing - Luxury Sedan Cinematic Portrait
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Description
-
-A highly detailed cinematic portrait prompt of a stylish man in a luxury vehicle with urban bokeh lighting.
-
-#### 📝 Prompt
-
-```
-Ultra-realistic cinematic portrait of a {argument name="subject" default="stylish young man"} sitting in the driver's seat of a sleek black luxury sedan with the window rolled down, wearing a {argument name="outfit" default="perfectly tailored black suit over a black turtleneck"}, black aviator sunglasses, and a premium stainless-steel wristwatch. He rests one hand on his chin in a confident, thoughtful pose, with a sharp fade haircut, voluminous textured hair, and a well-groomed beard. Luxury urban street in the background with modern buildings and warm bokeh lights, soft overcast daylight, shallow depth of field, natural skin texture, dramatic composition, premium lifestyle photography, 85mm lens, f/1.8, photorealistic, ultra-detailed, HDR, cinematic color grading, luxury fashion editorial, crisp focus, high contrast, 8K, masterpiece.
-```
-
-#### 🖼️ Generated Images
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1784882723071_zbvc89_HN6qyU4aEAEFJPA.jpg" width="600" alt="Product Marketing - Luxury Sedan Cinematic Portrait - Image 1">
-</div>
-
-#### 📌 Details
-
-- **Author:** [Muhammad Jamil](https://x.com/JamilAI55)
-- **Source:** [Twitter Post](https://x.com/JamilAI55/status/2080287995463414012)
-- **Published:** July 23, 2026
-- **Languages:** en
-
-**[👉 Try it now →](https://youmind.com/gpt-image-2-prompts?id=29567)**
-
----
-
-### No. 98: E-commerce Main Image - Luxury Emerald Green Product Photography
+### No. 102: E-commerce Main Image - Luxury Emerald Green Product Photography
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4942,7 +5025,7 @@ A luxury commercial product photography shot featuring a sleek {argument name="b
 
 ---
 
-### No. 99: E-commerce Main Image - Premium Black Headphones Product Photo
+### No. 103: E-commerce Main Image - Premium Black Headphones Product Photo
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4976,7 +5059,7 @@ Create a clean premium product photograph of {argument name="product" default="b
 
 ---
 
-### No. 100: E-commerce Main Image - Minimalist Product Promotional Poster
+### No. 104: E-commerce Main Image - Minimalist Product Promotional Poster
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5028,7 +5111,7 @@ Aspect Ratio: {argument name="aspect ratio" default="4:5"}.
 
 ---
 
-### No. 101: E-commerce Main Image - Premium Spice Jar Product Photo
+### No. 105: E-commerce Main Image - Premium Spice Jar Product Photo
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5062,7 +5145,7 @@ Create a photorealistic high-end commercial product advertisement for a transpar
 
 ---
 
-### No. 102: E-commerce Main Image - Sunlit Tea and Blood Orange Still Life
+### No. 106: E-commerce Main Image - Sunlit Tea and Blood Orange Still Life
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5096,7 +5179,7 @@ Create a quiet Hearth Hush still-life photograph on a warm beige stone counterto
 
 ---
 
-### No. 103: E-commerce Main Image - Professional Snack Packaging Mockup
+### No. 107: E-commerce Main Image - Professional Snack Packaging Mockup
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5130,7 +5213,7 @@ Design a professional packaging mockup for my {argument name="product type" defa
 
 ---
 
-### No. 104: E-commerce Main Image - Custom Figure Blister Pack
+### No. 108: E-commerce Main Image - Custom Figure Blister Pack
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5164,7 +5247,7 @@ Create a photorealistic product-style image of a collectible action figure seale
 
 ---
 
-### No. 105: E-commerce Main Image - Premium Iced Coffee Product Photography
+### No. 109: E-commerce Main Image - Premium Iced Coffee Product Photography
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5198,7 +5281,7 @@ premium {argument name="beverage" default="iced coffee"} product photo, glass, {
 
 ---
 
-### No. 106: E-commerce Main Image - Iced Caramel Latte Poster
+### No. 110: E-commerce Main Image - Iced Caramel Latte Poster
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5244,7 +5327,7 @@ Visual style: Hyper-realistic commercial food photography mixed with graphic adv
 
 ---
 
-### No. 107: E-commerce Main Image - Minimalist Blue Perfume Advertisement
+### No. 111: E-commerce Main Image - Minimalist Blue Perfume Advertisement
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5290,7 +5373,7 @@ Minimalist product advertisement featuring [{argument name="product" default="th
 
 ---
 
-### No. 108: E-commerce Main Image - Unbranded Luxury Perfume Bottle Poster
+### No. 112: E-commerce Main Image - Unbranded Luxury Perfume Bottle Poster
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5324,7 +5407,7 @@ unbranded transparent perfume bottle, one {argument name="flower type" default="
 
 ---
 
-### No. 109: E-commerce Main Image - Luxury Watch Alpine Advertising Board
+### No. 113: E-commerce Main Image - Luxury Watch Alpine Advertising Board
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5357,7 +5440,7 @@ Create an ultra-premium four-panel advertising campaign board for Vacheron Const
 
 ---
 
-### No. 110: E-commerce Main Image - Levitating Food Commercial Campaign
+### No. 114: E-commerce Main Image - Levitating Food Commercial Campaign
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5409,7 +5492,7 @@ Use the uploaded image as the primary reference and preserve the exact {argument
 
 ---
 
-### No. 111: E-commerce Main Image - Summer Girly Floral Mini Dress
+### No. 115: E-commerce Main Image - Summer Girly Floral Mini Dress
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5449,7 +5532,7 @@ Outfit: an {argument name="base color" default="ivory-white"} off-the-shoulder m
 
 ---
 
-### No. 112: E-commerce Main Image - Luxury Coffee Advertisement Photography
+### No. 116: E-commerce Main Image - Luxury Coffee Advertisement Photography
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5483,7 +5566,7 @@ Ultra-realistic premium coffee advertisement featuring a matte black ceramic cup
 
 ---
 
-### No. 113: E-commerce Main Image - Japanese Cat Carrier Product Ad
+### No. 117: E-commerce Main Image - Japanese Cat Carrier Product Ad
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5533,7 +5616,7 @@ Visual style: Premium Muji-like Japanese lifestyle advertising, airy spacing, so
 
 ---
 
-### No. 114: E-commerce Main Image - Feminine Y2K Ribbed Knit Dress
+### No. 118: E-commerce Main Image - Feminine Y2K Ribbed Knit Dress
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5573,19 +5656,19 @@ Outfit: a {argument name="color" default="dusty beige to pale pink-beige"} fitte
 
 ---
 
-### No. 115: E-commerce Main Image - Gothic Oversized Graphic Hoodie Outfit
+### No. 119: Game Asset - Premium Cinematic Character Identity Board
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Description
 
-A highly detailed fashion prompt for an oversized black longline hoodie with structural cutouts, a skeleton graphic, and platform stiletto shoes.
+A character identity board designed to establish a consistent cinematic identity for a specific character reference.
 
 #### 📝 Prompt
 
 ```
-Outfit: an oversized {argument name="color" default="black"} longline hooded sweatshirt in {argument name="material" default="medium-weight cotton-blend fleece"}, extending to the upper thighs with a broad relaxed body, a wide ribbed hem, and full-length loose sleeves worn completely down, featuring large structural open-shoulder cutouts on both sides that expose the shoulders by design rather than slipped styling, an integrated hood worn down behind the neck, a large {argument name="graphic" default="white generalized gothic graphic print"} centered on the chest depicting a skeleton inside an ornate oval frame, approximately four small silver-tone eyelets arranged vertically along one lower front side, and narrow black loop straps fixed near the side seams with hanging silver-tone D-ring hardware as integrated garment details, with no front buttons and no zipper, layered over black ultra-short shorts mostly hidden under the sweatshirt with only a frayed distressed hem visible below, paired with black ribbed mid-calf socks pulled up smoothly and black slouchy leg warmers or boot covers layered over the lower socks and around the shoe collars with heavy natural bunching at the ankles, each detailed with multiple black straps, silver-tone eyelets, and buckles kept fastened, and black leather-like chunky platform lace-up shoes with rounded voluminous toes, visible construction seams, and extremely thick black rubber soles, no bag, no hat, no visible jewelry, premium fabric texture, realistic garment construction, clean stitching, natural seam tension, believable fabric weight, subtle wrinkles, realistic drape, refined edge finishing, visible seams, real folds, well-made clothing details, high-quality material feel, detailed garment realism, realistic layered depth, believable fastening tension, natural fabric bunching, believable object contact, secure hardware placement, not costume-like, not cheap-looking.
+Create a 2:1 premium cinematic CHARACTER IDENTITY BOARD using {argument name="reference image" default="Image A"} as the sole character
 ```
 
 #### 🖼️ Generated Images
@@ -5593,217 +5676,57 @@ Outfit: an oversized {argument name="color" default="black"} longline hooded swe
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1784191469871_3vb0sy_HNCELfRakAIEMAI.jpg" width="600" alt="E-commerce Main Image - Gothic Oversized Graphic Hoodie Outfit - Image 1">
+<img src="https://cms-assets.youmind.com/media/1784968620363_4oflsf_HOA0NIMWgAEvAS7.jpg" width="600" alt="Game Asset - Premium Cinematic Character Identity Board - Image 1">
+</div>
+
+#### 📌 Details
+
+- **Author:** [Kōda](https://x.com/aimikoda)
+- **Source:** [Twitter Post](https://x.com/aimikoda/status/2080720517883973667)
+- **Published:** July 24, 2026
+- **Languages:** en
+
+**[👉 Try it now →](https://youmind.com/gpt-image-2-prompts?id=29724)**
+
+---
+
+### No. 120: Game Asset - Chibi Fantasy Axe Knight
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Description
+
+Generates a cute heroic chibi anime knight girl with ornate armor and an oversized battle axe for game character concept art.
+
+#### 📝 Prompt
+
+```
+Create a single full-body chibi anime fantasy warrior girl on a dark nearly black background with a faint dotted grid, rendered as a polished 3D/anime game character concept with clean white sticker-like outline around the silhouette. The character is {argument name="character name" default="an original chibi knight girl"}, standing in a dynamic combat-ready three-quarter pose facing slightly left, knees bent, both hands gripping an oversized ornate battle axe held diagonally across the body toward the left side of the canvas. She has {argument name="hair color" default="black"} twin-tail hair with voluminous curled pigtails, short bangs framing the face, small blue horn-like hair ornaments, golden amber eyes, a small serious expression, and youthful chibi proportions with a large head and compact body. Outfit: white tunic dress under silver plate armor, black undersuit sleeves, blue and black accent panels, gold trim, armored shoulder pauldrons, gauntlets, thigh and knee guards, chunky silver boots, and a long royal-blue side cape or skirt panel flowing to the right with a white fleur-de-lis emblem near the bottom. Weapon: exactly 1 huge double-headed fantasy axe, black and dark metal core with bright gold mechanical details, ivory-white outer blades, glowing warm amber circular center, angular decorative spikes, and a heavy game-ready silhouette. Use high-quality cel-shaded 3D illustration, crisp edges, soft studio lighting, subtle metallic reflections, detailed armor bevels, cute but heroic proportions, centered composition, no text, no watermark, no extra characters, no environment props.
+```
+
+#### 🖼️ Generated Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1784968632370_n378bx_HN_vtjhbMAAvN56.jpg" width="600" alt="Game Asset - Chibi Fantasy Axe Knight - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1784191469897_eecalf_HNCELfJaMAAgaH6.jpg" width="600" alt="E-commerce Main Image - Gothic Oversized Graphic Hoodie Outfit - Image 2">
+<img src="https://cms-assets.youmind.com/media/1784968632274_o0rzhw_HN_xAkOacAAiJBh.jpg" width="600" alt="Game Asset - Chibi Fantasy Axe Knight - Image 2">
 </div>
 
 #### 📌 Details
 
-- **Author:** [MoodLock｜AI画像の惜しいを直す](https://x.com/MoodLock_JP)
-- **Source:** [Twitter Post](https://x.com/MoodLock_JP/status/2076304766041481298)
-- **Published:** July 12, 2026
+- **Author:** [むつきりつ](https://x.com/mu2kiri2)
+- **Source:** [Twitter Post](https://x.com/mu2kiri2/status/2080654527385235605#reversed-0)
+- **Published:** July 24, 2026
 - **Languages:** en
 
-**[👉 Try it now →](https://youmind.com/gpt-image-2-prompts?id=28829)**
-
----
-
-### No. 116: E-commerce Main Image - Pink Cable Knit School Uniform
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Description
-
-A highly detailed fashion prompt for a feminine school-inspired look, featuring a dusty pink cropped cable-knit sweater, pleated skirt, and Mary Jane platform loafers.
-
-#### 📝 Prompt
-
-```
-Outfit: a {argument name="sweater color" default="pale dusty-pink to powder-pink"} cropped V-neck cable-knit pullover in a soft cotton- or wool-blend knit, featuring narrow vertical cable patterns across the body and full-length sleeves, ribbed V-neck edging, ribbed cuffs, and a wide ribbed hem worn fully untucked, unfolded, unknotted, and resting naturally at the waist, with no front buttons or zipper, layered over a white long-sleeve button-front shirt whose main placket remains concealed beneath the sweater with the exact button state left unspecified, featuring a large pointed collar spread neatly outside the V neckline and white cuffs extending visibly several centimeters beyond the sweater sleeves with their hidden cuff fastening left unspecified, plus a medium-gray subtle plaid necktie tied beneath the collar with a compact centered knot and one broad long blade hanging freely over the front of the sweater without being tucked or loosened, paired with a {argument name="skirt color" default="heather-gray"} high-waisted pleated mini skirt in structured wool-like woven fabric, featuring a wide smooth waistband and broad box or knife pleats falling freely without being tucked, lifted, or folded, with the hidden skirt closure left unspecified, secured by a fixed narrow black leather-like belt threaded horizontally through the skirt’s belt loops and fastened at the exact center front with a rounded rectangular silver-tone buckle, plus a small gold-tone teddy-bear-shaped brooch pinned securely and forward-facing against one upper-chest side of the pink sweater rather than worn on the body, sheer black thigh-high stockings pulled smoothly to the mid-to-upper thighs with wide opaque top bands worn flat without folding, rolling, or slouching, generated black leather-like platform Mary Jane loafers with rounded toes, slim instep straps fastened with small silver-tone buckles, moderate chunky soles, and clean rubber outsoles, and a partially visible small structured black leather-like handbag with a narrow short handle looped around one wrist so the bag hangs downward beside the hip, with its obscured body construction and closure left unspecified, no hat, no additional jewelry, premium fabric texture, realistic garment construction, clean stitching, natural seam tension, believable knit and skirt weight, subtle wrinkles, realistic drape, refined edge finishing, visible seams, real folds, well-made clothing details, high-quality material feel, detailed garment realism, realistic layered depth, believable tie-knot and belt tension, natural cuff overlap, believable object contact, secure brooch and buckle placement, not costume-like, not cheap-looking.
-```
-
-#### 🖼️ Generated Images
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1784104929299_bj6lcq_HNBkl-vaQAApoRt.jpg" width="600" alt="E-commerce Main Image - Pink Cable Knit School Uniform - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1784104929337_916r6k_HNBkl-tbgAAh6zN.jpg" width="600" alt="E-commerce Main Image - Pink Cable Knit School Uniform - Image 2">
-</div>
-
-#### 📌 Details
-
-- **Author:** [MoodLock｜AI画像の惜しいを直す](https://x.com/MoodLock_JP)
-- **Source:** [Twitter Post](https://x.com/MoodLock_JP/status/2076270037023981976)
-- **Published:** July 12, 2026
-- **Languages:** en
-
-**[👉 Try it now →](https://youmind.com/gpt-image-2-prompts?id=28738)**
-
----
-
-### No. 117: Game Asset - Celestial Mechanical Dragon Observatory
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Description
-
-Generates an epic fantasy sci-fi scene of a colossal armored dragon manipulating holographic star maps in a glowing cosmic observatory.
-
-#### 📝 Prompt
-
-```
-Create an ultra-detailed cinematic fantasy sci-fi illustration of a colossal {argument name="dragon type" default="mechanical celestial dragon"} inside a vast cosmic arcane observatory. The dragon dominates the frame from chest up, facing slightly left, with a long angular head, crown-like jagged horns, layered black gunmetal and silver armor scales, razor crystalline spines, clawed hands, and enormous partially spread wings made of sharp metallic feathers and translucent gold-lit crystal shards. A brilliant circular golden reactor or magical core glows in the center of its chest, with intricate clockwork rings and filigree around it. The dragon raises its left claw toward a floating translucent holographic blueprint panel filled with star-map lines and architectural diagrams, while its right claw hovers over a delicate golden astrolabe platform. Surround it with exactly 6 major floating magical interface elements: 2 translucent rectangular blueprint screens, 3 circular astrolabe or constellation diagrams, and 1 suspended ornate mechanical sphere. The environment is a grand celestial workshop with reflective dark stone floors, golden rails, miniature cathedral-like spires, armillary spheres, thin towers, and tiny robed humanoid figures for scale. The background is a deep starry night sky filled with glowing constellation networks, orbital rings, sacred geometry circles, sparks, and radiant gold light beams. Visual style: hyperrealistic epic concept art, baroque clockwork design, obsidian black, polished silver, warm gold, electric white-blue holograms, extremely high detail, dramatic rim lighting, volumetric glow, sharp focus, grand vertical composition, awe-inspiring scale, no text, no watermark.
-```
-
-#### 🖼️ Generated Images
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1784882738936_2whl3l_HN8xCVeawAAht1V.jpg" width="600" alt="Game Asset - Celestial Mechanical Dragon Observatory - Image 1">
-</div>
-
-#### 📌 Details
-
-- **Author:** [tane@AI](https://x.com/gin1910410)
-- **Source:** [Twitter Post](https://x.com/gin1910410/status/2080435479959548283#reversed-0)
-- **Published:** July 23, 2026
-- **Languages:** en
-
-**[👉 Try it now →](https://youmind.com/gpt-image-2-prompts?id=29631)**
-
----
-
-### No. 118: Game Asset - Fantasy Crab Boss Battle UI
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Description
-
-Generates a cinematic JRPG battle screen with three heroes fighting a giant crab boss and a complete fantasy game UI overlay.
-
-#### 📝 Prompt
-
-```
-Goal: Create a dramatic fantasy JRPG / social-mobile-game boss battle screenshot featuring a party fighting a gigantic crab monster casting a beam attack.
-
-Canvas: Wide 16:9 cinematic game battle screen, high-detail anime-realistic fantasy art, dark blue night palette with vivid cyan magic, orange sparks, explosions, rubble, and strong bloom lighting.
-
-Scene: A ruined rocky battlefield under a stormy night sky, with broken stone pillars and burning ruins in the background. Floating debris, embers, lightning-like magical energy, and smoke fill the air. The camera is low and slightly behind the heroes, looking toward the enormous boss.
-
-Boss: A colossal armored crab enemy dominates the upper-right and center of the scene. It has exactly 2 huge raised claws, multiple segmented legs, a hard blue-brown shell, glowing highlights, and an intimidating face. The boss is firing a brilliant cyan-white magical beam from a glowing orb between its claws down toward the heroes, creating a massive impact flare at the center.
-
-Heroes: Show exactly 3 playable characters in the foreground, all facing the crab boss. 1) KAITO, a dark-haired male swordsman in armor, center-left, bracing with a glowing sword against the beam. 2) RINA, a long dark-haired female mage or support fighter, center-right, holding a staff or wand with green-blue magic. 3) YUNA, a blonde female mage in a flowing blue robe, far left, holding a staff and casting a protective blue barrier around the party. Make the party look strong and heroic, like a premium gacha RPG battle scene.
-
-User interface: Add a polished fantasy RPG battle UI overlay. Top-left boss panel contains a small crab portrait icon, the label “BOSS : ENEMY”, the boss name “{argument name="boss name" default="アビサル・クロウ"} Lvl 68”, a long red/orange HP bar, and the HP text “1,450,000/1,450,000 HP”. Bottom-left party status panel lists exactly 3 character rows with portraits, names, levels, HP, MP, and colored bars: “{argument name="hero one name" default="KAITO"} Lvl 65 HP 4820/5500 MP 120/120”, “{argument name="hero two name" default="RINA"} Lvl 63 HP 3550/3900 MP 280/300”, and “{argument name="hero three name" default="YUNA"} Lvl 62 HP 3800/4000 MP 310/320”. Right side command menu contains exactly 5 stacked beveled buttons labeled ATTACK, SKILL, ITEM, DEFEND, OVERDRIVE, with ATTACK highlighted in orange. Above the command menu, add the small location label “岩の廃墟”. Bottom-center attack name plaque with ornate gold trim displays “{argument name="attack name" default="蟹光線"}”.
-
-Visual style: Highly polished AAA anime fantasy illustration, sharp character silhouettes, cinematic action composition, intense motion, volumetric light, magical particles, reflective armor, detailed crab texture, ornate gold UI frames, crisp readable text, no watermark, no extra characters, no extra menu options.
-```
-
-#### 🖼️ Generated Images
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1784882741764_38xgkx_HN67aJbbgAE26MV.jpg" width="600" alt="Game Asset - Fantasy Crab Boss Battle UI - Image 1">
-</div>
-
-#### 📌 Details
-
-- **Author:** [まろちん](https://x.com/neru_marosama)
-- **Source:** [Twitter Post](https://x.com/neru_marosama/status/2080306424153010492#reversed-0)
-- **Published:** July 23, 2026
-- **Languages:** en
-
-**[👉 Try it now →](https://youmind.com/gpt-image-2-prompts?id=29635)**
-
----
-
-### No. 119: Game Asset - The Apothecary Diaries Character Group
-
-![Language-JA](https://img.shields.io/badge/Language-JA-blue)
-
-#### 📖 Description
-
-A structured prompt for generating multiple characters from The Apothecary Diaries with specific color-coded outfits.
-
-#### 📝 Prompt
-
-```
-AI Cosplay
-'The Apothecary Diaries'
-Characters:
-Green clothes = Maomao (Main Character)
-Red clothes = Consort Gyokuyou
-Blue clothes = Consort Lihua
-Purple clothes = Consort Ah-Duo
-Peach clothes = Consort Lishu
-```
-
-#### 🖼️ Generated Images
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1784882709288_af0fqr_HN6bpDSaYAAksTY.jpg" width="600" alt="Game Asset - The Apothecary Diaries Character Group - Image 1">
-</div>
-
-#### 📌 Details
-
-- **Author:** [カーブミラー](https://x.com/kabumira862571)
-- **Source:** [Twitter Post](https://x.com/kabumira862571/status/2080271219329503387)
-- **Published:** July 23, 2026
-- **Languages:** ja
-
-**[👉 Try it now →](https://youmind.com/gpt-image-2-prompts?id=29596)**
-
----
-
-### No. 120: Game Asset - Itasha Wagon Car Design
-
-![Language-JA](https://img.shields.io/badge/Language-JA-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Description
-
-A variation of the itasha design prompt specifically optimized for wagon-style vehicles in GPT-image-2.
-
-#### 📝 Prompt
-
-```
-Turn the world of {argument name="illustration" default="your"} illustration into an itasha wagon full of love
-```
-
-#### 🖼️ Generated Images
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1784882710184_itshsy_HN44KI6bkAAgpsm.jpg" width="600" alt="Game Asset - Itasha Wagon Car Design - Image 1">
-</div>
-
-#### 📌 Details
-
-- **Author:** [ぽちいな](https://x.com/pochiina)
-- **Source:** [Twitter Post](https://x.com/pochiina/status/2080161830107021720)
-- **Published:** July 23, 2026
-- **Languages:** ja
-
-**[👉 Try it now →](https://youmind.com/gpt-image-2-prompts?id=29597)**
+**[👉 Try it now →](https://youmind.com/gpt-image-2-prompts?id=29737)**
 
 ---
 
@@ -5813,7 +5736,7 @@ Turn the world of {argument name="illustration" default="your"} illustration int
 
 <div align="center">
 
-### 🎯 13543 more prompts not shown here
+### 🎯 13623 more prompts not shown here
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -5876,6 +5799,6 @@ Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-gpt-image-2/issues/new?template=submit-prompt.yml)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-gpt-image-2)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-07-25T01:30:05.918Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-07-25T12:57:49.215Z</sub>
 
 </div>
