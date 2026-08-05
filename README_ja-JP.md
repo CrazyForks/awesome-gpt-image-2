@@ -141,7 +141,7 @@ Raycast で使用すると、引数を動的に置き換えて迅速に反復で
 |--------|-------|
 | 📝 プロンプト総数 | **14394** |
 | ⭐ おすすめ | **6** |
-| 🔄 最終更新 | **2026年8月4日火曜日 13:44:30 UTC** |
+| 🔄 最終更新 | **2026年8月5日水曜日 1:27:18 UTC** |
 
 </div>
 
@@ -6110,6 +6110,6 @@ The gallery features:
 **[📝 プロンプトを提出](https://github.com/YouMind-OpenLab/awesome-gpt-image-2/issues/new?template=submit-prompt.yml)** •
 **[⭐ このリポジトリにスターを付ける](https://github.com/YouMind-OpenLab/awesome-gpt-image-2)**
 
-<sub>🤖 この README は自動生成されています。最終更新： 2026-08-04T13:44:30.642Z</sub>
+<sub>🤖 この README は自動生成されています。最終更新： 2026-08-05T01:27:18.367Z</sub>
 
 </div>
