@@ -139,9 +139,9 @@ Bei Verwendung in Raycast können Sie die Argumente dynamisch ersetzen, um schne
 
 | Metrik | Anzahl |
 |--------|-------|
-| 📝 Gesamtanzahl Prompts | **14394** |
+| 📝 Gesamtanzahl Prompts | **14393** |
 | ⭐ Ausgewählt | **6** |
-| 🔄 Zuletzt aktualisiert | **Mittwoch, 5. August 2026 um 01:27:52 UTC** |
+| 🔄 Zuletzt aktualisiert | **Mittwoch, 5. August 2026 um 13:41:06 UTC** |
 
 </div>
 
@@ -6045,7 +6045,7 @@ Einschränkungen: Verwenden Sie genau 3 Ansichten und keine zusätzlichen Charak
 
 <div align="center">
 
-### 🎯 14274 weitere Prompts hier nicht angezeigt
+### 🎯 14273 weitere Prompts hier nicht angezeigt
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -6108,6 +6108,6 @@ Lizenziert unter [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[📝 Prompt einreichen](https://github.com/YouMind-OpenLab/awesome-gpt-image-2/issues/new?template=submit-prompt.yml)** •
 **[⭐ Dieses Repository mit Stern markieren](https://github.com/YouMind-OpenLab/awesome-gpt-image-2)**
 
-<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-08-05T01:27:52.993Z</sub>
+<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-08-05T13:41:06.519Z</sub>
 
 </div>

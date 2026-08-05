@@ -139,9 +139,9 @@ by {argument name="author" default="Steve Jobs"}
 
 | Métrica | Cantidad |
 |--------|-------|
-| 📝 Total de prompts | **14394** |
+| 📝 Total de prompts | **14393** |
 | ⭐ Destacado | **6** |
-| 🔄 Última actualización | **miércoles, 5 de agosto de 2026, 1:27:48 a.m. UTC** |
+| 🔄 Última actualización | **miércoles, 5 de agosto de 2026, 1:41:00 p.m. UTC** |
 
 </div>
 
@@ -6047,7 +6047,7 @@ Restricciones: Usa exactamente 3 vistas y ningún personaje adicional. Mantén l
 
 <div align="center">
 
-### 🎯 14274 prompts más no mostrados aquí
+### 🎯 14273 prompts más no mostrados aquí
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -6110,6 +6110,6 @@ Licenciado bajo [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[📝 Enviar un prompt](https://github.com/YouMind-OpenLab/awesome-gpt-image-2/issues/new?template=submit-prompt.yml)** •
 **[⭐ Dar estrella a este repositorio](https://github.com/YouMind-OpenLab/awesome-gpt-image-2)**
 
-<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-08-05T01:27:48.400Z</sub>
+<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-08-05T13:41:00.291Z</sub>
 
 </div>

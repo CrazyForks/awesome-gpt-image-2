@@ -139,9 +139,9 @@ Raycast में उपयोग करते समय, आप त्वरि
 
 | मीट्रिक | गिनती |
 |--------|-------|
-| 📝 कुल प्रॉम्पट्स | **14394** |
+| 📝 कुल प्रॉम्पट्स | **14393** |
 | ⭐ विशेष | **6** |
-| 🔄 अंतिम अपडेट | **बुधवार, 5 अगस्त 2026 को 1:27:40 am UTC बजे** |
+| 🔄 अंतिम अपडेट | **बुधवार, 5 अगस्त 2026 को 1:40:46 pm UTC बजे** |
 
 </div>
 
@@ -6047,7 +6047,7 @@ Musang King Durian पोस्टर के लिए एक कमर्शि
 
 <div align="center">
 
-### 🎯 14274 और प्रॉम्पट्स यहां नहीं दिखाए गए हैं
+### 🎯 14273 और प्रॉम्पट्स यहां नहीं दिखाए गए हैं
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -6110,6 +6110,6 @@ The gallery features:
 **[📝 एक प्रॉम्पट जमा करें](https://github.com/YouMind-OpenLab/awesome-gpt-image-2/issues/new?template=submit-prompt.yml)** •
 **[⭐ इस रिपॉजिटरी को स्टार करें](https://github.com/YouMind-OpenLab/awesome-gpt-image-2)**
 
-<sub>🤖 यह README स्वचालित रूप से जेनरेट किया गया है। अंतिम अपडेट: 2026-08-05T01:27:40.195Z</sub>
+<sub>🤖 यह README स्वचालित रूप से जेनरेट किया गया है। अंतिम अपडेट: 2026-08-05T13:40:46.829Z</sub>
 
 </div>

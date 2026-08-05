@@ -139,9 +139,9 @@ Raycast에서 사용하면 인수를 동적으로 교체하여 빠르게 반복�
 
 | 지표 | 수 |
 |--------|-------|
-| 📝 총 프롬프트 수 | **14394** |
+| 📝 총 프롬프트 수 | **14393** |
 | ⭐ 추천 | **6** |
-| 🔄 마지막 업데이트 | **2026년 8월 5일 수요일 AM 1시 27분 23초 UTC** |
+| 🔄 마지막 업데이트 | **2026년 8월 5일 수요일 PM 1시 40분 23초 UTC** |
 
 </div>
 
@@ -6043,7 +6043,7 @@ masterpiece, best quality, ultra detailed, highly detailed, fantasy illustration
 
 <div align="center">
 
-### 🎯 14274 여기에 표시되지 않은 더 많은 프롬프트가 있습니다
+### 🎯 14273 여기에 표시되지 않은 더 많은 프롬프트가 있습니다
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -6106,6 +6106,6 @@ The gallery features:
 **[📝 프롬프트 제출](https://github.com/YouMind-OpenLab/awesome-gpt-image-2/issues/new?template=submit-prompt.yml)** •
 **[⭐ 이 저장소에 스타 추가](https://github.com/YouMind-OpenLab/awesome-gpt-image-2)**
 
-<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-08-05T01:27:23.739Z</sub>
+<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-08-05T13:40:23.885Z</sub>
 
 </div>

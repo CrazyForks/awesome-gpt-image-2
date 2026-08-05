@@ -139,9 +139,9 @@ by {argument name="author" default="Steve Jobs"}
 
 | เมตริก | จำนวน |
 |--------|-------|
-| 📝 คำสั่งทั้งหมด | **14394** |
+| 📝 คำสั่งทั้งหมด | **14393** |
 | ⭐ แนะนำ | **6** |
-| 🔄 อัปเดตล่าสุด | **วันพุธที่ 5 สิงหาคม พ.ศ. 2569 เวลา 1 นาฬิกา 27 นาที 29 วินาที UTC** |
+| 🔄 อัปเดตล่าสุด | **วันพุธที่ 5 สิงหาคม พ.ศ. 2569 เวลา 13 นาฬิกา 40 นาที 30 วินาที UTC** |
 
 </div>
 
@@ -6055,7 +6055,7 @@ Full-body composition, vertical portrait, editorial magazine style, luxury fashi
 
 <div align="center">
 
-### 🎯 14274 คำสั่งเพิ่มเติมที่ไม่ได้แสดงที่นี่
+### 🎯 14273 คำสั่งเพิ่มเติมที่ไม่ได้แสดงที่นี่
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -6118,6 +6118,6 @@ The gallery features:
 **[📝 ส่งคำสั่ง](https://github.com/YouMind-OpenLab/awesome-gpt-image-2/issues/new?template=submit-prompt.yml)** •
 **[⭐ ให้ดาวกับที่เก็บนี้](https://github.com/YouMind-OpenLab/awesome-gpt-image-2)**
 
-<sub>🤖 README นี้ถูกสร้างขึ้นโดยอัตโนมัติ อัปเดตล่าสุด: 2026-08-05T01:27:29.678Z</sub>
+<sub>🤖 README นี้ถูกสร้างขึ้นโดยอัตโนมัติ อัปเดตล่าสุด: 2026-08-05T13:40:30.943Z</sub>
 
 </div>

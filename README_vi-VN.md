@@ -139,9 +139,9 @@ Khi sử dụng trong Raycast, bạn có thể thay thế động các đối s�
 
 | Chỉ số | Số lượng |
 |--------|-------|
-| 📝 Tổng số câu lệnh | **14394** |
+| 📝 Tổng số câu lệnh | **14393** |
 | ⭐ Nổi bật | **6** |
-| 🔄 Cập nhật lần cuối | **lúc 01:27:34 UTC Thứ Tư, 5 tháng 8, 2026** |
+| 🔄 Cập nhật lần cuối | **lúc 13:40:37 UTC Thứ Tư, 5 tháng 8, 2026** |
 
 </div>
 
@@ -6043,7 +6043,7 @@ Ràng buộc: Sử dụng chính xác 3 góc nhìn và không thêm nhân vật 
 
 <div align="center">
 
-### 🎯 14274 câu lệnh khác không hiển thị ở đây
+### 🎯 14273 câu lệnh khác không hiển thị ở đây
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -6106,6 +6106,6 @@ Xem [CONTRIBUTING.md](docs/CONTRIBUTING.md) để biết hướng dẫn chi ti�
 **[📝 Gửi một câu lệnh](https://github.com/YouMind-OpenLab/awesome-gpt-image-2/issues/new?template=submit-prompt.yml)** •
 **[⭐ Đánh dấu sao cho kho lưu trữ này](https://github.com/YouMind-OpenLab/awesome-gpt-image-2)**
 
-<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-08-05T01:27:34.964Z</sub>
+<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-08-05T13:40:37.980Z</sub>
 
 </div>
